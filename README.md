@@ -1,33 +1,33 @@
 # carsjson
 
-Готовая статическая сборка CarsJSON: JSON API марок и моделей автомобилей, логотипы в WebP и сайт с документацией.
+The ready-to-publish static build of CarsJSON: a JSON API for car brands and models, WebP brand logos, and a documentation website.
 
-Репозиторий содержит файлы для публикации. Для работы не нужны Node.js, база данных, серверное приложение или API-ключ. Количество записей, версия данных и время сборки указаны в [`v1/meta.json`](v1/meta.json).
+This repository contains the files needed for deployment. No Node.js runtime, database, server application, or API key is required. Record counts, the data version, and the build timestamp are available in [`v1/meta.json`](v1/meta.json).
 
-## Содержимое
+## Contents
 
-| Путь | Описание |
+| Path | Description |
 | --- | --- |
-| `index.html`, `assets/` | Сайт с документацией |
-| `v1/brands.json` | Все марки автомобилей |
-| `v1/brands/{brand_slug}/models.json` | Модели выбранной марки |
-| `v1/all.json` | Полный каталог: `{ "brands": [...], "models": [...] }` |
-| `v1/meta.json` | Версия схемы, хеш данных, время сборки и количество записей |
-| `logos/` | Логотипы марок в формате WebP |
-| `openapi.json` | Спецификация OpenAPI |
-| `llms.txt` | Краткая документация для AI-инструментов |
+| `index.html`, `assets/` | Documentation website |
+| `v1/brands.json` | All car brands |
+| `v1/brands/{brand_slug}/models.json` | Models for a specific brand |
+| `v1/all.json` | Complete catalog: `{ "brands": [...], "models": [...] }` |
+| `v1/meta.json` | Schema version, data hash, build timestamp, and record counts |
+| `logos/` | Brand logos in WebP format |
+| `openapi.json` | OpenAPI specification |
+| `llms.txt` | Concise documentation for AI tools |
 
-`brand_slug` — идентификатор марки в нижнем регистре, например `bmw`, `abarth` или `alfa_romeo`.
+`brand_slug` is the brand ID in lowercase, for example `bmw`, `abarth`, or `alfa_romeo`.
 
-## Локальный запуск
+## Run locally
 
-Из корня репозитория, при установленном Python 3:
+With Python 3 installed, run the following from the repository root:
 
 ```sh
 python3 -m http.server 4173 --bind 127.0.0.1
 ```
 
-Откройте <http://localhost:4173>. Пример запроса:
+Open <http://localhost:4173>. Example request:
 
 ```js
 const response = await fetch('http://localhost:4173/v1/brands/bmw/models.json');
@@ -36,21 +36,21 @@ const models = await response.json();
 console.log(models);
 ```
 
-Этот пример можно выполнить в консоли страницы локального сайта. При размещении на хостинге замените `http://localhost:4173` на адрес сайта.
+You can run this example in the browser console on the local website. After deployment, replace `http://localhost:4173` with your site's URL.
 
-## Особенности данных
+## Data notes
 
-- Марки содержат `id`, `name`, `cyrillic_name`, `year_from`, `year_to` и `logo`.
-- Модели содержат `id`, `name`, `cyrillic_name`, `year_from`, `year_to`, `brand_id` и `nameplates`.
-- Модель определяется парой `brand_id` + `id`.
-- Отсутствующие годы представлены значением `null`. Диапазон лет сам по себе не подтверждает, что автомобиль сейчас выпускается.
-- Пути логотипов начинаются от корня сайта, например `/logos/bmw.webp`.
-- `generated_at` — время сборки, а не дата получения исходных данных. `data_version` — SHA-256 хеш публичных данных и логотипов.
+- Brands contain `id`, `name`, `cyrillic_name`, `year_from`, `year_to`, and `logo`.
+- Models contain `id`, `name`, `cyrillic_name`, `year_from`, `year_to`, `brand_id`, and `nameplates`.
+- A model is identified by the pair `brand_id` + `id`.
+- Missing years are represented as `null`. A year range alone does not confirm that a vehicle is currently in production.
+- Logo paths start at the site root, for example `/logos/bmw.webp`.
+- `generated_at` is the build time, not the date the source data was collected. `data_version` is a SHA-256 hash of the public data and logos.
 
-## Размещение и обновление
+## Deployment and updates
 
-Размещайте содержимое репозитория в корне статического сайта: пути к API и ресурсам абсолютные, начиная с `/`. Дополнительная сборка не требуется.
+Deploy the repository contents at the root of a static website: API and asset paths are absolute, starting with `/`. No additional build step is required.
 
-Файл `_headers` содержит настройки CORS и кеширования для Cloudflare Pages. При использовании другого хостинга настройте соответствующие HTTP-заголовки средствами этого хостинга.
+The `_headers` file contains CORS and caching settings for Cloudflare Pages. For other hosting providers, configure the equivalent HTTP headers using your host's settings.
 
-Этот репозиторий располагается в папке `dist/` исходного проекта `autoru-test`. Для обновления выполните `npm run build`, затем `npm run publish:dist` из корня исходного проекта. Сборка сохраняет `dist/.git`, а публикация создаёт коммит с датой обновления и отправляет его в GitHub. Скрипты получения данных и сборки в этот репозиторий не входят.
+This repository lives in the `dist/` directory of the `autoru-test` source project. To update it, run `npm run build`, then `npm run publish:dist` from the source project root. The build preserves `dist/.git`, and publishing creates a commit with the update date and pushes it to GitHub. The scripts for collecting data and building the project are not included in this repository.
