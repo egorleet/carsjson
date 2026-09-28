@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ACCLAIM",
+    "name": "Acclaim",
+    "cyrillic_name": "Акклейм",
+    "year_from": 1981,
+    "year_to": 1984,
+    "brand_id": "TRIUMPH",
+    "nameplates": []
+  },
+  {
+    "id": "GT6",
+    "name": "GT6",
+    "cyrillic_name": "гт6",
+    "year_from": 1966,
+    "year_to": 1973,
+    "brand_id": "TRIUMPH",
+    "nameplates": []
+  },
+  {
+    "id": "SPITFIRE",
+    "name": "Spitfire",
+    "cyrillic_name": "Спитфайр",
+    "year_from": 1965,
+    "year_to": 1980,
+    "brand_id": "TRIUMPH",
+    "nameplates": []
+  },
+  {
+    "id": "STAG",
+    "name": "Stag",
+    "cyrillic_name": "стаг",
+    "year_from": 1970,
+    "year_to": 1977,
+    "brand_id": "TRIUMPH",
+    "nameplates": []
+  },
+  {
+    "id": "TR3",
+    "name": "TR3",
+    "cyrillic_name": "тр3",
+    "year_from": 1957,
+    "year_to": 1963,
+    "brand_id": "TRIUMPH",
+    "nameplates": []
+  },
+  {
+    "id": "TR4",
+    "name": "TR4",
+    "cyrillic_name": "тр4",
+    "year_from": 1961,
+    "year_to": 1967,
+    "brand_id": "TRIUMPH",
+    "nameplates": [
+      "TR4",
+      "A"
+    ]
+  },
+  {
+    "id": "TR6",
+    "name": "TR6",
+    "cyrillic_name": "тр6",
+    "year_from": 1968,
+    "year_to": 1976,
+    "brand_id": "TRIUMPH",
+    "nameplates": []
+  },
+  {
+    "id": "TR7",
+    "name": "TR7",
+    "cyrillic_name": "тр7",
+    "year_from": 1975,
+    "year_to": 1981,
+    "brand_id": "TRIUMPH",
+    "nameplates": []
+  },
+  {
+    "id": "TR8",
+    "name": "TR8",
+    "cyrillic_name": "тр8",
+    "year_from": 1980,
+    "year_to": 1981,
+    "brand_id": "TRIUMPH",
+    "nameplates": []
+  }
+]

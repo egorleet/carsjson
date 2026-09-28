@@ -1,0 +1,47 @@
+[
+  {
+    "id": "GTS",
+    "name": "GTS",
+    "cyrillic_name": "гтс",
+    "year_from": 1997,
+    "year_to": 1999,
+    "brand_id": "MARCOS",
+    "nameplates": []
+  },
+  {
+    "id": "LM400",
+    "name": "LM 400",
+    "cyrillic_name": "лм400",
+    "year_from": 1994,
+    "year_to": 1998,
+    "brand_id": "MARCOS",
+    "nameplates": []
+  },
+  {
+    "id": "LM500",
+    "name": "LM 500",
+    "cyrillic_name": "лм500",
+    "year_from": 1994,
+    "year_to": 1998,
+    "brand_id": "MARCOS",
+    "nameplates": []
+  },
+  {
+    "id": "MANTIS_GT",
+    "name": "Mantis",
+    "cyrillic_name": "мантис",
+    "year_from": 1997,
+    "year_to": 1999,
+    "brand_id": "MARCOS",
+    "nameplates": []
+  },
+  {
+    "id": "MARCASITE",
+    "name": "Marcasite",
+    "cyrillic_name": "маркасит",
+    "year_from": 2002,
+    "year_to": 2007,
+    "brand_id": "MARCOS",
+    "nameplates": []
+  }
+]

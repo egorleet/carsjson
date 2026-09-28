@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CV9",
+    "name": "Fashion (CV9)",
+    "cyrillic_name": "Фэшн",
+    "year_from": 2006,
+    "year_to": 2011,
+    "brand_id": "LANDWIND",
+    "nameplates": []
+  },
+  {
+    "id": "FORWARD",
+    "name": "Forward",
+    "cyrillic_name": "Форвард",
+    "year_from": 2006,
+    "year_to": 2011,
+    "brand_id": "LANDWIND",
+    "nameplates": []
+  },
+  {
+    "id": "LW_X9",
+    "name": "Х9",
+    "cyrillic_name": "х9",
+    "year_from": 2005,
+    "year_to": 2016,
+    "brand_id": "LANDWIND",
+    "nameplates": []
+  },
+  {
+    "id": "X5",
+    "name": "X5",
+    "cyrillic_name": "Х5",
+    "year_from": 2012,
+    "year_to": 2020,
+    "brand_id": "LANDWIND",
+    "nameplates": []
+  },
+  {
+    "id": "X6",
+    "name": "X6",
+    "cyrillic_name": "X6",
+    "year_from": 2005,
+    "year_to": 2016,
+    "brand_id": "LANDWIND",
+    "nameplates": []
+  },
+  {
+    "id": "X7",
+    "name": "X7",
+    "cyrillic_name": "Х7",
+    "year_from": 2015,
+    "year_to": 2019,
+    "brand_id": "LANDWIND",
+    "nameplates": []
+  }
+]

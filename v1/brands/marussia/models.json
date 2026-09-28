@@ -1,0 +1,20 @@
+[
+  {
+    "id": "B1",
+    "name": "B1",
+    "cyrillic_name": "б1",
+    "year_from": 2010,
+    "year_to": 2014,
+    "brand_id": "MARUSSIA",
+    "nameplates": []
+  },
+  {
+    "id": "B2",
+    "name": "B2",
+    "cyrillic_name": "б2",
+    "year_from": 2010,
+    "year_to": 2014,
+    "brand_id": "MARUSSIA",
+    "nameplates": []
+  }
+]

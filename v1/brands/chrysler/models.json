@@ -1,0 +1,353 @@
+[
+  {
+    "id": "180",
+    "name": "180",
+    "cyrillic_name": "180",
+    "year_from": 1970,
+    "year_to": 1982,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "200",
+    "name": "200",
+    "cyrillic_name": "200",
+    "year_from": 2010,
+    "year_to": 2017,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "300",
+    "name": "300",
+    "cyrillic_name": "300",
+    "year_from": 1969,
+    "year_to": 1971,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "300C",
+    "name": "300C",
+    "cyrillic_name": "300Ц",
+    "year_from": 2004,
+    "year_to": 2023,
+    "brand_id": "CHRYSLER",
+    "nameplates": [
+      "300C",
+      "SRT8"
+    ]
+  },
+  {
+    "id": "300M",
+    "name": "300M",
+    "cyrillic_name": "300М",
+    "year_from": 1998,
+    "year_to": 2004,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "300_LETTER_SERIES",
+    "name": "300 Letter Series",
+    "cyrillic_name": "300 Леттер Сериес",
+    "year_from": 1955,
+    "year_to": 1965,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "ASPEN",
+    "name": "Aspen",
+    "cyrillic_name": "Аспен",
+    "year_from": 2006,
+    "year_to": 2008,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "CIRRUS",
+    "name": "Cirrus",
+    "cyrillic_name": "Цирус",
+    "year_from": 1994,
+    "year_to": 2000,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "CONCORDE",
+    "name": "Concorde",
+    "cyrillic_name": "Конкорд",
+    "year_from": 1992,
+    "year_to": 2004,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "CORDOBA",
+    "name": "Cordoba",
+    "cyrillic_name": "кордоба",
+    "year_from": 1975,
+    "year_to": 1983,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "CROSSFIRE",
+    "name": "Crossfire",
+    "cyrillic_name": "Кроссфаер",
+    "year_from": 2003,
+    "year_to": 2007,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "DAYTONA",
+    "name": "Daytona",
+    "cyrillic_name": "Дайтона",
+    "year_from": 1986,
+    "year_to": 1993,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "DYNASTY",
+    "name": "Dynasty",
+    "cyrillic_name": "династия",
+    "year_from": 1988,
+    "year_to": 1993,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "ES",
+    "name": "ES",
+    "cyrillic_name": "ЕС",
+    "year_from": 1988,
+    "year_to": 1991,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "FIFTH_AVENUE",
+    "name": "Fifth Avenue",
+    "cyrillic_name": "5-е Авеню",
+    "year_from": 1982,
+    "year_to": 1993,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "IMPERIAL",
+    "name": "Imperial",
+    "cyrillic_name": "Империал",
+    "year_from": 1926,
+    "year_to": 1993,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "IMPERIAL_CROWN",
+    "name": "Imperial Crown",
+    "cyrillic_name": "Империал Краун",
+    "year_from": 1963,
+    "year_to": 1975,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "INTREPID",
+    "name": "Intrepid",
+    "cyrillic_name": "Интерпид",
+    "year_from": 1993,
+    "year_to": 2004,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "LE_BARON",
+    "name": "LeBaron",
+    "cyrillic_name": "Ле Барон",
+    "year_from": 1977,
+    "year_to": 1995,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "LHS",
+    "name": "LHS",
+    "cyrillic_name": "LHS",
+    "year_from": 1993,
+    "year_to": 2001,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "NASSAU",
+    "name": "Nassau",
+    "cyrillic_name": "Нассау",
+    "year_from": 2007,
+    "year_to": 2007,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "NEON",
+    "name": "Neon",
+    "cyrillic_name": "Неон",
+    "year_from": 1994,
+    "year_to": 2004,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "NEWPORT",
+    "name": "Newport",
+    "cyrillic_name": "Ньюпорт",
+    "year_from": 1968,
+    "year_to": 1978,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "NEW_YORKER",
+    "name": "New Yorker",
+    "cyrillic_name": "Нью Йоркер",
+    "year_from": 1949,
+    "year_to": 1996,
+    "brand_id": "CHRYSLER",
+    "nameplates": [
+      "New Yorker",
+      "Fifth Avenue"
+    ]
+  },
+  {
+    "id": "PACIFICA",
+    "name": "Pacifica",
+    "cyrillic_name": "Пацифика",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "PROWLER",
+    "name": "Prowler",
+    "cyrillic_name": "Праулер",
+    "year_from": 2001,
+    "year_to": 2002,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "PT_CRUISER",
+    "name": "PT Cruiser",
+    "cyrillic_name": "ПТ Крузер",
+    "year_from": 2000,
+    "year_to": 2010,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "SARATOGA",
+    "name": "Saratoga",
+    "cyrillic_name": "Саратога",
+    "year_from": 1989,
+    "year_to": 1995,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "SEBRING",
+    "name": "Sebring",
+    "cyrillic_name": "Себринг",
+    "year_from": 1994,
+    "year_to": 2010,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "SIX",
+    "name": "Six",
+    "cyrillic_name": "сикс",
+    "year_from": 1924,
+    "year_to": 1935,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "STRATUS",
+    "name": "Stratus",
+    "cyrillic_name": "Стратус",
+    "year_from": 1994,
+    "year_to": 2000,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "TC_BY_MASERATI",
+    "name": "TC by Maserati",
+    "cyrillic_name": "ТЦ бай Мазерати",
+    "year_from": 1989,
+    "year_to": 1991,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "TOWN_AND_COUNTRY",
+    "name": "Town & Country",
+    "cyrillic_name": "Таун Кантри",
+    "year_from": 1941,
+    "year_to": 2016,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "VIPER",
+    "name": "Viper",
+    "cyrillic_name": "Вайпер",
+    "year_from": 1992,
+    "year_to": 2002,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "VISION",
+    "name": "Vision",
+    "cyrillic_name": "Вижн",
+    "year_from": 1992,
+    "year_to": 1997,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "VOYAGER",
+    "name": "Voyager",
+    "cyrillic_name": "Вояджер",
+    "year_from": 1984,
+    "year_to": 2026,
+    "brand_id": "CHRYSLER",
+    "nameplates": [
+      "Voyager",
+      "Grand Voyager"
+    ]
+  },
+  {
+    "id": "WINDSOR",
+    "name": "Windsor",
+    "cyrillic_name": "виндсор",
+    "year_from": 1953,
+    "year_to": 1954,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  },
+  {
+    "id": "YPSILON",
+    "name": "Ypsilon",
+    "cyrillic_name": "Ипсилон",
+    "year_from": 2011,
+    "year_to": 2017,
+    "brand_id": "CHRYSLER",
+    "nameplates": []
+  }
+]

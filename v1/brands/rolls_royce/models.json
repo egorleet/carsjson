@@ -1,0 +1,189 @@
+[
+  {
+    "id": "20",
+    "name": "20",
+    "cyrillic_name": "20",
+    "year_from": 1905,
+    "year_to": 1906,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": []
+  },
+  {
+    "id": "20_25",
+    "name": "20/25",
+    "cyrillic_name": "20/25",
+    "year_from": 1929,
+    "year_to": 1936,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": []
+  },
+  {
+    "id": "BOAT_TAIL",
+    "name": "Boat Tail",
+    "cyrillic_name": "Бот Тэйл",
+    "year_from": 2021,
+    "year_to": 2022,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": []
+  },
+  {
+    "id": "CAMARGUE",
+    "name": "Camargue",
+    "cyrillic_name": "камарг",
+    "year_from": 1975,
+    "year_to": 1986,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": []
+  },
+  {
+    "id": "CORNICHE",
+    "name": "Corniche",
+    "cyrillic_name": "корниш",
+    "year_from": 1971,
+    "year_to": 2002,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": []
+  },
+  {
+    "id": "CULLINAN",
+    "name": "Cullinan",
+    "cyrillic_name": "Куллинан",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": [
+      "Cullinan",
+      "Black Badge"
+    ]
+  },
+  {
+    "id": "DAWN",
+    "name": "Dawn",
+    "cyrillic_name": "давн",
+    "year_from": 2015,
+    "year_to": 2023,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": [
+      "Dawn",
+      "Black Badge"
+    ]
+  },
+  {
+    "id": "GHOST",
+    "name": "Ghost",
+    "cyrillic_name": "гост",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": [
+      "Ghost",
+      "Black Badge",
+      "EWB"
+    ]
+  },
+  {
+    "id": "PARK_WARD",
+    "name": "Park Ward",
+    "cyrillic_name": "парк вард",
+    "year_from": 2000,
+    "year_to": 2002,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": []
+  },
+  {
+    "id": "PHANTOM",
+    "name": "Phantom",
+    "cyrillic_name": "Фантом",
+    "year_from": 1925,
+    "year_to": 2026,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": [
+      "Phantom",
+      "EWB"
+    ]
+  },
+  {
+    "id": "SILVER_CLOUD",
+    "name": "Silver Cloud",
+    "cyrillic_name": "сильвер клауд",
+    "year_from": 1955,
+    "year_to": 1966,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": []
+  },
+  {
+    "id": "SILVER_GHOST",
+    "name": "Silver Ghost",
+    "cyrillic_name": "сильвер гост",
+    "year_from": 1906,
+    "year_to": 1926,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": []
+  },
+  {
+    "id": "SILVER_SERAPH",
+    "name": "Silver Seraph",
+    "cyrillic_name": "сильвер сераф",
+    "year_from": 1998,
+    "year_to": 2002,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": []
+  },
+  {
+    "id": "SILVER_SHADOW",
+    "name": "Silver Shadow",
+    "cyrillic_name": "Сильвер шедоу",
+    "year_from": 1965,
+    "year_to": 1980,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": []
+  },
+  {
+    "id": "SILVER_SPIRIT",
+    "name": "Silver Spirit",
+    "cyrillic_name": "Сильвер Спирит",
+    "year_from": 1980,
+    "year_to": 1997,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": []
+  },
+  {
+    "id": "SILVER_SPUR",
+    "name": "Silver Spur",
+    "cyrillic_name": "сильвер спур",
+    "year_from": 1980,
+    "year_to": 1999,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": []
+  },
+  {
+    "id": "SILVER_WRAITH",
+    "name": "Silver Wraith",
+    "cyrillic_name": "сильвер рейс",
+    "year_from": 1946,
+    "year_to": 1959,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": []
+  },
+  {
+    "id": "SPECTRE",
+    "name": "Spectre",
+    "cyrillic_name": "Спектр",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": []
+  },
+  {
+    "id": "WRAITH",
+    "name": "Wraith",
+    "cyrillic_name": "рейс",
+    "year_from": 2013,
+    "year_to": 2023,
+    "brand_id": "ROLLS_ROYCE",
+    "nameplates": [
+      "Wraith",
+      "Black Badge"
+    ]
+  }
+]

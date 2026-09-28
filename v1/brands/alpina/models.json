@@ -1,0 +1,191 @@
+[
+  {
+    "id": "B10",
+    "name": "B10",
+    "cyrillic_name": "б10",
+    "year_from": 1984,
+    "year_to": 2004,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  },
+  {
+    "id": "B11",
+    "name": "B11",
+    "cyrillic_name": "б11",
+    "year_from": 1987,
+    "year_to": 1994,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  },
+  {
+    "id": "B12",
+    "name": "B12",
+    "cyrillic_name": "б12",
+    "year_from": 1988,
+    "year_to": 2001,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  },
+  {
+    "id": "B3",
+    "name": "B3",
+    "cyrillic_name": "б3",
+    "year_from": 1987,
+    "year_to": 2026,
+    "brand_id": "ALPINA",
+    "nameplates": [
+      "B3",
+      "GT"
+    ]
+  },
+  {
+    "id": "B4",
+    "name": "B4",
+    "cyrillic_name": "б4",
+    "year_from": 2013,
+    "year_to": 2025,
+    "brand_id": "ALPINA",
+    "nameplates": [
+      "B4",
+      "GT"
+    ]
+  },
+  {
+    "id": "B5",
+    "name": "B5",
+    "cyrillic_name": "б5",
+    "year_from": 2005,
+    "year_to": 2024,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  },
+  {
+    "id": "B6",
+    "name": "B6",
+    "cyrillic_name": "б6",
+    "year_from": 1978,
+    "year_to": 2017,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  },
+  {
+    "id": "B7",
+    "name": "B7",
+    "cyrillic_name": "б7",
+    "year_from": 1978,
+    "year_to": 2022,
+    "brand_id": "ALPINA",
+    "nameplates": [
+      "B7",
+      "Long"
+    ]
+  },
+  {
+    "id": "B8",
+    "name": "B8",
+    "cyrillic_name": "б8",
+    "year_from": 1979,
+    "year_to": 2026,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  },
+  {
+    "id": "B9",
+    "name": "B9",
+    "cyrillic_name": "б9",
+    "year_from": 1981,
+    "year_to": 1985,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  },
+  {
+    "id": "C1",
+    "name": "C1",
+    "cyrillic_name": "с1",
+    "year_from": 1980,
+    "year_to": 1987,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  },
+  {
+    "id": "C2",
+    "name": "C2",
+    "cyrillic_name": "с2",
+    "year_from": 1985,
+    "year_to": 1987,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  },
+  {
+    "id": "D10",
+    "name": "D10",
+    "cyrillic_name": "д10",
+    "year_from": 1999,
+    "year_to": 2003,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  },
+  {
+    "id": "D3",
+    "name": "D3",
+    "cyrillic_name": "д3",
+    "year_from": 2005,
+    "year_to": 2025,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  },
+  {
+    "id": "D4",
+    "name": "D4",
+    "cyrillic_name": "Д4",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  },
+  {
+    "id": "D5",
+    "name": "D5",
+    "cyrillic_name": "д5",
+    "year_from": 2011,
+    "year_to": 2024,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  },
+  {
+    "id": "ROADSTER",
+    "name": "Roadster",
+    "cyrillic_name": "родстер",
+    "year_from": 1990,
+    "year_to": 2005,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  },
+  {
+    "id": "XB7",
+    "name": "XB7",
+    "cyrillic_name": "ИксБ7",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  },
+  {
+    "id": "XD3",
+    "name": "XD3",
+    "cyrillic_name": "хд3",
+    "year_from": 2012,
+    "year_to": 2024,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  },
+  {
+    "id": "XD4",
+    "name": "XD4",
+    "cyrillic_name": "хд4",
+    "year_from": 2018,
+    "year_to": 2025,
+    "brand_id": "ALPINA",
+    "nameplates": []
+  }
+]

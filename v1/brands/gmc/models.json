@@ -1,0 +1,155 @@
+[
+  {
+    "id": "100",
+    "name": "100",
+    "cyrillic_name": "100",
+    "year_from": 1957,
+    "year_to": 1957,
+    "brand_id": "GMC",
+    "nameplates": []
+  },
+  {
+    "id": "ACADIA",
+    "name": "Acadia",
+    "cyrillic_name": "акадия",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "GMC",
+    "nameplates": []
+  },
+  {
+    "id": "CANYON",
+    "name": "Canyon",
+    "cyrillic_name": "Каньон",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "GMC",
+    "nameplates": []
+  },
+  {
+    "id": "C_K",
+    "name": "C/K",
+    "cyrillic_name": "ЭсКа",
+    "year_from": 1973,
+    "year_to": 1987,
+    "brand_id": "GMC",
+    "nameplates": []
+  },
+  {
+    "id": "ENVOY",
+    "name": "Envoy",
+    "cyrillic_name": "Энвой",
+    "year_from": 1997,
+    "year_to": 2009,
+    "brand_id": "GMC",
+    "nameplates": []
+  },
+  {
+    "id": "HUMMER_EV",
+    "name": "Hummer EV",
+    "cyrillic_name": "Хаммер ЕВ",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "GMC",
+    "nameplates": []
+  },
+  {
+    "id": "JIMMY",
+    "name": "Jimmy",
+    "cyrillic_name": "Джимми",
+    "year_from": 1982,
+    "year_to": 2005,
+    "brand_id": "GMC",
+    "nameplates": []
+  },
+  {
+    "id": "SAFARI",
+    "name": "Safari",
+    "cyrillic_name": "Сафари",
+    "year_from": 1985,
+    "year_to": 2005,
+    "brand_id": "GMC",
+    "nameplates": []
+  },
+  {
+    "id": "SAVANA",
+    "name": "Savana",
+    "cyrillic_name": "Савана",
+    "year_from": 1996,
+    "year_to": 2026,
+    "brand_id": "GMC",
+    "nameplates": []
+  },
+  {
+    "id": "SIERRA",
+    "name": "Sierra",
+    "cyrillic_name": "Сьерра",
+    "year_from": 1998,
+    "year_to": 2026,
+    "brand_id": "GMC",
+    "nameplates": []
+  },
+  {
+    "id": "SONOMA",
+    "name": "Sonoma",
+    "cyrillic_name": "Сонома",
+    "year_from": 1991,
+    "year_to": 2004,
+    "brand_id": "GMC",
+    "nameplates": []
+  },
+  {
+    "id": "SUBURBAN",
+    "name": "Suburban",
+    "cyrillic_name": "Субурбан",
+    "year_from": 1992,
+    "year_to": 1999,
+    "brand_id": "GMC",
+    "nameplates": []
+  },
+  {
+    "id": "SYCLONE",
+    "name": "Syclone",
+    "cyrillic_name": "Циклон",
+    "year_from": 1991,
+    "year_to": 1991,
+    "brand_id": "GMC",
+    "nameplates": []
+  },
+  {
+    "id": "TERRAIN",
+    "name": "Terrain",
+    "cyrillic_name": "Террейн",
+    "year_from": 2009,
+    "year_to": 2026,
+    "brand_id": "GMC",
+    "nameplates": []
+  },
+  {
+    "id": "TYPHOON",
+    "name": "Typhoon",
+    "cyrillic_name": "Тайфун",
+    "year_from": 1991,
+    "year_to": 1993,
+    "brand_id": "GMC",
+    "nameplates": []
+  },
+  {
+    "id": "VANDURA",
+    "name": "Vandura",
+    "cyrillic_name": "Вандура",
+    "year_from": 1970,
+    "year_to": 1996,
+    "brand_id": "GMC",
+    "nameplates": []
+  },
+  {
+    "id": "YUKON",
+    "name": "Yukon",
+    "cyrillic_name": "Юкон",
+    "year_from": 1991,
+    "year_to": 2026,
+    "brand_id": "GMC",
+    "nameplates": []
+  }
+]

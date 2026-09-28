@@ -1,0 +1,245 @@
+[
+  {
+    "id": "E8",
+    "name": "E8",
+    "cyrillic_name": "е8",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "E9",
+    "name": "E9",
+    "cyrillic_name": "Е9",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "EMKOO",
+    "name": "Emkoo",
+    "cyrillic_name": "Эмку",
+    "year_from": 2022,
+    "year_to": 2025,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "EMPOW",
+    "name": "Empow",
+    "cyrillic_name": "Эмпау",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "ES9",
+    "name": "ES9",
+    "cyrillic_name": "ЕС9",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "GA4",
+    "name": "GA4",
+    "cyrillic_name": "ГА4",
+    "year_from": 2018,
+    "year_to": 2021,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "GA4_PLUS",
+    "name": "GA4 Plus",
+    "cyrillic_name": "ГА4 Плюс",
+    "year_from": 2021,
+    "year_to": 2022,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "GA6",
+    "name": "GA6",
+    "cyrillic_name": "ГА6",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "GA8",
+    "name": "GA8",
+    "cyrillic_name": "ГА8",
+    "year_from": 2020,
+    "year_to": 2023,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "GE3",
+    "name": "GE3",
+    "cyrillic_name": "ГЕ3",
+    "year_from": 2017,
+    "year_to": 2020,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "GM6",
+    "name": "GM6",
+    "cyrillic_name": "ГМ6",
+    "year_from": 2018,
+    "year_to": 2020,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "GM8",
+    "name": "GM8",
+    "cyrillic_name": "ГМ8",
+    "year_from": 2017,
+    "year_to": 2020,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "GS3",
+    "name": "GS3",
+    "cyrillic_name": "ГС3",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "GS3_POWER",
+    "name": "GS3 Power",
+    "cyrillic_name": "ГС3 Пауэр",
+    "year_from": 2020,
+    "year_to": 2022,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "GS4",
+    "name": "GS4",
+    "cyrillic_name": "ГС4",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "TRUMPCHI",
+    "nameplates": [
+      "GS4",
+      "Coupe"
+    ]
+  },
+  {
+    "id": "GS4_MAX",
+    "name": "GS4 Max",
+    "cyrillic_name": "ГС4 Макс",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "GS4_PLUS",
+    "name": "GS4 Plus",
+    "cyrillic_name": "ГС4 Плюс",
+    "year_from": 2021,
+    "year_to": 2025,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "GS5",
+    "name": "GS5",
+    "cyrillic_name": "ГС5",
+    "year_from": 2011,
+    "year_to": 2021,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "GS8",
+    "name": "GS8",
+    "cyrillic_name": "ГС8",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "TRUMPCHI",
+    "nameplates": [
+      "GS8",
+      "Hybrid"
+    ]
+  },
+  {
+    "id": "M6",
+    "name": "M6",
+    "cyrillic_name": "М6",
+    "year_from": 2020,
+    "year_to": 2021,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "M6_MAX",
+    "name": "M6 Max",
+    "cyrillic_name": "М6 Макс",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "M6_PRO",
+    "name": "M6 Pro",
+    "cyrillic_name": "М6 Про",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "M8",
+    "name": "M8",
+    "cyrillic_name": "М8",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "TRUMPCHI",
+    "nameplates": [
+      "M8",
+      "Master Edition"
+    ]
+  },
+  {
+    "id": "S7",
+    "name": "S7",
+    "cyrillic_name": "С7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "S9",
+    "name": "S9",
+    "cyrillic_name": "С9",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  },
+  {
+    "id": "YUE_7",
+    "name": "Yue 7",
+    "cyrillic_name": "Юэ 7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "TRUMPCHI",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "COUPA",
+    "name": "Coupa",
+    "cyrillic_name": "Купа",
+    "year_from": 2018,
+    "year_to": 2021,
+    "brand_id": "ZOTYE",
+    "nameplates": []
+  },
+  {
+    "id": "DOMY_X5",
+    "name": "Domy X5",
+    "cyrillic_name": "Доми Х5",
+    "year_from": 2015,
+    "year_to": 2018,
+    "brand_id": "ZOTYE",
+    "nameplates": []
+  },
+  {
+    "id": "DOMY_X7",
+    "name": "Domy X7",
+    "cyrillic_name": "Доми Х7",
+    "year_from": 2016,
+    "year_to": 2021,
+    "brand_id": "ZOTYE",
+    "nameplates": []
+  },
+  {
+    "id": "E200",
+    "name": "E200",
+    "cyrillic_name": "Е200",
+    "year_from": 2016,
+    "year_to": 2021,
+    "brand_id": "ZOTYE",
+    "nameplates": [
+      "E200",
+      "Pro"
+    ]
+  },
+  {
+    "id": "NOMAD",
+    "name": "Nomad (RX6400)",
+    "cyrillic_name": "Ноумэд",
+    "year_from": 2005,
+    "year_to": 2016,
+    "brand_id": "ZOTYE",
+    "nameplates": []
+  },
+  {
+    "id": "SR9",
+    "name": "SR9",
+    "cyrillic_name": "ср9",
+    "year_from": 2016,
+    "year_to": 2019,
+    "brand_id": "ZOTYE",
+    "nameplates": []
+  },
+  {
+    "id": "T300",
+    "name": "T300",
+    "cyrillic_name": "т300",
+    "year_from": 2017,
+    "year_to": 2023,
+    "brand_id": "ZOTYE",
+    "nameplates": []
+  },
+  {
+    "id": "T500",
+    "name": "T500",
+    "cyrillic_name": "т500",
+    "year_from": 2018,
+    "year_to": 2019,
+    "brand_id": "ZOTYE",
+    "nameplates": []
+  },
+  {
+    "id": "T600",
+    "name": "T600",
+    "cyrillic_name": "т600",
+    "year_from": 2013,
+    "year_to": 2021,
+    "brand_id": "ZOTYE",
+    "nameplates": []
+  },
+  {
+    "id": "T700",
+    "name": "T700",
+    "cyrillic_name": "Т700",
+    "year_from": 2017,
+    "year_to": 2021,
+    "brand_id": "ZOTYE",
+    "nameplates": []
+  },
+  {
+    "id": "T800",
+    "name": "T800",
+    "cyrillic_name": "Т800",
+    "year_from": 2018,
+    "year_to": 2021,
+    "brand_id": "ZOTYE",
+    "nameplates": []
+  },
+  {
+    "id": "Z100",
+    "name": "Z100",
+    "cyrillic_name": "З100",
+    "year_from": 2013,
+    "year_to": 2017,
+    "brand_id": "ZOTYE",
+    "nameplates": []
+  },
+  {
+    "id": "Z300",
+    "name": "Z300",
+    "cyrillic_name": "З300",
+    "year_from": 2012,
+    "year_to": 2017,
+    "brand_id": "ZOTYE",
+    "nameplates": []
+  }
+]

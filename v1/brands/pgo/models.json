@@ -1,0 +1,29 @@
+[
+  {
+    "id": "CEVENNES",
+    "name": "Cevennes",
+    "cyrillic_name": "Севеннес",
+    "year_from": 2005,
+    "year_to": 2026,
+    "brand_id": "PGO",
+    "nameplates": []
+  },
+  {
+    "id": "HEMERA",
+    "name": "Hemera",
+    "cyrillic_name": "Хемера",
+    "year_from": 2009,
+    "year_to": 2026,
+    "brand_id": "PGO",
+    "nameplates": []
+  },
+  {
+    "id": "SPEEDSTER_II",
+    "name": "Speedster II",
+    "cyrillic_name": "Спидстер 2",
+    "year_from": 2005,
+    "year_to": 2026,
+    "brand_id": "PGO",
+    "nameplates": []
+  }
+]

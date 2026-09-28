@@ -1,0 +1,20 @@
+[
+  {
+    "id": "M_NV",
+    "name": "M-NV",
+    "cyrillic_name": "М-НВ",
+    "year_from": 2020,
+    "year_to": 2023,
+    "brand_id": "CIIMO",
+    "nameplates": []
+  },
+  {
+    "id": "X_NV",
+    "name": "X-NV",
+    "cyrillic_name": "X-NV",
+    "year_from": 2019,
+    "year_to": 2021,
+    "brand_id": "CIIMO",
+    "nameplates": []
+  }
+]

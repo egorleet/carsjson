@@ -1,0 +1,119 @@
+[
+  {
+    "id": "CM7",
+    "name": "CM7",
+    "cyrillic_name": "СМ7",
+    "year_from": 2013,
+    "year_to": 2020,
+    "brand_id": "FORTHING",
+    "nameplates": []
+  },
+  {
+    "id": "FRIDAY",
+    "name": "Friday",
+    "cyrillic_name": "Пятница",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "FORTHING",
+    "nameplates": []
+  },
+  {
+    "id": "LINGZHI_M5",
+    "name": "Lingzhi M5",
+    "cyrillic_name": "Лингжи М5",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "FORTHING",
+    "nameplates": []
+  },
+  {
+    "id": "LINGZHI_PLUS",
+    "name": "Lingzhi Plus",
+    "cyrillic_name": "Лингжи плюс",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "FORTHING",
+    "nameplates": []
+  },
+  {
+    "id": "M7",
+    "name": "M7",
+    "cyrillic_name": "М7",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "FORTHING",
+    "nameplates": []
+  },
+  {
+    "id": "T5",
+    "name": "T5",
+    "cyrillic_name": "Т5",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "FORTHING",
+    "nameplates": []
+  },
+  {
+    "id": "T5L",
+    "name": "T5L",
+    "cyrillic_name": "Т5Л",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "FORTHING",
+    "nameplates": []
+  },
+  {
+    "id": "T5_EVO",
+    "name": "T5 EVO",
+    "cyrillic_name": "Т5 ЭВО",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "FORTHING",
+    "nameplates": []
+  },
+  {
+    "id": "THUNDER",
+    "name": "Thunder",
+    "cyrillic_name": "Тандер",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "FORTHING",
+    "nameplates": []
+  },
+  {
+    "id": "U_TOUR_M4",
+    "name": "U-Tour M4",
+    "cyrillic_name": "Ю-Тур М4",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "FORTHING",
+    "nameplates": []
+  },
+  {
+    "id": "V9",
+    "name": "V9",
+    "cyrillic_name": "В9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "FORTHING",
+    "nameplates": []
+  },
+  {
+    "id": "XINGHAI_S7",
+    "name": "Xinghai S7",
+    "cyrillic_name": "Синхай С7",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "FORTHING",
+    "nameplates": []
+  },
+  {
+    "id": "YACHT",
+    "name": "Yacht",
+    "cyrillic_name": "Яхт",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "FORTHING",
+    "nameplates": []
+  }
+]

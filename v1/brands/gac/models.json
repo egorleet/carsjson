@@ -1,0 +1,123 @@
+[
+  {
+    "id": "AION_V",
+    "name": "Aion V",
+    "cyrillic_name": "Айон Ви",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "GAC",
+    "nameplates": []
+  },
+  {
+    "id": "EA6",
+    "name": "EA6",
+    "cyrillic_name": "ЕА6",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "GAC",
+    "nameplates": []
+  },
+  {
+    "id": "EMPOW",
+    "name": "Empow",
+    "cyrillic_name": "Емпоу",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "GAC",
+    "nameplates": []
+  },
+  {
+    "id": "GN8",
+    "name": "GN8",
+    "cyrillic_name": "ГН8",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "GAC",
+    "nameplates": []
+  },
+  {
+    "id": "GS3",
+    "name": "GS3",
+    "cyrillic_name": "ГС3",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "GAC",
+    "nameplates": []
+  },
+  {
+    "id": "GS4",
+    "name": "GS4",
+    "cyrillic_name": "ГС4",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "GAC",
+    "nameplates": []
+  },
+  {
+    "id": "GS5",
+    "name": "GS5",
+    "cyrillic_name": "ГС5",
+    "year_from": 2020,
+    "year_to": 2024,
+    "brand_id": "GAC",
+    "nameplates": []
+  },
+  {
+    "id": "GS8",
+    "name": "GS8",
+    "cyrillic_name": "ГС8",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "GAC",
+    "nameplates": [
+      "GS8",
+      "Dragon",
+      "Traveller"
+    ]
+  },
+  {
+    "id": "HYPTEC_HT",
+    "name": "Hyptec HT",
+    "cyrillic_name": "Хиптек Аш Ти",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "GAC",
+    "nameplates": []
+  },
+  {
+    "id": "IA5",
+    "name": "iA5",
+    "cyrillic_name": "иА5",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "GAC",
+    "nameplates": []
+  },
+  {
+    "id": "M8",
+    "name": "M8",
+    "cyrillic_name": "М8",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "GAC",
+    "nameplates": []
+  },
+  {
+    "id": "S7",
+    "name": "S7",
+    "cyrillic_name": "C7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "GAC",
+    "nameplates": []
+  },
+  {
+    "id": "S9",
+    "name": "S9",
+    "cyrillic_name": "С9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "GAC",
+    "nameplates": []
+  }
+]

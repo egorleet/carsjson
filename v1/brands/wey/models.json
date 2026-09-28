@@ -1,0 +1,137 @@
+[
+  {
+    "id": "05",
+    "name": "05",
+    "cyrillic_name": "05",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "WEY",
+    "nameplates": []
+  },
+  {
+    "id": "07",
+    "name": "07",
+    "cyrillic_name": "07",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "WEY",
+    "nameplates": []
+  },
+  {
+    "id": "80",
+    "name": "80",
+    "cyrillic_name": "80",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "WEY",
+    "nameplates": []
+  },
+  {
+    "id": "COFFEE_01",
+    "name": "Coffee 01",
+    "cyrillic_name": "Кофи 01",
+    "year_from": 2022,
+    "year_to": 2023,
+    "brand_id": "WEY",
+    "nameplates": []
+  },
+  {
+    "id": "GAOSHAN",
+    "name": "Gaoshan (High Mountain)",
+    "cyrillic_name": "Гаошань",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "WEY",
+    "nameplates": [
+      "Gaoshan (High Mountain)",
+      "Long"
+    ]
+  },
+  {
+    "id": "LANSHAN",
+    "name": "Lanshan (Blue Mountain)",
+    "cyrillic_name": "Ланшан",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "WEY",
+    "nameplates": []
+  },
+  {
+    "id": "LATTE",
+    "name": "Latte",
+    "cyrillic_name": "Латте",
+    "year_from": 2021,
+    "year_to": 2025,
+    "brand_id": "WEY",
+    "nameplates": []
+  },
+  {
+    "id": "MACCHIATO",
+    "name": "Macchiato",
+    "cyrillic_name": "Маккиато",
+    "year_from": 2021,
+    "year_to": 2023,
+    "brand_id": "WEY",
+    "nameplates": [
+      "DHT",
+      "DHT-PHEV"
+    ]
+  },
+  {
+    "id": "MOCCA",
+    "name": "Mocca",
+    "cyrillic_name": "Мокка",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "WEY",
+    "nameplates": []
+  },
+  {
+    "id": "V8X",
+    "name": "V8X",
+    "cyrillic_name": "В8Икс",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "WEY",
+    "nameplates": []
+  },
+  {
+    "id": "V9X",
+    "name": "V9X",
+    "cyrillic_name": "В9Икс",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "WEY",
+    "nameplates": []
+  },
+  {
+    "id": "VV5",
+    "name": "VV5",
+    "cyrillic_name": "ВВ5",
+    "year_from": 2017,
+    "year_to": 2021,
+    "brand_id": "WEY",
+    "nameplates": []
+  },
+  {
+    "id": "VV6",
+    "name": "VV6",
+    "cyrillic_name": "ВВ6",
+    "year_from": 2018,
+    "year_to": 2021,
+    "brand_id": "WEY",
+    "nameplates": []
+  },
+  {
+    "id": "VV7",
+    "name": "VV7",
+    "cyrillic_name": "ВВ7",
+    "year_from": 2017,
+    "year_to": 2021,
+    "brand_id": "WEY",
+    "nameplates": [
+      "VV7",
+      "GT"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "T",
+    "name": "T",
+    "cyrillic_name": "Т",
+    "year_from": 1955,
+    "year_to": 1969,
+    "brand_id": "GOGGOMOBIL",
+    "nameplates": [
+      "250",
+      "300",
+      "400"
+    ]
+  },
+  {
+    "id": "TS",
+    "name": "TS",
+    "cyrillic_name": "ТС",
+    "year_from": 1957,
+    "year_to": 1969,
+    "brand_id": "GOGGOMOBIL",
+    "nameplates": [
+      "250",
+      "300",
+      "400"
+    ]
+  }
+]

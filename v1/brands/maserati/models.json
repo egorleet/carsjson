@@ -1,0 +1,264 @@
+[
+  {
+    "id": "228",
+    "name": "228",
+    "cyrillic_name": "228",
+    "year_from": 1986,
+    "year_to": 1992,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "3200GT",
+    "name": "3200 GT",
+    "cyrillic_name": "3200гт",
+    "year_from": 1998,
+    "year_to": 2002,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "3500_GT",
+    "name": "3500 GT",
+    "cyrillic_name": "3500 ГТ",
+    "year_from": 1957,
+    "year_to": 1964,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "420",
+    "name": "420",
+    "cyrillic_name": "420",
+    "year_from": 1985,
+    "year_to": 1994,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "4200_GT",
+    "name": "4200 GT",
+    "cyrillic_name": "4200 гт",
+    "year_from": 2002,
+    "year_to": 2007,
+    "brand_id": "MASERATI",
+    "nameplates": [
+      "4200 GT",
+      "GranSport"
+    ]
+  },
+  {
+    "id": "BARCHETTA_STRADALE",
+    "name": "Barchetta Stradale",
+    "cyrillic_name": "барчетта страдале",
+    "year_from": 1991,
+    "year_to": 1994,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "BITURBO",
+    "name": "Biturbo",
+    "cyrillic_name": "битурбо",
+    "year_from": 1981,
+    "year_to": 1994,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "BORA",
+    "name": "Bora",
+    "cyrillic_name": "бора",
+    "year_from": 1971,
+    "year_to": 1980,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "CHUBASCO",
+    "name": "Chubasco",
+    "cyrillic_name": "чубаско",
+    "year_from": 1990,
+    "year_to": 1990,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "GHIBLI",
+    "name": "Ghibli",
+    "cyrillic_name": "Гибли",
+    "year_from": 1992,
+    "year_to": 2024,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "GRAN_CABRIO",
+    "name": "GranCabrio",
+    "cyrillic_name": "ГранКабрио",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "GRAN_TURISMO",
+    "name": "GranTurismo",
+    "cyrillic_name": "ГранТуризмо",
+    "year_from": 2007,
+    "year_to": 2026,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "GRECALE",
+    "name": "Grecale",
+    "cyrillic_name": "Грекале",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "GT2_STRADALE",
+    "name": "GT2 Stradale",
+    "cyrillic_name": "ГТ2 Страдэйл",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "INDY",
+    "name": "Indy",
+    "cyrillic_name": "инди",
+    "year_from": 1969,
+    "year_to": 1974,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "KARIF",
+    "name": "Karif",
+    "cyrillic_name": "кариф",
+    "year_from": 1988,
+    "year_to": 2000,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "KHAMSIN",
+    "name": "Khamsin",
+    "cyrillic_name": "хамсин",
+    "year_from": 1974,
+    "year_to": 1982,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "KYALAMI",
+    "name": "Kyalami",
+    "cyrillic_name": "кьялами",
+    "year_from": 1976,
+    "year_to": 1985,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "LEVANTE",
+    "name": "Levante",
+    "cyrillic_name": "Леванте",
+    "year_from": 2016,
+    "year_to": 2024,
+    "brand_id": "MASERATI",
+    "nameplates": [
+      "Levante",
+      "Diesel",
+      "GT Hybrid",
+      "GTS",
+      "S",
+      "Trofeo"
+    ]
+  },
+  {
+    "id": "MC12",
+    "name": "MC12",
+    "cyrillic_name": "мс12",
+    "year_from": 2004,
+    "year_to": 2006,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "MC20",
+    "name": "MC20",
+    "cyrillic_name": "мс20",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "MCPURA",
+    "name": "MCPura",
+    "cyrillic_name": "МСПура",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "MERAK",
+    "name": "Merak",
+    "cyrillic_name": "мерак",
+    "year_from": 1975,
+    "year_to": 1983,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "MEXICO",
+    "name": "Mexico",
+    "cyrillic_name": "мехико",
+    "year_from": 1967,
+    "year_to": 1972,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "MOSTRO_ZAGATO",
+    "name": "Mostro Zagato",
+    "cyrillic_name": "Мостро Загато",
+    "year_from": 2015,
+    "year_to": 2022,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "QUATTROPORTE",
+    "name": "Quattroporte",
+    "cyrillic_name": "Кваттропорте",
+    "year_from": 1979,
+    "year_to": 2024,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "ROYALE",
+    "name": "Royale",
+    "cyrillic_name": "рояле",
+    "year_from": 1985,
+    "year_to": 1993,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  },
+  {
+    "id": "SHAMAL",
+    "name": "Shamal",
+    "cyrillic_name": "шамаль",
+    "year_from": 1989,
+    "year_to": 1995,
+    "brand_id": "MASERATI",
+    "nameplates": []
+  }
+]

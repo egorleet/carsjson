@@ -1,0 +1,107 @@
+[
+  {
+    "id": "BOLIDE",
+    "name": "Bolide",
+    "cyrillic_name": "Болид",
+    "year_from": 2024,
+    "year_to": 2025,
+    "brand_id": "BUGATTI",
+    "nameplates": []
+  },
+  {
+    "id": "CENTODIECI",
+    "name": "Centodieci",
+    "cyrillic_name": "Сентодиечи",
+    "year_from": 2022,
+    "year_to": 2022,
+    "brand_id": "BUGATTI",
+    "nameplates": []
+  },
+  {
+    "id": "CHIRON",
+    "name": "Chiron",
+    "cyrillic_name": "Широн",
+    "year_from": 2016,
+    "year_to": 2023,
+    "brand_id": "BUGATTI",
+    "nameplates": []
+  },
+  {
+    "id": "DIVO",
+    "name": "Divo",
+    "cyrillic_name": "Диво",
+    "year_from": 2018,
+    "year_to": 2021,
+    "brand_id": "BUGATTI",
+    "nameplates": []
+  },
+  {
+    "id": "EB_110",
+    "name": "EB 110",
+    "cyrillic_name": "еб 110",
+    "year_from": 1991,
+    "year_to": 1995,
+    "brand_id": "BUGATTI",
+    "nameplates": [
+      "EB 110",
+      "SS"
+    ]
+  },
+  {
+    "id": "EB_112",
+    "name": "EB 112",
+    "cyrillic_name": "еб 112",
+    "year_from": 1993,
+    "year_to": 1998,
+    "brand_id": "BUGATTI",
+    "nameplates": []
+  },
+  {
+    "id": "EB_VEYRON",
+    "name": "EB Veyron 16.4",
+    "cyrillic_name": "Вейрон",
+    "year_from": 2003,
+    "year_to": 2015,
+    "brand_id": "BUGATTI",
+    "nameplates": [
+      "EB Veyron 16.4",
+      "SS"
+    ]
+  },
+  {
+    "id": "FKP_HOMMAGE",
+    "name": "F.K.P. Hommage",
+    "cyrillic_name": "ФКП Хоммэдж",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BUGATTI",
+    "nameplates": []
+  },
+  {
+    "id": "TOURBILLON",
+    "name": "Tourbillon",
+    "cyrillic_name": "Турбийон",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BUGATTI",
+    "nameplates": []
+  },
+  {
+    "id": "TYPE_55",
+    "name": "Type 55",
+    "cyrillic_name": "тайп 55",
+    "year_from": 1932,
+    "year_to": 1935,
+    "brand_id": "BUGATTI",
+    "nameplates": []
+  },
+  {
+    "id": "W16_MISTRAL",
+    "name": "W16 Mistral",
+    "cyrillic_name": "В16 Мистрал",
+    "year_from": 2024,
+    "year_to": 2025,
+    "brand_id": "BUGATTI",
+    "nameplates": []
+  }
+]

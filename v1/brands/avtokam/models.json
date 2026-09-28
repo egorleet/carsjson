@@ -1,0 +1,29 @@
+[
+  {
+    "id": "2160",
+    "name": "2160",
+    "cyrillic_name": "2160",
+    "year_from": 1990,
+    "year_to": 1999,
+    "brand_id": "AVTOKAM",
+    "nameplates": []
+  },
+  {
+    "id": "2163",
+    "name": "2163",
+    "cyrillic_name": "2163",
+    "year_from": 1990,
+    "year_to": 1993,
+    "brand_id": "AVTOKAM",
+    "nameplates": []
+  },
+  {
+    "id": "3101",
+    "name": "3101",
+    "cyrillic_name": "3101",
+    "year_from": 1990,
+    "year_to": 1993,
+    "brand_id": "AVTOKAM",
+    "nameplates": []
+  }
+]

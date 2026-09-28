@@ -1,0 +1,29 @@
+[
+  {
+    "id": "CAN_AM",
+    "name": "Can-Am",
+    "cyrillic_name": "Кан-Ам",
+    "year_from": 2001,
+    "year_to": 2016,
+    "brand_id": "ULTIMA",
+    "nameplates": []
+  },
+  {
+    "id": "GTR",
+    "name": "GTR",
+    "cyrillic_name": "ГТР",
+    "year_from": 1999,
+    "year_to": 2016,
+    "brand_id": "ULTIMA",
+    "nameplates": []
+  },
+  {
+    "id": "RS",
+    "name": "RS",
+    "cyrillic_name": "РС",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "ULTIMA",
+    "nameplates": []
+  }
+]

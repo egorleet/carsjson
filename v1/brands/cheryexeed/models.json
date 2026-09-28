@@ -1,0 +1,113 @@
+[
+  {
+    "id": "ES",
+    "name": "Sterra ES",
+    "cyrillic_name": "Стерра ЕС",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CHERYEXEED",
+    "nameplates": []
+  },
+  {
+    "id": "ET5",
+    "name": "ET5",
+    "cyrillic_name": "ЕТ5",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHERYEXEED",
+    "nameplates": []
+  },
+  {
+    "id": "EX7",
+    "name": "EX7",
+    "cyrillic_name": "ЕХ7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "CHERYEXEED",
+    "nameplates": []
+  },
+  {
+    "id": "EXLANTIX_ES",
+    "name": "Exlantix ES",
+    "cyrillic_name": "Экслантикс ЕС",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHERYEXEED",
+    "nameplates": []
+  },
+  {
+    "id": "EXLANTIX_ET",
+    "name": "Exlantix ET",
+    "cyrillic_name": "Экслантикс ЕТ",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHERYEXEED",
+    "nameplates": []
+  },
+  {
+    "id": "LX",
+    "name": "LX",
+    "cyrillic_name": "ЛХ",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "CHERYEXEED",
+    "nameplates": [
+      "LX",
+      "C-DM"
+    ]
+  },
+  {
+    "id": "RX",
+    "name": "RX",
+    "cyrillic_name": "ЭрИкс",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CHERYEXEED",
+    "nameplates": []
+  },
+  {
+    "id": "STERRA_ET",
+    "name": "Sterra ET",
+    "cyrillic_name": "Стерра ЕТ",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHERYEXEED",
+    "nameplates": []
+  },
+  {
+    "id": "TX",
+    "name": "TX",
+    "cyrillic_name": "ТХ",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "CHERYEXEED",
+    "nameplates": []
+  },
+  {
+    "id": "TXL",
+    "name": "TXL",
+    "cyrillic_name": "ТХЛ",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "CHERYEXEED",
+    "nameplates": []
+  },
+  {
+    "id": "VX",
+    "name": "VX",
+    "cyrillic_name": "ВХ",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "CHERYEXEED",
+    "nameplates": []
+  },
+  {
+    "id": "YAOGUANG",
+    "name": "Yaoguang",
+    "cyrillic_name": "Яогуанг",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CHERYEXEED",
+    "nameplates": []
+  }
+]

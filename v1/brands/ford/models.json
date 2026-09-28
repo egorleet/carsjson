@@ -1,0 +1,994 @@
+[
+  {
+    "id": "300",
+    "name": "300",
+    "cyrillic_name": "300",
+    "year_from": 1963,
+    "year_to": 1963,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "AEROSTAR",
+    "name": "Aerostar",
+    "cyrillic_name": "Аэростар",
+    "year_from": 1986,
+    "year_to": 1997,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "ANGLIA",
+    "name": "Anglia",
+    "cyrillic_name": "Англиа",
+    "year_from": 1948,
+    "year_to": 1968,
+    "brand_id": "FORD",
+    "nameplates": [
+      "Anglia",
+      "123E"
+    ]
+  },
+  {
+    "id": "ASPIRE",
+    "name": "Aspire",
+    "cyrillic_name": "Эспайр",
+    "year_from": 1993,
+    "year_to": 1997,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "BRONCO",
+    "name": "Bronco",
+    "cyrillic_name": "Бронко",
+    "year_from": 1966,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": [
+      "Bronco",
+      "Raptor"
+    ]
+  },
+  {
+    "id": "BRONCO_BASECAMP",
+    "name": "Bronco Basecamp",
+    "cyrillic_name": "Бронко Бэйскемп",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "BRONCO_II",
+    "name": "Bronco-II",
+    "cyrillic_name": "Бронко-2",
+    "year_from": 1984,
+    "year_to": 1990,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "BRONCO_SPORT",
+    "name": "Bronco Sport",
+    "cyrillic_name": "Бронко Спорт",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "B_MAX",
+    "name": "B-MAX",
+    "cyrillic_name": "Б-МАКС",
+    "year_from": 2012,
+    "year_to": 2018,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "CAPRI",
+    "name": "Capri",
+    "cyrillic_name": "Капри",
+    "year_from": 1969,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "CONSUL",
+    "name": "Consul",
+    "cyrillic_name": "Консул",
+    "year_from": 1972,
+    "year_to": 1976,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "CONTOUR",
+    "name": "Contour",
+    "cyrillic_name": "Контур",
+    "year_from": 1994,
+    "year_to": 2000,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "CORTINA",
+    "name": "Cortina",
+    "cyrillic_name": "Кортина",
+    "year_from": 1970,
+    "year_to": 1976,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "COUGAR",
+    "name": "Cougar",
+    "cyrillic_name": "Кугар",
+    "year_from": 1998,
+    "year_to": 2002,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "COUNTRY_SQUIRE",
+    "name": "Country Squire",
+    "cyrillic_name": "Кантри Сквайр",
+    "year_from": 1950,
+    "year_to": 1968,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "CRESTLINE",
+    "name": "Crestline",
+    "cyrillic_name": "Крестлайн",
+    "year_from": 1952,
+    "year_to": 1955,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "CROWN_VICTORIA",
+    "name": "Crown Victoria",
+    "cyrillic_name": "Краун Виктория",
+    "year_from": 1992,
+    "year_to": 2011,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "CUSTOM",
+    "name": "Custom",
+    "cyrillic_name": "Кастом",
+    "year_from": 1949,
+    "year_to": 1955,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "C_MAX",
+    "name": "C-MAX",
+    "cyrillic_name": "C-MAX",
+    "year_from": 2003,
+    "year_to": 2019,
+    "brand_id": "FORD",
+    "nameplates": [
+      "C-MAX",
+      "Grand C-MAX"
+    ]
+  },
+  {
+    "id": "ECONOLINE",
+    "name": "Econoline",
+    "cyrillic_name": "Эконолайн",
+    "year_from": 1968,
+    "year_to": 2013,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "ECONOVAN",
+    "name": "Econovan",
+    "cyrillic_name": "Эконован",
+    "year_from": 1979,
+    "year_to": 1996,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "ECOSPORT",
+    "name": "EcoSport",
+    "cyrillic_name": "ЭкоСпорт",
+    "year_from": 2003,
+    "year_to": 2023,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "EDGE",
+    "name": "Edge",
+    "cyrillic_name": "Эйдж",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "EQUATOR",
+    "name": "Equator",
+    "cyrillic_name": "Экватор",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "EQUATOR_SPORT",
+    "name": "Equator Sport",
+    "cyrillic_name": "Экватор Спорт",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "ESCAPE",
+    "name": "Escape",
+    "cyrillic_name": "Эскейп",
+    "year_from": 2000,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "ESCORT",
+    "name": "Escort",
+    "cyrillic_name": "Эскорт",
+    "year_from": 1968,
+    "year_to": 2023,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "ESCORT_NA",
+    "name": "Escort (North America)",
+    "cyrillic_name": "Эскорт",
+    "year_from": 1990,
+    "year_to": 2003,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "EVEREST",
+    "name": "Everest",
+    "cyrillic_name": "Эверест",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "EVOS",
+    "name": "Evos",
+    "cyrillic_name": "Эвос",
+    "year_from": 2021,
+    "year_to": 2024,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "EXCURSION",
+    "name": "Excursion",
+    "cyrillic_name": "Экскьюршн",
+    "year_from": 1999,
+    "year_to": 2005,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "EXPEDITION",
+    "name": "Expedition",
+    "cyrillic_name": "Экспедишн",
+    "year_from": 1996,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "EXPLORER",
+    "name": "Explorer",
+    "cyrillic_name": "Эксплорер",
+    "year_from": 1990,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "EXPLORER_EV",
+    "name": "Explorer EV",
+    "cyrillic_name": "Эксплорер Эв",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "EXPLORER_SPORT_TRAC",
+    "name": "Explorer Sport Trac",
+    "cyrillic_name": "Эксплорер Спорт Трак",
+    "year_from": 2000,
+    "year_to": 2010,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "FAIRLANE",
+    "name": "Fairlane",
+    "cyrillic_name": "Фейрлайн",
+    "year_from": 1957,
+    "year_to": 1981,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "FAIRMONT",
+    "name": "Fairmont",
+    "cyrillic_name": "Фейрмонт",
+    "year_from": 1978,
+    "year_to": 1983,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "FALCON",
+    "name": "Falcon",
+    "cyrillic_name": "Фалкон",
+    "year_from": 1960,
+    "year_to": 1979,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "FESTIVA",
+    "name": "Festiva",
+    "cyrillic_name": "Фестива",
+    "year_from": 1986,
+    "year_to": 2003,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "FIESTA",
+    "name": "Fiesta",
+    "cyrillic_name": "Фиеста",
+    "year_from": 1976,
+    "year_to": 2023,
+    "brand_id": "FORD",
+    "nameplates": [
+      "Fiesta",
+      "Active"
+    ]
+  },
+  {
+    "id": "FIESTA_ST",
+    "name": "Fiesta ST",
+    "cyrillic_name": "Фиеста СТ",
+    "year_from": 2004,
+    "year_to": 2023,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "FIGO",
+    "name": "Figo",
+    "cyrillic_name": "Фиго",
+    "year_from": 2010,
+    "year_to": 2021,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "FIVE_HUNDRED",
+    "name": "Five Hundred",
+    "cyrillic_name": "файв хандред",
+    "year_from": 2004,
+    "year_to": 2007,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "FLEX",
+    "name": "Flex",
+    "cyrillic_name": "Флекс",
+    "year_from": 2008,
+    "year_to": 2019,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "FOCUS",
+    "name": "Focus",
+    "cyrillic_name": "Фокус",
+    "year_from": 1998,
+    "year_to": 2025,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "FOCUS_RS",
+    "name": "Focus RS",
+    "cyrillic_name": "Фокус РС",
+    "year_from": 2002,
+    "year_to": 2018,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "FOCUS_ST",
+    "name": "Focus ST",
+    "cyrillic_name": "Фокус СТ",
+    "year_from": 2001,
+    "year_to": 2025,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "FREDA",
+    "name": "Freda",
+    "cyrillic_name": "фреда",
+    "year_from": 1995,
+    "year_to": 1999,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "FREESTAR",
+    "name": "Freestar",
+    "cyrillic_name": "Фристар",
+    "year_from": 2003,
+    "year_to": 2007,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "FREESTYLE",
+    "name": "Freestyle",
+    "cyrillic_name": "Фристайл",
+    "year_from": 2004,
+    "year_to": 2009,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "FUSION",
+    "name": "Fusion",
+    "cyrillic_name": "Фьюжн",
+    "year_from": 2002,
+    "year_to": 2012,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "FUSION_NA",
+    "name": "Fusion (North America)",
+    "cyrillic_name": "фьюжн (северная америка)",
+    "year_from": 2005,
+    "year_to": 2020,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "F_100",
+    "name": "F-100",
+    "cyrillic_name": "F-100",
+    "year_from": 1952,
+    "year_to": 1956,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "F_150",
+    "name": "F-150",
+    "cyrillic_name": "F-150",
+    "year_from": 1979,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "F_2",
+    "name": "F-2",
+    "cyrillic_name": "Ф-2",
+    "year_from": 1948,
+    "year_to": 1952,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXIE",
+    "name": "Galaxie",
+    "cyrillic_name": "Гэлаксье",
+    "year_from": 1960,
+    "year_to": 1974,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXY",
+    "name": "Galaxy",
+    "cyrillic_name": "Гэлакси",
+    "year_from": 1995,
+    "year_to": 2023,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "GPA",
+    "name": "GPA",
+    "cyrillic_name": "ГПА",
+    "year_from": 1942,
+    "year_to": 1943,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "GRANADA",
+    "name": "Granada",
+    "cyrillic_name": "Гранада",
+    "year_from": 1972,
+    "year_to": 1985,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "GRANADA_NA",
+    "name": "Granada (North America)",
+    "cyrillic_name": "Гранада",
+    "year_from": 1975,
+    "year_to": 1982,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "GT",
+    "name": "GT",
+    "cyrillic_name": "GT",
+    "year_from": 2005,
+    "year_to": 2022,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "GT40",
+    "name": "GT40",
+    "cyrillic_name": "GT40",
+    "year_from": 1964,
+    "year_to": 1969,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "IKON",
+    "name": "Ikon",
+    "cyrillic_name": "икон",
+    "year_from": 1999,
+    "year_to": 2015,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "IXION",
+    "name": "Ixion",
+    "cyrillic_name": "Иксион",
+    "year_from": 1999,
+    "year_to": 2005,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "KA",
+    "name": "KA",
+    "cyrillic_name": "Ка",
+    "year_from": 1996,
+    "year_to": 2021,
+    "brand_id": "FORD",
+    "nameplates": [
+      "KA",
+      "Active",
+      "SportKa",
+      "StreetKa"
+    ]
+  },
+  {
+    "id": "KUGA",
+    "name": "Kuga",
+    "cyrillic_name": "Куга",
+    "year_from": 2008,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "LASER",
+    "name": "Laser",
+    "cyrillic_name": "Лазер",
+    "year_from": 1981,
+    "year_to": 2003,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "LTD",
+    "name": "LTD",
+    "cyrillic_name": "ЛТД",
+    "year_from": 1967,
+    "year_to": 1968,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "LTD_COUNTRY_SQUIRE",
+    "name": "LTD Country Squire",
+    "cyrillic_name": "ЛТД Кантри Сквайр",
+    "year_from": 1969,
+    "year_to": 1991,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "LTD_CROWN_VICTORIA",
+    "name": "LTD Crown Victoria",
+    "cyrillic_name": "LTD Краун Виктория",
+    "year_from": 1983,
+    "year_to": 1991,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "M151",
+    "name": "M151",
+    "cyrillic_name": "М151",
+    "year_from": 1959,
+    "year_to": 1982,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "MAINLINE",
+    "name": "Mainline",
+    "cyrillic_name": "Майнлайн",
+    "year_from": 1952,
+    "year_to": 1956,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "MAVERICK",
+    "name": "Maverick",
+    "cyrillic_name": "Маверик",
+    "year_from": 1969,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "MODEL_A",
+    "name": "Model A",
+    "cyrillic_name": "Модель А",
+    "year_from": 1927,
+    "year_to": 1931,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "MODEL_T",
+    "name": "Model T",
+    "cyrillic_name": "Модель Т",
+    "year_from": 1908,
+    "year_to": 1927,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "MONDEO",
+    "name": "Mondeo",
+    "cyrillic_name": "Мондео",
+    "year_from": 1993,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "MONDEO_ST",
+    "name": "Mondeo ST",
+    "cyrillic_name": "Мондео СТ",
+    "year_from": 1999,
+    "year_to": 2007,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "MUSTANG",
+    "name": "Mustang",
+    "cyrillic_name": "Мустанг",
+    "year_from": 1964,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "MUSTANG_MACH_E",
+    "name": "Mustang Mach-E",
+    "cyrillic_name": "Мустанг Мач-Е",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "ORION",
+    "name": "Orion",
+    "cyrillic_name": "Орион",
+    "year_from": 1983,
+    "year_to": 1993,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "PROBE",
+    "name": "Probe",
+    "cyrillic_name": "Проб",
+    "year_from": 1988,
+    "year_to": 1997,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "PUMA",
+    "name": "Puma",
+    "cyrillic_name": "Пума",
+    "year_from": 1997,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "PUMA_ST",
+    "name": "Puma ST",
+    "cyrillic_name": "Пума СТ",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "RANCHERO",
+    "name": "Ranchero",
+    "cyrillic_name": "Ранчеро",
+    "year_from": 1957,
+    "year_to": 1976,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "RANGER",
+    "name": "Ranger",
+    "cyrillic_name": "Рейнджер",
+    "year_from": 1998,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "RANGER_NA",
+    "name": "Ranger (North America)",
+    "cyrillic_name": "Рейнджер",
+    "year_from": 1983,
+    "year_to": 2012,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "SCORPIO",
+    "name": "Scorpio",
+    "cyrillic_name": "Скорпио",
+    "year_from": 1985,
+    "year_to": 1998,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "SIERRA",
+    "name": "Sierra",
+    "cyrillic_name": "Сиерра",
+    "year_from": 1982,
+    "year_to": 1993,
+    "brand_id": "FORD",
+    "nameplates": [
+      "Sierra",
+      "Cosworth"
+    ]
+  },
+  {
+    "id": "SPECTRON",
+    "name": "Spectron",
+    "cyrillic_name": "спектрон",
+    "year_from": 1983,
+    "year_to": 1995,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "S_MAX",
+    "name": "S-MAX",
+    "cyrillic_name": "S-MAX",
+    "year_from": 2006,
+    "year_to": 2023,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "TAUNUS",
+    "name": "Taunus",
+    "cyrillic_name": "Таунус",
+    "year_from": 1964,
+    "year_to": 1982,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "TAURUS",
+    "name": "Taurus",
+    "cyrillic_name": "Таурус",
+    "year_from": 1985,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "TAURUS_X",
+    "name": "Taurus X",
+    "cyrillic_name": "Таурус X",
+    "year_from": 2007,
+    "year_to": 2009,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "TELSTAR",
+    "name": "Telstar",
+    "cyrillic_name": "тельстар",
+    "year_from": 1987,
+    "year_to": 1999,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "TEMPO",
+    "name": "Tempo",
+    "cyrillic_name": "Темпо",
+    "year_from": 1983,
+    "year_to": 1994,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "TERRITORY",
+    "name": "Territory",
+    "cyrillic_name": "территори",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": [
+      "Territory",
+      "EV"
+    ]
+  },
+  {
+    "id": "THUNDERBIRD",
+    "name": "Thunderbird",
+    "cyrillic_name": "Тандербёрд",
+    "year_from": 1955,
+    "year_to": 2005,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "TORINO",
+    "name": "Torino",
+    "cyrillic_name": "Торино",
+    "year_from": 1968,
+    "year_to": 1976,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "TOURNEO_CONNECT",
+    "name": "Tourneo Connect",
+    "cyrillic_name": "Турнео Коннект",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": [
+      "Tourneo Connect",
+      "Grand Tourneo Connect"
+    ]
+  },
+  {
+    "id": "TOURNEO_COURIER",
+    "name": "Tourneo Courier",
+    "cyrillic_name": "турнео курьер",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "TOURNEO_CUSTOM",
+    "name": "Tourneo Custom",
+    "cyrillic_name": "Турнео Кастом",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "TRANSIT",
+    "name": "Transit",
+    "cyrillic_name": "Транзит",
+    "year_from": 1978,
+    "year_to": 2006,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "TRANSIT_CONNECT",
+    "name": "Transit Connect",
+    "cyrillic_name": "Транзит Коннект",
+    "year_from": 2002,
+    "year_to": 2024,
+    "brand_id": "FORD",
+    "nameplates": [
+      "Transit Connect",
+      "Start-Stop"
+    ]
+  },
+  {
+    "id": "TRANSIT_CUSTOM",
+    "name": "Transit Custom",
+    "cyrillic_name": "Транзит Кастом",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "V8",
+    "name": "V8",
+    "cyrillic_name": "в8",
+    "year_from": 1932,
+    "year_to": 1939,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "WINDSTAR",
+    "name": "Windstar",
+    "cyrillic_name": "Виндстар",
+    "year_from": 1994,
+    "year_to": 2003,
+    "brand_id": "FORD",
+    "nameplates": []
+  },
+  {
+    "id": "ZEPHYR",
+    "name": "Zephyr",
+    "cyrillic_name": "Зефир",
+    "year_from": 1951,
+    "year_to": 1962,
+    "brand_id": "FORD",
+    "nameplates": []
+  }
+]

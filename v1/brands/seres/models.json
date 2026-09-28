@@ -1,0 +1,38 @@
+[
+  {
+    "id": "M5",
+    "name": "M5",
+    "cyrillic_name": "м5",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "SERES",
+    "nameplates": []
+  },
+  {
+    "id": "M7",
+    "name": "M7",
+    "cyrillic_name": "М7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "SERES",
+    "nameplates": []
+  },
+  {
+    "id": "M9",
+    "name": "M9",
+    "cyrillic_name": "м9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "SERES",
+    "nameplates": []
+  },
+  {
+    "id": "SF5",
+    "name": "SF5",
+    "cyrillic_name": "СФ5",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "SERES",
+    "nameplates": []
+  }
+]

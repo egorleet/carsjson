@@ -1,0 +1,122 @@
+[
+  {
+    "id": "G3",
+    "name": "G3",
+    "cyrillic_name": "Г3",
+    "year_from": 2018,
+    "year_to": 2023,
+    "brand_id": "XPENG",
+    "nameplates": [
+      "G3",
+      "G3i"
+    ]
+  },
+  {
+    "id": "G6",
+    "name": "G6",
+    "cyrillic_name": "Г6",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "XPENG",
+    "nameplates": []
+  },
+  {
+    "id": "G7",
+    "name": "G7",
+    "cyrillic_name": "Г7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "XPENG",
+    "nameplates": []
+  },
+  {
+    "id": "G9",
+    "name": "G9",
+    "cyrillic_name": "Г9",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "XPENG",
+    "nameplates": []
+  },
+  {
+    "id": "G9L",
+    "name": "G9L",
+    "cyrillic_name": "Г9Л",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "XPENG",
+    "nameplates": []
+  },
+  {
+    "id": "GX",
+    "name": "GX",
+    "cyrillic_name": "ГХ",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "XPENG",
+    "nameplates": []
+  },
+  {
+    "id": "MONA_L03",
+    "name": "Mona L03",
+    "cyrillic_name": "Мона Л03",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "XPENG",
+    "nameplates": []
+  },
+  {
+    "id": "MONA_M03",
+    "name": "Mona M03",
+    "cyrillic_name": "Мона М03",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "XPENG",
+    "nameplates": []
+  },
+  {
+    "id": "P5",
+    "name": "P5",
+    "cyrillic_name": "П5",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "XPENG",
+    "nameplates": []
+  },
+  {
+    "id": "P7",
+    "name": "P7",
+    "cyrillic_name": "П7",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "XPENG",
+    "nameplates": []
+  },
+  {
+    "id": "P7I",
+    "name": "P7i",
+    "cyrillic_name": "П7ай",
+    "year_from": 2023,
+    "year_to": 2025,
+    "brand_id": "XPENG",
+    "nameplates": []
+  },
+  {
+    "id": "P7PLUS",
+    "name": "P7+",
+    "cyrillic_name": "П7+",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "XPENG",
+    "nameplates": []
+  },
+  {
+    "id": "X9",
+    "name": "X9",
+    "cyrillic_name": "Икс9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "XPENG",
+    "nameplates": []
+  }
+]

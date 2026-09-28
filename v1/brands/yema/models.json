@@ -1,0 +1,29 @@
+[
+  {
+    "id": "EC30",
+    "name": "EC30",
+    "cyrillic_name": "ЕС30",
+    "year_from": 2017,
+    "year_to": 2019,
+    "brand_id": "YEMA",
+    "nameplates": []
+  },
+  {
+    "id": "SPICA",
+    "name": "Spica",
+    "cyrillic_name": "Спика",
+    "year_from": 2015,
+    "year_to": 2023,
+    "brand_id": "YEMA",
+    "nameplates": []
+  },
+  {
+    "id": "T70",
+    "name": "T70",
+    "cyrillic_name": "Т70",
+    "year_from": 2015,
+    "year_to": 2020,
+    "brand_id": "YEMA",
+    "nameplates": []
+  }
+]

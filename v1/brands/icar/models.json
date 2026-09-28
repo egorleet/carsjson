@@ -1,0 +1,32 @@
+[
+  {
+    "id": "03",
+    "name": "03",
+    "cyrillic_name": "03",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "ICAR",
+    "nameplates": [
+      "03",
+      "03Т"
+    ]
+  },
+  {
+    "id": "V23",
+    "name": "V23",
+    "cyrillic_name": "В23",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "ICAR",
+    "nameplates": []
+  },
+  {
+    "id": "V27",
+    "name": "V27",
+    "cyrillic_name": "В27",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "ICAR",
+    "nameplates": []
+  }
+]

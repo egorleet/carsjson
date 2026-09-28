@@ -1,0 +1,128 @@
+[
+  {
+    "id": "EC6",
+    "name": "EC6",
+    "cyrillic_name": "ец6",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "NIO",
+    "nameplates": []
+  },
+  {
+    "id": "EC7",
+    "name": "EC7",
+    "cyrillic_name": "ЕЦ7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "NIO",
+    "nameplates": []
+  },
+  {
+    "id": "EL6",
+    "name": "EL6",
+    "cyrillic_name": "ЕЛ6",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "NIO",
+    "nameplates": []
+  },
+  {
+    "id": "ES6",
+    "name": "ES6",
+    "cyrillic_name": "ес6",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "NIO",
+    "nameplates": []
+  },
+  {
+    "id": "ES7",
+    "name": "ES7",
+    "cyrillic_name": "ЕС7",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "NIO",
+    "nameplates": []
+  },
+  {
+    "id": "ES8",
+    "name": "ES8",
+    "cyrillic_name": "ЕС8",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "NIO",
+    "nameplates": []
+  },
+  {
+    "id": "ES9",
+    "name": "ES9",
+    "cyrillic_name": "ЕС9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "NIO",
+    "nameplates": []
+  },
+  {
+    "id": "ET5",
+    "name": "ET5",
+    "cyrillic_name": "ет5",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "NIO",
+    "nameplates": []
+  },
+  {
+    "id": "ET7",
+    "name": "ET7",
+    "cyrillic_name": "ет7",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "NIO",
+    "nameplates": []
+  },
+  {
+    "id": "ET9",
+    "name": "ET9",
+    "cyrillic_name": "ЕТ9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "NIO",
+    "nameplates": []
+  },
+  {
+    "id": "FIREFLY",
+    "name": "Firefly",
+    "cyrillic_name": "Фаерфлай",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "NIO",
+    "nameplates": []
+  },
+  {
+    "id": "ONVO_L60",
+    "name": "Onvo L60",
+    "cyrillic_name": "Онво Л60",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "NIO",
+    "nameplates": []
+  },
+  {
+    "id": "ONVO_L80",
+    "name": "Onvo L80",
+    "cyrillic_name": "Онво Л80",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "NIO",
+    "nameplates": []
+  },
+  {
+    "id": "ONVO_L90",
+    "name": "Onvo L90",
+    "cyrillic_name": "Онво Л90",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "NIO",
+    "nameplates": []
+  }
+]

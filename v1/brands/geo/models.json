@@ -1,0 +1,47 @@
+[
+  {
+    "id": "METRO",
+    "name": "Metro",
+    "cyrillic_name": "метро",
+    "year_from": 1989,
+    "year_to": 1997,
+    "brand_id": "GEO",
+    "nameplates": []
+  },
+  {
+    "id": "PRIZM",
+    "name": "Prizm",
+    "cyrillic_name": "призм",
+    "year_from": 1992,
+    "year_to": 2002,
+    "brand_id": "GEO",
+    "nameplates": []
+  },
+  {
+    "id": "SPECTRUM",
+    "name": "Spectrum",
+    "cyrillic_name": "спектрум",
+    "year_from": 1988,
+    "year_to": 1993,
+    "brand_id": "GEO",
+    "nameplates": []
+  },
+  {
+    "id": "STORM",
+    "name": "Storm",
+    "cyrillic_name": "шторм",
+    "year_from": 1990,
+    "year_to": 1993,
+    "brand_id": "GEO",
+    "nameplates": []
+  },
+  {
+    "id": "TRACKER",
+    "name": "Tracker",
+    "cyrillic_name": "трекер",
+    "year_from": 1989,
+    "year_to": 1998,
+    "brand_id": "GEO",
+    "nameplates": []
+  }
+]

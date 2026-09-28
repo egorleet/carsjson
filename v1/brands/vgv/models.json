@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BOLDEN",
+    "name": "Bolden",
+    "cyrillic_name": "Болден",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "VGV",
+    "nameplates": [
+      "S6",
+      "S6 LWB",
+      "S7"
+    ]
+  },
+  {
+    "id": "U70",
+    "name": "U70",
+    "cyrillic_name": "Ю70",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "VGV",
+    "nameplates": []
+  },
+  {
+    "id": "U70PLUS",
+    "name": "U70 Plus",
+    "cyrillic_name": "Ю70 Плюс",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VGV",
+    "nameplates": []
+  },
+  {
+    "id": "U70_PRO",
+    "name": "U70 Pro",
+    "cyrillic_name": "Ю70 Про",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "VGV",
+    "nameplates": []
+  },
+  {
+    "id": "U75PLUS",
+    "name": "U75 Plus",
+    "cyrillic_name": "Ю75 Плюс",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "VGV",
+    "nameplates": []
+  },
+  {
+    "id": "VX7",
+    "name": "VX7",
+    "cyrillic_name": "ВХ7",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "VGV",
+    "nameplates": []
+  }
+]

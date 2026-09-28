@@ -1,0 +1,633 @@
+[
+  {
+    "id": "ATTO_2",
+    "name": "Atto 2",
+    "cyrillic_name": "Атто 2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "CHAZOR",
+    "name": "Chazor",
+    "cyrillic_name": "Чазор",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "D1",
+    "name": "D1",
+    "cyrillic_name": "д1",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "DAHAN",
+    "name": "Dahan",
+    "cyrillic_name": "Дахан",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "DATANG",
+    "name": "Datang",
+    "cyrillic_name": "Датанг",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "DESTROYER_05",
+    "name": "Destroyer 05",
+    "cyrillic_name": "Дестройер 05",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "DOLPHIN",
+    "name": "Dolphin",
+    "cyrillic_name": "Дельфин",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "DOLPHIN_G",
+    "name": "Dolphin G",
+    "cyrillic_name": "Дельфин Г",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "E1",
+    "name": "E1",
+    "cyrillic_name": "е1",
+    "year_from": 2019,
+    "year_to": 2021,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "E2",
+    "name": "E2",
+    "cyrillic_name": "Е2",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "E3",
+    "name": "E3",
+    "cyrillic_name": "Е3",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "E5",
+    "name": "E5",
+    "cyrillic_name": "е5",
+    "year_from": 2015,
+    "year_to": 2020,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "E6",
+    "name": "E6",
+    "cyrillic_name": "е6",
+    "year_from": 2009,
+    "year_to": 2021,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "E7",
+    "name": "E7",
+    "cyrillic_name": "е7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "E9",
+    "name": "E9",
+    "cyrillic_name": "Е9",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "F0",
+    "name": "F0",
+    "cyrillic_name": "ф0",
+    "year_from": 2008,
+    "year_to": 2015,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "F3",
+    "name": "F3",
+    "cyrillic_name": "ф3",
+    "year_from": 2005,
+    "year_to": 2021,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "F5",
+    "name": "F5",
+    "cyrillic_name": "ф5",
+    "year_from": 2014,
+    "year_to": 2018,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "F6",
+    "name": "F6",
+    "cyrillic_name": "ф6",
+    "year_from": 2007,
+    "year_to": 2012,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "F8",
+    "name": "F8 (S8)",
+    "cyrillic_name": "Ф8",
+    "year_from": 2009,
+    "year_to": 2010,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "FANGCHENGBAO_FORMULA_S",
+    "name": "FangChengBao Formula S",
+    "cyrillic_name": "ФенгЧенгбао Формула С",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": [
+      "FangChengBao Formula S",
+      "GT"
+    ]
+  },
+  {
+    "id": "FANGCHENGBAO_LEOPARD_5",
+    "name": "FangChengBao Leopard 5",
+    "cyrillic_name": "ФенгЧенгбао Леопард 5",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "FANGCHENGBAO_LEOPARD_8",
+    "name": "FangChengBao Leopard 8",
+    "cyrillic_name": "ФенгЧенгбао Леопард 8",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "FANGCHENGBAO_TITANIUM_3",
+    "name": "FangChengBao Titanium 3",
+    "cyrillic_name": "ФенгЧенгбао Титаниум 3",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "FANGCHENGBAO_TITANIUM_7",
+    "name": "FangChengBao Titanium 7",
+    "cyrillic_name": "ФенгЧенгбао Титаниум 7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "FANGCHENGBAO_TITANIUM_9",
+    "name": "Fangchengbao Titanium 9",
+    "cyrillic_name": "ФенгЧенгбао Титаниум 9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "FLYER",
+    "name": "Flyer",
+    "cyrillic_name": "Флаер",
+    "year_from": 2005,
+    "year_to": 2008,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "FRIGATE_07",
+    "name": "Frigate 07",
+    "cyrillic_name": "Фригейт_07",
+    "year_from": 2022,
+    "year_to": 2025,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "G3",
+    "name": "G3",
+    "cyrillic_name": "Г3",
+    "year_from": 2009,
+    "year_to": 2014,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "G6",
+    "name": "G6",
+    "cyrillic_name": "г6",
+    "year_from": 2011,
+    "year_to": 2013,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "HAN",
+    "name": "Han",
+    "cyrillic_name": "Хан",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "HAN_L",
+    "name": "Han L",
+    "cyrillic_name": "Хан Л",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "L3",
+    "name": "L3",
+    "cyrillic_name": "л3",
+    "year_from": 2010,
+    "year_to": 2015,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "M6",
+    "name": "M6",
+    "cyrillic_name": "М6",
+    "year_from": 2010,
+    "year_to": 2015,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "QIN",
+    "name": "Qin Pro",
+    "cyrillic_name": "Кин Про",
+    "year_from": 2018,
+    "year_to": 2025,
+    "brand_id": "BYD",
+    "nameplates": [
+      "Qin Pro",
+      "DM",
+      "EV"
+    ]
+  },
+  {
+    "id": "QIN_L",
+    "name": "Qin L",
+    "cyrillic_name": "Кин Эль",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": [
+      "DM-i",
+      "EV"
+    ]
+  },
+  {
+    "id": "QIN_MAX",
+    "name": "Qin Max",
+    "cyrillic_name": "Чин Макс",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "QIN_PLUS",
+    "name": "Qin Plus",
+    "cyrillic_name": "Кин Плюс",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": [
+      "DM-i",
+      "EV"
+    ]
+  },
+  {
+    "id": "RACCO",
+    "name": "Racco",
+    "cyrillic_name": "Рэкко",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "S6",
+    "name": "S6",
+    "cyrillic_name": "С6",
+    "year_from": 2011,
+    "year_to": 2015,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SEAGULL",
+    "name": "Seagull",
+    "cyrillic_name": "Сигал",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SEAL",
+    "name": "Seal",
+    "cyrillic_name": "Сил",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SEAL_05",
+    "name": "Seal 05",
+    "cyrillic_name": "Сиэл 05",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SEAL_06",
+    "name": "Seal 06",
+    "cyrillic_name": "Сиэл 06",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SEAL_06_GT",
+    "name": "Seal 06 GT",
+    "cyrillic_name": "Сиэл 06 гт",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SEAL_07",
+    "name": "Seal 07",
+    "cyrillic_name": "Сиэл 07",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SEAL_08",
+    "name": "Seal 08",
+    "cyrillic_name": "Сиэл 08",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SEA_LION_05",
+    "name": "Sea Lion 05",
+    "cyrillic_name": "Сиа лион 05",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": [
+      "DM",
+      "EV"
+    ]
+  },
+  {
+    "id": "SEA_LION_06",
+    "name": "Sea Lion 06",
+    "cyrillic_name": "Сиа лион 06",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SEA_LION_07",
+    "name": "Sea Lion 07",
+    "cyrillic_name": "Сиа лион 07",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SEA_LION_08",
+    "name": "Sea Lion 08",
+    "cyrillic_name": "Си Лайон Ноль Восемь",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SHARK",
+    "name": "Shark (Shark 6)",
+    "cyrillic_name": "Шарк",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SONG",
+    "name": "Song",
+    "cyrillic_name": "Сонг",
+    "year_from": 2015,
+    "year_to": 2022,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SONG_EV",
+    "name": "Song EV",
+    "cyrillic_name": "Сонг ЕВ",
+    "year_from": 2016,
+    "year_to": 2019,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SONG_L",
+    "name": "Song L",
+    "cyrillic_name": "Сонг Л",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SONG_MAX",
+    "name": "Song Max",
+    "cyrillic_name": "сонг макс",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SONG_PLUS",
+    "name": "Song Plus",
+    "cyrillic_name": "Сонг Плюс",
+    "year_from": 2020,
+    "year_to": 2025,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SONG_PRO",
+    "name": "Song Pro",
+    "cyrillic_name": "Сонг Про",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "SONG_ULTRA",
+    "name": "Song Ultra",
+    "cyrillic_name": "Сонг Ультра",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "TANG",
+    "name": "Tang",
+    "cyrillic_name": "Тэнг",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "TANG_L",
+    "name": "Tang L",
+    "cyrillic_name": "Тэнг Л",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "XIA",
+    "name": "Xia (M9)",
+    "cyrillic_name": "Чиа",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "YANGWANG_U7",
+    "name": "Yangwang U7",
+    "cyrillic_name": "Янгвэнг Ю7",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "YANGWANG_U8",
+    "name": "Yangwang U8",
+    "cyrillic_name": "Янгвэнг Ю8",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": [
+      "Yangwang U8",
+      "L"
+    ]
+  },
+  {
+    "id": "YANGWANG_U9",
+    "name": "Yangwang U9",
+    "cyrillic_name": "Янгвэнг Ю9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "YUAN",
+    "name": "Yuan",
+    "cyrillic_name": "Юан",
+    "year_from": 2016,
+    "year_to": 2024,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "YUAN_PLUS",
+    "name": "Yuan Plus",
+    "cyrillic_name": "Юан Плюс",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  },
+  {
+    "id": "YUAN_UP",
+    "name": "Yuan Up",
+    "cyrillic_name": "Юан Ап",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BYD",
+    "nameplates": []
+  }
+]

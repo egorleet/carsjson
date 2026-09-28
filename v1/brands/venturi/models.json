@@ -1,0 +1,38 @@
+[
+  {
+    "id": "210",
+    "name": "210",
+    "cyrillic_name": "210",
+    "year_from": 1984,
+    "year_to": 1995,
+    "brand_id": "VENTURI",
+    "nameplates": []
+  },
+  {
+    "id": "260_LM",
+    "name": "260 LM",
+    "cyrillic_name": "260 лм",
+    "year_from": 1989,
+    "year_to": 1995,
+    "brand_id": "VENTURI",
+    "nameplates": []
+  },
+  {
+    "id": "300_ATLANTIQUE",
+    "name": "300 Atlantique",
+    "cyrillic_name": "300 атлантик",
+    "year_from": 1994,
+    "year_to": 2000,
+    "brand_id": "VENTURI",
+    "nameplates": []
+  },
+  {
+    "id": "400_GT",
+    "name": "400 GT",
+    "cyrillic_name": "400 gt",
+    "year_from": 1994,
+    "year_to": 1998,
+    "brand_id": "VENTURI",
+    "nameplates": []
+  }
+]

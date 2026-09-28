@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ATOM",
+    "name": "Atom",
+    "cyrillic_name": "Атом",
+    "year_from": 2000,
+    "year_to": 2013,
+    "brand_id": "ARIEL",
+    "nameplates": []
+  },
+  {
+    "id": "NOMAD",
+    "name": "Nomad",
+    "cyrillic_name": "Номад",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "ARIEL",
+    "nameplates": [
+      "Nomad",
+      "R"
+    ]
+  }
+]

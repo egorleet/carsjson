@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ALPHEON",
+    "name": "Alpheon",
+    "cyrillic_name": "Алфеон",
+    "year_from": 2010,
+    "year_to": 2015,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "ARCADIA",
+    "name": "Arcadia",
+    "cyrillic_name": "Аркадия",
+    "year_from": 1994,
+    "year_to": 1999,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "CHAIRMAN",
+    "name": "Chairman",
+    "cyrillic_name": "Чаирман",
+    "year_from": 1999,
+    "year_to": 2002,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "DAMAS",
+    "name": "Damas",
+    "cyrillic_name": "Дамас",
+    "year_from": 1991,
+    "year_to": 2011,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "ESPERO",
+    "name": "Espero",
+    "cyrillic_name": "Эсперо",
+    "year_from": 1990,
+    "year_to": 1999,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "EVANDA",
+    "name": "Evanda",
+    "cyrillic_name": "Эванда",
+    "year_from": 2002,
+    "year_to": 2005,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "G2X",
+    "name": "G2X",
+    "cyrillic_name": "G2X",
+    "year_from": 2007,
+    "year_to": 2008,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "GENTRA",
+    "name": "Gentra",
+    "cyrillic_name": "Джентра",
+    "year_from": 2005,
+    "year_to": 2015,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "KALOS",
+    "name": "Kalos",
+    "cyrillic_name": "Калос",
+    "year_from": 2002,
+    "year_to": 2007,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "KORANDO",
+    "name": "Korando",
+    "cyrillic_name": "Корандо",
+    "year_from": 1999,
+    "year_to": 2001,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "LACETTI",
+    "name": "Lacetti",
+    "cyrillic_name": "Лачетти",
+    "year_from": 2002,
+    "year_to": 2010,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "LACETTI_PREMIERE",
+    "name": "Lacetti Premiere",
+    "cyrillic_name": "Лачетти Премьер",
+    "year_from": 2008,
+    "year_to": 2011,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "LANOS",
+    "name": "Lanos",
+    "cyrillic_name": "Ланос",
+    "year_from": 1997,
+    "year_to": 2008,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "LEGANZA",
+    "name": "Leganza",
+    "cyrillic_name": "Леганза",
+    "year_from": 1997,
+    "year_to": 2008,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "LE_MANS",
+    "name": "LeMans",
+    "cyrillic_name": "Леманс",
+    "year_from": 1986,
+    "year_to": 1994,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "MAGNUS",
+    "name": "Magnus",
+    "cyrillic_name": "Магнус",
+    "year_from": 2000,
+    "year_to": 2006,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "MATIZ",
+    "name": "Matiz",
+    "cyrillic_name": "Матиз",
+    "year_from": 1998,
+    "year_to": 2016,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "MATIZ_CREATIVE",
+    "name": "Matiz Creative",
+    "cyrillic_name": "Матиз Криэйтив",
+    "year_from": 2009,
+    "year_to": 2011,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "MUSSO",
+    "name": "Musso",
+    "cyrillic_name": "Муссо",
+    "year_from": 1999,
+    "year_to": 2002,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "NEXIA",
+    "name": "Nexia",
+    "cyrillic_name": "Нексия",
+    "year_from": 1994,
+    "year_to": 2016,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "NUBIRA",
+    "name": "Nubira",
+    "cyrillic_name": "Нубира",
+    "year_from": 1997,
+    "year_to": 2005,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "PRINCE",
+    "name": "Prince",
+    "cyrillic_name": "Принц",
+    "year_from": 1991,
+    "year_to": 1999,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "RACER",
+    "name": "Racer",
+    "cyrillic_name": "Рейсер",
+    "year_from": 1986,
+    "year_to": 1997,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "REZZO",
+    "name": "Rezzo",
+    "cyrillic_name": "Реззо",
+    "year_from": 2000,
+    "year_to": 2008,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "ROYALE",
+    "name": "Royale",
+    "cyrillic_name": "Роял",
+    "year_from": 1981,
+    "year_to": 1992,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "SENS",
+    "name": "Sens",
+    "cyrillic_name": "Сенс",
+    "year_from": 2002,
+    "year_to": 2009,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "TACUMA",
+    "name": "Tacuma",
+    "cyrillic_name": "Такума",
+    "year_from": 2000,
+    "year_to": 2011,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "TICO",
+    "name": "Tico",
+    "cyrillic_name": "Тико",
+    "year_from": 1991,
+    "year_to": 2001,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "TOSCA",
+    "name": "Tosca",
+    "cyrillic_name": "Тоска",
+    "year_from": 2006,
+    "year_to": 2011,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  },
+  {
+    "id": "WINDSTORM",
+    "name": "Winstorm",
+    "cyrillic_name": "Винсторм",
+    "year_from": 2006,
+    "year_to": 2011,
+    "brand_id": "DAEWOO",
+    "nameplates": []
+  }
+]

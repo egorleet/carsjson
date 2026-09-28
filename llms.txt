@@ -1,0 +1,57 @@
+# CarsJSON
+
+> A free, public static JSON API providing normalized car brands, models, production years, and brand logos. Zero authentication, zero rate limits, and instant static performance on Cloudflare Pages.
+
+CarsJSON is an open automotive dataset and developer-friendly JSON API. It is designed for automotive web applications, vehicle selectors, analytics, and AI agents.
+
+## Quick Start
+All requests are standard HTTP GET requests returning JSON. CORS is enabled globally.
+
+- Base URL: `https://carsjson.pages.dev`
+- Brand models endpoint: `https://carsjson.pages.dev/v1/brands/{brand_slug}/models.json`
+- All brands endpoint: `https://carsjson.pages.dev/v1/brands.json`
+- Full consolidated catalog: `https://carsjson.pages.dev/v1/all.json`
+
+## Endpoints
+
+- [All Brands](https://carsjson.pages.dev/v1/brands.json): Array of all car brands with ID, display name, Cyrillic name, year range, and logo path.
+- [Brand Models](https://carsjson.pages.dev/v1/brands/abarth/models.json): Models for a given brand slug in lowercase (e.g., `abarth`, `bmw`, `audi`, `toyota`, `mercedes`).
+- [Complete Catalog](https://carsjson.pages.dev/v1/all.json): Single consolidated object `{ "brands": [...], "models": [...] }` containing the full database.
+- [Metadata & Versioning](https://carsjson.pages.dev/v1/meta.json): Snapshot version, SHA-256 data hash, entity counts, and generation timestamp.
+
+## Machine-Readable Specifications
+
+- [OpenAPI 3.1 Specification](https://carsjson.pages.dev/openapi.json): Machine-readable schema for AI function calling, Custom GPT Actions, and SDK generation.
+
+## Data Schemas
+
+### Brand Object
+```json
+{
+  "id": "ABARTH",
+  "name": "Abarth",
+  "cyrillic_name": "Абарт",
+  "year_from": 2008,
+  "year_to": 2026,
+  "logo": "/logos/abarth.webp"
+}
+```
+
+### Model Object
+```json
+{
+  "id": "500",
+  "name": "500",
+  "cyrillic_name": "500",
+  "year_from": 2008,
+  "year_to": 2026,
+  "brand_id": "ABARTH",
+  "nameplates": ["500", "500e"]
+}
+```
+
+## Notes for LLMs & AI Agents
+- Brand slugs in URL paths must be lowercase matching the brand ID (e.g., `alfa_romeo` for `ALFA_ROMEO`).
+- Models are unique within each brand by combining `brand_id` and `id`.
+- All logo URLs are relative to the root (e.g., `/logos/{brand_slug}.webp`).
+- No API key or authorization header is required.

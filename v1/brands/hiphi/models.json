@@ -1,0 +1,29 @@
+[
+  {
+    "id": "X",
+    "name": "X",
+    "cyrillic_name": "Икс",
+    "year_from": 2020,
+    "year_to": 2024,
+    "brand_id": "HIPHI",
+    "nameplates": []
+  },
+  {
+    "id": "Y",
+    "name": "Y",
+    "cyrillic_name": "Уай",
+    "year_from": 2023,
+    "year_to": 2024,
+    "brand_id": "HIPHI",
+    "nameplates": []
+  },
+  {
+    "id": "Z",
+    "name": "Z",
+    "cyrillic_name": "З",
+    "year_from": 2022,
+    "year_to": 2024,
+    "brand_id": "HIPHI",
+    "nameplates": []
+  }
+]

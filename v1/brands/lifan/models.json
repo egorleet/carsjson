@@ -1,0 +1,101 @@
+[
+  {
+    "id": "650_EV",
+    "name": "650 EV",
+    "cyrillic_name": "650 ЕВ",
+    "year_from": 2018,
+    "year_to": 2020,
+    "brand_id": "LIFAN",
+    "nameplates": []
+  },
+  {
+    "id": "BREEZ",
+    "name": "Breez (520)",
+    "cyrillic_name": "бриз",
+    "year_from": 2007,
+    "year_to": 2014,
+    "brand_id": "LIFAN",
+    "nameplates": []
+  },
+  {
+    "id": "CEBRIUM",
+    "name": "Cebrium (720)",
+    "cyrillic_name": "Цебриум",
+    "year_from": 2014,
+    "year_to": 2018,
+    "brand_id": "LIFAN",
+    "nameplates": []
+  },
+  {
+    "id": "CELLIYA",
+    "name": "Celliya (530)",
+    "cyrillic_name": "Селия",
+    "year_from": 2014,
+    "year_to": 2018,
+    "brand_id": "LIFAN",
+    "nameplates": []
+  },
+  {
+    "id": "MURMAN",
+    "name": "Murman (820)",
+    "cyrillic_name": "Мурман",
+    "year_from": 2015,
+    "year_to": 2020,
+    "brand_id": "LIFAN",
+    "nameplates": []
+  },
+  {
+    "id": "MYWAY",
+    "name": "Myway",
+    "cyrillic_name": "Майвей",
+    "year_from": 2016,
+    "year_to": 2020,
+    "brand_id": "LIFAN",
+    "nameplates": []
+  },
+  {
+    "id": "SMILY",
+    "name": "Smily",
+    "cyrillic_name": "Смайли",
+    "year_from": 2008,
+    "year_to": 2018,
+    "brand_id": "LIFAN",
+    "nameplates": []
+  },
+  {
+    "id": "SOLANO",
+    "name": "Solano",
+    "cyrillic_name": "Солано",
+    "year_from": 2008,
+    "year_to": 2018,
+    "brand_id": "LIFAN",
+    "nameplates": []
+  },
+  {
+    "id": "X50",
+    "name": "X50",
+    "cyrillic_name": "х50",
+    "year_from": 2015,
+    "year_to": 2019,
+    "brand_id": "LIFAN",
+    "nameplates": []
+  },
+  {
+    "id": "X60",
+    "name": "X60",
+    "cyrillic_name": "Х60",
+    "year_from": 2011,
+    "year_to": 2018,
+    "brand_id": "LIFAN",
+    "nameplates": []
+  },
+  {
+    "id": "X70",
+    "name": "X70",
+    "cyrillic_name": "Х70",
+    "year_from": 2017,
+    "year_to": 2020,
+    "brand_id": "LIFAN",
+    "nameplates": []
+  }
+]

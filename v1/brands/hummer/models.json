@@ -1,0 +1,29 @@
+[
+  {
+    "id": "H1",
+    "name": "H1",
+    "cyrillic_name": "н1",
+    "year_from": 1992,
+    "year_to": 2006,
+    "brand_id": "HUMMER",
+    "nameplates": []
+  },
+  {
+    "id": "H2",
+    "name": "H2",
+    "cyrillic_name": "н2",
+    "year_from": 2002,
+    "year_to": 2009,
+    "brand_id": "HUMMER",
+    "nameplates": []
+  },
+  {
+    "id": "H3",
+    "name": "H3",
+    "cyrillic_name": "н3",
+    "year_from": 2005,
+    "year_to": 2010,
+    "brand_id": "HUMMER",
+    "nameplates": []
+  }
+]

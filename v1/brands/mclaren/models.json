@@ -1,0 +1,182 @@
+[
+  {
+    "id": "12C",
+    "name": "MP4-12C",
+    "cyrillic_name": "мп4-12с",
+    "year_from": 2011,
+    "year_to": 2014,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "540C",
+    "name": "540C",
+    "cyrillic_name": "540с",
+    "year_from": 2015,
+    "year_to": 2021,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "570GT",
+    "name": "570GT",
+    "cyrillic_name": "570гт",
+    "year_from": 2016,
+    "year_to": 2021,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "570S",
+    "name": "570S",
+    "cyrillic_name": "570с",
+    "year_from": 2015,
+    "year_to": 2021,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "600LT",
+    "name": "600LT",
+    "cyrillic_name": "600лт",
+    "year_from": 2018,
+    "year_to": 2021,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "650S",
+    "name": "650S",
+    "cyrillic_name": "650с",
+    "year_from": 2014,
+    "year_to": 2017,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "675LT",
+    "name": "675LT",
+    "cyrillic_name": "657лт",
+    "year_from": 2015,
+    "year_to": 2017,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "720S",
+    "name": "720S",
+    "cyrillic_name": "720С",
+    "year_from": 2017,
+    "year_to": 2023,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "750S",
+    "name": "750S",
+    "cyrillic_name": "750С",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "765LT",
+    "name": "765LT",
+    "cyrillic_name": "765лт",
+    "year_from": 2020,
+    "year_to": 2023,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "788HS",
+    "name": "788HS",
+    "cyrillic_name": "788XC",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "ARTURA",
+    "name": "Artura",
+    "cyrillic_name": "Артура",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "ELVA",
+    "name": "Elva",
+    "cyrillic_name": "Элва",
+    "year_from": 2020,
+    "year_to": 2023,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "F1",
+    "name": "F1",
+    "cyrillic_name": "ф1",
+    "year_from": 1992,
+    "year_to": 2000,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "GT",
+    "name": "GT",
+    "cyrillic_name": "ГТ",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "GTS",
+    "name": "GTS",
+    "cyrillic_name": "ГТС",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "P1",
+    "name": "P1",
+    "cyrillic_name": "П1",
+    "year_from": 2013,
+    "year_to": 2017,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "SENNA",
+    "name": "Senna",
+    "cyrillic_name": "Сенна",
+    "year_from": 2018,
+    "year_to": 2019,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "SOLUS_GT",
+    "name": "Solus GT",
+    "cyrillic_name": "Солус ГТ",
+    "year_from": 2022,
+    "year_to": 2023,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  },
+  {
+    "id": "W1",
+    "name": "W1",
+    "cyrillic_name": "В1",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "MCLAREN",
+    "nameplates": []
+  }
+]

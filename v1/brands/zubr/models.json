@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LEGENDA",
+    "name": "Legenda",
+    "cyrillic_name": "Легенда",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "ZUBR",
+    "nameplates": []
+  },
+  {
+    "id": "RELIKT",
+    "name": "Relikt",
+    "cyrillic_name": "Реликт",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "ZUBR",
+    "nameplates": []
+  },
+  {
+    "id": "TALISMAN",
+    "name": "Talisman",
+    "cyrillic_name": "Талисман",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "ZUBR",
+    "nameplates": []
+  },
+  {
+    "id": "VOLAT",
+    "name": "Volat",
+    "cyrillic_name": "Волат",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "ZUBR",
+    "nameplates": []
+  },
+  {
+    "id": "ZORKA",
+    "name": "Zorka",
+    "cyrillic_name": "Зорка",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "ZUBR",
+    "nameplates": []
+  }
+]

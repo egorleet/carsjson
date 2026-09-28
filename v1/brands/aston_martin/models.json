@@ -1,0 +1,291 @@
+[
+  {
+    "id": "BULLDOG",
+    "name": "Bulldog",
+    "cyrillic_name": "бульдог",
+    "year_from": 1980,
+    "year_to": 1982,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "CYGNET",
+    "name": "Cygnet",
+    "cyrillic_name": "сигнет",
+    "year_from": 2011,
+    "year_to": 2013,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "DB11",
+    "name": "DB11",
+    "cyrillic_name": "дб11",
+    "year_from": 2016,
+    "year_to": 2023,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": [
+      "DB11",
+      "AMR"
+    ]
+  },
+  {
+    "id": "DB12",
+    "name": "DB12",
+    "cyrillic_name": "ДБ12",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "DB5",
+    "name": "DB5",
+    "cyrillic_name": "дб5",
+    "year_from": 1963,
+    "year_to": 1965,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "DB6",
+    "name": "DB6",
+    "cyrillic_name": "дб6",
+    "year_from": 1965,
+    "year_to": 1970,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "DB7",
+    "name": "DB7",
+    "cyrillic_name": "дб7",
+    "year_from": 1994,
+    "year_to": 2003,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": [
+      "DB7",
+      "GT",
+      "GTA",
+      "Vantage",
+      "Zagato"
+    ]
+  },
+  {
+    "id": "DB9",
+    "name": "DB9",
+    "cyrillic_name": "дб9",
+    "year_from": 2003,
+    "year_to": 2016,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "DBS",
+    "name": "DBS",
+    "cyrillic_name": "дбс",
+    "year_from": 1967,
+    "year_to": 2024,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "DBX",
+    "name": "DBX",
+    "cyrillic_name": "ДБХ",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "DB_AR_1",
+    "name": "DB AR1",
+    "cyrillic_name": "ДБ АР1",
+    "year_from": 2003,
+    "year_to": 2004,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "LAGONDA",
+    "name": "Lagonda",
+    "cyrillic_name": "лагонда",
+    "year_from": 1976,
+    "year_to": 1997,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "LAGONDA_TARAF",
+    "name": "Lagonda Taraf",
+    "cyrillic_name": "Лагонда Тараф",
+    "year_from": 2015,
+    "year_to": 2016,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "ONE_77",
+    "name": "One-77",
+    "cyrillic_name": "ван-77",
+    "year_from": 2009,
+    "year_to": 2012,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "RAPIDE",
+    "name": "Rapide",
+    "cyrillic_name": "Рапиде",
+    "year_from": 2009,
+    "year_to": 2020,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "TICKFORD_CAPRI",
+    "name": "Tickford Capri",
+    "cyrillic_name": "тикфорд капри",
+    "year_from": 1982,
+    "year_to": 1985,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "V12",
+    "name": "Vanquish",
+    "cyrillic_name": "ванквиш",
+    "year_from": 2001,
+    "year_to": 2026,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": [
+      "Vanquish",
+      "S"
+    ]
+  },
+  {
+    "id": "V12_SPEEDSTER",
+    "name": "V12 Speedster",
+    "cyrillic_name": "В12 Спидстер",
+    "year_from": 2020,
+    "year_to": 2022,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "V12_VANTAGE",
+    "name": "V12 Vantage",
+    "cyrillic_name": "в12 вантаж",
+    "year_from": 2009,
+    "year_to": 2026,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": [
+      "V12 Vantage",
+      "RS",
+      "S"
+    ]
+  },
+  {
+    "id": "V12_ZAGATO",
+    "name": "V12 Zagato",
+    "cyrillic_name": "в12 загато",
+    "year_from": 2011,
+    "year_to": 2012,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "V8",
+    "name": "V8 Vantage",
+    "cyrillic_name": "в8 вантаж",
+    "year_from": 1969,
+    "year_to": 2026,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": [
+      "V8 Vantage",
+      "GT8",
+      "Le Mans V600",
+      "N400",
+      "S"
+    ]
+  },
+  {
+    "id": "V8_ZAGATO",
+    "name": "V8 Zagato",
+    "cyrillic_name": "в8 загато",
+    "year_from": 1986,
+    "year_to": 1989,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "VALHALLA",
+    "name": "Valhalla",
+    "cyrillic_name": "Вальхалла",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "VALIANT",
+    "name": "Valiant",
+    "cyrillic_name": "Валиант",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "VALKYRIE",
+    "name": "Valkyrie",
+    "cyrillic_name": "Валькирия",
+    "year_from": 2021,
+    "year_to": 2024,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "VALOUR",
+    "name": "Valour",
+    "cyrillic_name": "Валур",
+    "year_from": 2023,
+    "year_to": 2024,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "VANQUISH_ZAGATO",
+    "name": "Vanquish Zagato",
+    "cyrillic_name": "Ванквиш Загато",
+    "year_from": 2004,
+    "year_to": 2018,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": []
+  },
+  {
+    "id": "VIRAGE",
+    "name": "Virage",
+    "cyrillic_name": "Вираж",
+    "year_from": 1988,
+    "year_to": 2012,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": [
+      "Virage",
+      "Vantage"
+    ]
+  },
+  {
+    "id": "VULCAN",
+    "name": "Vulcan",
+    "cyrillic_name": "Вулкан",
+    "year_from": 2015,
+    "year_to": 2016,
+    "brand_id": "ASTON_MARTIN",
+    "nameplates": [
+      "Vulcan",
+      "AMR Pro"
+    ]
+  }
+]

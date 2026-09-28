@@ -1,0 +1,41 @@
+[
+  {
+    "id": "SKYNOMAD_N70",
+    "name": "Skynomad N70",
+    "cyrillic_name": "Скайномэд Н70",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "XIAOMI",
+    "nameplates": []
+  },
+  {
+    "id": "SKYNOMAD_N90",
+    "name": "Skynomad N90",
+    "cyrillic_name": "Скайномэд Н90",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "XIAOMI",
+    "nameplates": []
+  },
+  {
+    "id": "SU7",
+    "name": "SU7",
+    "cyrillic_name": "ЭсЮ7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "XIAOMI",
+    "nameplates": [
+      "SU7",
+      "Ultra"
+    ]
+  },
+  {
+    "id": "YU7",
+    "name": "YU7",
+    "cyrillic_name": "Ю7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "XIAOMI",
+    "nameplates": []
+  }
+]

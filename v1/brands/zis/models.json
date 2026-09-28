@@ -1,0 +1,29 @@
+[
+  {
+    "id": "101",
+    "name": "101",
+    "cyrillic_name": "101",
+    "year_from": 1936,
+    "year_to": 1941,
+    "brand_id": "ZIS",
+    "nameplates": []
+  },
+  {
+    "id": "102",
+    "name": "102",
+    "cyrillic_name": "102",
+    "year_from": 1938,
+    "year_to": 1939,
+    "brand_id": "ZIS",
+    "nameplates": []
+  },
+  {
+    "id": "110",
+    "name": "110",
+    "cyrillic_name": "110",
+    "year_from": 1945,
+    "year_to": 1958,
+    "brand_id": "ZIS",
+    "nameplates": []
+  }
+]

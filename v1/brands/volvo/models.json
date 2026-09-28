@@ -1,0 +1,482 @@
+[
+  {
+    "id": "120_SERIES",
+    "name": "120 Series",
+    "cyrillic_name": "120 Серия",
+    "year_from": 1956,
+    "year_to": 1970,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "140",
+    "name": "140 Series",
+    "cyrillic_name": "140 Серия",
+    "year_from": 1966,
+    "year_to": 1975,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "164",
+    "name": "164",
+    "cyrillic_name": "164",
+    "year_from": 1968,
+    "year_to": 1974,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "240_SERIES",
+    "name": "240 Series",
+    "cyrillic_name": "240 Серия",
+    "year_from": 1974,
+    "year_to": 1993,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "260",
+    "name": "260 Series",
+    "cyrillic_name": "260 Серия",
+    "year_from": 1974,
+    "year_to": 1982,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "300_SERIES",
+    "name": "300 Series",
+    "cyrillic_name": "300 Серия",
+    "year_from": 1975,
+    "year_to": 1991,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "440",
+    "name": "440",
+    "cyrillic_name": "440",
+    "year_from": 1988,
+    "year_to": 1997,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "460",
+    "name": "460",
+    "cyrillic_name": "460",
+    "year_from": 1988,
+    "year_to": 1997,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "480",
+    "name": "480",
+    "cyrillic_name": "480",
+    "year_from": 1986,
+    "year_to": 1996,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "66",
+    "name": "66",
+    "cyrillic_name": "66",
+    "year_from": 1975,
+    "year_to": 1979,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "740",
+    "name": "740",
+    "cyrillic_name": "740",
+    "year_from": 1983,
+    "year_to": 1992,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "760",
+    "name": "760",
+    "cyrillic_name": "760",
+    "year_from": 1982,
+    "year_to": 1992,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "780",
+    "name": "780",
+    "cyrillic_name": "780",
+    "year_from": 1986,
+    "year_to": 1991,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "850",
+    "name": "850",
+    "cyrillic_name": "850",
+    "year_from": 1991,
+    "year_to": 1997,
+    "brand_id": "VOLVO",
+    "nameplates": [
+      "850",
+      "R",
+      "T-5R"
+    ]
+  },
+  {
+    "id": "940",
+    "name": "940",
+    "cyrillic_name": "940",
+    "year_from": 1988,
+    "year_to": 1998,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "960",
+    "name": "960",
+    "cyrillic_name": "960",
+    "year_from": 1990,
+    "year_to": 1997,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "C30",
+    "name": "C30",
+    "cyrillic_name": "C30",
+    "year_from": 2006,
+    "year_to": 2013,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "C40",
+    "name": "C40",
+    "cyrillic_name": "Си40",
+    "year_from": 2021,
+    "year_to": 2024,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "C70",
+    "name": "C70",
+    "cyrillic_name": "C70",
+    "year_from": 1997,
+    "year_to": 2013,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "EC40",
+    "name": "EC40",
+    "cyrillic_name": "ЕЦ40",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "EM90",
+    "name": "EM90",
+    "cyrillic_name": "ЕМ90",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "ES90",
+    "name": "ES90",
+    "cyrillic_name": "ЕС90",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "EX30",
+    "name": "EX30",
+    "cyrillic_name": "ех30",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "EX30_CROSS_COUNTRY",
+    "name": "EX30 Cross Country",
+    "cyrillic_name": "ех30 Кросс Кантри",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "EX40",
+    "name": "EX40",
+    "cyrillic_name": "ЕХ40",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "EX60",
+    "name": "EX60",
+    "cyrillic_name": "ЕХ60",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOLVO",
+    "nameplates": [
+      "EX60",
+      "Cross Country"
+    ]
+  },
+  {
+    "id": "EX90",
+    "name": "EX90",
+    "cyrillic_name": "ЕХ90",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "LAPLANDER",
+    "name": "Laplander",
+    "cyrillic_name": "Лаплендер",
+    "year_from": 1974,
+    "year_to": 1987,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "P1800",
+    "name": "P1800",
+    "cyrillic_name": "Р1800",
+    "year_from": 1961,
+    "year_to": 1973,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "P1900",
+    "name": "P1900",
+    "cyrillic_name": "п1900",
+    "year_from": 1956,
+    "year_to": 1957,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "PV444",
+    "name": "PV444",
+    "cyrillic_name": "ПВ444",
+    "year_from": 1947,
+    "year_to": 1958,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "PV544",
+    "name": "PV544",
+    "cyrillic_name": "ПВ544",
+    "year_from": 1958,
+    "year_to": 1965,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "S40",
+    "name": "S40",
+    "cyrillic_name": "S40",
+    "year_from": 1995,
+    "year_to": 2012,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "S60",
+    "name": "S60",
+    "cyrillic_name": "S60",
+    "year_from": 2000,
+    "year_to": 2026,
+    "brand_id": "VOLVO",
+    "nameplates": [
+      "S60",
+      "Polestar",
+      "R",
+      "T8 Recharge"
+    ]
+  },
+  {
+    "id": "S60_CROSS_COUNTRY",
+    "name": "S60 Cross Country",
+    "cyrillic_name": "C60 Кросс Кантри",
+    "year_from": 2015,
+    "year_to": 2018,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "S70",
+    "name": "S70",
+    "cyrillic_name": "S70",
+    "year_from": 1996,
+    "year_to": 2000,
+    "brand_id": "VOLVO",
+    "nameplates": [
+      "S70",
+      "R"
+    ]
+  },
+  {
+    "id": "S80",
+    "name": "S80",
+    "cyrillic_name": "S80",
+    "year_from": 1998,
+    "year_to": 2016,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "S90",
+    "name": "S90",
+    "cyrillic_name": "S90",
+    "year_from": 1996,
+    "year_to": 2026,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "V40",
+    "name": "V40",
+    "cyrillic_name": "V40",
+    "year_from": 1995,
+    "year_to": 2020,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "V40_CC",
+    "name": "V40 Cross Country",
+    "cyrillic_name": "V40 Кросс Кантри",
+    "year_from": 2012,
+    "year_to": 2019,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "V50",
+    "name": "V50",
+    "cyrillic_name": "V50",
+    "year_from": 2004,
+    "year_to": 2012,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "V60",
+    "name": "V60",
+    "cyrillic_name": "V60",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "VOLVO",
+    "nameplates": [
+      "V60",
+      "Polestar"
+    ]
+  },
+  {
+    "id": "V60_CROSS_COUNTRY",
+    "name": "V60 Cross Country",
+    "cyrillic_name": "В60 Кросс Кантри",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "V70",
+    "name": "V70",
+    "cyrillic_name": "V70",
+    "year_from": 1997,
+    "year_to": 2016,
+    "brand_id": "VOLVO",
+    "nameplates": [
+      "V70",
+      "R",
+      "XC"
+    ]
+  },
+  {
+    "id": "V90",
+    "name": "V90",
+    "cyrillic_name": "V90",
+    "year_from": 1997,
+    "year_to": 2025,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "V90_CROSS_COUNTRY",
+    "name": "V90 Cross Country",
+    "cyrillic_name": "В90 Кросс Кантри",
+    "year_from": 2016,
+    "year_to": 2025,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "XC40",
+    "name": "XC40",
+    "cyrillic_name": "XC40",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "XC60",
+    "name": "XC60",
+    "cyrillic_name": "XC60",
+    "year_from": 2008,
+    "year_to": 2026,
+    "brand_id": "VOLVO",
+    "nameplates": [
+      "XC60",
+      "Polestar",
+      "Recharge"
+    ]
+  },
+  {
+    "id": "XC70",
+    "name": "XC70",
+    "cyrillic_name": "XC70",
+    "year_from": 2000,
+    "year_to": 2026,
+    "brand_id": "VOLVO",
+    "nameplates": []
+  },
+  {
+    "id": "XC90",
+    "name": "XC90",
+    "cyrillic_name": "XC90",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "VOLVO",
+    "nameplates": [
+      "XC90",
+      "Polestar Performance",
+      "Recharge"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "G9",
+    "name": "G9",
+    "cyrillic_name": "Г9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "STELATO",
+    "nameplates": []
+  },
+  {
+    "id": "S9",
+    "name": "S9",
+    "cyrillic_name": "с9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "STELATO",
+    "nameplates": [
+      "S9",
+      "S9T"
+    ]
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "id": "CASCADA",
+    "name": "Cascada",
+    "cyrillic_name": "Каскада",
+    "year_from": 2015,
+    "year_to": 2019,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "CENTURY",
+    "name": "Century",
+    "cyrillic_name": "сенчури",
+    "year_from": 1973,
+    "year_to": 2005,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "ELECTRA",
+    "name": "Electra",
+    "cyrillic_name": "Электра",
+    "year_from": 1959,
+    "year_to": 1990,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "ELECTRA_E4",
+    "name": "Electra E4",
+    "cyrillic_name": "Электра Е4",
+    "year_from": 2023,
+    "year_to": 2025,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "ELECTRA_E5",
+    "name": "Electra E5",
+    "cyrillic_name": "Электра Е5",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "ELECTRA_E7",
+    "name": "Electra E7",
+    "cyrillic_name": "Электра Е7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "ELECTRA_L7",
+    "name": "Electra L7",
+    "cyrillic_name": "Электра Л7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "ENCLAVE",
+    "name": "Enclave",
+    "cyrillic_name": "анклав",
+    "year_from": 2007,
+    "year_to": 2026,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "ENCORE",
+    "name": "Encore",
+    "cyrillic_name": "Энкор",
+    "year_from": 2012,
+    "year_to": 2022,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "ENCORE_GX",
+    "name": "Encore GX",
+    "cyrillic_name": "Энкор ДжиИкс",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "ENCORE_PLUS",
+    "name": "Encore Plus",
+    "cyrillic_name": "Энкор Плюс",
+    "year_from": 2023,
+    "year_to": 2025,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "ENVISION",
+    "name": "Envision",
+    "cyrillic_name": "энвижн",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "BUICK",
+    "nameplates": [
+      "Envision",
+      "Plus",
+      "S"
+    ]
+  },
+  {
+    "id": "ENVISTA",
+    "name": "Envista",
+    "cyrillic_name": "Энвиста",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "ESTATE_WAGON",
+    "name": "Estate Wagon",
+    "cyrillic_name": "истейт вагон",
+    "year_from": 1977,
+    "year_to": 1990,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "EXCELLE",
+    "name": "Excelle",
+    "cyrillic_name": "Эксель",
+    "year_from": 2004,
+    "year_to": 2023,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "GL6",
+    "name": "GL6",
+    "cyrillic_name": "ГЛ6",
+    "year_from": 2017,
+    "year_to": 2023,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "GL8",
+    "name": "GL8",
+    "cyrillic_name": "гл8",
+    "year_from": 2000,
+    "year_to": 2026,
+    "brand_id": "BUICK",
+    "nameplates": [
+      "GL8",
+      "PHEV"
+    ]
+  },
+  {
+    "id": "GS",
+    "name": "GS",
+    "cyrillic_name": "ГС",
+    "year_from": 1970,
+    "year_to": 1972,
+    "brand_id": "BUICK",
+    "nameplates": [
+      "GS",
+      "GSX"
+    ]
+  },
+  {
+    "id": "LA_CROSSE",
+    "name": "LaCrosse",
+    "cyrillic_name": "ЛаКросс",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "LE_SABRE",
+    "name": "LeSabre",
+    "cyrillic_name": "лесабре",
+    "year_from": 1959,
+    "year_to": 2005,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "LIMITED",
+    "name": "Limited",
+    "cyrillic_name": "лимитед",
+    "year_from": 1958,
+    "year_to": 1959,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "LUCERNE",
+    "name": "Lucerne",
+    "cyrillic_name": "Люцерн",
+    "year_from": 2005,
+    "year_to": 2011,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "PARK_AVENUE",
+    "name": "Park Avenue",
+    "cyrillic_name": "Парк Авеню",
+    "year_from": 1991,
+    "year_to": 2012,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "RAINIER",
+    "name": "Rainier",
+    "cyrillic_name": "Рейнер",
+    "year_from": 2003,
+    "year_to": 2007,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "REATTA",
+    "name": "Reatta",
+    "cyrillic_name": "Риатта",
+    "year_from": 1988,
+    "year_to": 1991,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "REGAL",
+    "name": "Regal",
+    "cyrillic_name": "Регал",
+    "year_from": 1973,
+    "year_to": 2026,
+    "brand_id": "BUICK",
+    "nameplates": [
+      "Regal",
+      "CLX Turbo"
+    ]
+  },
+  {
+    "id": "RENDEZVOUS",
+    "name": "Rendezvous",
+    "cyrillic_name": "Рандеву",
+    "year_from": 2001,
+    "year_to": 2007,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "RIVIERA",
+    "name": "Riviera",
+    "cyrillic_name": "Ривьера",
+    "year_from": 1966,
+    "year_to": 1999,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "ROADMASTER",
+    "name": "Roadmaster",
+    "cyrillic_name": "Роадмастер",
+    "year_from": 1938,
+    "year_to": 1996,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "SKYHAWK",
+    "name": "Skyhawk",
+    "cyrillic_name": "скайхок",
+    "year_from": 1974,
+    "year_to": 1989,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "SKYLARK",
+    "name": "Skylark",
+    "cyrillic_name": "Скайларк",
+    "year_from": 1975,
+    "year_to": 1998,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "SPECIAL",
+    "name": "Special",
+    "cyrillic_name": "спешиал",
+    "year_from": 1936,
+    "year_to": 1969,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "SUPER",
+    "name": "Super",
+    "cyrillic_name": "супер",
+    "year_from": 1942,
+    "year_to": 1953,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "TERRAZA",
+    "name": "Terraza",
+    "cyrillic_name": "Терраза",
+    "year_from": 2005,
+    "year_to": 2007,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "VELITE_5",
+    "name": "Velite 5",
+    "cyrillic_name": "Велит 5",
+    "year_from": 2017,
+    "year_to": 2019,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "VELITE_6",
+    "name": "Velite 6",
+    "cyrillic_name": "Велит 6",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "VELITE_7",
+    "name": "Velite 7",
+    "cyrillic_name": "Велит 7",
+    "year_from": 2020,
+    "year_to": 2022,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "VERANO",
+    "name": "Verano",
+    "cyrillic_name": "Верано",
+    "year_from": 2011,
+    "year_to": 2026,
+    "brand_id": "BUICK",
+    "nameplates": []
+  },
+  {
+    "id": "WILDCAT",
+    "name": "Wildcat",
+    "cyrillic_name": "вайлдкэт",
+    "year_from": 1963,
+    "year_to": 1970,
+    "brand_id": "BUICK",
+    "nameplates": []
+  }
+]

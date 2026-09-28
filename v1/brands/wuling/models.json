@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AISHANG_A100C",
+    "name": "Aishang A100C",
+    "cyrillic_name": "Айшанг А100С",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "BINGUO",
+    "name": "Binguo",
+    "cyrillic_name": "Бингуо",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "BINGUO_PRO",
+    "name": "Binguo Pro",
+    "cyrillic_name": "Бингуо про",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "BINGUO_S",
+    "name": "Binguo S",
+    "cyrillic_name": "Бингуо С",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "HONGGUANG",
+    "name": "Hongguang",
+    "cyrillic_name": "Хонгуан",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "HONGGUANG_PLUS",
+    "name": "Hongguang Plus",
+    "cyrillic_name": "Хонгуан Плюс",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "HONGGUANG_S",
+    "name": "Hongguang S",
+    "cyrillic_name": "Хонгуанг С",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "HONGGUANG_V",
+    "name": "Hongguang V",
+    "cyrillic_name": "Хонгуанг В",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "HUAJING_S",
+    "name": "Huajing S",
+    "cyrillic_name": "Хуаджин С",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "JIACHEN",
+    "name": "Jiachen",
+    "cyrillic_name": "Цзячен",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "JOURNEY",
+    "name": "Journey",
+    "cyrillic_name": "Джорней",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "MINI_EV",
+    "name": "Mini EV",
+    "cyrillic_name": "Мини ЕВ",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "NANO_EV",
+    "name": "Nano EV",
+    "cyrillic_name": "Нано ЕВ",
+    "year_from": 2021,
+    "year_to": 2025,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "NEBULA",
+    "name": "Nebula",
+    "cyrillic_name": "Небула",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "STARLIGHT",
+    "name": "Starlight",
+    "cyrillic_name": "Старлайт",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "STARLIGHT_560",
+    "name": "Starlight 560",
+    "cyrillic_name": "Старлайт 560",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "STARLIGHT_730",
+    "name": "Starlight 730",
+    "cyrillic_name": "Старлайт 730",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "STARLIGHT_L",
+    "name": "Starlight L",
+    "cyrillic_name": "Старлайт Л",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "STARLIGHT_S",
+    "name": "Starlight S",
+    "cyrillic_name": "Старлайт С",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "STAR_ASTA",
+    "name": "Star Asta",
+    "cyrillic_name": "Стар Аста",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "SUNSHINE",
+    "name": "Sunshine",
+    "cyrillic_name": "Саншайн",
+    "year_from": 2012,
+    "year_to": 2022,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "VICTORY",
+    "name": "Victory",
+    "cyrillic_name": "Виктори",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "XINGCHI",
+    "name": "Xingchi",
+    "cyrillic_name": "Синчи",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
+    "id": "ZHIGUAN_EV",
+    "name": "Zhiguan EV",
+    "cyrillic_name": "Жигуан ЕВ",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "WULING",
+    "nameplates": []
+  }
+]

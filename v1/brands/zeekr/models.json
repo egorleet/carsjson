@@ -1,0 +1,83 @@
+[
+  {
+    "id": "001",
+    "name": "001",
+    "cyrillic_name": "001",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "ZEEKR",
+    "nameplates": [
+      "001",
+      "FR"
+    ]
+  },
+  {
+    "id": "007",
+    "name": "007",
+    "cyrillic_name": "007",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "ZEEKR",
+    "nameplates": [
+      "007",
+      "GT"
+    ]
+  },
+  {
+    "id": "009",
+    "name": "009",
+    "cyrillic_name": "009",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "ZEEKR",
+    "nameplates": []
+  },
+  {
+    "id": "7X",
+    "name": "7X",
+    "cyrillic_name": "7Х",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "ZEEKR",
+    "nameplates": []
+  },
+  {
+    "id": "8X",
+    "name": "8X",
+    "cyrillic_name": "8Х",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "ZEEKR",
+    "nameplates": [
+      "8X",
+      "Dawn"
+    ]
+  },
+  {
+    "id": "9X",
+    "name": "9X",
+    "cyrillic_name": "9Х",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "ZEEKR",
+    "nameplates": []
+  },
+  {
+    "id": "MIX",
+    "name": "Mix",
+    "cyrillic_name": "Микс",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "ZEEKR",
+    "nameplates": []
+  },
+  {
+    "id": "X",
+    "name": "X",
+    "cyrillic_name": "Икс",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "ZEEKR",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "BESTUNE_B70",
+    "name": "Bestune B70",
+    "cyrillic_name": "Бестюн Б70",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTUNE_B70S",
+    "name": "Bestune B70S",
+    "cyrillic_name": "Бестюн Б70С",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTUNE_E01",
+    "name": "Bestune E01",
+    "cyrillic_name": "Бестюн Е01",
+    "year_from": 2020,
+    "year_to": 2024,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTUNE_JOYEE_03",
+    "name": "Bestune Joyee 03",
+    "cyrillic_name": "Бестюн юи 03",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTUNE_JOYEE_07",
+    "name": "Bestune Joyee 07",
+    "cyrillic_name": "Бестюн юи 07",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTUNE_JOYEE_08",
+    "name": "Bestune Joyee 08",
+    "cyrillic_name": "Бестюн юи 08",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTUNE_M9",
+    "name": "Bestune M9",
+    "cyrillic_name": "Бестун М9",
+    "year_from": 2023,
+    "year_to": 2024,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTUNE_NAT",
+    "name": "Bestune NAT",
+    "cyrillic_name": "Бестюн НАТ",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTUNE_PONY",
+    "name": "Bestune Pony",
+    "cyrillic_name": "Бестюн Пони",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTUNE_T33",
+    "name": "Bestune T33",
+    "cyrillic_name": "Бестюн Т33",
+    "year_from": 2019,
+    "year_to": 2021,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTUNE_T55",
+    "name": "Bestune T55",
+    "cyrillic_name": "Бестюн Т55",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTUNE_T77",
+    "name": "Bestune T77",
+    "cyrillic_name": "Бестюн Т77",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTUNE_T90",
+    "name": "Bestune T90",
+    "cyrillic_name": "Бестюн Т90",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTUNE_T99",
+    "name": "Bestune T99",
+    "cyrillic_name": "Бестюн Т99",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTURN_B30",
+    "name": "Besturn B30",
+    "cyrillic_name": "Бестёрн Б30",
+    "year_from": 2015,
+    "year_to": 2020,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTURN_B50",
+    "name": "Besturn B50",
+    "cyrillic_name": "Бестёрн Б50",
+    "year_from": 2009,
+    "year_to": 2016,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTURN_B70",
+    "name": "Besturn B70",
+    "cyrillic_name": "Бестёрн Б70",
+    "year_from": 2006,
+    "year_to": 2018,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "BESTURN_X40",
+    "name": "Besturn X40",
+    "cyrillic_name": "Бестурн Х40",
+    "year_from": 2016,
+    "year_to": 2023,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "CA6420",
+    "name": "CA6420",
+    "cyrillic_name": "ЦА6420",
+    "year_from": 2013,
+    "year_to": 2025,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "D60",
+    "name": "D60",
+    "cyrillic_name": "Д60",
+    "year_from": 2014,
+    "year_to": 2017,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "JINN",
+    "name": "Jinn",
+    "cyrillic_name": "Джин",
+    "year_from": 2005,
+    "year_to": 2009,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "OLEY",
+    "name": "Oley",
+    "cyrillic_name": "Оли",
+    "year_from": 2012,
+    "year_to": 2015,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "V2",
+    "name": "V2",
+    "cyrillic_name": "в2",
+    "year_from": 2010,
+    "year_to": 2015,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "V5",
+    "name": "V5",
+    "cyrillic_name": "в5",
+    "year_from": 2012,
+    "year_to": 2017,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "VITA",
+    "name": "Vita",
+    "cyrillic_name": "вита",
+    "year_from": 2007,
+    "year_to": 2010,
+    "brand_id": "FAW",
+    "nameplates": []
+  },
+  {
+    "id": "X80",
+    "name": "Besturn X80",
+    "cyrillic_name": "Бестёрн Икс80",
+    "year_from": 2013,
+    "year_to": 2022,
+    "brand_id": "FAW",
+    "nameplates": []
+  }
+]

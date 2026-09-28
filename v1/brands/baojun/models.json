@@ -1,0 +1,191 @@
+[
+  {
+    "id": "310",
+    "name": "310",
+    "cyrillic_name": "310",
+    "year_from": 2016,
+    "year_to": 2021,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "360",
+    "name": "360",
+    "cyrillic_name": "360",
+    "year_from": 2018,
+    "year_to": 2021,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "510",
+    "name": "510",
+    "cyrillic_name": "510",
+    "year_from": 2017,
+    "year_to": 2023,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "530",
+    "name": "530",
+    "cyrillic_name": "530",
+    "year_from": 2018,
+    "year_to": 2021,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "730",
+    "name": "730",
+    "cyrillic_name": "730",
+    "year_from": 2014,
+    "year_to": 2021,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "E100",
+    "name": "E100",
+    "cyrillic_name": "е100",
+    "year_from": 2017,
+    "year_to": 2021,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "E200",
+    "name": "E200",
+    "cyrillic_name": "е200",
+    "year_from": 2018,
+    "year_to": 2022,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "E300",
+    "name": "E300",
+    "cyrillic_name": "Е300",
+    "year_from": 2020,
+    "year_to": 2021,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "KIWI_EV",
+    "name": "Kiwi EV",
+    "cyrillic_name": "Киви ЕВ",
+    "year_from": 2021,
+    "year_to": 2025,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "RC_5",
+    "name": "RC-5",
+    "cyrillic_name": "РЦ-5",
+    "year_from": 2020,
+    "year_to": 2021,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "RC_6",
+    "name": "RC-6",
+    "cyrillic_name": "РЦ-6",
+    "year_from": 2019,
+    "year_to": 2021,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "RM_5",
+    "name": "RM-5",
+    "cyrillic_name": "РМ-5",
+    "year_from": 2019,
+    "year_to": 2021,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "RS_3",
+    "name": "RS-3",
+    "cyrillic_name": "РС-3",
+    "year_from": 2019,
+    "year_to": 2021,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "RS_5",
+    "name": "RS-5",
+    "cyrillic_name": "РС-5",
+    "year_from": 2019,
+    "year_to": 2021,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "RS_7",
+    "name": "RS-7",
+    "cyrillic_name": "РС-7",
+    "year_from": 2020,
+    "year_to": 2022,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "VALLI",
+    "name": "Valli",
+    "cyrillic_name": "Валли",
+    "year_from": 2021,
+    "year_to": 2022,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "XIANGJING",
+    "name": "Xiangjing",
+    "cyrillic_name": "Ксиангджинг",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "YEP",
+    "name": "Yep",
+    "cyrillic_name": "Еп",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "YEP_PLUS",
+    "name": "Yep Plus",
+    "cyrillic_name": "Еп Плюс",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "YUNDUO",
+    "name": "Yunduo",
+    "cyrillic_name": "Юньдуо",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  },
+  {
+    "id": "YUNHAI",
+    "name": "Yunhai",
+    "cyrillic_name": "Юньхай",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BAOJUN",
+    "nameplates": []
+  }
+]

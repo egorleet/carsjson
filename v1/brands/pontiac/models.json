@@ -1,0 +1,291 @@
+[
+  {
+    "id": "6000",
+    "name": "6000",
+    "cyrillic_name": "6000",
+    "year_from": 1982,
+    "year_to": 1991,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "AZTEK",
+    "name": "Aztek",
+    "cyrillic_name": "Ацтек",
+    "year_from": 2001,
+    "year_to": 2005,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "BONNEVILLE",
+    "name": "Bonneville",
+    "cyrillic_name": "Бонневиль",
+    "year_from": 1965,
+    "year_to": 2005,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "CATALINA",
+    "name": "Catalina",
+    "cyrillic_name": "Каталина",
+    "year_from": 1959,
+    "year_to": 1981,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "FIERO",
+    "name": "Fiero",
+    "cyrillic_name": "Фиеро",
+    "year_from": 1984,
+    "year_to": 1988,
+    "brand_id": "PONTIAC",
+    "nameplates": [
+      "Fiero",
+      "GT"
+    ]
+  },
+  {
+    "id": "FIREBIRD",
+    "name": "Firebird",
+    "cyrillic_name": "Фаербёрд",
+    "year_from": 1967,
+    "year_to": 2002,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "FIREFLY",
+    "name": "Firefly",
+    "cyrillic_name": "Файрфлай",
+    "year_from": 1985,
+    "year_to": 1988,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "G4",
+    "name": "G4",
+    "cyrillic_name": "г4",
+    "year_from": 2005,
+    "year_to": 2010,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "G5",
+    "name": "G5",
+    "cyrillic_name": "г5",
+    "year_from": 2004,
+    "year_to": 2010,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "G6",
+    "name": "G6",
+    "cyrillic_name": "г6",
+    "year_from": 2004,
+    "year_to": 2009,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "G8",
+    "name": "G8",
+    "cyrillic_name": "г8",
+    "year_from": 2007,
+    "year_to": 2009,
+    "brand_id": "PONTIAC",
+    "nameplates": [
+      "G8",
+      "GT",
+      "GXP"
+    ]
+  },
+  {
+    "id": "GRAND_AM",
+    "name": "Grand AM",
+    "cyrillic_name": "Гранд АМ",
+    "year_from": 1984,
+    "year_to": 2005,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "GRAND_PRIX",
+    "name": "Grand Prix",
+    "cyrillic_name": "Гран При",
+    "year_from": 1962,
+    "year_to": 2008,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "GTO",
+    "name": "GTO",
+    "cyrillic_name": "гто",
+    "year_from": 1964,
+    "year_to": 2006,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "LAURENTIAN",
+    "name": "Laurentian",
+    "cyrillic_name": "Лаурентиан",
+    "year_from": 1955,
+    "year_to": 1957,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "LEMANS",
+    "name": "LeMans",
+    "cyrillic_name": "ЛеМан",
+    "year_from": 1964,
+    "year_to": 1993,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "MONTANA",
+    "name": "Montana",
+    "cyrillic_name": "Монтана",
+    "year_from": 1997,
+    "year_to": 2009,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "PARISIENNE",
+    "name": "Parisienne",
+    "cyrillic_name": "паризьен",
+    "year_from": 1971,
+    "year_to": 1986,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "PHOENIX",
+    "name": "Phoenix",
+    "cyrillic_name": "Феникс",
+    "year_from": 1977,
+    "year_to": 1984,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "QUALITY_115",
+    "name": "Quality 115",
+    "cyrillic_name": "Квалити 115",
+    "year_from": 1939,
+    "year_to": 1939,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "SOLSTICE",
+    "name": "Solstice",
+    "cyrillic_name": "Солстайс",
+    "year_from": 2005,
+    "year_to": 2009,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "SUNBIRD",
+    "name": "Sunbird",
+    "cyrillic_name": "Санбёрд",
+    "year_from": 1975,
+    "year_to": 1994,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "SUNFIRE",
+    "name": "Sunfire",
+    "cyrillic_name": "Санфаер",
+    "year_from": 1995,
+    "year_to": 2005,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "SUNRUNNER",
+    "name": "Sunrunner",
+    "cyrillic_name": "Санраннер",
+    "year_from": 1994,
+    "year_to": 1998,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "TEMPEST",
+    "name": "Tempest",
+    "cyrillic_name": "Темпест",
+    "year_from": 1961,
+    "year_to": 1991,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "TORPEDO",
+    "name": "Torpedo",
+    "cyrillic_name": "Торпедо",
+    "year_from": 1939,
+    "year_to": 1948,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "TORRENT",
+    "name": "Torrent",
+    "cyrillic_name": "Торрент",
+    "year_from": 2005,
+    "year_to": 2009,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "TRANS_SPORT",
+    "name": "Trans Sport",
+    "cyrillic_name": "Транс Спорт",
+    "year_from": 1989,
+    "year_to": 1999,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "VENTURA",
+    "name": "Ventura",
+    "cyrillic_name": "Вентура",
+    "year_from": 1960,
+    "year_to": 1977,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  },
+  {
+    "id": "VIBE",
+    "name": "Vibe",
+    "cyrillic_name": "Вайб",
+    "year_from": 2002,
+    "year_to": 2010,
+    "brand_id": "PONTIAC",
+    "nameplates": [
+      "Vibe",
+      "GT"
+    ]
+  },
+  {
+    "id": "WAVE",
+    "name": "Wave",
+    "cyrillic_name": "Вейв",
+    "year_from": 2004,
+    "year_to": 2009,
+    "brand_id": "PONTIAC",
+    "nameplates": []
+  }
+]

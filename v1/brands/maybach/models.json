@@ -1,0 +1,38 @@
+[
+  {
+    "id": "57",
+    "name": "57",
+    "cyrillic_name": "57",
+    "year_from": 2002,
+    "year_to": 2013,
+    "brand_id": "MAYBACH",
+    "nameplates": []
+  },
+  {
+    "id": "62",
+    "name": "62",
+    "cyrillic_name": "62",
+    "year_from": 2002,
+    "year_to": 2012,
+    "brand_id": "MAYBACH",
+    "nameplates": []
+  },
+  {
+    "id": "EXELERO",
+    "name": "Exelero",
+    "cyrillic_name": "Экселеро",
+    "year_from": 2005,
+    "year_to": 2005,
+    "brand_id": "MAYBACH",
+    "nameplates": []
+  },
+  {
+    "id": "SW38",
+    "name": "SW38",
+    "cyrillic_name": "СВ38",
+    "year_from": 1936,
+    "year_to": 1938,
+    "brand_id": "MAYBACH",
+    "nameplates": []
+  }
+]

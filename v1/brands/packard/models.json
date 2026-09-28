@@ -1,0 +1,83 @@
+[
+  {
+    "id": "200_250",
+    "name": "200/250",
+    "cyrillic_name": "200/250",
+    "year_from": 1951,
+    "year_to": 1952,
+    "brand_id": "PACKARD",
+    "nameplates": []
+  },
+  {
+    "id": "CARIBBEAN",
+    "name": "Caribbean",
+    "cyrillic_name": "Каррибиан",
+    "year_from": 1953,
+    "year_to": 1956,
+    "brand_id": "PACKARD",
+    "nameplates": []
+  },
+  {
+    "id": "CLIPPER",
+    "name": "Clipper",
+    "cyrillic_name": "клиппер",
+    "year_from": 1941,
+    "year_to": 1947,
+    "brand_id": "PACKARD",
+    "nameplates": []
+  },
+  {
+    "id": "CUSTOM_EIGHT",
+    "name": "Custom Eight",
+    "cyrillic_name": "Кастом Эйт",
+    "year_from": 1948,
+    "year_to": 1950,
+    "brand_id": "PACKARD",
+    "nameplates": []
+  },
+  {
+    "id": "ONE_TEN",
+    "name": "One-Ten",
+    "cyrillic_name": "уан-тен",
+    "year_from": 1940,
+    "year_to": 1941,
+    "brand_id": "PACKARD",
+    "nameplates": []
+  },
+  {
+    "id": "ONE_TWENTY",
+    "name": "One-Twenty",
+    "cyrillic_name": "уан-твенти",
+    "year_from": 1935,
+    "year_to": 1941,
+    "brand_id": "PACKARD",
+    "nameplates": []
+  },
+  {
+    "id": "SIX",
+    "name": "Six",
+    "cyrillic_name": "Сикс",
+    "year_from": 1912,
+    "year_to": 1939,
+    "brand_id": "PACKARD",
+    "nameplates": []
+  },
+  {
+    "id": "SUPER_EIGHT",
+    "name": "Super Eight",
+    "cyrillic_name": "Супер Эйт",
+    "year_from": 1933,
+    "year_to": 1939,
+    "brand_id": "PACKARD",
+    "nameplates": []
+  },
+  {
+    "id": "TWELVE",
+    "name": "Twelve",
+    "cyrillic_name": "твелв",
+    "year_from": 1932,
+    "year_to": 1939,
+    "brand_id": "PACKARD",
+    "nameplates": []
+  }
+]

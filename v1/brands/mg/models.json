@@ -1,0 +1,369 @@
+[
+  {
+    "id": "07",
+    "name": "07",
+    "cyrillic_name": "07",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "3",
+    "name": "3",
+    "cyrillic_name": "3",
+    "year_from": 2011,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": [
+      "3",
+      "Xross"
+    ]
+  },
+  {
+    "id": "350",
+    "name": "350",
+    "cyrillic_name": "350",
+    "year_from": 2010,
+    "year_to": 2015,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "4X",
+    "name": "4X",
+    "cyrillic_name": "4Х",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "4_EV",
+    "name": "4 EV",
+    "cyrillic_name": "4 ЕВ",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "5",
+    "name": "5",
+    "cyrillic_name": "5",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "550",
+    "name": "550",
+    "cyrillic_name": "550",
+    "year_from": 2009,
+    "year_to": 2017,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "5_EV",
+    "name": "5 EV",
+    "cyrillic_name": "5 ЕВ",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "5_SCORPIO",
+    "name": "5 Scorpio",
+    "cyrillic_name": "5 Скорпио",
+    "year_from": 2022,
+    "year_to": 2024,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "6",
+    "name": "6",
+    "cyrillic_name": "6",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": [
+      "6",
+      "PHEV",
+      "XPOWER"
+    ]
+  },
+  {
+    "id": "6_PRO",
+    "name": "6 Pro",
+    "cyrillic_name": "6 Про",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "7",
+    "name": "7",
+    "cyrillic_name": "7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "750",
+    "name": "750",
+    "cyrillic_name": "750",
+    "year_from": 2006,
+    "year_to": 2016,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "8",
+    "name": "8",
+    "cyrillic_name": "8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "CYBERSTER",
+    "name": "Cyberster",
+    "cyrillic_name": "Киберстер",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "ES5",
+    "name": "ES5",
+    "cyrillic_name": "ЕС5",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "F",
+    "name": "F",
+    "cyrillic_name": "ф",
+    "year_from": 1995,
+    "year_to": 2002,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "GS",
+    "name": "GS",
+    "cyrillic_name": "Джи Эс",
+    "year_from": 2015,
+    "year_to": 2019,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "HS",
+    "name": "HS",
+    "cyrillic_name": "ХС",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "MAESTRO",
+    "name": "Maestro",
+    "cyrillic_name": "Маэстро",
+    "year_from": 1983,
+    "year_to": 1990,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "METRO",
+    "name": "Metro",
+    "cyrillic_name": "Метро",
+    "year_from": 1982,
+    "year_to": 1990,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "MGA",
+    "name": "MGA",
+    "cyrillic_name": "МГА",
+    "year_from": 1955,
+    "year_to": 1962,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "MGB",
+    "name": "MGB",
+    "cyrillic_name": "мгб",
+    "year_from": 1966,
+    "year_to": 1980,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "MIDGET",
+    "name": "Midget",
+    "cyrillic_name": "Миджет",
+    "year_from": 1964,
+    "year_to": 1979,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "MONTEGO",
+    "name": "Montego",
+    "cyrillic_name": "Монтего",
+    "year_from": 1984,
+    "year_to": 1990,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "MULAN",
+    "name": "Mulan",
+    "cyrillic_name": "Мулан",
+    "year_from": 2022,
+    "year_to": 2023,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "ONE",
+    "name": "One",
+    "cyrillic_name": "Уан",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "PILOT",
+    "name": "Pilot",
+    "cyrillic_name": "Пилот",
+    "year_from": 2020,
+    "year_to": 2023,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "RV8",
+    "name": "RV8",
+    "cyrillic_name": "рв8",
+    "year_from": 1992,
+    "year_to": 1995,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "RX5",
+    "name": "RX5",
+    "cyrillic_name": "РХ5",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "RX8",
+    "name": "RX8",
+    "cyrillic_name": "РИкс8",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "RX9",
+    "name": "RX9",
+    "cyrillic_name": "rx9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "T60",
+    "name": "T60",
+    "cyrillic_name": "Т60",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "TD_MIDGET",
+    "name": "TD Midget",
+    "cyrillic_name": "ТД-Миджет",
+    "year_from": 1950,
+    "year_to": 1953,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "TF",
+    "name": "TF",
+    "cyrillic_name": "тф",
+    "year_from": 2002,
+    "year_to": 2005,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "U9",
+    "name": "U9",
+    "cyrillic_name": "Ю9",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "XPOWER_SV",
+    "name": "Xpower SV",
+    "cyrillic_name": "хпауер св",
+    "year_from": 2003,
+    "year_to": 2005,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "ZR",
+    "name": "ZR",
+    "cyrillic_name": "зр",
+    "year_from": 2001,
+    "year_to": 2005,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "ZS",
+    "name": "ZS",
+    "cyrillic_name": "зс",
+    "year_from": 2001,
+    "year_to": 2026,
+    "brand_id": "MG",
+    "nameplates": []
+  },
+  {
+    "id": "ZT",
+    "name": "ZT",
+    "cyrillic_name": "ЗТ",
+    "year_from": 2001,
+    "year_to": 2005,
+    "brand_id": "MG",
+    "nameplates": []
+  }
+]

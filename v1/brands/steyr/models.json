@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1500",
+    "name": "1500",
+    "cyrillic_name": "1500",
+    "year_from": 1941,
+    "year_to": 1944,
+    "brand_id": "STEYR",
+    "nameplates": []
+  },
+  {
+    "id": "HAFLINGER",
+    "name": "Haflinger",
+    "cyrillic_name": "Хафлингер",
+    "year_from": 1959,
+    "year_to": 1974,
+    "brand_id": "STEYR",
+    "nameplates": []
+  }
+]

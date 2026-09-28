@@ -1,0 +1,173 @@
+[
+  {
+    "id": "HYPER_GT",
+    "name": "Hyptec GT (Hyper GT)",
+    "cyrillic_name": "Хиптек Джи Ти (Гипер Джи Ти)",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "HYPER_HT",
+    "name": "Hyptec HT (Hyper HT)",
+    "cyrillic_name": "Хиптек Аш Ти (Гипер Аш Ти)",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "HYPER_SSR",
+    "name": "Hyptec SSR (Hyper SSR)",
+    "cyrillic_name": "Хиптек Эс Эс Эр (Гипер Эс Эс Эр)",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "HYPTEC_A800",
+    "name": "Hyptec A800",
+    "cyrillic_name": "Хиптек А800",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "HYPTEC_HL",
+    "name": "Hyptec HL",
+    "cyrillic_name": "Хиптек Аш Эл",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "HYPTEC_S600",
+    "name": "Hyptec S600",
+    "cyrillic_name": "Хиптек Эс600",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "I60",
+    "name": "I60",
+    "cyrillic_name": "И60",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "LX",
+    "name": "LX",
+    "cyrillic_name": "ЛХ",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "LX_PLUS",
+    "name": "LX Plus",
+    "cyrillic_name": "ЛХ Плюс",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "N60",
+    "name": "N60",
+    "cyrillic_name": "Н60",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "RAY_7",
+    "name": "Ray 7",
+    "cyrillic_name": "Рэй 7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "RT",
+    "name": "RT",
+    "cyrillic_name": "РТ",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "S",
+    "name": "S",
+    "cyrillic_name": "С",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "S_PLUS",
+    "name": "S Plus",
+    "cyrillic_name": "С Плюс",
+    "year_from": 2021,
+    "year_to": 2025,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "UT",
+    "name": "UT",
+    "cyrillic_name": "ЮТ",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "V",
+    "name": "V",
+    "cyrillic_name": "Ви",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "V_PLUS",
+    "name": "V Plus",
+    "cyrillic_name": "В Плюс",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "Y",
+    "name": "Y",
+    "cyrillic_name": "Уай",
+    "year_from": 2021,
+    "year_to": 2022,
+    "brand_id": "AION",
+    "nameplates": []
+  },
+  {
+    "id": "Y_PLUS",
+    "name": "Y Plus",
+    "cyrillic_name": "Уай Плюс",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "AION",
+    "nameplates": []
+  }
+]

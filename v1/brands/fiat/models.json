@@ -1,0 +1,563 @@
+[
+  {
+    "id": "1100",
+    "name": "1100",
+    "cyrillic_name": "1100",
+    "year_from": 1939,
+    "year_to": 1948,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "124",
+    "name": "124",
+    "cyrillic_name": "124",
+    "year_from": 1966,
+    "year_to": 1976,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "124_SPIDER",
+    "name": "124 Spider",
+    "cyrillic_name": "124 спайдер",
+    "year_from": 2016,
+    "year_to": 2020,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "124_SPORT_SPIDER",
+    "name": "124 Sport Spider",
+    "cyrillic_name": "124 Спорт Спайдер",
+    "year_from": 1966,
+    "year_to": 1985,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "125",
+    "name": "125",
+    "cyrillic_name": "125",
+    "year_from": 1967,
+    "year_to": 1982,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "126",
+    "name": "126",
+    "cyrillic_name": "126",
+    "year_from": 1972,
+    "year_to": 1996,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "127",
+    "name": "127",
+    "cyrillic_name": "127",
+    "year_from": 1971,
+    "year_to": 1987,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "128",
+    "name": "128",
+    "cyrillic_name": "128",
+    "year_from": 1969,
+    "year_to": 1985,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "130",
+    "name": "130",
+    "cyrillic_name": "130",
+    "year_from": 1969,
+    "year_to": 1978,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "131",
+    "name": "131",
+    "cyrillic_name": "131",
+    "year_from": 1974,
+    "year_to": 1985,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "132",
+    "name": "132",
+    "cyrillic_name": "132",
+    "year_from": 1972,
+    "year_to": 1982,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "1500",
+    "name": "1500",
+    "cyrillic_name": "1500",
+    "year_from": 1935,
+    "year_to": 1950,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "2300",
+    "name": "2300",
+    "cyrillic_name": "2300",
+    "year_from": 1961,
+    "year_to": 1969,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "238",
+    "name": "238",
+    "cyrillic_name": "238",
+    "year_from": 1966,
+    "year_to": 1982,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "500",
+    "name": "500",
+    "cyrillic_name": "500",
+    "year_from": 1936,
+    "year_to": 2026,
+    "brand_id": "FIAT",
+    "nameplates": [
+      "500",
+      "500e"
+    ]
+  },
+  {
+    "id": "500L",
+    "name": "500L",
+    "cyrillic_name": "500Л",
+    "year_from": 2012,
+    "year_to": 2022,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "500X",
+    "name": "500X",
+    "cyrillic_name": "500Х",
+    "year_from": 2014,
+    "year_to": 2023,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "508",
+    "name": "508",
+    "cyrillic_name": "508",
+    "year_from": 1932,
+    "year_to": 1939,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "600",
+    "name": "600",
+    "cyrillic_name": "600",
+    "year_from": 2005,
+    "year_to": 2010,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "600E",
+    "name": "600e",
+    "cyrillic_name": "600е",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "850",
+    "name": "850",
+    "cyrillic_name": "850",
+    "year_from": 1964,
+    "year_to": 1971,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "900T",
+    "name": "900T",
+    "cyrillic_name": "900т",
+    "year_from": 1976,
+    "year_to": 1985,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "ALBEA",
+    "name": "Albea",
+    "cyrillic_name": "Альбеа",
+    "year_from": 2002,
+    "year_to": 2012,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "ARGENTA",
+    "name": "Argenta",
+    "cyrillic_name": "Аргента",
+    "year_from": 1981,
+    "year_to": 1986,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "BARCHETTA",
+    "name": "Barchetta",
+    "cyrillic_name": "Барчетта",
+    "year_from": 1995,
+    "year_to": 2005,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "BRAVA",
+    "name": "Brava",
+    "cyrillic_name": "Брава",
+    "year_from": 1995,
+    "year_to": 2001,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "BRAVO",
+    "name": "Bravo",
+    "cyrillic_name": "Браво",
+    "year_from": 1995,
+    "year_to": 2014,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "CINQUECENTO",
+    "name": "Cinquecento",
+    "cyrillic_name": "Чинквеченто",
+    "year_from": 1991,
+    "year_to": 1998,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "COUPE",
+    "name": "Coupe",
+    "cyrillic_name": "Купе",
+    "year_from": 1993,
+    "year_to": 2001,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "CROMA",
+    "name": "Croma",
+    "cyrillic_name": "Крома",
+    "year_from": 1985,
+    "year_to": 2011,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "DOBLO",
+    "name": "Doblo",
+    "cyrillic_name": "Добло",
+    "year_from": 2000,
+    "year_to": 2026,
+    "brand_id": "FIAT",
+    "nameplates": [
+      "Doblo",
+      "Crew Cab"
+    ]
+  },
+  {
+    "id": "DUNA",
+    "name": "Duna",
+    "cyrillic_name": "Дюна",
+    "year_from": 1987,
+    "year_to": 1991,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "EGEA",
+    "name": "Egea",
+    "cyrillic_name": "Егеа",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "FASTBACK",
+    "name": "Fastback",
+    "cyrillic_name": "Фастбек",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "FIORINO",
+    "name": "Fiorino",
+    "cyrillic_name": "Фиорино",
+    "year_from": 1977,
+    "year_to": 2024,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "FREEMONT",
+    "name": "Freemont",
+    "cyrillic_name": "Фримонт",
+    "year_from": 2011,
+    "year_to": 2016,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "FULLBACK",
+    "name": "Fullback",
+    "cyrillic_name": "Фулбек",
+    "year_from": 2016,
+    "year_to": 2020,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "GRANDE_PANDA",
+    "name": "Grande Panda",
+    "cyrillic_name": "Гранд Панда",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "IDEA",
+    "name": "Idea",
+    "cyrillic_name": "Идеа",
+    "year_from": 2003,
+    "year_to": 2016,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "LINEA",
+    "name": "Linea",
+    "cyrillic_name": "Линеа",
+    "year_from": 2007,
+    "year_to": 2018,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "MAREA",
+    "name": "Marea",
+    "cyrillic_name": "Мареа",
+    "year_from": 1996,
+    "year_to": 2002,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "MULTIPLA",
+    "name": "Multipla",
+    "cyrillic_name": "Мультипла",
+    "year_from": 1998,
+    "year_to": 2010,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "PALIO",
+    "name": "Palio",
+    "cyrillic_name": "Палио",
+    "year_from": 1996,
+    "year_to": 2017,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "PANDA",
+    "name": "Panda",
+    "cyrillic_name": "Панда",
+    "year_from": 1981,
+    "year_to": 2026,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "PULSE",
+    "name": "Pulse",
+    "cyrillic_name": "Пульс",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "PUNTO",
+    "name": "Punto",
+    "cyrillic_name": "Пунто",
+    "year_from": 1993,
+    "year_to": 2018,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "QUBO",
+    "name": "Qubo",
+    "cyrillic_name": "Кубо",
+    "year_from": 2007,
+    "year_to": 2019,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "REGATA",
+    "name": "Regata",
+    "cyrillic_name": "Регата",
+    "year_from": 1983,
+    "year_to": 1990,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "RITMO",
+    "name": "Ritmo",
+    "cyrillic_name": "Ритмо",
+    "year_from": 1978,
+    "year_to": 1989,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "SCUDO",
+    "name": "Scudo",
+    "cyrillic_name": "Скудо",
+    "year_from": 1995,
+    "year_to": 2026,
+    "brand_id": "FIAT",
+    "nameplates": [
+      "Scudo",
+      "Long"
+    ]
+  },
+  {
+    "id": "SEDICI",
+    "name": "Sedici",
+    "cyrillic_name": "Седичи",
+    "year_from": 2005,
+    "year_to": 2014,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "SEICENTO",
+    "name": "Seicento",
+    "cyrillic_name": "Сейеченто",
+    "year_from": 1998,
+    "year_to": 2010,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "SIENA",
+    "name": "Siena",
+    "cyrillic_name": "Сиена",
+    "year_from": 1996,
+    "year_to": 2017,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "STILO",
+    "name": "Stilo",
+    "cyrillic_name": "Стило",
+    "year_from": 2001,
+    "year_to": 2007,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "STRADA",
+    "name": "Strada",
+    "cyrillic_name": "Страда",
+    "year_from": 1998,
+    "year_to": 2026,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "TEMPRA",
+    "name": "Tempra",
+    "cyrillic_name": "Темпра",
+    "year_from": 1990,
+    "year_to": 1999,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "TIPO",
+    "name": "Tipo",
+    "cyrillic_name": "Типо",
+    "year_from": 1988,
+    "year_to": 2026,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "TOPOLINO",
+    "name": "Topolino",
+    "cyrillic_name": "Тополино",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "ULYSSE",
+    "name": "Ulysse",
+    "cyrillic_name": "Улисс",
+    "year_from": 1994,
+    "year_to": 2026,
+    "brand_id": "FIAT",
+    "nameplates": [
+      "Ulysse",
+      "E-Ulysse"
+    ]
+  },
+  {
+    "id": "UNO",
+    "name": "Uno",
+    "cyrillic_name": "Уно",
+    "year_from": 1983,
+    "year_to": 2002,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
+    "id": "X_1_9",
+    "name": "X 1/9",
+    "cyrillic_name": "X 1/9",
+    "year_from": 1972,
+    "year_to": 1989,
+    "brand_id": "FIAT",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "ARENA",
+    "name": "Arena",
+    "cyrillic_name": "арена",
+    "year_from": 2002,
+    "year_to": 2010,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "EXORA",
+    "name": "Exora",
+    "cyrillic_name": "ехора",
+    "year_from": 2009,
+    "year_to": 2023,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "GEN_2",
+    "name": "Gen-2",
+    "cyrillic_name": "ген-2",
+    "year_from": 2004,
+    "year_to": 2012,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "INSPIRA",
+    "name": "Inspira",
+    "cyrillic_name": "инспира",
+    "year_from": 2010,
+    "year_to": 2015,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "IRIZ",
+    "name": "Iriz",
+    "cyrillic_name": "ириз",
+    "year_from": 2014,
+    "year_to": 2025,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "JUARA",
+    "name": "Juara",
+    "cyrillic_name": "жуара",
+    "year_from": 2001,
+    "year_to": 2003,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "PERDANA",
+    "name": "Perdana",
+    "cyrillic_name": "пердана",
+    "year_from": 1995,
+    "year_to": 2010,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "PERSONA",
+    "name": "Persona",
+    "cyrillic_name": "персона",
+    "year_from": 1993,
+    "year_to": 2026,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "PREVE",
+    "name": "Preve",
+    "cyrillic_name": "преве",
+    "year_from": 2011,
+    "year_to": 2020,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "PUTRA",
+    "name": "Putra",
+    "cyrillic_name": "путра",
+    "year_from": 1996,
+    "year_to": 2004,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "SAGA",
+    "name": "Saga",
+    "cyrillic_name": "Сага",
+    "year_from": 1985,
+    "year_to": 2026,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "SATRIA",
+    "name": "Satria",
+    "cyrillic_name": "сатрия",
+    "year_from": 1996,
+    "year_to": 2015,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "SAVVY",
+    "name": "Savvy",
+    "cyrillic_name": "савви",
+    "year_from": 2005,
+    "year_to": 2011,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "TIARA",
+    "name": "Tiara",
+    "cyrillic_name": "Тиара",
+    "year_from": 1996,
+    "year_to": 2000,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "WAJA",
+    "name": "Waja",
+    "cyrillic_name": "важа",
+    "year_from": 2000,
+    "year_to": 2011,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "WIRA",
+    "name": "Wira (400 Series)",
+    "cyrillic_name": "вира",
+    "year_from": 1993,
+    "year_to": 2009,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "X50",
+    "name": "X50",
+    "cyrillic_name": "Икс50",
+    "year_from": 2020,
+    "year_to": 2025,
+    "brand_id": "PROTON",
+    "nameplates": []
+  },
+  {
+    "id": "X70",
+    "name": "X70",
+    "cyrillic_name": "икс70",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "PROTON",
+    "nameplates": []
+  }
+]

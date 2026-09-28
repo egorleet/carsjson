@@ -1,0 +1,38 @@
+[
+  {
+    "id": "CUSTOM_EIGHT",
+    "name": "Custom Eight",
+    "cyrillic_name": "Кастом Эйт",
+    "year_from": 1937,
+    "year_to": 1939,
+    "brand_id": "HUDSON",
+    "nameplates": []
+  },
+  {
+    "id": "DELUXE_EIGHT",
+    "name": "Deluxe Eight",
+    "cyrillic_name": "Делюкс Эйт",
+    "year_from": 1936,
+    "year_to": 1937,
+    "brand_id": "HUDSON",
+    "nameplates": []
+  },
+  {
+    "id": "HORNET",
+    "name": "Hornet",
+    "cyrillic_name": "Хорнет",
+    "year_from": 1950,
+    "year_to": 1957,
+    "brand_id": "HUDSON",
+    "nameplates": []
+  },
+  {
+    "id": "SUPER_SIX",
+    "name": "Super Six",
+    "cyrillic_name": "супер сикс",
+    "year_from": 1916,
+    "year_to": 1928,
+    "brand_id": "HUDSON",
+    "nameplates": []
+  }
+]

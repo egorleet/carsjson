@@ -1,0 +1,89 @@
+[
+  {
+    "id": "DS_420",
+    "name": "DS420",
+    "cyrillic_name": "дс420",
+    "year_from": 1968,
+    "year_to": 1992,
+    "brand_id": "DAIMLER",
+    "nameplates": []
+  },
+  {
+    "id": "REGENCY",
+    "name": "Regency",
+    "cyrillic_name": "Редженси",
+    "year_from": 1951,
+    "year_to": 1958,
+    "brand_id": "DAIMLER",
+    "nameplates": []
+  },
+  {
+    "id": "SOVEREIGN",
+    "name": "Sovereign (XJ6)",
+    "cyrillic_name": "соврин (хж6)",
+    "year_from": 1969,
+    "year_to": 1993,
+    "brand_id": "DAIMLER",
+    "nameplates": [
+      "Sovereign (XJ6)",
+      "Double Six"
+    ]
+  },
+  {
+    "id": "SP250",
+    "name": "SP250",
+    "cyrillic_name": "сп250",
+    "year_from": 1959,
+    "year_to": 1964,
+    "brand_id": "DAIMLER",
+    "nameplates": []
+  },
+  {
+    "id": "XJ40",
+    "name": "XJ40",
+    "cyrillic_name": "хж40",
+    "year_from": 1986,
+    "year_to": 1994,
+    "brand_id": "DAIMLER",
+    "nameplates": []
+  },
+  {
+    "id": "XJS",
+    "name": "XJS",
+    "cyrillic_name": "хжс",
+    "year_from": 1973,
+    "year_to": 1977,
+    "brand_id": "DAIMLER",
+    "nameplates": []
+  },
+  {
+    "id": "X_300",
+    "name": "X300",
+    "cyrillic_name": "х300",
+    "year_from": 1993,
+    "year_to": 1997,
+    "brand_id": "DAIMLER",
+    "nameplates": [
+      "Double Six",
+      "Super Eight"
+    ]
+  },
+  {
+    "id": "X_308",
+    "name": "X308",
+    "cyrillic_name": "х308",
+    "year_from": 1997,
+    "year_to": 2003,
+    "brand_id": "DAIMLER",
+    "nameplates": []
+  },
+  {
+    "id": "X_350",
+    "name": "X350",
+    "cyrillic_name": "х350",
+    "year_from": 2005,
+    "year_to": 2009,
+    "brand_id": "DAIMLER",
+    "nameplates": []
+  }
+]

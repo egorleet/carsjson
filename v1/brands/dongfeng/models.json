@@ -1,0 +1,470 @@
+[
+  {
+    "id": "370",
+    "name": "370",
+    "cyrillic_name": "370",
+    "year_from": 2016,
+    "year_to": 2020,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "580",
+    "name": "580",
+    "cyrillic_name": "580",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "A30",
+    "name": "A30",
+    "cyrillic_name": "А30",
+    "year_from": 2014,
+    "year_to": 2019,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "A9",
+    "name": "A9",
+    "cyrillic_name": "а9",
+    "year_from": 2016,
+    "year_to": 2019,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "AEOLUS_AX7_PLUS",
+    "name": "Aeolus AX7 Plus",
+    "cyrillic_name": "Аеолус АХ7",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "AEOLUS_E70",
+    "name": "Aeolus E70",
+    "cyrillic_name": "Аеолус Е70",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "AEOLUS_HAOHAN",
+    "name": "Aeolus Haohan",
+    "cyrillic_name": "Аеолус Хаохан",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "AEOLUS_HAOJI",
+    "name": "Aeolus Haoji",
+    "cyrillic_name": "Аеолус Хаоджи",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "AEOLUS_L7",
+    "name": "Aeolus L7",
+    "cyrillic_name": "Аеолус Л7",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "AEOLUS_L8",
+    "name": "Aeolus L8",
+    "cyrillic_name": "Аеолус Л8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "AEOLUS_YIXUAN",
+    "name": "Aeolus Yixuan",
+    "cyrillic_name": "Иэлес Исюань",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "AEOLUS_YIXUAN_MAX",
+    "name": "Aeolus Yixuan Max",
+    "cyrillic_name": "Иэлес Исюань Макс",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "AX4",
+    "name": "AX4",
+    "cyrillic_name": "АХ4",
+    "year_from": 2017,
+    "year_to": 2021,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "AX7",
+    "name": "AX7",
+    "cyrillic_name": "АХ7",
+    "year_from": 2015,
+    "year_to": 2019,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "BOX",
+    "name": "Box",
+    "cyrillic_name": "Бокс",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "C36",
+    "name": "C36",
+    "cyrillic_name": "С36",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "DF6",
+    "name": "DF6",
+    "cyrillic_name": "дф6",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "DFSK_500",
+    "name": "DFSK 500",
+    "cyrillic_name": "ДФСК 500",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "DFSK_IX5",
+    "name": "DFSK ix5",
+    "cyrillic_name": "ДФСК АйИкс5",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "DFSK_IX7",
+    "name": "DFSK ix7",
+    "cyrillic_name": "ДФСК АйИкс7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "E11K",
+    "name": "E11K",
+    "cyrillic_name": "Е11К",
+    "year_from": 2018,
+    "year_to": 2021,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "EC36",
+    "name": "EC36",
+    "cyrillic_name": "ЕС36",
+    "year_from": 2017,
+    "year_to": 2023,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "FENGON_500",
+    "name": "Fengon 500",
+    "cyrillic_name": "Фенгон 500",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "FENGON_560",
+    "name": "Fengon 560",
+    "cyrillic_name": "Фенгон 560",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "FENGON_E5",
+    "name": "Fengon E5",
+    "cyrillic_name": "Фенгон Е5",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "FENGON_IX5",
+    "name": "Fengon ix5",
+    "cyrillic_name": "Фенгон айикс5",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "FENGON_IX7",
+    "name": "Fengon ix7",
+    "cyrillic_name": "Фенгон айикс7",
+    "year_from": 2019,
+    "year_to": 2024,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "FENGON_MINI_EV",
+    "name": "Fengon Mini EV",
+    "cyrillic_name": "Фенгон Мини ЕВ",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "FUKANG_ES600",
+    "name": "Fukang ES600",
+    "cyrillic_name": "Фуканг ЕС600",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "H30_CROSS",
+    "name": "H30 Cross",
+    "cyrillic_name": "Н30 Кросс",
+    "year_from": 2011,
+    "year_to": 2018,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "HUGE",
+    "name": "Huge",
+    "cyrillic_name": "Хьюдж",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "MAGE",
+    "name": "Mage",
+    "cyrillic_name": "Маге",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "MENGSHI_800",
+    "name": "Mengshi M-Hero 800",
+    "cyrillic_name": "Менгши М-Хиро 800",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "MENGSHI_817",
+    "name": "Mengshi M-Hero 817",
+    "cyrillic_name": "Менгши М-Хиро 817",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "MENGSHI_917",
+    "name": "Mengshi M-Hero 917",
+    "cyrillic_name": "Менгши М-Хиро 917",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "MPV",
+    "name": "MPV",
+    "cyrillic_name": "мпв",
+    "year_from": 2006,
+    "year_to": 2009,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "NAMMI_01",
+    "name": "Nammi 01",
+    "cyrillic_name": "Намми 01",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "NAMMI_06",
+    "name": "Nammi 06",
+    "cyrillic_name": "Намми 06",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "NANO_EX1",
+    "name": "Nano EX1",
+    "cyrillic_name": "Нано Е-икс1",
+    "year_from": 2020,
+    "year_to": 2023,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "OTING",
+    "name": "Oting",
+    "cyrillic_name": "Отинг",
+    "year_from": 2007,
+    "year_to": 2013,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "PALADIN",
+    "name": "Paladin",
+    "cyrillic_name": "Паладин",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "RICH",
+    "name": "Rich",
+    "cyrillic_name": "Рич",
+    "year_from": 2007,
+    "year_to": 2018,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "RICH_7",
+    "name": "Rich 7",
+    "cyrillic_name": "Рич 7",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "S30",
+    "name": "S30",
+    "cyrillic_name": "С30",
+    "year_from": 2013,
+    "year_to": 2017,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "SHINE",
+    "name": "Shine",
+    "cyrillic_name": "Шайн",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "SHINE_GS",
+    "name": "Shine GS",
+    "cyrillic_name": "Шайн ГС",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "SHINE_MAX",
+    "name": "Shine Max",
+    "cyrillic_name": "Шайн Макс",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "SKY_EV01",
+    "name": "Sky EV01",
+    "cyrillic_name": "Скай ЕВ01",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "XINGHAI_T5",
+    "name": "Xinghai T5",
+    "cyrillic_name": "Синхай Т5",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "YIXUAN_GS",
+    "name": "Aeolus Yixuan GS",
+    "cyrillic_name": "Исюань ГС",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "YOUNG_GUANG_XIAOXIN",
+    "name": "Young Guang Xiaoxin",
+    "cyrillic_name": "Йан Гуан Сяосинь",
+    "year_from": 2021,
+    "year_to": 2023,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
+    "id": "Z9",
+    "name": "Z9",
+    "cyrillic_name": "З9",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  }
+]

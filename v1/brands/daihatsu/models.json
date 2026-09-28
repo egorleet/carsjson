@@ -1,0 +1,494 @@
+[
+  {
+    "id": "ALTIS",
+    "name": "Altis",
+    "cyrillic_name": "Алтис",
+    "year_from": 2000,
+    "year_to": 2021,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "APPLAUSE",
+    "name": "Applause",
+    "cyrillic_name": "Апплаус",
+    "year_from": 1989,
+    "year_to": 2000,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "ATRAI",
+    "name": "Atrai",
+    "cyrillic_name": "Атрай",
+    "year_from": 1981,
+    "year_to": 2026,
+    "brand_id": "DAIHATSU",
+    "nameplates": [
+      "Atrai",
+      "7"
+    ]
+  },
+  {
+    "id": "BEE",
+    "name": "Bee",
+    "cyrillic_name": "би",
+    "year_from": 1951,
+    "year_to": 1952,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "BE_GO",
+    "name": "Be-go",
+    "cyrillic_name": "Бе-го",
+    "year_from": 2006,
+    "year_to": 2016,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "BOON",
+    "name": "Boon",
+    "cyrillic_name": "Бун",
+    "year_from": 2004,
+    "year_to": 2023,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "BOON_LUMINAS",
+    "name": "Boon Luminas",
+    "cyrillic_name": "Бун Луминас",
+    "year_from": 2008,
+    "year_to": 2012,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "CAST",
+    "name": "Cast",
+    "cyrillic_name": "Каст",
+    "year_from": 2015,
+    "year_to": 2023,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "CERIA",
+    "name": "Ceria",
+    "cyrillic_name": "Цериа",
+    "year_from": 2001,
+    "year_to": 2006,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "CHARADE",
+    "name": "Charade",
+    "cyrillic_name": "Шарад",
+    "year_from": 1977,
+    "year_to": 2000,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "CHARMANT",
+    "name": "Charmant",
+    "cyrillic_name": "Шармант",
+    "year_from": 1981,
+    "year_to": 1987,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "COO",
+    "name": "Coo",
+    "cyrillic_name": "Ку",
+    "year_from": 2006,
+    "year_to": 2013,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "COPEN",
+    "name": "Copen",
+    "cyrillic_name": "Копен",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "CUORE",
+    "name": "Cuore",
+    "cyrillic_name": "Куоре",
+    "year_from": 1980,
+    "year_to": 2013,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "DELTA_WAGON",
+    "name": "Delta Wagon",
+    "cyrillic_name": "дельта вагон",
+    "year_from": 1986,
+    "year_to": 2001,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "ESSE",
+    "name": "Esse",
+    "cyrillic_name": "Эссе",
+    "year_from": 2005,
+    "year_to": 2011,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "EXTOL",
+    "name": "Extol",
+    "cyrillic_name": "Экстол",
+    "year_from": 1999,
+    "year_to": 2004,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "FELLOW",
+    "name": "Fellow",
+    "cyrillic_name": "феллов",
+    "year_from": 1966,
+    "year_to": 1976,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "FEROZA",
+    "name": "Feroza",
+    "cyrillic_name": "Фероза",
+    "year_from": 1989,
+    "year_to": 1999,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "GRAN_MOVE",
+    "name": "Gran Move",
+    "cyrillic_name": "Гран Мув",
+    "year_from": 1996,
+    "year_to": 2002,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "HIJET",
+    "name": "Hijet",
+    "cyrillic_name": "Хайджет",
+    "year_from": 1981,
+    "year_to": 2026,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "HIJET_CADDIE",
+    "name": "Hijet Caddie",
+    "cyrillic_name": "хайджет кадди",
+    "year_from": 2016,
+    "year_to": 2021,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "LEEZA",
+    "name": "Leeza",
+    "cyrillic_name": "Лиза",
+    "year_from": 1986,
+    "year_to": 1993,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "MATERIA",
+    "name": "Materia",
+    "cyrillic_name": "Материя",
+    "year_from": 2006,
+    "year_to": 2013,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "MAX",
+    "name": "MAX",
+    "cyrillic_name": "МАКС",
+    "year_from": 2001,
+    "year_to": 2005,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "MEBIUS",
+    "name": "Mebius",
+    "cyrillic_name": "Мебиус",
+    "year_from": 2013,
+    "year_to": 2021,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "MIDGET_II",
+    "name": "Midget",
+    "cyrillic_name": "Миджет",
+    "year_from": 1996,
+    "year_to": 2002,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "MIRA",
+    "name": "Mira",
+    "cyrillic_name": "Мира",
+    "year_from": 1990,
+    "year_to": 2018,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "MIRA_COCOA",
+    "name": "Mira Cocoa",
+    "cyrillic_name": "Мира Кокоа",
+    "year_from": 2009,
+    "year_to": 2018,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "MIRA_E_S",
+    "name": "Mira e:S",
+    "cyrillic_name": "Мира е:С",
+    "year_from": 2011,
+    "year_to": 2023,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "MIRA_GINO",
+    "name": "Mira Gino",
+    "cyrillic_name": "мира джино",
+    "year_from": 1999,
+    "year_to": 2009,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "MIRA_TOCOT",
+    "name": "Mira Tocot",
+    "cyrillic_name": "Мира Токот",
+    "year_from": 2018,
+    "year_to": 2023,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "MOVE",
+    "name": "Move",
+    "cyrillic_name": "Мув",
+    "year_from": 1995,
+    "year_to": 2026,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "MOVE_CANBUS",
+    "name": "Move Canbus",
+    "cyrillic_name": "Мове Канбус",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "MOVE_CONTE",
+    "name": "Move Conte",
+    "cyrillic_name": "Мове Конте",
+    "year_from": 2008,
+    "year_to": 2017,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "MOVE_LATTE",
+    "name": "Move Latte",
+    "cyrillic_name": "мове латте",
+    "year_from": 2004,
+    "year_to": 2009,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "NAKED",
+    "name": "Naked",
+    "cyrillic_name": "нейкед",
+    "year_from": 2000,
+    "year_to": 2004,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "OPTI",
+    "name": "Opti",
+    "cyrillic_name": "Опти",
+    "year_from": 1992,
+    "year_to": 2002,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "PYZAR",
+    "name": "Pyzar",
+    "cyrillic_name": "Пизар",
+    "year_from": 1996,
+    "year_to": 2002,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "ROCKY",
+    "name": "Rocky",
+    "cyrillic_name": "Роки",
+    "year_from": 1989,
+    "year_to": 2026,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "RUGGER",
+    "name": "Rugger",
+    "cyrillic_name": "Раггер",
+    "year_from": 1984,
+    "year_to": 2002,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "SIRION",
+    "name": "Sirion",
+    "cyrillic_name": "Сирион",
+    "year_from": 1998,
+    "year_to": 2015,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "SONICA",
+    "name": "Sonica",
+    "cyrillic_name": "Соника",
+    "year_from": 2006,
+    "year_to": 2009,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "STORIA",
+    "name": "Storia",
+    "cyrillic_name": "Стория",
+    "year_from": 1998,
+    "year_to": 2004,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "TAFT",
+    "name": "Taft",
+    "cyrillic_name": "Тафт",
+    "year_from": 1974,
+    "year_to": 2026,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "TANTO",
+    "name": "Tanto",
+    "cyrillic_name": "Танто",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "TANTO_EXE",
+    "name": "Tanto Exe",
+    "cyrillic_name": "Танто Экзе",
+    "year_from": 2009,
+    "year_to": 2014,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "TERIOS",
+    "name": "Terios",
+    "cyrillic_name": "Териос",
+    "year_from": 1997,
+    "year_to": 2023,
+    "brand_id": "DAIHATSU",
+    "nameplates": [
+      "Terios",
+      "Kid"
+    ]
+  },
+  {
+    "id": "THOR",
+    "name": "Thor",
+    "cyrillic_name": "Тор",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "TREVIS",
+    "name": "Trevis",
+    "cyrillic_name": "Тревис",
+    "year_from": 2006,
+    "year_to": 2011,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "WAKE",
+    "name": "Wake",
+    "cyrillic_name": "Вэйк",
+    "year_from": 2014,
+    "year_to": 2022,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "WILDCAT",
+    "name": "Wildcat",
+    "cyrillic_name": "Вайлдкет",
+    "year_from": 1985,
+    "year_to": 1987,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "XENIA",
+    "name": "Xenia",
+    "cyrillic_name": "Ксения",
+    "year_from": 2003,
+    "year_to": 2011,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  },
+  {
+    "id": "YRV",
+    "name": "YRV",
+    "cyrillic_name": "ЮРВ",
+    "year_from": 2000,
+    "year_to": 2005,
+    "brand_id": "DAIHATSU",
+    "nameplates": []
+  }
+]

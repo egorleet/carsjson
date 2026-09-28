@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1000",
+    "name": "1000",
+    "cyrillic_name": "1000",
+    "year_from": 1990,
+    "year_to": 2000,
+    "brand_id": "MARUTI",
+    "nameplates": []
+  },
+  {
+    "id": "800",
+    "name": "800",
+    "cyrillic_name": "800",
+    "year_from": 1983,
+    "year_to": 2012,
+    "brand_id": "MARUTI",
+    "nameplates": []
+  },
+  {
+    "id": "ALTO",
+    "name": "Alto",
+    "cyrillic_name": "альто",
+    "year_from": 2000,
+    "year_to": 2012,
+    "brand_id": "MARUTI",
+    "nameplates": []
+  },
+  {
+    "id": "BALENO",
+    "name": "Baleno",
+    "cyrillic_name": "Балено",
+    "year_from": 1999,
+    "year_to": 2007,
+    "brand_id": "MARUTI",
+    "nameplates": []
+  },
+  {
+    "id": "ESTEEM",
+    "name": "Esteem",
+    "cyrillic_name": "эстим",
+    "year_from": 1994,
+    "year_to": 2007,
+    "brand_id": "MARUTI",
+    "nameplates": []
+  },
+  {
+    "id": "GYPSY",
+    "name": "Gypsy",
+    "cyrillic_name": "джипси",
+    "year_from": 1983,
+    "year_to": 2019,
+    "brand_id": "MARUTI",
+    "nameplates": []
+  },
+  {
+    "id": "OMNI",
+    "name": "Omni",
+    "cyrillic_name": "омни",
+    "year_from": 1984,
+    "year_to": 2019,
+    "brand_id": "MARUTI",
+    "nameplates": []
+  },
+  {
+    "id": "VERSA",
+    "name": "Versa",
+    "cyrillic_name": "верса",
+    "year_from": 2001,
+    "year_to": 2009,
+    "brand_id": "MARUTI",
+    "nameplates": []
+  },
+  {
+    "id": "WAGON_R",
+    "name": "Wagon R",
+    "cyrillic_name": "вагон р",
+    "year_from": 1999,
+    "year_to": 2009,
+    "brand_id": "MARUTI",
+    "nameplates": []
+  },
+  {
+    "id": "ZEN",
+    "name": "Zen",
+    "cyrillic_name": "зен",
+    "year_from": 1993,
+    "year_to": 2006,
+    "brand_id": "MARUTI",
+    "nameplates": []
+  }
+]

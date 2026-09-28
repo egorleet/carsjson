@@ -1,0 +1,29 @@
+[
+  {
+    "id": "CLUB",
+    "name": "Club",
+    "cyrillic_name": "клаб",
+    "year_from": 1992,
+    "year_to": 1999,
+    "brand_id": "MEGA",
+    "nameplates": []
+  },
+  {
+    "id": "MONTE_CARLO",
+    "name": "Monte Carlo",
+    "cyrillic_name": "монте карло",
+    "year_from": 1996,
+    "year_to": 1999,
+    "brand_id": "MEGA",
+    "nameplates": []
+  },
+  {
+    "id": "TRACK",
+    "name": "Track",
+    "cyrillic_name": "трек",
+    "year_from": 1992,
+    "year_to": 2000,
+    "brand_id": "MEGA",
+    "nameplates": []
+  }
+]

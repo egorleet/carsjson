@@ -1,0 +1,29 @@
+[
+  {
+    "id": "M12_GTO",
+    "name": "M12 GTO",
+    "cyrillic_name": "м12 гто",
+    "year_from": 2000,
+    "year_to": 2007,
+    "brand_id": "NOBLE",
+    "nameplates": []
+  },
+  {
+    "id": "M15",
+    "name": "M15",
+    "cyrillic_name": "М15",
+    "year_from": 2006,
+    "year_to": 2011,
+    "brand_id": "NOBLE",
+    "nameplates": []
+  },
+  {
+    "id": "M600",
+    "name": "M600",
+    "cyrillic_name": "м600",
+    "year_from": 2010,
+    "year_to": 2018,
+    "brand_id": "NOBLE",
+    "nameplates": []
+  }
+]

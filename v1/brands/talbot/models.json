@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1510",
+    "name": "1510",
+    "cyrillic_name": "1510",
+    "year_from": 1980,
+    "year_to": 1984,
+    "brand_id": "TALBOT",
+    "nameplates": []
+  },
+  {
+    "id": "AVENGER",
+    "name": "Avenger",
+    "cyrillic_name": "Эвенджер",
+    "year_from": 1970,
+    "year_to": 1981,
+    "brand_id": "TALBOT",
+    "nameplates": []
+  },
+  {
+    "id": "HORIZON",
+    "name": "Horizon",
+    "cyrillic_name": "Горизон",
+    "year_from": 1978,
+    "year_to": 1986,
+    "brand_id": "TALBOT",
+    "nameplates": []
+  },
+  {
+    "id": "RANCHO",
+    "name": "Rancho",
+    "cyrillic_name": "ранчо",
+    "year_from": 1977,
+    "year_to": 1984,
+    "brand_id": "TALBOT",
+    "nameplates": []
+  },
+  {
+    "id": "SAMBA",
+    "name": "Samba",
+    "cyrillic_name": "Самба",
+    "year_from": 1981,
+    "year_to": 1986,
+    "brand_id": "TALBOT",
+    "nameplates": []
+  },
+  {
+    "id": "SOLARA",
+    "name": "Solara",
+    "cyrillic_name": "Солара",
+    "year_from": 1980,
+    "year_to": 1986,
+    "brand_id": "TALBOT",
+    "nameplates": []
+  },
+  {
+    "id": "TAGORA",
+    "name": "Tagora",
+    "cyrillic_name": "Тагора",
+    "year_from": 1980,
+    "year_to": 1987,
+    "brand_id": "TALBOT",
+    "nameplates": []
+  }
+]

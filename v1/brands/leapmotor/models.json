@@ -1,0 +1,119 @@
+[
+  {
+    "id": "A05",
+    "name": "A05",
+    "cyrillic_name": "А05",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "LEAPMOTOR",
+    "nameplates": []
+  },
+  {
+    "id": "A10",
+    "name": "A10",
+    "cyrillic_name": "А10",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "LEAPMOTOR",
+    "nameplates": []
+  },
+  {
+    "id": "B01",
+    "name": "B01",
+    "cyrillic_name": "Б01",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "LEAPMOTOR",
+    "nameplates": []
+  },
+  {
+    "id": "B05_LAFA_5",
+    "name": "B05 (Lafa 5)",
+    "cyrillic_name": "Б05 Лафа 5",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "LEAPMOTOR",
+    "nameplates": []
+  },
+  {
+    "id": "B10",
+    "name": "B10",
+    "cyrillic_name": "Б10",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "LEAPMOTOR",
+    "nameplates": []
+  },
+  {
+    "id": "C01",
+    "name": "C01",
+    "cyrillic_name": "Си01",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "LEAPMOTOR",
+    "nameplates": []
+  },
+  {
+    "id": "C10",
+    "name": "C10",
+    "cyrillic_name": "С10",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "LEAPMOTOR",
+    "nameplates": []
+  },
+  {
+    "id": "C11",
+    "name": "C11",
+    "cyrillic_name": "С11",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "LEAPMOTOR",
+    "nameplates": []
+  },
+  {
+    "id": "C16",
+    "name": "C16",
+    "cyrillic_name": "Си16",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "LEAPMOTOR",
+    "nameplates": []
+  },
+  {
+    "id": "D19",
+    "name": "D19",
+    "cyrillic_name": "Д19",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "LEAPMOTOR",
+    "nameplates": []
+  },
+  {
+    "id": "D99",
+    "name": "D99",
+    "cyrillic_name": "Д99",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "LEAPMOTOR",
+    "nameplates": []
+  },
+  {
+    "id": "S01",
+    "name": "S01",
+    "cyrillic_name": "С01",
+    "year_from": 2019,
+    "year_to": 2021,
+    "brand_id": "LEAPMOTOR",
+    "nameplates": []
+  },
+  {
+    "id": "T03",
+    "name": "T03",
+    "cyrillic_name": "Т03",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "LEAPMOTOR",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,873 @@
+[
+  {
+    "id": "1000",
+    "name": "1000",
+    "cyrillic_name": "1000",
+    "year_from": 1967,
+    "year_to": 1977,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "121",
+    "name": "121",
+    "cyrillic_name": "121",
+    "year_from": 1975,
+    "year_to": 2003,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "1300",
+    "name": "1300",
+    "cyrillic_name": "1300",
+    "year_from": 1975,
+    "year_to": 1977,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "2",
+    "name": "2",
+    "cyrillic_name": "2",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "3",
+    "name": "3",
+    "cyrillic_name": "3",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": [
+      "3",
+      "Axela"
+    ]
+  },
+  {
+    "id": "323",
+    "name": "323",
+    "cyrillic_name": "323",
+    "year_from": 1977,
+    "year_to": 2003,
+    "brand_id": "MAZDA",
+    "nameplates": [
+      "323",
+      "GT"
+    ]
+  },
+  {
+    "id": "3MPS",
+    "name": "3 MPS",
+    "cyrillic_name": "3 МПС",
+    "year_from": 2006,
+    "year_to": 2013,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "5",
+    "name": "5",
+    "cyrillic_name": "5",
+    "year_from": 2005,
+    "year_to": 2018,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "6",
+    "name": "6",
+    "cyrillic_name": "6",
+    "year_from": 2002,
+    "year_to": 2024,
+    "brand_id": "MAZDA",
+    "nameplates": [
+      "6",
+      "Atenza"
+    ]
+  },
+  {
+    "id": "616",
+    "name": "616",
+    "cyrillic_name": "616",
+    "year_from": 1970,
+    "year_to": 1978,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "626",
+    "name": "626",
+    "cyrillic_name": "626",
+    "year_from": 1979,
+    "year_to": 2002,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "6E",
+    "name": "6e",
+    "cyrillic_name": "6е",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "6_MPS",
+    "name": "6 MPS",
+    "cyrillic_name": "6 МПС",
+    "year_from": 2005,
+    "year_to": 2008,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "818",
+    "name": "818",
+    "cyrillic_name": "818",
+    "year_from": 1974,
+    "year_to": 1978,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "929",
+    "name": "929",
+    "cyrillic_name": "929",
+    "year_from": 1972,
+    "year_to": 1995,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "ATENZA",
+    "name": "Atenza",
+    "cyrillic_name": "Атенза",
+    "year_from": 2002,
+    "year_to": 2022,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "AUTOZAM_AZ1",
+    "name": "Autozam AZ-1",
+    "cyrillic_name": "Аутозам АЗ-1",
+    "year_from": 1992,
+    "year_to": 1998,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "AUTOZAM_AZ3",
+    "name": "Autozam AZ-3",
+    "cyrillic_name": "Автозам АЗ-3",
+    "year_from": 1991,
+    "year_to": 1998,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "AUTOZAM_CLEF",
+    "name": "Autozam Clef",
+    "cyrillic_name": "Автозам Клиф",
+    "year_from": 1992,
+    "year_to": 1994,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "AXELA",
+    "name": "Axela",
+    "cyrillic_name": "Аксела",
+    "year_from": 2003,
+    "year_to": 2019,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "AZ_OFFROAD",
+    "name": "AZ-Offroad",
+    "cyrillic_name": "AZ-offroad",
+    "year_from": 1998,
+    "year_to": 2014,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "AZ_WAGON",
+    "name": "AZ-Wagon",
+    "cyrillic_name": "AZ-wagon",
+    "year_from": 1994,
+    "year_to": 2012,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "BIANTE",
+    "name": "Biante",
+    "cyrillic_name": "Бианте",
+    "year_from": 2008,
+    "year_to": 2018,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "BONGO",
+    "name": "Bongo",
+    "cyrillic_name": "Бонго",
+    "year_from": 1966,
+    "year_to": 2020,
+    "brand_id": "MAZDA",
+    "nameplates": [
+      "Bongo",
+      "Brawny"
+    ]
+  },
+  {
+    "id": "BONGO_FRIENDEE",
+    "name": "Bongo Friendee",
+    "cyrillic_name": "Бонго Френди",
+    "year_from": 1995,
+    "year_to": 2005,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "BT_50",
+    "name": "BT-50",
+    "cyrillic_name": "БТ-50",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "B_SERIES",
+    "name": "B-series",
+    "cyrillic_name": "Б-серия",
+    "year_from": 1985,
+    "year_to": 2006,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "CAPELLA",
+    "name": "Capella",
+    "cyrillic_name": "Капелла",
+    "year_from": 1982,
+    "year_to": 2002,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "CAROL",
+    "name": "Carol",
+    "cyrillic_name": "Карол",
+    "year_from": 1989,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "CHANTEZ",
+    "name": "Chantez",
+    "cyrillic_name": "шантез",
+    "year_from": 1972,
+    "year_to": 1976,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "COSMO",
+    "name": "Cosmo",
+    "cyrillic_name": "Космо",
+    "year_from": 1967,
+    "year_to": 1990,
+    "brand_id": "MAZDA",
+    "nameplates": [
+      "Cosmo",
+      "AP",
+      "L"
+    ]
+  },
+  {
+    "id": "CRONOS",
+    "name": "Cronos",
+    "cyrillic_name": "Кронос",
+    "year_from": 1991,
+    "year_to": 1995,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "CX90",
+    "name": "CX-90",
+    "cyrillic_name": "ЦИкс90",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "CX_3",
+    "name": "CX-3",
+    "cyrillic_name": "сх-3",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "CX_30",
+    "name": "CX-30",
+    "cyrillic_name": "сх-30",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": [
+      "CX-30",
+      "EV"
+    ]
+  },
+  {
+    "id": "CX_4",
+    "name": "CX-4",
+    "cyrillic_name": "СХ-4",
+    "year_from": 2016,
+    "year_to": 2024,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "CX_5",
+    "name": "CX-5",
+    "cyrillic_name": "CX-5",
+    "year_from": 2011,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "CX_50",
+    "name": "CX-50",
+    "cyrillic_name": "ЦИкс-50",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "CX_60",
+    "name": "CX-60",
+    "cyrillic_name": "ЦИкс-60",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "CX_6E",
+    "name": "CX-6e",
+    "cyrillic_name": "ЦэИкс-6е",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "CX_7",
+    "name": "CX-7",
+    "cyrillic_name": "CX-7",
+    "year_from": 2006,
+    "year_to": 2012,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "CX_70",
+    "name": "CX-70",
+    "cyrillic_name": "СХ-70",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "CX_8",
+    "name": "CX-8",
+    "cyrillic_name": "CX-8",
+    "year_from": 2017,
+    "year_to": 2023,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "CX_80",
+    "name": "CX-80",
+    "cyrillic_name": "СХ-80",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "CX_9",
+    "name": "CX-9",
+    "cyrillic_name": "CX-9",
+    "year_from": 2006,
+    "year_to": 2024,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "DEMIO",
+    "name": "Demio",
+    "cyrillic_name": "Демио",
+    "year_from": 1996,
+    "year_to": 2019,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "EFINI_MS_6",
+    "name": "Efini MS-6",
+    "cyrillic_name": "Ефини МС-6",
+    "year_from": 1991,
+    "year_to": 1994,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "EFINI_MS_8",
+    "name": "Efini MS-8",
+    "cyrillic_name": "Ефини МС-8",
+    "year_from": 1992,
+    "year_to": 1997,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "EFINI_MS_9",
+    "name": "Efini MS-9",
+    "cyrillic_name": "Ефини МС-9",
+    "year_from": 1991,
+    "year_to": 1993,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "ETUDE",
+    "name": "Etude",
+    "cyrillic_name": "этюд",
+    "year_from": 1987,
+    "year_to": 1989,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "EUNOS_100",
+    "name": "Eunos 100",
+    "cyrillic_name": "еунос 100",
+    "year_from": 1989,
+    "year_to": 1994,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "EUNOS_300",
+    "name": "Eunos 300",
+    "cyrillic_name": "Еунос 300",
+    "year_from": 1989,
+    "year_to": 1992,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "EUNOS_500",
+    "name": "Eunos 500",
+    "cyrillic_name": "Еунос 500",
+    "year_from": 1991,
+    "year_to": 1996,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "EUNOS_800",
+    "name": "Eunos 800",
+    "cyrillic_name": "Еунос 800",
+    "year_from": 1993,
+    "year_to": 1997,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "EUNOS_COSMO",
+    "name": "Eunos Cosmo",
+    "cyrillic_name": "Космо",
+    "year_from": 1990,
+    "year_to": 1995,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "EUNOS_PRESSO",
+    "name": "Eunos Presso",
+    "cyrillic_name": "Эунос Прессо",
+    "year_from": 1991,
+    "year_to": 1998,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "EZ_6",
+    "name": "EZ-6",
+    "cyrillic_name": "Изи 6",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "EZ_60",
+    "name": "EZ-60",
+    "cyrillic_name": "Изи 60",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "E_SERIES",
+    "name": "E-Series",
+    "cyrillic_name": "Е-Серия",
+    "year_from": 1983,
+    "year_to": 1999,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "FAMILIA",
+    "name": "Familia",
+    "cyrillic_name": "Фамилия",
+    "year_from": 1985,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": [
+      "Familia",
+      "S-Wagon"
+    ]
+  },
+  {
+    "id": "FLAIR",
+    "name": "Flair",
+    "cyrillic_name": "флэир",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "FLAIR_CROSSOVER",
+    "name": "Flair Crossover",
+    "cyrillic_name": "флэир кроссовер",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "FLAIR_WAGON",
+    "name": "Flair Wagon",
+    "cyrillic_name": "Флэир Вэгон",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "LANTIS",
+    "name": "Lantis",
+    "cyrillic_name": "Лантис",
+    "year_from": 1993,
+    "year_to": 1997,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "LAPUTA",
+    "name": "Laputa",
+    "cyrillic_name": "Лапута",
+    "year_from": 1998,
+    "year_to": 2006,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "LUCE",
+    "name": "Luce",
+    "cyrillic_name": "Люси",
+    "year_from": 1977,
+    "year_to": 1991,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "MILLENIA",
+    "name": "Millenia",
+    "cyrillic_name": "Милления",
+    "year_from": 1994,
+    "year_to": 2003,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "MPV",
+    "name": "MPV",
+    "cyrillic_name": "MPV",
+    "year_from": 1988,
+    "year_to": 2016,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "MX_3",
+    "name": "MX-3",
+    "cyrillic_name": "MX-3",
+    "year_from": 1991,
+    "year_to": 2000,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "MX_30",
+    "name": "MX-30",
+    "cyrillic_name": "МХ-30",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "MX_5",
+    "name": "MX-5",
+    "cyrillic_name": "MX-5",
+    "year_from": 1989,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "MX_6",
+    "name": "MX-6",
+    "cyrillic_name": "MX-6",
+    "year_from": 1991,
+    "year_to": 1997,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "NAVAJO",
+    "name": "Navajo",
+    "cyrillic_name": "Навайо",
+    "year_from": 1990,
+    "year_to": 1994,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "PERSONA",
+    "name": "Persona",
+    "cyrillic_name": "Персона",
+    "year_from": 1988,
+    "year_to": 1992,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "PREMACY",
+    "name": "Premacy",
+    "cyrillic_name": "Примаси",
+    "year_from": 1999,
+    "year_to": 2017,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "PROCEED",
+    "name": "Proceed",
+    "cyrillic_name": "просид",
+    "year_from": 1961,
+    "year_to": 2006,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "PROCEED_LEVANTE",
+    "name": "Proceed Levante",
+    "cyrillic_name": "Просид Леванте",
+    "year_from": 1995,
+    "year_to": 2001,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "PROCEED_MARVIE",
+    "name": "Proceed Marvie",
+    "cyrillic_name": "Просид Марви",
+    "year_from": 1990,
+    "year_to": 1999,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "PROTEGE",
+    "name": "Protege",
+    "cyrillic_name": "Протеж",
+    "year_from": 1989,
+    "year_to": 2004,
+    "brand_id": "MAZDA",
+    "nameplates": [
+      "Protege",
+      "Protege5"
+    ]
+  },
+  {
+    "id": "REVUE",
+    "name": "Revue",
+    "cyrillic_name": "Ревю",
+    "year_from": 1990,
+    "year_to": 1998,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "ROADSTER",
+    "name": "Roadster",
+    "cyrillic_name": "Родстер",
+    "year_from": 1989,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "RX_4",
+    "name": "RX-4",
+    "cyrillic_name": "РХ-4",
+    "year_from": 1972,
+    "year_to": 1978,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "RX_5",
+    "name": "RX-5",
+    "cyrillic_name": "РХ-5",
+    "year_from": 1976,
+    "year_to": 1980,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "RX_7",
+    "name": "RX-7",
+    "cyrillic_name": "RX-7",
+    "year_from": 1979,
+    "year_to": 2002,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "RX_8",
+    "name": "RX-8",
+    "cyrillic_name": "RX-8",
+    "year_from": 2003,
+    "year_to": 2012,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "R_360",
+    "name": "R360",
+    "cyrillic_name": "р360",
+    "year_from": 1960,
+    "year_to": 1966,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "SAVANNA_RX7",
+    "name": "Savanna RX-7",
+    "cyrillic_name": "Саванна RX-7",
+    "year_from": 1978,
+    "year_to": 1992,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "SCRUM",
+    "name": "Scrum",
+    "cyrillic_name": "Скрум",
+    "year_from": 1991,
+    "year_to": 2026,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "SENTIA",
+    "name": "Sentia",
+    "cyrillic_name": "Сентия",
+    "year_from": 1991,
+    "year_to": 2000,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "SPIANO",
+    "name": "Spiano",
+    "cyrillic_name": "Спиано",
+    "year_from": 2002,
+    "year_to": 2008,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "TRIBUTE",
+    "name": "Tribute",
+    "cyrillic_name": "Трибьют",
+    "year_from": 2000,
+    "year_to": 2011,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "VERISA",
+    "name": "Verisa",
+    "cyrillic_name": "Вериса",
+    "year_from": 2004,
+    "year_to": 2015,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "XEDOS_6",
+    "name": "Xedos 6",
+    "cyrillic_name": "Кседос 6",
+    "year_from": 1992,
+    "year_to": 2000,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  },
+  {
+    "id": "XEDOS_9",
+    "name": "Xedos 9",
+    "cyrillic_name": "Кседос 9",
+    "year_from": 1993,
+    "year_to": 2003,
+    "brand_id": "MAZDA",
+    "nameplates": []
+  }
+]

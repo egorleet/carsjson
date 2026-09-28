@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NETA_AYA",
+    "name": "Neta Aya",
+    "cyrillic_name": "Нета Айа",
+    "year_from": 2023,
+    "year_to": 2025,
+    "brand_id": "HOZON",
+    "nameplates": []
+  },
+  {
+    "id": "NETA_GT",
+    "name": "Neta GT",
+    "cyrillic_name": "Нета ГТ",
+    "year_from": 2023,
+    "year_to": 2025,
+    "brand_id": "HOZON",
+    "nameplates": []
+  },
+  {
+    "id": "NETA_L",
+    "name": "Neta L",
+    "cyrillic_name": "Нета Л",
+    "year_from": 2024,
+    "year_to": 2025,
+    "brand_id": "HOZON",
+    "nameplates": []
+  },
+  {
+    "id": "NETA_S",
+    "name": "Neta S",
+    "cyrillic_name": "Нета С",
+    "year_from": 2022,
+    "year_to": 2025,
+    "brand_id": "HOZON",
+    "nameplates": []
+  },
+  {
+    "id": "NETA_U",
+    "name": "Neta U",
+    "cyrillic_name": "Нета Ю",
+    "year_from": 2020,
+    "year_to": 2022,
+    "brand_id": "HOZON",
+    "nameplates": []
+  },
+  {
+    "id": "NETA_U_II",
+    "name": "Neta U-II",
+    "cyrillic_name": "Нета Ю-2",
+    "year_from": 2022,
+    "year_to": 2024,
+    "brand_id": "HOZON",
+    "nameplates": []
+  },
+  {
+    "id": "NETA_V",
+    "name": "Neta V",
+    "cyrillic_name": "Нета Ви",
+    "year_from": 2020,
+    "year_to": 2023,
+    "brand_id": "HOZON",
+    "nameplates": []
+  },
+  {
+    "id": "NETA_X",
+    "name": "Neta X",
+    "cyrillic_name": "Нета Икс",
+    "year_from": 2023,
+    "year_to": 2025,
+    "brand_id": "HOZON",
+    "nameplates": []
+  }
+]

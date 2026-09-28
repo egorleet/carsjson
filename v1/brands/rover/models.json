@@ -1,0 +1,167 @@
+[
+  {
+    "id": "100",
+    "name": "100",
+    "cyrillic_name": "100",
+    "year_from": 1994,
+    "year_to": 2000,
+    "brand_id": "ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "14",
+    "name": "14",
+    "cyrillic_name": "14",
+    "year_from": 1933,
+    "year_to": 1948,
+    "brand_id": "ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "200",
+    "name": "200",
+    "cyrillic_name": "200",
+    "year_from": 1984,
+    "year_to": 1999,
+    "brand_id": "ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "25",
+    "name": "25",
+    "cyrillic_name": "25",
+    "year_from": 1999,
+    "year_to": 2005,
+    "brand_id": "ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "400",
+    "name": "400",
+    "cyrillic_name": "400",
+    "year_from": 1990,
+    "year_to": 2000,
+    "brand_id": "ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "45",
+    "name": "45",
+    "cyrillic_name": "45",
+    "year_from": 1999,
+    "year_to": 2005,
+    "brand_id": "ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "600",
+    "name": "600",
+    "cyrillic_name": "600",
+    "year_from": 1993,
+    "year_to": 1999,
+    "brand_id": "ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "75",
+    "name": "75",
+    "cyrillic_name": "75",
+    "year_from": 1999,
+    "year_to": 2005,
+    "brand_id": "ROVER",
+    "nameplates": [
+      "75",
+      "V8"
+    ]
+  },
+  {
+    "id": "800",
+    "name": "800",
+    "cyrillic_name": "800",
+    "year_from": 1986,
+    "year_to": 1999,
+    "brand_id": "ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "MAESTRO",
+    "name": "Maestro",
+    "cyrillic_name": "Маэстро",
+    "year_from": 1991,
+    "year_to": 1997,
+    "brand_id": "ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "METRO",
+    "name": "Metro",
+    "cyrillic_name": "Метро",
+    "year_from": 1987,
+    "year_to": 1994,
+    "brand_id": "ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "MINI",
+    "name": "Mini",
+    "cyrillic_name": "мини",
+    "year_from": 1989,
+    "year_to": 2000,
+    "brand_id": "ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "MONTEGO",
+    "name": "Montego",
+    "cyrillic_name": "Монтего",
+    "year_from": 1988,
+    "year_to": 1994,
+    "brand_id": "ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "P3",
+    "name": "P3",
+    "cyrillic_name": "п3",
+    "year_from": 1948,
+    "year_to": 1949,
+    "brand_id": "ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "P4",
+    "name": "P4",
+    "cyrillic_name": "P4",
+    "year_from": 1949,
+    "year_to": 1964,
+    "brand_id": "ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "P6",
+    "name": "P6",
+    "cyrillic_name": "п6",
+    "year_from": 1963,
+    "year_to": 1977,
+    "brand_id": "ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "SD1",
+    "name": "SD1",
+    "cyrillic_name": "сд1",
+    "year_from": 1976,
+    "year_to": 1986,
+    "brand_id": "ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "STREETWISE",
+    "name": "Streetwise",
+    "cyrillic_name": "Стритвайз",
+    "year_from": 2003,
+    "year_to": 2005,
+    "brand_id": "ROVER",
+    "nameplates": []
+  }
+]

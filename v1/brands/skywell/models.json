@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ET5",
+    "name": "ET5",
+    "cyrillic_name": "ЕТ5",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "SKYWELL",
+    "nameplates": []
+  },
+  {
+    "id": "HT_I",
+    "name": "HT-i",
+    "cyrillic_name": "ХТ-И",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "SKYWELL",
+    "nameplates": []
+  }
+]

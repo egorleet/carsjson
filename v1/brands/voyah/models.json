@@ -1,0 +1,82 @@
+[
+  {
+    "id": "COURAGE",
+    "name": "Courage",
+    "cyrillic_name": "Кураж",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "VOYAH",
+    "nameplates": []
+  },
+  {
+    "id": "DREAM",
+    "name": "Dream",
+    "cyrillic_name": "Дрим",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "VOYAH",
+    "nameplates": []
+  },
+  {
+    "id": "DREAM_9",
+    "name": "Dream 9",
+    "cyrillic_name": "Дрим 9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOYAH",
+    "nameplates": []
+  },
+  {
+    "id": "FREE",
+    "name": "Free",
+    "cyrillic_name": "Фри",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "VOYAH",
+    "nameplates": [
+      "Free",
+      "318",
+      "DNA",
+      "Free+"
+    ]
+  },
+  {
+    "id": "PASSION",
+    "name": "Passion",
+    "cyrillic_name": "Пассион",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "VOYAH",
+    "nameplates": [
+      "Passion",
+      "L"
+    ]
+  },
+  {
+    "id": "PASSION_S",
+    "name": "Passion S",
+    "cyrillic_name": "Пассион С",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOYAH",
+    "nameplates": []
+  },
+  {
+    "id": "TAISHAN",
+    "name": "Taishan",
+    "cyrillic_name": "Тайшан",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "VOYAH",
+    "nameplates": []
+  },
+  {
+    "id": "TAISHAN_X8",
+    "name": "Taishan X8",
+    "cyrillic_name": "Тайшан Х8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOYAH",
+    "nameplates": []
+  }
+]

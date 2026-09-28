@@ -1,0 +1,171 @@
+[
+  {
+    "id": "ARNAGE",
+    "name": "Arnage",
+    "cyrillic_name": "арнаж",
+    "year_from": 1998,
+    "year_to": 2009,
+    "brand_id": "BENTLEY",
+    "nameplates": []
+  },
+  {
+    "id": "AZURE",
+    "name": "Azure",
+    "cyrillic_name": "азур",
+    "year_from": 1995,
+    "year_to": 2009,
+    "brand_id": "BENTLEY",
+    "nameplates": []
+  },
+  {
+    "id": "BENTAYGA",
+    "name": "Bentayga",
+    "cyrillic_name": "бентайга",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "BENTLEY",
+    "nameplates": [
+      "Bentayga",
+      "EWB",
+      "Speed"
+    ]
+  },
+  {
+    "id": "BROOKLANDS",
+    "name": "Brooklands",
+    "cyrillic_name": "брукландс",
+    "year_from": 1992,
+    "year_to": 2011,
+    "brand_id": "BENTLEY",
+    "nameplates": []
+  },
+  {
+    "id": "CONTINENTAL",
+    "name": "Continental",
+    "cyrillic_name": "Континенталь",
+    "year_from": 1984,
+    "year_to": 2003,
+    "brand_id": "BENTLEY",
+    "nameplates": []
+  },
+  {
+    "id": "CONTINENTAL_FLYING_SPUR",
+    "name": "Continental Flying Spur",
+    "cyrillic_name": "континенталь флаинг спур",
+    "year_from": 2005,
+    "year_to": 2012,
+    "brand_id": "BENTLEY",
+    "nameplates": []
+  },
+  {
+    "id": "CONTINENTAL_GT",
+    "name": "Continental GT",
+    "cyrillic_name": "континенталь гт",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "BENTLEY",
+    "nameplates": [
+      "Continental GT",
+      "GT3-R",
+      "Mulliner",
+      "S",
+      "Speed",
+      "Supersports",
+      "Supersports ISR"
+    ]
+  },
+  {
+    "id": "EIGHT",
+    "name": "Eight",
+    "cyrillic_name": "Эйт",
+    "year_from": 1984,
+    "year_to": 1992,
+    "brand_id": "BENTLEY",
+    "nameplates": []
+  },
+  {
+    "id": "FLYING_SPUR",
+    "name": "Flying Spur",
+    "cyrillic_name": "Флайн Спур",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "BENTLEY",
+    "nameplates": []
+  },
+  {
+    "id": "MARK_VI",
+    "name": "Mark VI",
+    "cyrillic_name": "марк 6",
+    "year_from": 1946,
+    "year_to": 1952,
+    "brand_id": "BENTLEY",
+    "nameplates": []
+  },
+  {
+    "id": "MULLINER_BACALAR",
+    "name": "Mulliner Bacalar",
+    "cyrillic_name": "Муллинер Бакалар",
+    "year_from": 2021,
+    "year_to": 2021,
+    "brand_id": "BENTLEY",
+    "nameplates": []
+  },
+  {
+    "id": "MULLINER_BATUR",
+    "name": "Mulliner Batur",
+    "cyrillic_name": "Муллинер Батур",
+    "year_from": 2022,
+    "year_to": 2025,
+    "brand_id": "BENTLEY",
+    "nameplates": []
+  },
+  {
+    "id": "MULSANNE",
+    "name": "Mulsanne",
+    "cyrillic_name": "мульсан",
+    "year_from": 1980,
+    "year_to": 2020,
+    "brand_id": "BENTLEY",
+    "nameplates": [
+      "Mulsanne",
+      "EWB",
+      "Speed"
+    ]
+  },
+  {
+    "id": "R_TYPE",
+    "name": "R Type",
+    "cyrillic_name": "р тайп",
+    "year_from": 1952,
+    "year_to": 1955,
+    "brand_id": "BENTLEY",
+    "nameplates": []
+  },
+  {
+    "id": "S",
+    "name": "S",
+    "cyrillic_name": "с",
+    "year_from": 1955,
+    "year_to": 1965,
+    "brand_id": "BENTLEY",
+    "nameplates": []
+  },
+  {
+    "id": "TURBO_R",
+    "name": "Turbo R",
+    "cyrillic_name": "турбо р",
+    "year_from": 1985,
+    "year_to": 1999,
+    "brand_id": "BENTLEY",
+    "nameplates": []
+  },
+  {
+    "id": "T_SERIES",
+    "name": "T-Series",
+    "cyrillic_name": "Т-Сериес",
+    "year_from": 1965,
+    "year_to": 1980,
+    "brand_id": "BENTLEY",
+    "nameplates": []
+  }
+]

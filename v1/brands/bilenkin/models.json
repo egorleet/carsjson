@@ -1,0 +1,11 @@
+[
+  {
+    "id": "VINTAGE",
+    "name": "Vintage",
+    "cyrillic_name": "винтаж",
+    "year_from": 2015,
+    "year_to": 2016,
+    "brand_id": "BILENKIN",
+    "nameplates": []
+  }
+]

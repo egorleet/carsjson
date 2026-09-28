@@ -1,0 +1,11 @@
+[
+  {
+    "id": "HUMVEE",
+    "name": "HMMWV (Humvee)",
+    "cyrillic_name": "Хамви",
+    "year_from": 1984,
+    "year_to": 2006,
+    "brand_id": "AM_GENERAL",
+    "nameplates": []
+  }
+]

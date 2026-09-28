@@ -1,0 +1,47 @@
+[
+  {
+    "id": "GENTRA",
+    "name": "Gentra",
+    "cyrillic_name": "Джентра",
+    "year_from": 2015,
+    "year_to": 2018,
+    "brand_id": "RAVON",
+    "nameplates": []
+  },
+  {
+    "id": "MATIZ",
+    "name": "Matiz",
+    "cyrillic_name": "Матиз",
+    "year_from": 2015,
+    "year_to": 2016,
+    "brand_id": "RAVON",
+    "nameplates": []
+  },
+  {
+    "id": "NEXIA_R3",
+    "name": "Nexia R3",
+    "cyrillic_name": "Нексия Р3",
+    "year_from": 2015,
+    "year_to": 2020,
+    "brand_id": "RAVON",
+    "nameplates": []
+  },
+  {
+    "id": "R2",
+    "name": "R2",
+    "cyrillic_name": "р2",
+    "year_from": 2016,
+    "year_to": 2020,
+    "brand_id": "RAVON",
+    "nameplates": []
+  },
+  {
+    "id": "R4",
+    "name": "R4",
+    "cyrillic_name": "Р4",
+    "year_from": 2016,
+    "year_to": 2020,
+    "brand_id": "RAVON",
+    "nameplates": []
+  }
+]

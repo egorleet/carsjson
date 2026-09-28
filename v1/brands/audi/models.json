@@ -1,0 +1,855 @@
+[
+  {
+    "id": "100",
+    "name": "100",
+    "cyrillic_name": "100",
+    "year_from": 1968,
+    "year_to": 1994,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "100",
+      "S4"
+    ]
+  },
+  {
+    "id": "200",
+    "name": "200",
+    "cyrillic_name": "200",
+    "year_from": 1979,
+    "year_to": 1991,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "50",
+    "name": "50",
+    "cyrillic_name": "50",
+    "year_from": 1974,
+    "year_to": 1978,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "60",
+    "name": "60",
+    "cyrillic_name": "60",
+    "year_from": 1969,
+    "year_to": 1973,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "80",
+    "name": "80",
+    "cyrillic_name": "80",
+    "year_from": 1972,
+    "year_to": 1996,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "90",
+    "name": "90",
+    "cyrillic_name": "90",
+    "year_from": 1984,
+    "year_to": 1995,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "920",
+    "name": "920",
+    "cyrillic_name": "920",
+    "year_from": 1938,
+    "year_to": 1940,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "A1",
+    "name": "A1",
+    "cyrillic_name": "А1",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "A2",
+    "name": "A2",
+    "cyrillic_name": "А2",
+    "year_from": 2000,
+    "year_to": 2007,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "A2_E_TRON",
+    "name": "A2 e-tron",
+    "cyrillic_name": "А2 е-трон",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "A3",
+    "name": "A3",
+    "cyrillic_name": "А3",
+    "year_from": 1996,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "A3",
+      "e-tron",
+      "g-tron"
+    ]
+  },
+  {
+    "id": "A4",
+    "name": "A4",
+    "cyrillic_name": "А4",
+    "year_from": 1994,
+    "year_to": 2025,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "A4_ALLROAD",
+    "name": "A4 allroad",
+    "cyrillic_name": "А4 Олроуд",
+    "year_from": 2009,
+    "year_to": 2025,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "A5",
+    "name": "A5",
+    "cyrillic_name": "А5",
+    "year_from": 2007,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "A5",
+      "e-hybrid",
+      "L",
+      "L Sportback",
+      "Sportback",
+      "Sportback g-tron"
+    ]
+  },
+  {
+    "id": "A6",
+    "name": "A6",
+    "cyrillic_name": "А6",
+    "year_from": 1994,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "A6",
+      "Long"
+    ]
+  },
+  {
+    "id": "A6_E_TRON",
+    "name": "A6 e-tron",
+    "cyrillic_name": "А6 е-трон",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "A6 e-tron",
+      "A6L e-tron"
+    ]
+  },
+  {
+    "id": "A7",
+    "name": "A7",
+    "cyrillic_name": "А7",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "A7",
+      "L"
+    ]
+  },
+  {
+    "id": "A8",
+    "name": "A8",
+    "cyrillic_name": "А8",
+    "year_from": 1994,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "A8",
+      "Horch",
+      "Long"
+    ]
+  },
+  {
+    "id": "ALLROAD",
+    "name": "A6 allroad",
+    "cyrillic_name": "А6 Олроуд",
+    "year_from": 2000,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "CABRIOLET",
+    "name": "Cabriolet",
+    "cyrillic_name": "Cabriolet",
+    "year_from": 1991,
+    "year_to": 2000,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "COUPE",
+    "name": "Coupe",
+    "cyrillic_name": "Купе",
+    "year_from": 1980,
+    "year_to": 1996,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "E5",
+    "name": "E5",
+    "cyrillic_name": "E5",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "E7X",
+    "name": "E7X",
+    "cyrillic_name": "Е7Х",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "E_TRON",
+    "name": "e-tron",
+    "cyrillic_name": "И-трон",
+    "year_from": 2018,
+    "year_to": 2023,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "50",
+      "55"
+    ]
+  },
+  {
+    "id": "E_TRON_GT",
+    "name": "e-tron GT",
+    "cyrillic_name": "И-трон ГТ",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "E_TRON_S",
+    "name": "e-tron S",
+    "cyrillic_name": "И-трон Эс",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "E_TRON_SPORTBACK",
+    "name": "e-tron Sportback",
+    "cyrillic_name": "И-трон Спортбэк",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "50",
+      "55"
+    ]
+  },
+  {
+    "id": "E_TRON_S_SPORTBACK",
+    "name": "e-tron S Sportback",
+    "cyrillic_name": "И-трон Эс Спортбэк",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "FRONT",
+    "name": "Front",
+    "cyrillic_name": "Фронт",
+    "year_from": 1935,
+    "year_to": 1938,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "NSU_RO_80",
+    "name": "NSU RO 80",
+    "cyrillic_name": "NSU RO 80",
+    "year_from": 1967,
+    "year_to": 1977,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "NUVOLARI",
+    "name": "Nuvolari",
+    "cyrillic_name": "Нуволари",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "Q2",
+    "name": "Q2",
+    "cyrillic_name": "Ку2",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "Q2",
+      "L",
+      "L e-tron"
+    ]
+  },
+  {
+    "id": "Q3",
+    "name": "Q3",
+    "cyrillic_name": "Ку3",
+    "year_from": 2011,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "Q3_SPORTBACK",
+    "name": "Q3 Sportback",
+    "cyrillic_name": "Ку3 Спортбек",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "Q4",
+    "name": "Q4 e-tron",
+    "cyrillic_name": "Ку4",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "Q4 e-tron",
+      "308 km",
+      "325 km",
+      "412 km",
+      "447 km"
+    ]
+  },
+  {
+    "id": "Q4_SPORTBACK",
+    "name": "Q4 Sportback e-tron",
+    "cyrillic_name": "Ку4 Спортбек",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "Q4 Sportback e-tron",
+      "308 km",
+      "325 km",
+      "423 km",
+      "447 km"
+    ]
+  },
+  {
+    "id": "Q5",
+    "name": "Q5",
+    "cyrillic_name": "Ку5",
+    "year_from": 2008,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "Q5",
+      "L"
+    ]
+  },
+  {
+    "id": "Q5_E_TRON",
+    "name": "Q5 e-tron",
+    "cyrillic_name": "Ку5 е-трон",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "Q5_SPORTBACK",
+    "name": "Q5 Sportback",
+    "cyrillic_name": "Кью5 Спортбек",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "Q5 Sportback",
+      "L"
+    ]
+  },
+  {
+    "id": "Q6",
+    "name": "Q6",
+    "cyrillic_name": "Кью6",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "Q6_E_TRON",
+    "name": "Q6 e-tron",
+    "cyrillic_name": "Ку6 е-трон",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "Q6 e-tron",
+      "Q6L e-tron"
+    ]
+  },
+  {
+    "id": "Q6_SPORTBACK_E_TRON",
+    "name": "Q6 Sportback e-tron",
+    "cyrillic_name": "Ку6 Спортбек е-трон",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "Q6 Sportback e-tron",
+      "Q6L Sportback e-tron"
+    ]
+  },
+  {
+    "id": "Q7",
+    "name": "Q7",
+    "cyrillic_name": "Ку7",
+    "year_from": 2005,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "Q8",
+    "name": "Q8",
+    "cyrillic_name": "Ку8",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "Q8_E_TRON",
+    "name": "Q8 e-tron",
+    "cyrillic_name": "Ку8 е-трон",
+    "year_from": 2022,
+    "year_to": 2025,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "50",
+      "55"
+    ]
+  },
+  {
+    "id": "Q8_SPORTBACK_E_TRON",
+    "name": "Q8 Sportback e-tron",
+    "cyrillic_name": "Ку8 Спортбек е-трон",
+    "year_from": 2022,
+    "year_to": 2025,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "50",
+      "55"
+    ]
+  },
+  {
+    "id": "Q9",
+    "name": "Q9",
+    "cyrillic_name": "Ку9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "QUATTRO",
+    "name": "Quattro",
+    "cyrillic_name": "Кватро",
+    "year_from": 1980,
+    "year_to": 1991,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "R8",
+    "name": "R8",
+    "cyrillic_name": "Р8",
+    "year_from": 2007,
+    "year_to": 2023,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "R8",
+      "GT"
+    ]
+  },
+  {
+    "id": "R8_LMP",
+    "name": "R8 LMP",
+    "cyrillic_name": "ЭР8 ЛМП",
+    "year_from": 2000,
+    "year_to": 2005,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "RS2",
+    "name": "RS 2",
+    "cyrillic_name": "RS2",
+    "year_from": 1993,
+    "year_to": 1995,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "RS3",
+    "name": "RS 3",
+    "cyrillic_name": "РС3",
+    "year_from": 2011,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "RS4",
+    "name": "RS 4",
+    "cyrillic_name": "РС4",
+    "year_from": 1999,
+    "year_to": 2025,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "RS 4",
+      "edition 25 years"
+    ]
+  },
+  {
+    "id": "RS5",
+    "name": "RS 5",
+    "cyrillic_name": "РС5",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "RS 5",
+      "performance edition"
+    ]
+  },
+  {
+    "id": "RS6",
+    "name": "RS 6",
+    "cyrillic_name": "РС6",
+    "year_from": 2002,
+    "year_to": 2025,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "RS7",
+    "name": "RS 7",
+    "cyrillic_name": "РС7",
+    "year_from": 2013,
+    "year_to": 2025,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "RSQ3",
+    "name": "RS Q3",
+    "cyrillic_name": "РС Ку3",
+    "year_from": 2013,
+    "year_to": 2023,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "RS_E_TRON_GT",
+    "name": "RS e-tron GT",
+    "cyrillic_name": "РС и-трон ГТ",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "RS_Q3_SPORTBACK",
+    "name": "RS Q3 Sportback",
+    "cyrillic_name": "РС Ку3 Спортбек",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "RS_Q8",
+    "name": "RS Q8",
+    "cyrillic_name": "РС Ку8",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "S1",
+    "name": "S1",
+    "cyrillic_name": "S1",
+    "year_from": 2014,
+    "year_to": 2018,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "S2",
+    "name": "S2",
+    "cyrillic_name": "S2",
+    "year_from": 1990,
+    "year_to": 1995,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "S3",
+    "name": "S3",
+    "cyrillic_name": "S3",
+    "year_from": 1999,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "S4",
+    "name": "S4",
+    "cyrillic_name": "S4",
+    "year_from": 1997,
+    "year_to": 2023,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "S5",
+    "name": "S5",
+    "cyrillic_name": "S5",
+    "year_from": 2007,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "S6",
+    "name": "S6",
+    "cyrillic_name": "S6",
+    "year_from": 1994,
+    "year_to": 2025,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "S6_E_TRON",
+    "name": "S6 e-tron",
+    "cyrillic_name": "С6 е-трон",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "S7",
+    "name": "S7",
+    "cyrillic_name": "S7",
+    "year_from": 2012,
+    "year_to": 2025,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "S8",
+    "name": "S8",
+    "cyrillic_name": "S8",
+    "year_from": 1996,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "S8",
+      "Long"
+    ]
+  },
+  {
+    "id": "SQ2",
+    "name": "SQ2",
+    "cyrillic_name": "ску2",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "SQ5",
+    "name": "SQ5",
+    "cyrillic_name": "ску5",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "SQ5_SPORTBACK",
+    "name": "SQ5 Sportback",
+    "cyrillic_name": "ЭсКью5 Спортбек",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "SQ6_E_TRON",
+    "name": "SQ6 e-tron",
+    "cyrillic_name": "СКу6 е-трон",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "SQ6_SPORTBACK_E_TRON",
+    "name": "SQ6 Sportback e-tron",
+    "cyrillic_name": "СКу6 Спортбек е-трон",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "SQ7",
+    "name": "SQ7",
+    "cyrillic_name": "ску7",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "SQ8",
+    "name": "SQ8",
+    "cyrillic_name": "ску8",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "SQ8_E_TRON",
+    "name": "SQ8 e-tron",
+    "cyrillic_name": "СКу8 е-трон",
+    "year_from": 2022,
+    "year_to": 2025,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "SQ8_SPORTBACK_E_TRON",
+    "name": "SQ8 Sportback e-tron",
+    "cyrillic_name": "СКу8 Спортбек е-трон",
+    "year_from": 2022,
+    "year_to": 2025,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "SQ9",
+    "name": "SQ9",
+    "cyrillic_name": "ЭсКу9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "S_E_TRON_GT",
+    "name": "S e-tron GT",
+    "cyrillic_name": "С и-трон ГТ",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "TT",
+    "name": "TT",
+    "cyrillic_name": "ТТ",
+    "year_from": 1998,
+    "year_to": 2023,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "TT",
+      "DKTB",
+      "DKZB",
+      "DNNB",
+      "DNPA"
+    ]
+  },
+  {
+    "id": "TTS",
+    "name": "TTS",
+    "cyrillic_name": "ТТС",
+    "year_from": 2007,
+    "year_to": 2023,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "TT_RS",
+    "name": "TT RS",
+    "cyrillic_name": "ТТ РС",
+    "year_from": 2009,
+    "year_to": 2023,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "TYP_R",
+    "name": "Typ R",
+    "cyrillic_name": "Тип-Р",
+    "year_from": 1927,
+    "year_to": 1929,
+    "brand_id": "AUDI",
+    "nameplates": []
+  },
+  {
+    "id": "V8",
+    "name": "V8",
+    "cyrillic_name": "V8",
+    "year_from": 1988,
+    "year_to": 1994,
+    "brand_id": "AUDI",
+    "nameplates": [
+      "V8",
+      "Long"
+    ]
+  }
+]

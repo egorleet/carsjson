@@ -1,0 +1,20 @@
+[
+  {
+    "id": "M12",
+    "name": "M12",
+    "cyrillic_name": "м12",
+    "year_from": 1996,
+    "year_to": 2000,
+    "brand_id": "VECTOR",
+    "nameplates": []
+  },
+  {
+    "id": "W8",
+    "name": "W8 Twin Turbo",
+    "cyrillic_name": "дабл ю 8 твин турбо",
+    "year_from": 1989,
+    "year_to": 1994,
+    "brand_id": "VECTOR",
+    "nameplates": []
+  }
+]

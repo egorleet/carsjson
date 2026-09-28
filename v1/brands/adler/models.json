@@ -1,0 +1,23 @@
+[
+  {
+    "id": "DIPLOMAT",
+    "name": "Diplomat",
+    "cyrillic_name": "Дипломат",
+    "year_from": 1934,
+    "year_to": 1940,
+    "brand_id": "ADLER",
+    "nameplates": [
+      "Diplomat",
+      "Pullman"
+    ]
+  },
+  {
+    "id": "TRUMPF_JUNIOR",
+    "name": "Trumpf Junior",
+    "cyrillic_name": "Трумф Джуниор",
+    "year_from": 1934,
+    "year_to": 1941,
+    "brand_id": "ADLER",
+    "nameplates": []
+  }
+]

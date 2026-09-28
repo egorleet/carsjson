@@ -1,0 +1,849 @@
+[
+  {
+    "id": "ACCENT",
+    "name": "Accent",
+    "cyrillic_name": "Акцент",
+    "year_from": 1994,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": [
+      "Accent",
+      "ТагАЗ"
+    ]
+  },
+  {
+    "id": "ALCAZAR",
+    "name": "Alcazar",
+    "cyrillic_name": "Алказар",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "ASLAN",
+    "name": "Aslan",
+    "cyrillic_name": "Аслан",
+    "year_from": 2014,
+    "year_to": 2018,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "ATOS",
+    "name": "Atos",
+    "cyrillic_name": "Атос",
+    "year_from": 1997,
+    "year_to": 2008,
+    "brand_id": "HYUNDAI",
+    "nameplates": [
+      "Atos",
+      "Prime"
+    ]
+  },
+  {
+    "id": "AVANTE",
+    "name": "Avante",
+    "cyrillic_name": "Авант",
+    "year_from": 1995,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": [
+      "Avante",
+      "N Line"
+    ]
+  },
+  {
+    "id": "AVANTE_N",
+    "name": "Avante N",
+    "cyrillic_name": "Аванте Н",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "AZERA",
+    "name": "Azera",
+    "cyrillic_name": "азера",
+    "year_from": 2005,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "BAYON",
+    "name": "Bayon",
+    "cyrillic_name": "Байон",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "CASPER",
+    "name": "Casper",
+    "cyrillic_name": "Каспер",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "CELESTA",
+    "name": "Celesta",
+    "cyrillic_name": "Селеста",
+    "year_from": 2017,
+    "year_to": 2023,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "CENTENNIAL",
+    "name": "Centennial",
+    "cyrillic_name": "Сентенниал",
+    "year_from": 1999,
+    "year_to": 2008,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "CLICK",
+    "name": "Click",
+    "cyrillic_name": "Клик",
+    "year_from": 2002,
+    "year_to": 2011,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "COUPE",
+    "name": "Coupe",
+    "cyrillic_name": "Купе",
+    "year_from": 1996,
+    "year_to": 2009,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "CRETA",
+    "name": "Creta",
+    "cyrillic_name": "Крета",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "CUSTIN",
+    "name": "Custin",
+    "cyrillic_name": "Кустин",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "CUSTO",
+    "name": "Custo",
+    "cyrillic_name": "Касто",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "DYNASTY",
+    "name": "Dynasty",
+    "cyrillic_name": "Династи",
+    "year_from": 1996,
+    "year_to": 2005,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "ELANTRA",
+    "name": "Elantra",
+    "cyrillic_name": "Элантра",
+    "year_from": 1990,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": [
+      "Elantra",
+      "Sport",
+      "ТагАЗ"
+    ]
+  },
+  {
+    "id": "ELANTRA_N",
+    "name": "Elantra N",
+    "cyrillic_name": "Элантра Н",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "ELEXIO",
+    "name": "Elexio",
+    "cyrillic_name": "Илексио",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "ENCINO",
+    "name": "Encino",
+    "cyrillic_name": "Инсино",
+    "year_from": 2018,
+    "year_to": 2020,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "ENTOURAGE",
+    "name": "Entourage",
+    "cyrillic_name": "Энтураж",
+    "year_from": 2006,
+    "year_to": 2009,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "EON",
+    "name": "EON",
+    "cyrillic_name": "еон",
+    "year_from": 2011,
+    "year_to": 2019,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "EQUUS",
+    "name": "Equus",
+    "cyrillic_name": "Экус",
+    "year_from": 1999,
+    "year_to": 2016,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "EXCEL",
+    "name": "Excel",
+    "cyrillic_name": "Эксель",
+    "year_from": 1985,
+    "year_to": 1998,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "EXTER",
+    "name": "Exter",
+    "cyrillic_name": "Экстер",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "GALLOPER",
+    "name": "Galloper",
+    "cyrillic_name": "Галлопер",
+    "year_from": 1991,
+    "year_to": 2003,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "GENESIS",
+    "name": "Genesis",
+    "cyrillic_name": "Дженесис",
+    "year_from": 2008,
+    "year_to": 2016,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "GENESIS_COUPE",
+    "name": "Genesis Coupe",
+    "cyrillic_name": "Дженесис Купе",
+    "year_from": 2008,
+    "year_to": 2016,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "GETZ",
+    "name": "Getz",
+    "cyrillic_name": "Гетц",
+    "year_from": 2002,
+    "year_to": 2011,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "GRACE",
+    "name": "Grace",
+    "cyrillic_name": "Грейс",
+    "year_from": 1986,
+    "year_to": 2004,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "GRANDEUR",
+    "name": "Grandeur",
+    "cyrillic_name": "Грандер",
+    "year_from": 1986,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "GRAND_STAREX",
+    "name": "Grand Starex",
+    "cyrillic_name": "Гранд Старекс",
+    "year_from": 2007,
+    "year_to": 2021,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "H200",
+    "name": "H200",
+    "cyrillic_name": "н200",
+    "year_from": 1997,
+    "year_to": 2007,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "HB20",
+    "name": "HB20",
+    "cyrillic_name": "ЭйчБ20",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": [
+      "HB20",
+      "X"
+    ]
+  },
+  {
+    "id": "H_1_STAREX",
+    "name": "H-1",
+    "cyrillic_name": "Н-1",
+    "year_from": 1997,
+    "year_to": 2021,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "I10",
+    "name": "i10",
+    "cyrillic_name": "i10",
+    "year_from": 2007,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": [
+      "i10",
+      "N Line"
+    ]
+  },
+  {
+    "id": "I20",
+    "name": "i20",
+    "cyrillic_name": "i20",
+    "year_from": 2008,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "I20_N",
+    "name": "i20 N",
+    "cyrillic_name": "Ай20 Н",
+    "year_from": 2021,
+    "year_to": 2023,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "I30",
+    "name": "i30",
+    "cyrillic_name": "i30",
+    "year_from": 2007,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": [
+      "i30",
+      "N Line"
+    ]
+  },
+  {
+    "id": "I30_N",
+    "name": "i30 N",
+    "cyrillic_name": "i30 N",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "I40",
+    "name": "i40",
+    "cyrillic_name": "i40",
+    "year_from": 2011,
+    "year_to": 2019,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "INSTER",
+    "name": "Inster",
+    "cyrillic_name": "Инстер",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "IONIQ",
+    "name": "IONIQ",
+    "cyrillic_name": "Ионик",
+    "year_from": 2016,
+    "year_to": 2022,
+    "brand_id": "HYUNDAI",
+    "nameplates": [
+      "IONIQ",
+      "Plug-in"
+    ]
+  },
+  {
+    "id": "IONIQ_3",
+    "name": "IONIQ 3",
+    "cyrillic_name": "ИОНИК 3",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "IONIQ_5",
+    "name": "IONIQ 5",
+    "cyrillic_name": "ИОНИК 5",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "IONIQ_5_N",
+    "name": "IONIQ 5 N",
+    "cyrillic_name": "ИОНИК 5 Н",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "IONIQ_6",
+    "name": "IONIQ 6",
+    "cyrillic_name": "ИОНИК 6",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": [
+      "IONIQ 6",
+      "N"
+    ]
+  },
+  {
+    "id": "IONIQ_9",
+    "name": "IONIQ 9",
+    "cyrillic_name": "ИОНИК 9",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "IONIQ_V",
+    "name": "IONIQ V",
+    "cyrillic_name": "ИОНИК В",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "IX20",
+    "name": "ix20",
+    "cyrillic_name": "ix20",
+    "year_from": 2010,
+    "year_to": 2019,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "IX25",
+    "name": "ix25",
+    "cyrillic_name": "АйИкс25",
+    "year_from": 2014,
+    "year_to": 2021,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "IX35",
+    "name": "ix35",
+    "cyrillic_name": "ix35",
+    "year_from": 2010,
+    "year_to": 2023,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "IX55",
+    "name": "ix55",
+    "cyrillic_name": "ix55",
+    "year_from": 2008,
+    "year_to": 2013,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "KONA",
+    "name": "Kona",
+    "cyrillic_name": "Кона",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "KONA_N",
+    "name": "Kona N",
+    "cyrillic_name": "Кона Н",
+    "year_from": 2021,
+    "year_to": 2023,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "LAFESTA",
+    "name": "Lafesta",
+    "cyrillic_name": "Лафеста",
+    "year_from": 2018,
+    "year_to": 2025,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "LANTRA",
+    "name": "Lantra",
+    "cyrillic_name": "Лантра",
+    "year_from": 1990,
+    "year_to": 2000,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "LAVITA",
+    "name": "Lavita",
+    "cyrillic_name": "Лавита",
+    "year_from": 2001,
+    "year_to": 2007,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "MARCIA",
+    "name": "Marcia",
+    "cyrillic_name": "Марсиа",
+    "year_from": 1995,
+    "year_to": 1998,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "MATRIX",
+    "name": "Matrix",
+    "cyrillic_name": "Матрикс",
+    "year_from": 2001,
+    "year_to": 2010,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "MAXCRUZ",
+    "name": "Maxcruz",
+    "cyrillic_name": "Макскруз",
+    "year_from": 2012,
+    "year_to": 2020,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "MISTRA",
+    "name": "Mistra",
+    "cyrillic_name": "Мистра",
+    "year_from": 2017,
+    "year_to": 2023,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "MUFASA",
+    "name": "Mufasa",
+    "cyrillic_name": "Муфаса",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "NEXO",
+    "name": "Nexo",
+    "cyrillic_name": "Нексо",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "PALISADE",
+    "name": "Palisade",
+    "cyrillic_name": "Палисад",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "PONY",
+    "name": "Pony",
+    "cyrillic_name": "Пони",
+    "year_from": 1975,
+    "year_to": 1994,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "REINA",
+    "name": "Reina",
+    "cyrillic_name": "Рейна",
+    "year_from": 2017,
+    "year_to": 2021,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "SANTAMO",
+    "name": "Santamo",
+    "cyrillic_name": "Сантамо",
+    "year_from": 1995,
+    "year_to": 2002,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "SANTA_CRUZ",
+    "name": "Santa Cruz",
+    "cyrillic_name": "Санта Круз",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "SANTA_FE",
+    "name": "Santa Fe",
+    "cyrillic_name": "Санта Фе",
+    "year_from": 2000,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": [
+      "Santa Fe",
+      "Classic",
+      "Grand Santa Fe"
+    ]
+  },
+  {
+    "id": "SANTRO",
+    "name": "Santro",
+    "cyrillic_name": "Сантро",
+    "year_from": 1998,
+    "year_to": 2022,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "SCOUPE",
+    "name": "Scoupe",
+    "cyrillic_name": "С купе",
+    "year_from": 1988,
+    "year_to": 1996,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "SOLARIS",
+    "name": "Solaris",
+    "cyrillic_name": "Солярис",
+    "year_from": 2010,
+    "year_to": 2022,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "SONATA",
+    "name": "Sonata",
+    "cyrillic_name": "Соната",
+    "year_from": 1988,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": [
+      "Sonata",
+      "ТагАЗ"
+    ]
+  },
+  {
+    "id": "STAREX",
+    "name": "Starex",
+    "cyrillic_name": "Старекс",
+    "year_from": 1997,
+    "year_to": 2007,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "STARGAZER",
+    "name": "Stargazer",
+    "cyrillic_name": "Старгейзер",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": [
+      "Stargazer",
+      "Cartenz",
+      "Cartenz X",
+      "X"
+    ]
+  },
+  {
+    "id": "STARIA",
+    "name": "Staria",
+    "cyrillic_name": "Стария",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "STELLAR",
+    "name": "Stellar",
+    "cyrillic_name": "Стеллар",
+    "year_from": 1983,
+    "year_to": 1993,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "TERRACAN",
+    "name": "Terracan",
+    "cyrillic_name": "Терракан",
+    "year_from": 2001,
+    "year_to": 2007,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "TIBURON",
+    "name": "Tiburon",
+    "cyrillic_name": "Тибурон",
+    "year_from": 1996,
+    "year_to": 2009,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "TRAJET",
+    "name": "Trajet",
+    "cyrillic_name": "Траджет",
+    "year_from": 1999,
+    "year_to": 2008,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "TUCSON",
+    "name": "Tucson",
+    "cyrillic_name": "Туксон",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": [
+      "Tucson",
+      "L"
+    ]
+  },
+  {
+    "id": "TUSCANI",
+    "name": "Tuscani",
+    "cyrillic_name": "Тускани",
+    "year_from": 2001,
+    "year_to": 2009,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "VELOSTER",
+    "name": "Veloster",
+    "cyrillic_name": "Велостер",
+    "year_from": 2011,
+    "year_to": 2022,
+    "brand_id": "HYUNDAI",
+    "nameplates": [
+      "Veloster",
+      "N"
+    ]
+  },
+  {
+    "id": "VENUE",
+    "name": "Venue",
+    "cyrillic_name": "Венуе",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "VERACRUZ",
+    "name": "Veracruz",
+    "cyrillic_name": "Веракруз",
+    "year_from": 2006,
+    "year_to": 2015,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "VERNA",
+    "name": "Verna",
+    "cyrillic_name": "Верна",
+    "year_from": 1999,
+    "year_to": 2026,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  },
+  {
+    "id": "XG",
+    "name": "XG",
+    "cyrillic_name": "XG",
+    "year_from": 1998,
+    "year_to": 2005,
+    "brand_id": "HYUNDAI",
+    "nameplates": []
+  }
+]

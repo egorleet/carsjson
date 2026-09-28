@@ -1,0 +1,20 @@
+[
+  {
+    "id": "30X",
+    "name": "30X",
+    "cyrillic_name": "30 Икс",
+    "year_from": 2020,
+    "year_to": 2022,
+    "brand_id": "MAPLE",
+    "nameplates": []
+  },
+  {
+    "id": "X3_PRO",
+    "name": "X3 Pro",
+    "cyrillic_name": "Икс 3 Про",
+    "year_from": 2022,
+    "year_to": 2022,
+    "brand_id": "MAPLE",
+    "nameplates": []
+  }
+]

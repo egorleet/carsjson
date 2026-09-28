@@ -1,0 +1,46 @@
+[
+  {
+    "id": "300",
+    "name": "300",
+    "cyrillic_name": "300",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "TANK",
+    "nameplates": [
+      "300",
+      "330",
+      "Arctic Trucks",
+      "L"
+    ]
+  },
+  {
+    "id": "400",
+    "name": "400",
+    "cyrillic_name": "400",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "TANK",
+    "nameplates": []
+  },
+  {
+    "id": "500",
+    "name": "500",
+    "cyrillic_name": "500",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "TANK",
+    "nameplates": [
+      "500",
+      "Arctic Trucks"
+    ]
+  },
+  {
+    "id": "700",
+    "name": "700",
+    "cyrillic_name": "700",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "TANK",
+    "nameplates": []
+  }
+]

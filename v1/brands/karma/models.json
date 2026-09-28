@@ -1,0 +1,20 @@
+[
+  {
+    "id": "REVERO",
+    "name": "Revero",
+    "cyrillic_name": "реверо",
+    "year_from": 2016,
+    "year_to": 2020,
+    "brand_id": "KARMA",
+    "nameplates": []
+  },
+  {
+    "id": "REVERO_GT",
+    "name": "Revero GT",
+    "cyrillic_name": "Реверо ГТ",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "KARMA",
+    "nameplates": []
+  }
+]

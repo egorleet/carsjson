@@ -1,0 +1,68 @@
+[
+  {
+    "id": "7",
+    "name": "7",
+    "cyrillic_name": "7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "LIVAN",
+    "nameplates": [
+      "50kW",
+      "68kW"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "8",
+    "cyrillic_name": "8",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "LIVAN",
+    "nameplates": []
+  },
+  {
+    "id": "9",
+    "name": "9",
+    "cyrillic_name": "9",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "LIVAN",
+    "nameplates": []
+  },
+  {
+    "id": "BLUE_BALOON",
+    "name": "Blue Baloon",
+    "cyrillic_name": "Блу Балун",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "LIVAN",
+    "nameplates": []
+  },
+  {
+    "id": "S6_PRO",
+    "name": "S6 Pro",
+    "cyrillic_name": "C6 Про",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "LIVAN",
+    "nameplates": []
+  },
+  {
+    "id": "X3_PRO",
+    "name": "X3 Pro",
+    "cyrillic_name": "Икс3 Про",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "LIVAN",
+    "nameplates": []
+  },
+  {
+    "id": "X6_PRO",
+    "name": "X6 Pro",
+    "cyrillic_name": "Икс6 Про",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "LIVAN",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "id": "A5",
+    "name": "A5",
+    "cyrillic_name": "А5",
+    "year_from": 2019,
+    "year_to": 2021,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "E30X",
+    "name": "E30X",
+    "cyrillic_name": "Е30Икс",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "HUNTER",
+    "name": "Hunter",
+    "cyrillic_name": "Хантер",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "IEV7L",
+    "name": "iEV7L",
+    "cyrillic_name": "Айев7л",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "IEV7S",
+    "name": "iEV7S",
+    "cyrillic_name": "иев7с",
+    "year_from": 2018,
+    "year_to": 2023,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "IEVA50",
+    "name": "iEVA50",
+    "cyrillic_name": "Айева50",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "IEVS4",
+    "name": "iEVS4",
+    "cyrillic_name": "ИЕВС4",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "J2",
+    "name": "J2 (Yueyue)",
+    "cyrillic_name": "J2",
+    "year_from": 2010,
+    "year_to": 2016,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "J3",
+    "name": "J3 (Tongyue,Tojoy)",
+    "cyrillic_name": "J3",
+    "year_from": 2009,
+    "year_to": 2017,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "J4",
+    "name": "J4 (Heyue A30)",
+    "cyrillic_name": "J4",
+    "year_from": 2013,
+    "year_to": 2019,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "J5",
+    "name": "J5 (Heyue)",
+    "cyrillic_name": "J5",
+    "year_from": 2014,
+    "year_to": 2017,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "J6",
+    "name": "J6 (Heyue RS)",
+    "cyrillic_name": "J6",
+    "year_from": 2011,
+    "year_to": 2015,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "J7",
+    "name": "J7",
+    "cyrillic_name": "J7",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "J7_BINYUE",
+    "name": "J7 (Binyue)",
+    "cyrillic_name": "J7 Биньюэ",
+    "year_from": 2008,
+    "year_to": 2015,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "JIAYUE_X7",
+    "name": "Jiayue X7",
+    "cyrillic_name": "Цзяюе Икс7",
+    "year_from": 2020,
+    "year_to": 2021,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "JS2",
+    "name": "JS2",
+    "cyrillic_name": "ДжейЭс2",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "JS2_PRO",
+    "name": "JS2 Pro",
+    "cyrillic_name": "ДжейЭс2 Про",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "JS3",
+    "name": "JS3",
+    "cyrillic_name": "ДжейЭс3",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "JS4",
+    "name": "JS4",
+    "cyrillic_name": "ДжиЭс4",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "JS5",
+    "name": "JS5",
+    "cyrillic_name": "ДжиЭс5",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "JS6",
+    "name": "JS6",
+    "cyrillic_name": "ДжиЭс6",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "JS9",
+    "name": "JS9",
+    "cyrillic_name": "ДжейЭс9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "M4",
+    "name": "M4",
+    "cyrillic_name": "Эм4",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "M5",
+    "name": "M5",
+    "cyrillic_name": "м5",
+    "year_from": 2011,
+    "year_to": 2025,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "QX",
+    "name": "QX",
+    "cyrillic_name": "КюИкс",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "REFINE",
+    "name": "M1 (Refine)",
+    "cyrillic_name": "M1 Рефайн",
+    "year_from": 2006,
+    "year_to": 2011,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "REFINE_L6_MAX",
+    "name": "Refine L6 Max",
+    "cyrillic_name": "Рефин Л6 Макс",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "REFINE_M3",
+    "name": "Refine M3",
+    "cyrillic_name": "Рефин М3",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "REFINE_RF8",
+    "name": "Refine RF8",
+    "cyrillic_name": "Рефайн РФ8",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "RF8",
+    "name": "RF8",
+    "cyrillic_name": "РФ8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "S1_REIN",
+    "name": "S1 (Rein)",
+    "cyrillic_name": "С1 (Рейн)",
+    "year_from": 2007,
+    "year_to": 2013,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "S3_PRO",
+    "name": "S3 Pro",
+    "cyrillic_name": "Эс 3 Про",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "S4",
+    "name": "S4",
+    "cyrillic_name": "C4",
+    "year_from": 2018,
+    "year_to": 2022,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "S5",
+    "name": "S5 (Eagle)",
+    "cyrillic_name": "С5 (Игл)",
+    "year_from": 2013,
+    "year_to": 2021,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "S6",
+    "name": "S6",
+    "cyrillic_name": "С6",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "S7",
+    "name": "S7",
+    "cyrillic_name": "С7",
+    "year_from": 2020,
+    "year_to": 2022,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "SEHOL_A5_PLUS",
+    "name": "Sehol A5 Plus",
+    "cyrillic_name": "Сехол А5 Плюс",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "SEHOL_AIPAO",
+    "name": "Sehol Aipao",
+    "cyrillic_name": "Сехол Айпао",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "SEHOL_E10X",
+    "name": "Sehol E10X",
+    "cyrillic_name": "Сехол Е10Х",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "SEHOL_E20X",
+    "name": "Sehol E20X",
+    "cyrillic_name": "Сехол Е20Х",
+    "year_from": 2018,
+    "year_to": 2021,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "SEHOL_QX",
+    "name": "Sehol QX",
+    "cyrillic_name": "Сехол КуИкс",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "SEHOL_X6",
+    "name": "Sehol X6",
+    "cyrillic_name": "Сехол Икс6",
+    "year_from": 2022,
+    "year_to": 2023,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "SEHOL_X8",
+    "name": "Sehol X8",
+    "cyrillic_name": "Сехол Икс8",
+    "year_from": 2020,
+    "year_to": 2023,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "SEHOL_X8_PLUS",
+    "name": "Sehol X8 Plus",
+    "cyrillic_name": "Сехол Икс8 плюс",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "S_2",
+    "name": "S2",
+    "cyrillic_name": "с2",
+    "year_from": 2015,
+    "year_to": 2019,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "S_3",
+    "name": "S3",
+    "cyrillic_name": "с3",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "T6",
+    "name": "T6",
+    "cyrillic_name": "Т6",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "T8",
+    "name": "T8",
+    "cyrillic_name": "т8",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "T8_PRO",
+    "name": "T8 Pro",
+    "cyrillic_name": "т8 про",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  },
+  {
+    "id": "T9",
+    "name": "T9",
+    "cyrillic_name": "Т9",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": [
+      "T9",
+      "Urban"
+    ]
+  },
+  {
+    "id": "YTTRIUM_3",
+    "name": "Yttrium 3",
+    "cyrillic_name": "Итриум 3",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "JAC",
+    "nameplates": []
+  }
+]

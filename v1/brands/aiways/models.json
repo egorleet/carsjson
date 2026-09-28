@@ -1,0 +1,20 @@
+[
+  {
+    "id": "U5",
+    "name": "U5",
+    "cyrillic_name": "Ю5",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "AIWAYS",
+    "nameplates": []
+  },
+  {
+    "id": "U6",
+    "name": "U6",
+    "cyrillic_name": "Ю6",
+    "year_from": 2021,
+    "year_to": 2023,
+    "brand_id": "AIWAYS",
+    "nameplates": []
+  }
+]

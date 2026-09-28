@@ -1,0 +1,1065 @@
+[
+  {
+    "id": "181",
+    "name": "181",
+    "cyrillic_name": "181",
+    "year_from": 1969,
+    "year_to": 1979,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "AMAROK",
+    "name": "Amarok",
+    "cyrillic_name": "Амарок",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "ARTEON",
+    "name": "Arteon",
+    "cyrillic_name": "Артеон",
+    "year_from": 2017,
+    "year_to": 2024,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "ARTEON_R",
+    "name": "Arteon R",
+    "cyrillic_name": "Артеон Р",
+    "year_from": 2020,
+    "year_to": 2024,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "ATLAS",
+    "name": "Atlas",
+    "cyrillic_name": "Атлас",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "ATLAS_CROSS_SPORT",
+    "name": "Atlas Cross Sport",
+    "cyrillic_name": "Атлас Кросс Спорт",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "BEETLE",
+    "name": "Beetle",
+    "cyrillic_name": "Битл",
+    "year_from": 1997,
+    "year_to": 2019,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Beetle",
+      "RSI"
+    ]
+  },
+  {
+    "id": "BORA",
+    "name": "Bora",
+    "cyrillic_name": "Бора",
+    "year_from": 1998,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Bora",
+      "e-Bora"
+    ]
+  },
+  {
+    "id": "CADDY",
+    "name": "Caddy",
+    "cyrillic_name": "Кадди",
+    "year_from": 1979,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Caddy",
+      "Maxi"
+    ]
+  },
+  {
+    "id": "CALIFORNIA",
+    "name": "California",
+    "cyrillic_name": "Калифорния",
+    "year_from": 1991,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "CARAVELLE",
+    "name": "Caravelle",
+    "cyrillic_name": "Каравелла",
+    "year_from": 1980,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Caravelle",
+      "Long"
+    ]
+  },
+  {
+    "id": "CORRADO",
+    "name": "Corrado",
+    "cyrillic_name": "Коррадо",
+    "year_from": 1988,
+    "year_to": 1995,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "C_TREK",
+    "name": "C-Trek",
+    "cyrillic_name": "Си-Трек",
+    "year_from": 2016,
+    "year_to": 2022,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "DERBY",
+    "name": "Derby",
+    "cyrillic_name": "Дерби",
+    "year_from": 1977,
+    "year_to": 1984,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "EOS",
+    "name": "Eos",
+    "cyrillic_name": "Эос",
+    "year_from": 2006,
+    "year_to": 2015,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "EUROVAN",
+    "name": "EuroVan",
+    "cyrillic_name": "Евровэн",
+    "year_from": 1992,
+    "year_to": 2003,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "FOX",
+    "name": "Fox",
+    "cyrillic_name": "Фокс",
+    "year_from": 1987,
+    "year_to": 2011,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Fox",
+      "Cross"
+    ]
+  },
+  {
+    "id": "GOL",
+    "name": "Gol",
+    "cyrillic_name": "гол",
+    "year_from": 1980,
+    "year_to": 2013,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "GOLF",
+    "name": "Golf",
+    "cyrillic_name": "Гольф",
+    "year_from": 1974,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Golf",
+      "Alltrack",
+      "Country",
+      "e-Golf",
+      "GTD",
+      "GTE"
+    ]
+  },
+  {
+    "id": "GOLF_COUNTRY",
+    "name": "Golf Country",
+    "cyrillic_name": "Гольф Кантри",
+    "year_from": 1990,
+    "year_to": 1991,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "GOLF_GTI",
+    "name": "Golf GTI",
+    "cyrillic_name": "Гольф GTI",
+    "year_from": 1976,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Golf GTI",
+      "TCR"
+    ]
+  },
+  {
+    "id": "GOLF_PLUS",
+    "name": "Golf Plus",
+    "cyrillic_name": "Гольф Плюс",
+    "year_from": 2005,
+    "year_to": 2014,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Golf Plus",
+      "Cross"
+    ]
+  },
+  {
+    "id": "GOLF_R",
+    "name": "Golf R",
+    "cyrillic_name": "Гольф Р",
+    "year_from": 2009,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "GOLF_R32",
+    "name": "Golf R32",
+    "cyrillic_name": "Гольф Р32",
+    "year_from": 2002,
+    "year_to": 2008,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "GOLF_SPORTSVAN",
+    "name": "Golf Sportsvan",
+    "cyrillic_name": "Гольф Спортсвэн",
+    "year_from": 2014,
+    "year_to": 2020,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "ID3",
+    "name": "ID.3",
+    "cyrillic_name": "ид3",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "ID.3",
+      "Neo"
+    ]
+  },
+  {
+    "id": "ID4",
+    "name": "ID.4",
+    "cyrillic_name": "ид4",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "ID.4",
+      "Crozz",
+      "X"
+    ]
+  },
+  {
+    "id": "ID5",
+    "name": "ID.5",
+    "cyrillic_name": "Ид5",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "ID6",
+    "name": "ID.6",
+    "cyrillic_name": "Ид6",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Crozz",
+      "X"
+    ]
+  },
+  {
+    "id": "ID7",
+    "name": "ID.7",
+    "cyrillic_name": "ИД7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "ID.7",
+      "GTX",
+      "Pro",
+      "Pro S"
+    ]
+  },
+  {
+    "id": "IDAURA_T6",
+    "name": "ID.Aura T6",
+    "cyrillic_name": "АйДи Аура Т6",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "IDBUZZ",
+    "name": "ID.Buzz",
+    "cyrillic_name": "идбузз",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "ID.Buzz",
+      "GTX",
+      "GTX LWB",
+      "LWB"
+    ]
+  },
+  {
+    "id": "IDCROSS",
+    "name": "ID.Cross",
+    "cyrillic_name": "АйДи Кросс",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "IDERA_5S",
+    "name": "ID.Era 5S",
+    "cyrillic_name": "АйДи Эра 5 Эс",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "IDERA_5X",
+    "name": "ID.Era 5X",
+    "cyrillic_name": "АйДи Эра 5Икс",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "IDERA_8X",
+    "name": "ID.Era 8X",
+    "cyrillic_name": "АйДи Эра 8 Икс",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "IDERA_9X",
+    "name": "ID.Era 9X",
+    "cyrillic_name": "АйДи Эра 9Икс",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "IDUNYX",
+    "name": "ID.Unyx",
+    "cyrillic_name": "айдиюнэкс",
+    "year_from": 2024,
+    "year_to": 2025,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "IDUNYX_06",
+    "name": "ID.Unyx 06",
+    "cyrillic_name": "айдиюнэкс 06",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "IDUNYX_07",
+    "name": "ID.Unyx 07",
+    "cyrillic_name": "айдиюнэкс 07",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "IDUNYX_08",
+    "name": "ID.Unyx 08",
+    "cyrillic_name": "айдиюнэкс 08",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "IDUNYX_09",
+    "name": "ID.Unyx 09",
+    "cyrillic_name": "айдиюнэкс 09",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "ID_POLO",
+    "name": "ID.Polo",
+    "cyrillic_name": "АйДи.Поло",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "ID.Polo",
+      "GTI"
+    ]
+  },
+  {
+    "id": "ILTIS",
+    "name": "Iltis",
+    "cyrillic_name": "Илтис",
+    "year_from": 1978,
+    "year_to": 1988,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "JETTA",
+    "name": "Jetta",
+    "cyrillic_name": "Джетта",
+    "year_from": 1978,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Jetta",
+      "GLI"
+    ]
+  },
+  {
+    "id": "K70",
+    "name": "K70",
+    "cyrillic_name": "к70",
+    "year_from": 1970,
+    "year_to": 1974,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "KARMANN_GHIA",
+    "name": "Karmann-Ghia",
+    "cyrillic_name": "карманн-гиа",
+    "year_from": 1955,
+    "year_to": 1974,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "LAMANDO",
+    "name": "Lamando",
+    "cyrillic_name": "Ламандо",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Lamando",
+      "GTS",
+      "L",
+      "L GTS"
+    ]
+  },
+  {
+    "id": "LAVIDA",
+    "name": "Lavida",
+    "cyrillic_name": "Лавида",
+    "year_from": 2008,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Lavida",
+      "e-Lavida"
+    ]
+  },
+  {
+    "id": "LAVIDA_XR",
+    "name": "Lavida XR",
+    "cyrillic_name": "Лавида ИксР",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "LUPO",
+    "name": "Lupo",
+    "cyrillic_name": "Лупо",
+    "year_from": 1998,
+    "year_to": 2005,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "LUPO_GTI",
+    "name": "Lupo GTI",
+    "cyrillic_name": "лупо гти",
+    "year_from": 2000,
+    "year_to": 2005,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "MAGOTAN",
+    "name": "Magotan",
+    "cyrillic_name": "Маготан",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Magotan",
+      "GTE"
+    ]
+  },
+  {
+    "id": "MULTIVAN",
+    "name": "Multivan",
+    "cyrillic_name": "Мультивэн",
+    "year_from": 1984,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Multivan",
+      "Long"
+    ]
+  },
+  {
+    "id": "PARATI",
+    "name": "Parati",
+    "cyrillic_name": "парати",
+    "year_from": 2005,
+    "year_to": 2012,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "PASSAT",
+    "name": "Passat",
+    "cyrillic_name": "Пассат",
+    "year_from": 1973,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Passat",
+      "Alltrack",
+      "GTE"
+    ]
+  },
+  {
+    "id": "PASSAT_CC",
+    "name": "Passat CC",
+    "cyrillic_name": "Пассат СС",
+    "year_from": 2008,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "PASSAT_NA",
+    "name": "Passat (North America and China)",
+    "cyrillic_name": "пассат (северная америка и китай)",
+    "year_from": 2005,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Passat (North America and China)",
+      "ePro"
+    ]
+  },
+  {
+    "id": "PHAETON",
+    "name": "Phaeton",
+    "cyrillic_name": "Фаетон",
+    "year_from": 2002,
+    "year_to": 2016,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Phaeton",
+      "Long"
+    ]
+  },
+  {
+    "id": "PHIDEON",
+    "name": "Phideon",
+    "cyrillic_name": "Фидеон",
+    "year_from": 2016,
+    "year_to": 2023,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "POINTER",
+    "name": "Pointer",
+    "cyrillic_name": "Поинтер",
+    "year_from": 2003,
+    "year_to": 2006,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "POLO",
+    "name": "Polo",
+    "cyrillic_name": "Поло",
+    "year_from": 1975,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Polo",
+      "Cross",
+      "Fun"
+    ]
+  },
+  {
+    "id": "POLO_GTI",
+    "name": "Polo GTI",
+    "cyrillic_name": "поло гти",
+    "year_from": 1998,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "POLO_R_WRC",
+    "name": "Polo R WRC",
+    "cyrillic_name": "Polo R WRC",
+    "year_from": 2013,
+    "year_to": 2016,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "QUANTUM",
+    "name": "Quantum",
+    "cyrillic_name": "квантум",
+    "year_from": 1985,
+    "year_to": 2003,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "RABBIT",
+    "name": "Rabbit",
+    "cyrillic_name": "Рэббит",
+    "year_from": 2006,
+    "year_to": 2009,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "ROUTAN",
+    "name": "Routan",
+    "cyrillic_name": "Рутан",
+    "year_from": 2008,
+    "year_to": 2012,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "SAGITAR",
+    "name": "Sagitar",
+    "cyrillic_name": "Сагитар",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Sagitar",
+      "L",
+      "S"
+    ]
+  },
+  {
+    "id": "SANTANA",
+    "name": "Santana",
+    "cyrillic_name": "Сантана",
+    "year_from": 1981,
+    "year_to": 2022,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "SCIROCCO",
+    "name": "Scirocco",
+    "cyrillic_name": "Сирокко",
+    "year_from": 1974,
+    "year_to": 2017,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "SCIROCCO_R",
+    "name": "Scirocco R",
+    "cyrillic_name": "Сирокко Р",
+    "year_from": 2009,
+    "year_to": 2017,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "SHARAN",
+    "name": "Sharan",
+    "cyrillic_name": "Шаран",
+    "year_from": 1995,
+    "year_to": 2022,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "SPACEFOX",
+    "name": "SpaceFox",
+    "cyrillic_name": "спейсфокс",
+    "year_from": 2006,
+    "year_to": 2018,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "SP_2",
+    "name": "SP-2",
+    "cyrillic_name": "СП-2",
+    "year_from": 1972,
+    "year_to": 1976,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "TACQUA",
+    "name": "Tacqua",
+    "cyrillic_name": "Таква",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "TAIGO",
+    "name": "Taigo",
+    "cyrillic_name": "Тайго",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "TAIGUN",
+    "name": "Taigun",
+    "cyrillic_name": "Тайгун",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "TALAGON",
+    "name": "Talagon",
+    "cyrillic_name": "Талагон",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "TAOS",
+    "name": "Taos",
+    "cyrillic_name": "Таос",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "TARO",
+    "name": "Taro",
+    "cyrillic_name": "Таро",
+    "year_from": 1989,
+    "year_to": 1997,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "TAVENDOR",
+    "name": "Tavendor",
+    "cyrillic_name": "Тавендор",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "TAYRON",
+    "name": "Tayron",
+    "cyrillic_name": "Тайрон",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Tayron",
+      "GTE",
+      "L",
+      "X"
+    ]
+  },
+  {
+    "id": "TERAMONT",
+    "name": "Teramont",
+    "cyrillic_name": "Терамонт",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Teramont",
+      "Pro",
+      "X"
+    ]
+  },
+  {
+    "id": "THARU",
+    "name": "Tharu",
+    "cyrillic_name": "Тару",
+    "year_from": 2018,
+    "year_to": 2025,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "THARU_XR",
+    "name": "Tharu XR",
+    "cyrillic_name": "Тару ИксЭр",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "TIGUAN",
+    "name": "Tiguan",
+    "cyrillic_name": "Тигуан",
+    "year_from": 2007,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Tiguan",
+      "280TSI L",
+      "380TSI L",
+      "Allspace",
+      "L",
+      "L ePro",
+      "L Pro",
+      "X"
+    ]
+  },
+  {
+    "id": "TIGUAN_R",
+    "name": "Tiguan R",
+    "cyrillic_name": "Тигуан Р",
+    "year_from": 2020,
+    "year_to": 2024,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "TOUAREG",
+    "name": "Touareg",
+    "cyrillic_name": "Туарег",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Touareg",
+      "R50"
+    ]
+  },
+  {
+    "id": "TOUAREG_R",
+    "name": "Touareg R",
+    "cyrillic_name": "Туарег Р",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "TOURAN",
+    "name": "Touran",
+    "cyrillic_name": "Туран",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Touran",
+      "Cross",
+      "Cross L",
+      "L"
+    ]
+  },
+  {
+    "id": "TRANSPORTER",
+    "name": "Transporter",
+    "cyrillic_name": "Транспортер",
+    "year_from": 1979,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "Transporter",
+      "Long"
+    ]
+  },
+  {
+    "id": "TYPE_1",
+    "name": "Type 1",
+    "cyrillic_name": "тайп 1",
+    "year_from": 1938,
+    "year_to": 2003,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "TYPE_166",
+    "name": "Type 166",
+    "cyrillic_name": "Тайп 166",
+    "year_from": 1942,
+    "year_to": 1944,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "TYPE_2",
+    "name": "Type 2",
+    "cyrillic_name": "тайп 2",
+    "year_from": 1950,
+    "year_to": 1979,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "TYPE_3",
+    "name": "Type 3",
+    "cyrillic_name": "тайп 3",
+    "year_from": 1961,
+    "year_to": 1973,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "TYPE_4",
+    "name": "Type 4",
+    "cyrillic_name": "тайп 4",
+    "year_from": 1968,
+    "year_to": 1975,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "TYPE_82",
+    "name": "Type 82",
+    "cyrillic_name": "Тайп 82",
+    "year_from": 1940,
+    "year_to": 1945,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "T_CROSS",
+    "name": "T-Cross",
+    "cyrillic_name": "Т-Кросс",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "T_ROC",
+    "name": "T-Roc",
+    "cyrillic_name": "т-рок",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "T_ROC_R",
+    "name": "T-Roc R",
+    "cyrillic_name": "Т-Рок Р",
+    "year_from": 2019,
+    "year_to": 2024,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "UP",
+    "name": "up!",
+    "cyrillic_name": "Ап",
+    "year_from": 2012,
+    "year_to": 2023,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": [
+      "up!",
+      "e-up!"
+    ]
+  },
+  {
+    "id": "VENTO",
+    "name": "Vento",
+    "cyrillic_name": "Венто",
+    "year_from": 1991,
+    "year_to": 1998,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "VILORAN",
+    "name": "Viloran",
+    "cyrillic_name": "Вилоран",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "VOYAGE",
+    "name": "Voyage",
+    "cyrillic_name": "Вояж",
+    "year_from": 2008,
+    "year_to": 2022,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
+    "id": "XL1",
+    "name": "XL1",
+    "cyrillic_name": "хл1",
+    "year_from": 2013,
+    "year_to": 2015,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  }
+]

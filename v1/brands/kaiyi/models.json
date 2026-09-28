@@ -1,0 +1,50 @@
+[
+  {
+    "id": "E5",
+    "name": "E5",
+    "cyrillic_name": "е5",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "KAIYI",
+    "nameplates": []
+  },
+  {
+    "id": "SHIYUE",
+    "name": "Shiyue",
+    "cyrillic_name": "Кхия",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "KAIYI",
+    "nameplates": [
+      "Shiyue",
+      "Max"
+    ]
+  },
+  {
+    "id": "X3",
+    "name": "X3",
+    "cyrillic_name": "Икс3",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "KAIYI",
+    "nameplates": []
+  },
+  {
+    "id": "X3_PRO",
+    "name": "X3 Pro",
+    "cyrillic_name": "Икс3 Про",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "KAIYI",
+    "nameplates": []
+  },
+  {
+    "id": "X7",
+    "name": "X7 Kunlun",
+    "cyrillic_name": "Икс7 Кунлун",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "KAIYI",
+    "nameplates": []
+  }
+]

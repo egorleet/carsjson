@@ -1,0 +1,38 @@
+[
+  {
+    "id": "E5",
+    "name": "E5",
+    "cyrillic_name": "е5",
+    "year_from": 2021,
+    "year_to": 2022,
+    "brand_id": "WELTMEISTER",
+    "nameplates": []
+  },
+  {
+    "id": "EX5",
+    "name": "EX5",
+    "cyrillic_name": "Экс 5",
+    "year_from": 2018,
+    "year_to": 2022,
+    "brand_id": "WELTMEISTER",
+    "nameplates": []
+  },
+  {
+    "id": "EX6_PLUS",
+    "name": "EX6 Plus",
+    "cyrillic_name": "ЕХ6 Плюс",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "WELTMEISTER",
+    "nameplates": []
+  },
+  {
+    "id": "W6",
+    "name": "W6",
+    "cyrillic_name": "В6",
+    "year_from": 2021,
+    "year_to": 2022,
+    "brand_id": "WELTMEISTER",
+    "nameplates": []
+  }
+]

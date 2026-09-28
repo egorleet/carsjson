@@ -1,0 +1,41 @@
+[
+  {
+    "id": "RETONA",
+    "name": "Retona",
+    "cyrillic_name": "Ретона",
+    "year_from": 1998,
+    "year_to": 2003,
+    "brand_id": "ASIA",
+    "nameplates": []
+  },
+  {
+    "id": "ROCSTA",
+    "name": "Rocsta",
+    "cyrillic_name": "Рокста",
+    "year_from": 1990,
+    "year_to": 1998,
+    "brand_id": "ASIA",
+    "nameplates": [
+      "Rocsta",
+      "R2"
+    ]
+  },
+  {
+    "id": "TOPIC",
+    "name": "Topic",
+    "cyrillic_name": "Топик",
+    "year_from": 1987,
+    "year_to": 1999,
+    "brand_id": "ASIA",
+    "nameplates": []
+  },
+  {
+    "id": "TOWNER",
+    "name": "Towner",
+    "cyrillic_name": "таунер",
+    "year_from": 1992,
+    "year_to": 1999,
+    "brand_id": "ASIA",
+    "nameplates": []
+  }
+]

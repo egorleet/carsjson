@@ -1,0 +1,38 @@
+[
+  {
+    "id": "W22",
+    "name": "W22",
+    "cyrillic_name": "ДаблЮ22",
+    "year_from": 1933,
+    "year_to": 1938,
+    "brand_id": "WANDERER",
+    "nameplates": []
+  },
+  {
+    "id": "W23",
+    "name": "W23",
+    "cyrillic_name": "в23",
+    "year_from": 1936,
+    "year_to": 1941,
+    "brand_id": "WANDERER",
+    "nameplates": []
+  },
+  {
+    "id": "W26",
+    "name": "W26",
+    "cyrillic_name": "В26",
+    "year_from": 1937,
+    "year_to": 1940,
+    "brand_id": "WANDERER",
+    "nameplates": []
+  },
+  {
+    "id": "W50",
+    "name": "W50",
+    "cyrillic_name": "в50",
+    "year_from": 1936,
+    "year_to": 1938,
+    "brand_id": "WANDERER",
+    "nameplates": []
+  }
+]

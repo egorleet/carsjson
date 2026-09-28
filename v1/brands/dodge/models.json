@@ -1,0 +1,417 @@
+[
+  {
+    "id": "600",
+    "name": "600",
+    "cyrillic_name": "600",
+    "year_from": 1983,
+    "year_to": 1988,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "ARIES",
+    "name": "Aries",
+    "cyrillic_name": "Ариес",
+    "year_from": 1981,
+    "year_to": 1989,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "AVENGER",
+    "name": "Avenger",
+    "cyrillic_name": "Авенджер",
+    "year_from": 1994,
+    "year_to": 2014,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "CALIBER",
+    "name": "Caliber",
+    "cyrillic_name": "Калибр",
+    "year_from": 2006,
+    "year_to": 2012,
+    "brand_id": "DODGE",
+    "nameplates": [
+      "Caliber",
+      "SRT-4"
+    ]
+  },
+  {
+    "id": "CARAVAN",
+    "name": "Caravan",
+    "cyrillic_name": "Караван",
+    "year_from": 1984,
+    "year_to": 2020,
+    "brand_id": "DODGE",
+    "nameplates": [
+      "Caravan",
+      "Grand Caravan"
+    ]
+  },
+  {
+    "id": "CHALLENGER",
+    "name": "Challenger",
+    "cyrillic_name": "Челленджер",
+    "year_from": 1969,
+    "year_to": 2023,
+    "brand_id": "DODGE",
+    "nameplates": [
+      "Challenger",
+      "Hellcat",
+      "Hellcat Redeye",
+      "Hellcat Widebody",
+      "R/T",
+      "SRT",
+      "SRT Demon",
+      "SRT-8"
+    ]
+  },
+  {
+    "id": "CHARGER",
+    "name": "Charger",
+    "cyrillic_name": "Чарджер",
+    "year_from": 1966,
+    "year_to": 2026,
+    "brand_id": "DODGE",
+    "nameplates": [
+      "Charger",
+      "500",
+      "Hellcat",
+      "R/T",
+      "SRT",
+      "SRT-8"
+    ]
+  },
+  {
+    "id": "CHARGER_DAYTONA",
+    "name": "Charger Daytona",
+    "cyrillic_name": "Чарджер Дайтона",
+    "year_from": 1969,
+    "year_to": 1970,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "COLT",
+    "name": "Colt",
+    "cyrillic_name": "Кольт",
+    "year_from": 1992,
+    "year_to": 1994,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "CORONET",
+    "name": "Coronet",
+    "cyrillic_name": "Коронет",
+    "year_from": 1970,
+    "year_to": 1976,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "CUSTOM_ROYAL",
+    "name": "Custom Royal",
+    "cyrillic_name": "Кастом Роял",
+    "year_from": 1955,
+    "year_to": 1959,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "D8",
+    "name": "D8",
+    "cyrillic_name": "Д8",
+    "year_from": 1937,
+    "year_to": 1938,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "DAKOTA",
+    "name": "Dakota",
+    "cyrillic_name": "Дакота",
+    "year_from": 1987,
+    "year_to": 2011,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "DART",
+    "name": "Dart",
+    "cyrillic_name": "дарт",
+    "year_from": 1967,
+    "year_to": 2016,
+    "brand_id": "DODGE",
+    "nameplates": [
+      "Dart",
+      "GT"
+    ]
+  },
+  {
+    "id": "DAYTONA",
+    "name": "Daytona",
+    "cyrillic_name": "Дайтона",
+    "year_from": 1984,
+    "year_to": 1993,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "DIPLOMAT",
+    "name": "Diplomat",
+    "cyrillic_name": "Дипломат",
+    "year_from": 1977,
+    "year_to": 1989,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "DURANGO",
+    "name": "Durango",
+    "cyrillic_name": "Дуранго",
+    "year_from": 1997,
+    "year_to": 2026,
+    "brand_id": "DODGE",
+    "nameplates": [
+      "Durango",
+      "SRT"
+    ]
+  },
+  {
+    "id": "DW_SERIES",
+    "name": "D/W Series",
+    "cyrillic_name": "д/в серия",
+    "year_from": 1972,
+    "year_to": 1980,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "DYNASTY",
+    "name": "Dynasty",
+    "cyrillic_name": "династия",
+    "year_from": 1987,
+    "year_to": 1993,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "HORNET",
+    "name": "Hornet",
+    "cyrillic_name": "Хорнет",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "INTREPID",
+    "name": "Intrepid",
+    "cyrillic_name": "Интерпид",
+    "year_from": 1992,
+    "year_to": 2004,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "JOURNEY",
+    "name": "Journey",
+    "cyrillic_name": "Джорней",
+    "year_from": 2007,
+    "year_to": 2020,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "LANCER",
+    "name": "Lancer",
+    "cyrillic_name": "Лансер",
+    "year_from": 1985,
+    "year_to": 1989,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "MAGNUM",
+    "name": "Magnum",
+    "cyrillic_name": "Магнум",
+    "year_from": 1977,
+    "year_to": 2008,
+    "brand_id": "DODGE",
+    "nameplates": [
+      "Magnum",
+      "SRT-8"
+    ]
+  },
+  {
+    "id": "MAYFAIR",
+    "name": "Mayfair",
+    "cyrillic_name": "майфер",
+    "year_from": 1953,
+    "year_to": 1959,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "MIRADA",
+    "name": "Mirada",
+    "cyrillic_name": "Мирада",
+    "year_from": 1980,
+    "year_to": 1983,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "MONACO",
+    "name": "Monaco",
+    "cyrillic_name": "Монако",
+    "year_from": 1965,
+    "year_to": 1993,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "NEON",
+    "name": "Neon",
+    "cyrillic_name": "Неон",
+    "year_from": 1994,
+    "year_to": 2021,
+    "brand_id": "DODGE",
+    "nameplates": [
+      "Neon",
+      "SRT-4"
+    ]
+  },
+  {
+    "id": "NITRO",
+    "name": "Nitro",
+    "cyrillic_name": "Нитро",
+    "year_from": 2006,
+    "year_to": 2011,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "OMNI",
+    "name": "Omni",
+    "cyrillic_name": "Омни",
+    "year_from": 1978,
+    "year_to": 1990,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "POLARA",
+    "name": "Polara",
+    "cyrillic_name": "Полара",
+    "year_from": 1965,
+    "year_to": 1973,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "RAIDER",
+    "name": "Raider",
+    "cyrillic_name": "райдер",
+    "year_from": 1987,
+    "year_to": 1989,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "RAM",
+    "name": "RAM",
+    "cyrillic_name": "РАМ",
+    "year_from": 1980,
+    "year_to": 2019,
+    "brand_id": "DODGE",
+    "nameplates": [
+      "RAM",
+      "SRT-10"
+    ]
+  },
+  {
+    "id": "RAMCHARGER",
+    "name": "Ramcharger",
+    "cyrillic_name": "Рамчарджер",
+    "year_from": 1974,
+    "year_to": 2001,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "RAM_VAN",
+    "name": "RAM Van",
+    "cyrillic_name": "РАМ Ван",
+    "year_from": 1979,
+    "year_to": 2003,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "SHADOW",
+    "name": "Shadow",
+    "cyrillic_name": "Шадоу",
+    "year_from": 1986,
+    "year_to": 1994,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "SPIRIT",
+    "name": "Spirit",
+    "cyrillic_name": "Спирит",
+    "year_from": 1988,
+    "year_to": 1995,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "STEALTH",
+    "name": "Stealth",
+    "cyrillic_name": "Стелс",
+    "year_from": 1990,
+    "year_to": 1996,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "STRATUS",
+    "name": "Stratus",
+    "cyrillic_name": "Стратус",
+    "year_from": 1995,
+    "year_to": 2006,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "SUPER_BEE",
+    "name": "Super Bee",
+    "cyrillic_name": "Супер Би",
+    "year_from": 1968,
+    "year_to": 1970,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "VIPER",
+    "name": "Viper",
+    "cyrillic_name": "Вайпер",
+    "year_from": 1992,
+    "year_to": 2017,
+    "brand_id": "DODGE",
+    "nameplates": []
+  },
+  {
+    "id": "WC",
+    "name": "WC series",
+    "cyrillic_name": "вс",
+    "year_from": 1941,
+    "year_to": 1945,
+    "brand_id": "DODGE",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "id": "A110",
+    "name": "A110",
+    "cyrillic_name": "а110",
+    "year_from": 1961,
+    "year_to": 2026,
+    "brand_id": "ALPINE",
+    "nameplates": [
+      "A110",
+      "1100",
+      "1300",
+      "1500",
+      "1600"
+    ]
+  },
+  {
+    "id": "A290",
+    "name": "A290",
+    "cyrillic_name": "А290",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "ALPINE",
+    "nameplates": []
+  },
+  {
+    "id": "A310",
+    "name": "A310",
+    "cyrillic_name": "а310",
+    "year_from": 1971,
+    "year_to": 1985,
+    "brand_id": "ALPINE",
+    "nameplates": []
+  },
+  {
+    "id": "A390",
+    "name": "A390",
+    "cyrillic_name": "А390",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "ALPINE",
+    "nameplates": [
+      "GT",
+      "GTS"
+    ]
+  },
+  {
+    "id": "A610",
+    "name": "A610",
+    "cyrillic_name": "а610",
+    "year_from": 1991,
+    "year_to": 1995,
+    "brand_id": "ALPINE",
+    "nameplates": []
+  },
+  {
+    "id": "GTA",
+    "name": "GTA",
+    "cyrillic_name": "гта",
+    "year_from": 1985,
+    "year_to": 1990,
+    "brand_id": "ALPINE",
+    "nameplates": [
+      "V6 GT",
+      "V6 Turbo",
+      "V6 Turbo Catalyse"
+    ]
+  }
+]

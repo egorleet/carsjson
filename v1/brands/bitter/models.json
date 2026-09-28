@@ -1,0 +1,20 @@
+[
+  {
+    "id": "CD",
+    "name": "CD",
+    "cyrillic_name": "сд",
+    "year_from": 1973,
+    "year_to": 1979,
+    "brand_id": "BITTER",
+    "nameplates": []
+  },
+  {
+    "id": "TYPE_3",
+    "name": "Type 3",
+    "cyrillic_name": "Тайп 3",
+    "year_from": 1987,
+    "year_to": 1988,
+    "brand_id": "BITTER",
+    "nameplates": []
+  }
+]

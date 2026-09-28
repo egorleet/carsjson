@@ -1,0 +1,65 @@
+[
+  {
+    "id": "COS1",
+    "name": "COS1",
+    "cyrillic_name": "кос1",
+    "year_from": 2018,
+    "year_to": 2022,
+    "brand_id": "OSHAN",
+    "nameplates": []
+  },
+  {
+    "id": "COSMOS",
+    "name": "Cosmos",
+    "cyrillic_name": "Космос",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "OSHAN",
+    "nameplates": []
+  },
+  {
+    "id": "X5",
+    "name": "X5",
+    "cyrillic_name": "Икс 5",
+    "year_from": 2020,
+    "year_to": 2023,
+    "brand_id": "OSHAN",
+    "nameplates": []
+  },
+  {
+    "id": "X5_PLUS",
+    "name": "X5 Plus",
+    "cyrillic_name": "Икс 5 Плюс",
+    "year_from": 2022,
+    "year_to": 2024,
+    "brand_id": "OSHAN",
+    "nameplates": []
+  },
+  {
+    "id": "X7",
+    "name": "X7",
+    "cyrillic_name": "Икс 7",
+    "year_from": 2019,
+    "year_to": 2021,
+    "brand_id": "OSHAN",
+    "nameplates": []
+  },
+  {
+    "id": "X7_PLUS",
+    "name": "X7 Plus",
+    "cyrillic_name": "Икс 7 Плюс",
+    "year_from": 2021,
+    "year_to": 2024,
+    "brand_id": "OSHAN",
+    "nameplates": []
+  },
+  {
+    "id": "Z6",
+    "name": "Z6",
+    "cyrillic_name": "Зет6",
+    "year_from": 2022,
+    "year_to": 2024,
+    "brand_id": "OSHAN",
+    "nameplates": []
+  }
+]

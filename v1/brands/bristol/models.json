@@ -1,0 +1,33 @@
+[
+  {
+    "id": "BLENHEIM",
+    "name": "Blenheim",
+    "cyrillic_name": "Бленхейм",
+    "year_from": 1993,
+    "year_to": 2011,
+    "brand_id": "BRISTOL",
+    "nameplates": []
+  },
+  {
+    "id": "BLENHEIM_SPEEDSTER",
+    "name": "Blenheim Speedster",
+    "cyrillic_name": "Бленхейм Спидстер",
+    "year_from": 2003,
+    "year_to": 2011,
+    "brand_id": "BRISTOL",
+    "nameplates": []
+  },
+  {
+    "id": "FIGHTER",
+    "name": "Fighter",
+    "cyrillic_name": "Файтер",
+    "year_from": 2004,
+    "year_to": 2011,
+    "brand_id": "BRISTOL",
+    "nameplates": [
+      "Fighter",
+      "S",
+      "T"
+    ]
+  }
+]

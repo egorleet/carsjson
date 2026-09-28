@@ -1,0 +1,20 @@
+[
+  {
+    "id": "100",
+    "name": "100",
+    "cyrillic_name": "100",
+    "year_from": 1956,
+    "year_to": 1959,
+    "brand_id": "AUSTIN_HEALEY",
+    "nameplates": []
+  },
+  {
+    "id": "3000",
+    "name": "3000",
+    "cyrillic_name": "3000",
+    "year_from": 1959,
+    "year_to": 1967,
+    "brand_id": "AUSTIN_HEALEY",
+    "nameplates": []
+  }
+]

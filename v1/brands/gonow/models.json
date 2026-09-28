@@ -1,0 +1,29 @@
+[
+  {
+    "id": "AOOSED_G5",
+    "name": "Aoosed G5",
+    "cyrillic_name": "Аусид Г5",
+    "year_from": 2010,
+    "year_to": 2012,
+    "brand_id": "GONOW",
+    "nameplates": []
+  },
+  {
+    "id": "GX6",
+    "name": "GX6",
+    "cyrillic_name": "ГИкс6",
+    "year_from": 2014,
+    "year_to": 2016,
+    "brand_id": "GONOW",
+    "nameplates": []
+  },
+  {
+    "id": "TROY",
+    "name": "Troy",
+    "cyrillic_name": "Трой",
+    "year_from": 2008,
+    "year_to": 2012,
+    "brand_id": "GONOW",
+    "nameplates": []
+  }
+]

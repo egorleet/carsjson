@@ -1,0 +1,240 @@
+[
+  {
+    "id": "ESQ",
+    "name": "ESQ",
+    "cyrillic_name": "Е Эс Кью",
+    "year_from": 2014,
+    "year_to": 2019,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  },
+  {
+    "id": "EX",
+    "name": "EX",
+    "cyrillic_name": "EX",
+    "year_from": 2007,
+    "year_to": 2013,
+    "brand_id": "INFINITI",
+    "nameplates": [
+      "25",
+      "30d",
+      "35",
+      "37"
+    ]
+  },
+  {
+    "id": "FX",
+    "name": "FX",
+    "cyrillic_name": "FX",
+    "year_from": 2002,
+    "year_to": 2013,
+    "brand_id": "INFINITI",
+    "nameplates": [
+      "FX",
+      "30d",
+      "35",
+      "37",
+      "45",
+      "50"
+    ]
+  },
+  {
+    "id": "G35",
+    "name": "G",
+    "cyrillic_name": "G",
+    "year_from": 1991,
+    "year_to": 2013,
+    "brand_id": "INFINITI",
+    "nameplates": [
+      "20",
+      "25",
+      "35",
+      "37"
+    ]
+  },
+  {
+    "id": "I",
+    "name": "I",
+    "cyrillic_name": "I",
+    "year_from": 1995,
+    "year_to": 2004,
+    "brand_id": "INFINITI",
+    "nameplates": [
+      "30",
+      "35"
+    ]
+  },
+  {
+    "id": "J30",
+    "name": "J",
+    "cyrillic_name": "J",
+    "year_from": 1992,
+    "year_to": 1997,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  },
+  {
+    "id": "JX",
+    "name": "JX",
+    "cyrillic_name": "джей икс",
+    "year_from": 2012,
+    "year_to": 2014,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  },
+  {
+    "id": "M",
+    "name": "M",
+    "cyrillic_name": "M",
+    "year_from": 1989,
+    "year_to": 2013,
+    "brand_id": "INFINITI",
+    "nameplates": [
+      "25",
+      "30",
+      "30d",
+      "35",
+      "37",
+      "45",
+      "56"
+    ]
+  },
+  {
+    "id": "Q",
+    "name": "Q",
+    "cyrillic_name": "Q",
+    "year_from": 1989,
+    "year_to": 2006,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  },
+  {
+    "id": "Q30",
+    "name": "Q30",
+    "cyrillic_name": "ку 30",
+    "year_from": 2015,
+    "year_to": 2019,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  },
+  {
+    "id": "Q40",
+    "name": "Q40",
+    "cyrillic_name": "ку 40",
+    "year_from": 2014,
+    "year_to": 2015,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  },
+  {
+    "id": "Q50",
+    "name": "Q50",
+    "cyrillic_name": "Q50",
+    "year_from": 2013,
+    "year_to": 2024,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  },
+  {
+    "id": "Q60",
+    "name": "Q60",
+    "cyrillic_name": "ку 60",
+    "year_from": 2013,
+    "year_to": 2022,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  },
+  {
+    "id": "Q70",
+    "name": "Q70",
+    "cyrillic_name": "ку 70",
+    "year_from": 2013,
+    "year_to": 2019,
+    "brand_id": "INFINITI",
+    "nameplates": [
+      "Q70",
+      "Long"
+    ]
+  },
+  {
+    "id": "QX30",
+    "name": "QX30",
+    "cyrillic_name": "ку икс 30",
+    "year_from": 2016,
+    "year_to": 2019,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  },
+  {
+    "id": "QX4",
+    "name": "QX4",
+    "cyrillic_name": "Ку Икс 4",
+    "year_from": 1996,
+    "year_to": 2003,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  },
+  {
+    "id": "QX50",
+    "name": "QX50",
+    "cyrillic_name": "ку икс 50",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  },
+  {
+    "id": "QX55",
+    "name": "QX55",
+    "cyrillic_name": "КуИкс55",
+    "year_from": 2021,
+    "year_to": 2025,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  },
+  {
+    "id": "QX56",
+    "name": "QX56",
+    "cyrillic_name": "QX56",
+    "year_from": 2004,
+    "year_to": 2013,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  },
+  {
+    "id": "QX60",
+    "name": "QX60",
+    "cyrillic_name": "ку икс 60",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  },
+  {
+    "id": "QX65",
+    "name": "QX65",
+    "cyrillic_name": "Ку Икс 65",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  },
+  {
+    "id": "QX70",
+    "name": "QX70",
+    "cyrillic_name": "ку икс 70",
+    "year_from": 2013,
+    "year_to": 2017,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  },
+  {
+    "id": "QX80",
+    "name": "QX80",
+    "cyrillic_name": "ку икс 80",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "INFINITI",
+    "nameplates": []
+  }
+]

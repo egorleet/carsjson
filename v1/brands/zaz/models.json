@@ -1,0 +1,101 @@
+[
+  {
+    "id": "965",
+    "name": "965",
+    "cyrillic_name": "965",
+    "year_from": 1960,
+    "year_to": 1970,
+    "brand_id": "ZAZ",
+    "nameplates": []
+  },
+  {
+    "id": "966",
+    "name": "966",
+    "cyrillic_name": "966",
+    "year_from": 1967,
+    "year_to": 1972,
+    "brand_id": "ZAZ",
+    "nameplates": []
+  },
+  {
+    "id": "968",
+    "name": "968",
+    "cyrillic_name": "968",
+    "year_from": 1972,
+    "year_to": 1994,
+    "brand_id": "ZAZ",
+    "nameplates": []
+  },
+  {
+    "id": "CHANCE",
+    "name": "Chance",
+    "cyrillic_name": "шанс",
+    "year_from": 2009,
+    "year_to": 2014,
+    "brand_id": "ZAZ",
+    "nameplates": []
+  },
+  {
+    "id": "DANA",
+    "name": "1105 «Дана»",
+    "cyrillic_name": "1105 Дана",
+    "year_from": 1994,
+    "year_to": 2011,
+    "brand_id": "ZAZ",
+    "nameplates": []
+  },
+  {
+    "id": "FORZA",
+    "name": "Forza",
+    "cyrillic_name": "форза",
+    "year_from": 2011,
+    "year_to": 2017,
+    "brand_id": "ZAZ",
+    "nameplates": []
+  },
+  {
+    "id": "SENS",
+    "name": "Sens",
+    "cyrillic_name": "сенс",
+    "year_from": 2004,
+    "year_to": 2017,
+    "brand_id": "ZAZ",
+    "nameplates": []
+  },
+  {
+    "id": "SLAVUTA",
+    "name": "1103 «Славута»",
+    "cyrillic_name": "1103 Славута",
+    "year_from": 1999,
+    "year_to": 2011,
+    "brand_id": "ZAZ",
+    "nameplates": []
+  },
+  {
+    "id": "TAVRIA",
+    "name": "1102 «Таврия»",
+    "cyrillic_name": "1102 Таврия",
+    "year_from": 1988,
+    "year_to": 2009,
+    "brand_id": "ZAZ",
+    "nameplates": []
+  },
+  {
+    "id": "VIDA",
+    "name": "Vida",
+    "cyrillic_name": "Вида",
+    "year_from": 2012,
+    "year_to": 2016,
+    "brand_id": "ZAZ",
+    "nameplates": []
+  },
+  {
+    "id": "ZAZ_LANOS",
+    "name": "Lanos",
+    "cyrillic_name": "ланос",
+    "year_from": 2004,
+    "year_to": 2015,
+    "brand_id": "ZAZ",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MENGO",
+    "name": "Mengo",
+    "cyrillic_name": "Менго",
+    "year_from": 2020,
+    "year_to": 2023,
+    "brand_id": "LETIN",
+    "nameplates": []
+  },
+  {
+    "id": "MENGO_PRO",
+    "name": "Mengo Pro",
+    "cyrillic_name": "Менго про",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "LETIN",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "H5",
+    "name": "H5",
+    "cyrillic_name": "Аш5",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "SAIC",
+    "nameplates": []
+  },
+  {
+    "id": "Z7",
+    "name": "Z7",
+    "cyrillic_name": "Зэт7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "SAIC",
+    "nameplates": []
+  }
+]

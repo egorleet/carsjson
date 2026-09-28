@@ -1,0 +1,32 @@
+[
+  {
+    "id": "CONCEPT_ONE",
+    "name": "Concept_One",
+    "cyrillic_name": "концепт ван",
+    "year_from": 2013,
+    "year_to": 2016,
+    "brand_id": "RIMAC",
+    "nameplates": []
+  },
+  {
+    "id": "C_TWO",
+    "name": "C Two",
+    "cyrillic_name": "си ту",
+    "year_from": 2018,
+    "year_to": 2018,
+    "brand_id": "RIMAC",
+    "nameplates": []
+  },
+  {
+    "id": "NEVERA",
+    "name": "Nevera",
+    "cyrillic_name": "Невера",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "RIMAC",
+    "nameplates": [
+      "Nevera",
+      "Nevera R"
+    ]
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "id": "12CILINDRI",
+    "name": "12Cilindri",
+    "cyrillic_name": "12Цилиндри",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "208_308",
+    "name": "208/308",
+    "cyrillic_name": "208/308",
+    "year_from": 1974,
+    "year_to": 1989,
+    "brand_id": "FERRARI",
+    "nameplates": [
+      "208 GTB",
+      "208 GTS",
+      "308 GTB",
+      "308 GTS"
+    ]
+  },
+  {
+    "id": "250_GTE_2_2",
+    "name": "250 GT/E 2+2",
+    "cyrillic_name": "250 ГТЕ 2+2",
+    "year_from": 1960,
+    "year_to": 1963,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "250_GTO",
+    "name": "250 GTO",
+    "cyrillic_name": "250 гто",
+    "year_from": 1962,
+    "year_to": 1964,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "250_GT_BERLINETTA",
+    "name": "250 GT Berlinetta",
+    "cyrillic_name": "250 ГТ Берлинетта",
+    "year_from": 1955,
+    "year_to": 1959,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "288_GTO",
+    "name": "288 GTO",
+    "cyrillic_name": "288 гто",
+    "year_from": 1984,
+    "year_to": 1987,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "296_GTB",
+    "name": "296",
+    "cyrillic_name": "296",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "FERRARI",
+    "nameplates": [
+      "GTB",
+      "GTS",
+      "Speciale",
+      "Speciale A"
+    ]
+  },
+  {
+    "id": "328",
+    "name": "328",
+    "cyrillic_name": "328",
+    "year_from": 1985,
+    "year_to": 1989,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "330_GT_2_2",
+    "name": "330 GT 2+2",
+    "cyrillic_name": "330 джити 2+2",
+    "year_from": 1965,
+    "year_to": 1967,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "348",
+    "name": "348",
+    "cyrillic_name": "348",
+    "year_from": 1989,
+    "year_to": 1995,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "360_MODENA",
+    "name": "360",
+    "cyrillic_name": "360",
+    "year_from": 1999,
+    "year_to": 2005,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "365_GTB4_DAYTONA",
+    "name": "365 GTB/4 Daytona",
+    "cyrillic_name": "365 ГТБ4 Дайтона",
+    "year_from": 1968,
+    "year_to": 1974,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "365_GTC",
+    "name": "365 GTC",
+    "cyrillic_name": "365 гтс",
+    "year_from": 1968,
+    "year_to": 1970,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "400",
+    "name": "400",
+    "cyrillic_name": "400",
+    "year_from": 1976,
+    "year_to": 1985,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "412",
+    "name": "412",
+    "cyrillic_name": "412",
+    "year_from": 1985,
+    "year_to": 1988,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "456",
+    "name": "456",
+    "cyrillic_name": "456",
+    "year_from": 1992,
+    "year_to": 2003,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "458_ITALIA",
+    "name": "458",
+    "cyrillic_name": "458",
+    "year_from": 2009,
+    "year_to": 2015,
+    "brand_id": "FERRARI",
+    "nameplates": [
+      "Italia",
+      "Speciale",
+      "Speciale A",
+      "Spider"
+    ]
+  },
+  {
+    "id": "488",
+    "name": "488",
+    "cyrillic_name": "488",
+    "year_from": 2015,
+    "year_to": 2019,
+    "brand_id": "FERRARI",
+    "nameplates": [
+      "GTB",
+      "Pista",
+      "Pista Spider",
+      "Spider"
+    ]
+  },
+  {
+    "id": "512M",
+    "name": "512 M",
+    "cyrillic_name": "512 М",
+    "year_from": 1994,
+    "year_to": 1996,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "512_BB",
+    "name": "512 BB",
+    "cyrillic_name": "512 бб",
+    "year_from": 1976,
+    "year_to": 1984,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "512_TR",
+    "name": "512 TR",
+    "cyrillic_name": "512 тр",
+    "year_from": 1991,
+    "year_to": 1994,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "550",
+    "name": "550",
+    "cyrillic_name": "550",
+    "year_from": 1996,
+    "year_to": 2001,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "575_MARANELLO",
+    "name": "575M",
+    "cyrillic_name": "575М",
+    "year_from": 2002,
+    "year_to": 2006,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "599",
+    "name": "599",
+    "cyrillic_name": "599",
+    "year_from": 2006,
+    "year_to": 2012,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "612_SCAGLIETTI",
+    "name": "612",
+    "cyrillic_name": "612",
+    "year_from": 2004,
+    "year_to": 2011,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "812_SUPERFAST",
+    "name": "812",
+    "cyrillic_name": "812",
+    "year_from": 2017,
+    "year_to": 2024,
+    "brand_id": "FERRARI",
+    "nameplates": [
+      "Competizione",
+      "Competizione A",
+      "GTS",
+      "Superfast"
+    ]
+  },
+  {
+    "id": "849_TESTAROSSA",
+    "name": "849 Testarossa",
+    "cyrillic_name": "849 Теста Росса",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "AMALFI",
+    "name": "Amalfi",
+    "cyrillic_name": "Амалфи",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "CALIFORNIA",
+    "name": "California",
+    "cyrillic_name": "калифорния",
+    "year_from": 2008,
+    "year_to": 2017,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "DAYTONA_SP3",
+    "name": "Daytona SP3",
+    "cyrillic_name": "Дайтона СП3",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "DINO_206_GT",
+    "name": "Dino 206 GT",
+    "cyrillic_name": "Дино 206 ГТ",
+    "year_from": 1967,
+    "year_to": 1969,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "DINO_208_308_GT4",
+    "name": "Dino 208/308 GT4",
+    "cyrillic_name": "Дино 208/308 джити",
+    "year_from": 1973,
+    "year_to": 1978,
+    "brand_id": "FERRARI",
+    "nameplates": [
+      "Dino 208 GT4",
+      "Dino 308 GT4"
+    ]
+  },
+  {
+    "id": "DINO_246_GT",
+    "name": "Dino 246 GT",
+    "cyrillic_name": "Дино 246 ГТ",
+    "year_from": 1969,
+    "year_to": 1974,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "ENZO",
+    "name": "Enzo",
+    "cyrillic_name": "Энцо",
+    "year_from": 2002,
+    "year_to": 2004,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "F12",
+    "name": "F12",
+    "cyrillic_name": "Ф12",
+    "year_from": 2012,
+    "year_to": 2017,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "F355",
+    "name": "F355",
+    "cyrillic_name": "ф355",
+    "year_from": 1994,
+    "year_to": 1999,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "F40",
+    "name": "F40",
+    "cyrillic_name": "ф40",
+    "year_from": 1987,
+    "year_to": 1992,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "F430",
+    "name": "F430",
+    "cyrillic_name": "ф430",
+    "year_from": 2004,
+    "year_to": 2009,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "F50",
+    "name": "F50",
+    "cyrillic_name": "ф50",
+    "year_from": 1995,
+    "year_to": 1997,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "F80",
+    "name": "F80",
+    "cyrillic_name": "Ф80",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "F8_TRIBUTO",
+    "name": "F8",
+    "cyrillic_name": "Ф8",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "FERRARI",
+    "nameplates": [
+      "Spider",
+      "Tributo"
+    ]
+  },
+  {
+    "id": "FF",
+    "name": "FF",
+    "cyrillic_name": "фф",
+    "year_from": 2011,
+    "year_to": 2016,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "FXX_K",
+    "name": "FXX K",
+    "cyrillic_name": "фхх к",
+    "year_from": 2015,
+    "year_to": 2017,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "GTC4LUSSO",
+    "name": "GTC4Lusso",
+    "cyrillic_name": "гтц4люссо",
+    "year_from": 2016,
+    "year_to": 2020,
+    "brand_id": "FERRARI",
+    "nameplates": [
+      "GTC4Lusso",
+      "T"
+    ]
+  },
+  {
+    "id": "LAFERRARI",
+    "name": "LaFerrari",
+    "cyrillic_name": "ЛаФеррари",
+    "year_from": 2013,
+    "year_to": 2017,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "LUCE",
+    "name": "Luce",
+    "cyrillic_name": "Льюс",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "MONDIAL",
+    "name": "Mondial",
+    "cyrillic_name": "Мондиаль",
+    "year_from": 1980,
+    "year_to": 1993,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "MONZA_SP",
+    "name": "Monza SP",
+    "cyrillic_name": "Монза СП",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "FERRARI",
+    "nameplates": [
+      "SP1",
+      "SP2"
+    ]
+  },
+  {
+    "id": "PORTOFINO",
+    "name": "Portofino",
+    "cyrillic_name": "Портофино",
+    "year_from": 2017,
+    "year_to": 2023,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "PUROSANGUE",
+    "name": "Purosangue",
+    "cyrillic_name": "Пуросанг",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "ROMA",
+    "name": "Roma",
+    "cyrillic_name": "Рома",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "SC40",
+    "name": "SC40",
+    "cyrillic_name": "Эс Си 40",
+    "year_from": 2025,
+    "year_to": 2025,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  },
+  {
+    "id": "SF90_STRADALE",
+    "name": "SF90",
+    "cyrillic_name": "СФ90 Штрадале",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "FERRARI",
+    "nameplates": [
+      "Spider",
+      "Spider XX",
+      "Stradale",
+      "Stradale XX"
+    ]
+  },
+  {
+    "id": "TESTAROSSA",
+    "name": "Testarossa",
+    "cyrillic_name": "Теста Росса",
+    "year_from": 1984,
+    "year_to": 1991,
+    "brand_id": "FERRARI",
+    "nameplates": []
+  }
+]

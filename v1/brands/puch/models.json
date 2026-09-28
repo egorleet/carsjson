@@ -1,0 +1,20 @@
+[
+  {
+    "id": "G_MODELL",
+    "name": "G-modell",
+    "cyrillic_name": "г-модель",
+    "year_from": 1979,
+    "year_to": 2000,
+    "brand_id": "PUCH",
+    "nameplates": []
+  },
+  {
+    "id": "PINZGAUER",
+    "name": "Pinzgauer",
+    "cyrillic_name": "Пинцгауэр",
+    "year_from": 1971,
+    "year_to": 2000,
+    "brand_id": "PUCH",
+    "nameplates": []
+  }
+]

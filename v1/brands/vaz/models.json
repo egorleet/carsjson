@@ -1,0 +1,439 @@
+[
+  {
+    "id": "1111",
+    "name": "1111 Ока",
+    "cyrillic_name": "Ока",
+    "year_from": 1987,
+    "year_to": 2008,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "1111 Ока",
+      "Астро"
+    ]
+  },
+  {
+    "id": "2101",
+    "name": "2101",
+    "cyrillic_name": "2101",
+    "year_from": 1970,
+    "year_to": 1988,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2102",
+    "name": "2102",
+    "cyrillic_name": "2102",
+    "year_from": 1971,
+    "year_to": 1986,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2103",
+    "name": "2103",
+    "cyrillic_name": "2103",
+    "year_from": 1972,
+    "year_to": 1984,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2104",
+    "name": "2104",
+    "cyrillic_name": "2104",
+    "year_from": 1984,
+    "year_to": 2012,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2105",
+    "name": "2105",
+    "cyrillic_name": "2105",
+    "year_from": 1979,
+    "year_to": 2011,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2106",
+    "name": "2106",
+    "cyrillic_name": "2106",
+    "year_from": 1976,
+    "year_to": 2006,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2107",
+    "name": "2107",
+    "cyrillic_name": "2107",
+    "year_from": 1982,
+    "year_to": 2012,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2108",
+    "name": "2108",
+    "cyrillic_name": "2108",
+    "year_from": 1984,
+    "year_to": 2005,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "2108",
+      "Natacha",
+      "Тарзан"
+    ]
+  },
+  {
+    "id": "2109",
+    "name": "2109",
+    "cyrillic_name": "2109",
+    "year_from": 1987,
+    "year_to": 2006,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "2109",
+      "Тарзан"
+    ]
+  },
+  {
+    "id": "21099",
+    "name": "21099",
+    "cyrillic_name": "21099",
+    "year_from": 1990,
+    "year_to": 2011,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2110",
+    "name": "2110",
+    "cyrillic_name": "2110",
+    "year_from": 1995,
+    "year_to": 2014,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "2110",
+      "Богдан",
+      "Консул",
+      "Премьер"
+    ]
+  },
+  {
+    "id": "2111",
+    "name": "2111",
+    "cyrillic_name": "2111",
+    "year_from": 1997,
+    "year_to": 2014,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "2111",
+      "Богдан",
+      "Тарзан-2"
+    ]
+  },
+  {
+    "id": "2112",
+    "name": "2112",
+    "cyrillic_name": "2112",
+    "year_from": 1998,
+    "year_to": 2009,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "2112",
+      "Тарзан-2"
+    ]
+  },
+  {
+    "id": "2113",
+    "name": "2113",
+    "cyrillic_name": "2113",
+    "year_from": 2004,
+    "year_to": 2013,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2114",
+    "name": "2114",
+    "cyrillic_name": "2114",
+    "year_from": 2001,
+    "year_to": 2013,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2115",
+    "name": "2115",
+    "cyrillic_name": "2115",
+    "year_from": 1997,
+    "year_to": 2012,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2120",
+    "name": "2120 Надежда",
+    "cyrillic_name": "2120 Надежда",
+    "year_from": 1998,
+    "year_to": 2006,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2121",
+    "name": "2121 (4x4)",
+    "cyrillic_name": "2121 (4x4)",
+    "year_from": 1977,
+    "year_to": 2021,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "2121 (4x4)",
+      "Bronto",
+      "Urban",
+      "Рысь",
+      "Фора"
+    ]
+  },
+  {
+    "id": "2123",
+    "name": "2123",
+    "cyrillic_name": "2123",
+    "year_from": 1998,
+    "year_to": 2002,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2129",
+    "name": "2129",
+    "cyrillic_name": "2129",
+    "year_from": 1992,
+    "year_to": 1996,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2131_4X4",
+    "name": "2131 (4x4)",
+    "cyrillic_name": "2131 (4x4)",
+    "year_from": 1993,
+    "year_to": 2021,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "2131 (4x4)",
+      "Urban",
+      "Рысь"
+    ]
+  },
+  {
+    "id": "2170",
+    "name": "Priora",
+    "cyrillic_name": "Приора",
+    "year_from": 2007,
+    "year_to": 2018,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "Priora",
+      "Premier"
+    ]
+  },
+  {
+    "id": "2328",
+    "name": "2328",
+    "cyrillic_name": "2328",
+    "year_from": 1995,
+    "year_to": 1997,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2329",
+    "name": "2329",
+    "cyrillic_name": "2329",
+    "year_from": 1995,
+    "year_to": 2019,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "AURA",
+    "name": "Aura",
+    "cyrillic_name": "Аура",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "AZIMUT",
+    "name": "Azimut",
+    "cyrillic_name": "Азимут",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "ELLADA",
+    "name": "EL Lada",
+    "cyrillic_name": "Эллада",
+    "year_from": 2012,
+    "year_to": 2013,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "E_LARGUS",
+    "name": "e-Largus",
+    "cyrillic_name": "е-Ларгус",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "GRANTA",
+    "name": "Granta",
+    "cyrillic_name": "Гранта",
+    "year_from": 2011,
+    "year_to": 2026,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "Granta",
+      "Active Cross",
+      "CNG",
+      "Cross",
+      "Drive Active",
+      "Sport",
+      "Sportline"
+    ]
+  },
+  {
+    "id": "ISKRA",
+    "name": "Iskra",
+    "cyrillic_name": "Искра",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "Iskra",
+      "SW",
+      "SW Cross"
+    ]
+  },
+  {
+    "id": "KALINA",
+    "name": "Kalina",
+    "cyrillic_name": "Калина",
+    "year_from": 2004,
+    "year_to": 2018,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "Kalina",
+      "Cross",
+      "NFR",
+      "Sport"
+    ]
+  },
+  {
+    "id": "LARGUS",
+    "name": "Largus",
+    "cyrillic_name": "Ларгус",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "Largus",
+      "CNG",
+      "Cross",
+      "Cross CNG"
+    ]
+  },
+  {
+    "id": "NIVA",
+    "name": "Niva",
+    "cyrillic_name": "Нива",
+    "year_from": 2020,
+    "year_to": 2021,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "Niva",
+      "Off-road"
+    ]
+  },
+  {
+    "id": "NIVA_LEGEND",
+    "name": "Niva Legend",
+    "cyrillic_name": "Нива Легенд",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "Niva Legend",
+      "Bronto",
+      "Sport"
+    ]
+  },
+  {
+    "id": "NIVA_TRAVEL",
+    "name": "Niva Travel",
+    "cyrillic_name": "Нива Тревел",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "REVOLUTION",
+    "name": "Revolution",
+    "cyrillic_name": "Революшин",
+    "year_from": 2003,
+    "year_to": 2006,
+    "brand_id": "VAZ",
+    "nameplates": []
+  },
+  {
+    "id": "VESTA",
+    "name": "Vesta",
+    "cyrillic_name": "Веста",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "Vesta",
+      "CNG",
+      "Cross",
+      "Sport",
+      "Sportline",
+      "SW",
+      "SW Cross",
+      "SW Sport",
+      "SW Sportline"
+    ]
+  },
+  {
+    "id": "XRAY",
+    "name": "XRAY",
+    "cyrillic_name": "Икс-рэй",
+    "year_from": 2015,
+    "year_to": 2022,
+    "brand_id": "VAZ",
+    "nameplates": [
+      "XRAY",
+      "Cross"
+    ]
+  },
+  {
+    "id": "X_CROSS_5",
+    "name": "X-cross 5",
+    "cyrillic_name": "Икс-кросс 5",
+    "year_from": 2023,
+    "year_to": 2023,
+    "brand_id": "VAZ",
+    "nameplates": []
+  }
+]

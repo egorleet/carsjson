@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ALZA",
+    "name": "Alza",
+    "cyrillic_name": "Альза",
+    "year_from": 2009,
+    "year_to": 2026,
+    "brand_id": "PERODUA",
+    "nameplates": []
+  },
+  {
+    "id": "KANCIL",
+    "name": "Kancil",
+    "cyrillic_name": "кансил",
+    "year_from": 1994,
+    "year_to": 2009,
+    "brand_id": "PERODUA",
+    "nameplates": []
+  },
+  {
+    "id": "KELISA",
+    "name": "Kelisa",
+    "cyrillic_name": "Келиса",
+    "year_from": 2001,
+    "year_to": 2007,
+    "brand_id": "PERODUA",
+    "nameplates": []
+  },
+  {
+    "id": "KEMBARA",
+    "name": "Kembara",
+    "cyrillic_name": "кембара",
+    "year_from": 1998,
+    "year_to": 2008,
+    "brand_id": "PERODUA",
+    "nameplates": []
+  },
+  {
+    "id": "KENARI",
+    "name": "Kenari",
+    "cyrillic_name": "кенари",
+    "year_from": 2000,
+    "year_to": 2008,
+    "brand_id": "PERODUA",
+    "nameplates": []
+  },
+  {
+    "id": "MYVI",
+    "name": "MyVi",
+    "cyrillic_name": "майви",
+    "year_from": 2005,
+    "year_to": 2011,
+    "brand_id": "PERODUA",
+    "nameplates": []
+  },
+  {
+    "id": "NAUTICA",
+    "name": "Nautica",
+    "cyrillic_name": "наутика",
+    "year_from": 2008,
+    "year_to": 2010,
+    "brand_id": "PERODUA",
+    "nameplates": []
+  },
+  {
+    "id": "TRAZ",
+    "name": "Traz",
+    "cyrillic_name": "Траз",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "PERODUA",
+    "nameplates": []
+  },
+  {
+    "id": "VIVA",
+    "name": "Viva",
+    "cyrillic_name": "Вива",
+    "year_from": 2007,
+    "year_to": 2014,
+    "brand_id": "PERODUA",
+    "nameplates": []
+  }
+]

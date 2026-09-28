@@ -1,0 +1,239 @@
+[
+  {
+    "id": "DASHING",
+    "name": "Dashing",
+    "cyrillic_name": "Дашинг",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": [
+      "Dashing",
+      "i-DM"
+    ]
+  },
+  {
+    "id": "F700",
+    "name": "F700",
+    "cyrillic_name": "Эф700",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "FREEDOM",
+    "name": "Freedom",
+    "cyrillic_name": "Фридом",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "FREEDOM_7_PLUS",
+    "name": "Freedom 7 Plus",
+    "cyrillic_name": "Фри́дом 7 Плюс",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "G700",
+    "name": "G700",
+    "cyrillic_name": "Джи 700",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "REAOLO",
+    "name": "Reaolo",
+    "cyrillic_name": "Реаоло",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "SHANHAI_L6",
+    "name": "Shanhai L6",
+    "cyrillic_name": "Шанхай Л6",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "SHANHAI_L7",
+    "name": "Shanhai L7",
+    "cyrillic_name": "Шанхай Л7",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "SHANHAI_L7_PLUS",
+    "name": "Shanhai L7 Plus",
+    "cyrillic_name": "Шанхай Л7 Плюс",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "SHANHAI_L9",
+    "name": "Shanhai L9",
+    "cyrillic_name": "Шанхай Л9",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "SHANHAI_T1",
+    "name": "Shanhai T1",
+    "cyrillic_name": "Шанхай Т1",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "SHANHAI_T2",
+    "name": "Shanhai T2",
+    "cyrillic_name": "Шанхай Т2",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": [
+      "Shanhai T2",
+      "Plus"
+    ]
+  },
+  {
+    "id": "T1",
+    "name": "T1",
+    "cyrillic_name": "Т1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "T2",
+    "name": "T2",
+    "cyrillic_name": "Т2",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "TOURER",
+    "name": "Tourer",
+    "cyrillic_name": "Турер",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "TRAVELLER",
+    "name": "Traveller",
+    "cyrillic_name": "Трэвэллер",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": [
+      "Traveller",
+      "Plus"
+    ]
+  },
+  {
+    "id": "X50",
+    "name": "X50",
+    "cyrillic_name": "Икс50",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "X70",
+    "name": "X70",
+    "cyrillic_name": "Икс70",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": [
+      "X70",
+      "X70S"
+    ]
+  },
+  {
+    "id": "X70L",
+    "name": "X70L",
+    "cyrillic_name": "Икс70Л",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "X70_PLUS",
+    "name": "X70+",
+    "cyrillic_name": "Х70+",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "X70_PRO",
+    "name": "X70 Pro",
+    "cyrillic_name": "Х70 Про",
+    "year_from": 2023,
+    "year_to": 2024,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "X90",
+    "name": "X90",
+    "cyrillic_name": "Икс90",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "X90_PLUS",
+    "name": "X90+",
+    "cyrillic_name": "Х90+",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "X90_PRO",
+    "name": "X90 Pro",
+    "cyrillic_name": "X90 Про",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
+    "id": "X95",
+    "name": "X95",
+    "cyrillic_name": "Икс95",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  }
+]

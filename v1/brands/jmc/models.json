@@ -1,0 +1,50 @@
+[
+  {
+    "id": "BAODIAN",
+    "name": "Baodian",
+    "cyrillic_name": "баодиан",
+    "year_from": 2006,
+    "year_to": 2025,
+    "brand_id": "JMC",
+    "nameplates": [
+      "Baodian",
+      "Long"
+    ]
+  },
+  {
+    "id": "DADAO",
+    "name": "Dadao",
+    "cyrillic_name": "Дадао",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "JMC",
+    "nameplates": []
+  },
+  {
+    "id": "VIGUS",
+    "name": "Vigus",
+    "cyrillic_name": "Вигус",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "JMC",
+    "nameplates": []
+  },
+  {
+    "id": "VIGUS_WORK",
+    "name": "Vigus Work",
+    "cyrillic_name": "Вигус Ворк",
+    "year_from": 2021,
+    "year_to": 2024,
+    "brand_id": "JMC",
+    "nameplates": []
+  },
+  {
+    "id": "YUHU_7",
+    "name": "Yuhu 7",
+    "cyrillic_name": "Юху 7",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "JMC",
+    "nameplates": []
+  }
+]

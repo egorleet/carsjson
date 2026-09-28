@@ -1,0 +1,332 @@
+[
+  {
+    "id": "A1",
+    "name": "A1",
+    "cyrillic_name": "А1",
+    "year_from": 2012,
+    "year_to": 2018,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "BJ2021",
+    "name": "BJ2021",
+    "cyrillic_name": "БЖ2021",
+    "year_from": 1984,
+    "year_to": 2005,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "BJ2025F",
+    "name": "BJ2025F",
+    "cyrillic_name": "БЖ2025F",
+    "year_from": 1985,
+    "year_to": 2005,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "BJ2030",
+    "name": "BJ2030",
+    "cyrillic_name": "БДЖ2030",
+    "year_from": 1993,
+    "year_to": 2012,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "BJ30",
+    "name": "BJ30",
+    "cyrillic_name": "БЖ30",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "BJ40",
+    "name": "BJ40",
+    "cyrillic_name": "бджей40",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": [
+      "BJ40",
+      "BJ40e"
+    ]
+  },
+  {
+    "id": "BJ41",
+    "name": "BJ41",
+    "cyrillic_name": "бджей41",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "BJ60",
+    "name": "BJ60",
+    "cyrillic_name": "БЖ60",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "BJ80",
+    "name": "BJ80",
+    "cyrillic_name": "БЖ80",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "BJ90",
+    "name": "BJ90",
+    "cyrillic_name": "БЖ90",
+    "year_from": 2016,
+    "year_to": 2023,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "BJ_2020",
+    "name": "BJ2020",
+    "cyrillic_name": "бж2020",
+    "year_from": 1989,
+    "year_to": 2005,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "BJ_2026",
+    "name": "BJ2026",
+    "cyrillic_name": "бж2026",
+    "year_from": 2011,
+    "year_to": 2015,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "BJ_212",
+    "name": "BJ212",
+    "cyrillic_name": "бж212",
+    "year_from": 1964,
+    "year_to": 2024,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "EC3",
+    "name": "EC3",
+    "cyrillic_name": "ЕС3",
+    "year_from": 2018,
+    "year_to": 2020,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "EU",
+    "name": "EU",
+    "cyrillic_name": "ЭУ",
+    "year_from": 2015,
+    "year_to": 2017,
+    "brand_id": "BAIC",
+    "nameplates": [
+      "EU260",
+      "EU400"
+    ]
+  },
+  {
+    "id": "EU5",
+    "name": "EU5",
+    "cyrillic_name": "ЕУ5",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "EU5_PLUS",
+    "name": "EU5 Plus",
+    "cyrillic_name": "ЕУ5 Плюс",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "EU7",
+    "name": "EU7",
+    "cyrillic_name": "ЕУ7",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "EU8",
+    "name": "EU8",
+    "cyrillic_name": "ЕУ8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "EX3",
+    "name": "EX3",
+    "cyrillic_name": "ЕИкс3",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "EX5",
+    "name": "EX5",
+    "cyrillic_name": "Икс5",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "JEEP_CHEROKEE_2500",
+    "name": "Jeep 2500",
+    "cyrillic_name": "джип чероки 2500",
+    "year_from": 2003,
+    "year_to": 2005,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "KENBO_600",
+    "name": "Kenbo 600",
+    "cyrillic_name": "Кэнбо 600",
+    "year_from": 2015,
+    "year_to": 2020,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "LUBA",
+    "name": "Luba (XB624)",
+    "cyrillic_name": "луба (хб624)",
+    "year_from": 2000,
+    "year_to": 2017,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "RUIXIANG_X3",
+    "name": "Ruixiang X3",
+    "cyrillic_name": "Русианг Икс 3",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "RUIXIANG_X5",
+    "name": "Ruixiang X5",
+    "cyrillic_name": "Русианг Икс 5",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "TAITAN_700",
+    "name": "Taitan 700",
+    "cyrillic_name": "Тайтан 700",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "U5",
+    "name": "U5",
+    "cyrillic_name": "У5",
+    "year_from": 2014,
+    "year_to": 2022,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "U5_PLUS",
+    "name": "U5 Plus",
+    "cyrillic_name": "У5 Плюс",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "U7",
+    "name": "U7",
+    "cyrillic_name": "у7",
+    "year_from": 2018,
+    "year_to": 2021,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "X3",
+    "name": "X3",
+    "cyrillic_name": "Икс3",
+    "year_from": 2019,
+    "year_to": 2025,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "X35",
+    "name": "X35",
+    "cyrillic_name": "Икс35",
+    "year_from": 2019,
+    "year_to": 2025,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "X5",
+    "name": "X5",
+    "cyrillic_name": "Икс5",
+    "year_from": 2015,
+    "year_to": 2022,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "X55",
+    "name": "X55",
+    "cyrillic_name": "Икс55",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "X7",
+    "name": "X7",
+    "cyrillic_name": "Икс7",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": []
+  },
+  {
+    "id": "X75",
+    "name": "X75",
+    "cyrillic_name": "Икс75",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "KARMA",
+    "name": "Karma",
+    "cyrillic_name": "Карма",
+    "year_from": 2009,
+    "year_to": 2012,
+    "brand_id": "FISKER",
+    "nameplates": []
+  },
+  {
+    "id": "OCEAN",
+    "name": "Ocean",
+    "cyrillic_name": "Океан",
+    "year_from": 2023,
+    "year_to": 2024,
+    "brand_id": "FISKER",
+    "nameplates": []
+  }
+]

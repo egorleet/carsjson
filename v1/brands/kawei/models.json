@@ -1,0 +1,29 @@
+[
+  {
+    "id": "K1",
+    "name": "K1",
+    "cyrillic_name": "К1",
+    "year_from": 2014,
+    "year_to": 2018,
+    "brand_id": "KAWEI",
+    "nameplates": []
+  },
+  {
+    "id": "K150",
+    "name": "K150",
+    "cyrillic_name": "К150",
+    "year_from": 2014,
+    "year_to": 2017,
+    "brand_id": "KAWEI",
+    "nameplates": []
+  },
+  {
+    "id": "K150GT",
+    "name": "K150GT",
+    "cyrillic_name": "к150гт",
+    "year_from": 2017,
+    "year_to": 2023,
+    "brand_id": "KAWEI",
+    "nameplates": []
+  }
+]

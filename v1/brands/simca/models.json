@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1300_1500",
+    "name": "1300/1500",
+    "cyrillic_name": "1300/1500",
+    "year_from": 1963,
+    "year_to": 1976,
+    "brand_id": "SIMCA",
+    "nameplates": []
+  },
+  {
+    "id": "1307",
+    "name": "1307",
+    "cyrillic_name": "1307",
+    "year_from": 1975,
+    "year_to": 1979,
+    "brand_id": "SIMCA",
+    "nameplates": []
+  }
+]

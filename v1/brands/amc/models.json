@@ -1,0 +1,56 @@
+[
+  {
+    "id": "EAGLE",
+    "name": "Eagle",
+    "cyrillic_name": "Игл",
+    "year_from": 1979,
+    "year_to": 1987,
+    "brand_id": "AMC",
+    "nameplates": []
+  },
+  {
+    "id": "GREMLIN",
+    "name": "Gremlin",
+    "cyrillic_name": "Гремлин",
+    "year_from": 1970,
+    "year_to": 1978,
+    "brand_id": "AMC",
+    "nameplates": []
+  },
+  {
+    "id": "HORNET",
+    "name": "Hornet",
+    "cyrillic_name": "Хорнет",
+    "year_from": 1974,
+    "year_to": 1975,
+    "brand_id": "AMC",
+    "nameplates": []
+  },
+  {
+    "id": "MATADOR",
+    "name": "Matador",
+    "cyrillic_name": "Матадор",
+    "year_from": 1974,
+    "year_to": 1978,
+    "brand_id": "AMC",
+    "nameplates": []
+  },
+  {
+    "id": "RAMBLER_AMBASSADOR",
+    "name": "Rambler Ambassador",
+    "cyrillic_name": "Рамблер Амбассадор",
+    "year_from": 1965,
+    "year_to": 1972,
+    "brand_id": "AMC",
+    "nameplates": []
+  },
+  {
+    "id": "RAMBLER_CLASSIC",
+    "name": "Rambler Classic",
+    "cyrillic_name": "Рамблер Классик",
+    "year_from": 1961,
+    "year_to": 1966,
+    "brand_id": "AMC",
+    "nameplates": []
+  }
+]

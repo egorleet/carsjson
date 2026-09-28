@@ -1,0 +1,20 @@
+[
+  {
+    "id": "FENYR_SUPERSPORT",
+    "name": "Fenyr Supersport",
+    "cyrillic_name": "Фенир Суперспорт",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "W_MOTORS",
+    "nameplates": []
+  },
+  {
+    "id": "LYKAN_HYPERSPORT",
+    "name": "Lykan Hypersport",
+    "cyrillic_name": "Ликан Гиперспорт",
+    "year_from": 2013,
+    "year_to": 2017,
+    "brand_id": "W_MOTORS",
+    "nameplates": []
+  }
+]

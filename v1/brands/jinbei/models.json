@@ -1,0 +1,20 @@
+[
+  {
+    "id": "HAISE",
+    "name": "Haise",
+    "cyrillic_name": "хайс",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "JINBEI",
+    "nameplates": []
+  },
+  {
+    "id": "HAISE_S",
+    "name": "Haise S",
+    "cyrillic_name": "Хайс С",
+    "year_from": 2023,
+    "year_to": 2023,
+    "brand_id": "JINBEI",
+    "nameplates": []
+  }
+]

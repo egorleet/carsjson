@@ -1,0 +1,20 @@
+[
+  {
+    "id": "500",
+    "name": "500",
+    "cyrillic_name": "500",
+    "year_from": 2000,
+    "year_to": 2004,
+    "brand_id": "AIXAM",
+    "nameplates": []
+  },
+  {
+    "id": "COUPE",
+    "name": "Coupe",
+    "cyrillic_name": "Купе",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "AIXAM",
+    "nameplates": []
+  }
+]

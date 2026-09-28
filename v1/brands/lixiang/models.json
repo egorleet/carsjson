@@ -1,0 +1,83 @@
+[
+  {
+    "id": "I6",
+    "name": "i6",
+    "cyrillic_name": "Ай 6",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "LIXIANG",
+    "nameplates": []
+  },
+  {
+    "id": "I8",
+    "name": "i8",
+    "cyrillic_name": "Ай8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "LIXIANG",
+    "nameplates": []
+  },
+  {
+    "id": "I9",
+    "name": "i9",
+    "cyrillic_name": "Ай9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "LIXIANG",
+    "nameplates": []
+  },
+  {
+    "id": "L6",
+    "name": "L6",
+    "cyrillic_name": "Л6",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "LIXIANG",
+    "nameplates": []
+  },
+  {
+    "id": "L7",
+    "name": "L7",
+    "cyrillic_name": "Л7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "LIXIANG",
+    "nameplates": []
+  },
+  {
+    "id": "L8",
+    "name": "L8",
+    "cyrillic_name": "Л8",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "LIXIANG",
+    "nameplates": []
+  },
+  {
+    "id": "L9",
+    "name": "L9",
+    "cyrillic_name": "Л9",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "LIXIANG",
+    "nameplates": []
+  },
+  {
+    "id": "MEGA",
+    "name": "Mega",
+    "cyrillic_name": "Мега",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "LIXIANG",
+    "nameplates": []
+  },
+  {
+    "id": "ONE",
+    "name": "One",
+    "cyrillic_name": "Ван",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "LIXIANG",
+    "nameplates": []
+  }
+]

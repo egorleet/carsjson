@@ -1,0 +1,457 @@
+[
+  {
+    "id": "1000",
+    "name": "1000",
+    "cyrillic_name": "1000",
+    "year_from": 1965,
+    "year_to": 1969,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "360",
+    "name": "360",
+    "cyrillic_name": "360",
+    "year_from": 1958,
+    "year_to": 1971,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "ALCYONE",
+    "name": "Alcyone",
+    "cyrillic_name": "Альциона",
+    "year_from": 1985,
+    "year_to": 1996,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "ASCENT",
+    "name": "Ascent",
+    "cyrillic_name": "асцент",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "B9_TRIBECA",
+    "name": "Tribeca",
+    "cyrillic_name": "Трибека",
+    "year_from": 2004,
+    "year_to": 2014,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "BAJA",
+    "name": "Baja",
+    "cyrillic_name": "Байя",
+    "year_from": 2002,
+    "year_to": 2006,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "BIGHORN",
+    "name": "Bighorn",
+    "cyrillic_name": "бигхорн",
+    "year_from": 1990,
+    "year_to": 1992,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "BISTRO",
+    "name": "Bistro",
+    "cyrillic_name": "бистро",
+    "year_from": 1995,
+    "year_to": 1998,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "BRAT",
+    "name": "Brat",
+    "cyrillic_name": "брат",
+    "year_from": 1978,
+    "year_to": 1994,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "BRZ",
+    "name": "BRZ",
+    "cyrillic_name": "BRZ",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "CHIFFON",
+    "name": "Chiffon",
+    "cyrillic_name": "Чиффон",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "CROSSTREK",
+    "name": "Crosstrek",
+    "cyrillic_name": "Кросстрек",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "DEX",
+    "name": "Dex",
+    "cyrillic_name": "Декс",
+    "year_from": 2008,
+    "year_to": 2011,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "DIAS_WAGON",
+    "name": "Dias Wagon",
+    "cyrillic_name": "диас вагон",
+    "year_from": 2003,
+    "year_to": 2020,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "DOMINGO",
+    "name": "Domingo",
+    "cyrillic_name": "Доминго",
+    "year_from": 1983,
+    "year_to": 1998,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "EXIGA",
+    "name": "Exiga",
+    "cyrillic_name": "Эксига",
+    "year_from": 2008,
+    "year_to": 2018,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "E_OUTBACK",
+    "name": "E-Outback",
+    "cyrillic_name": "E-Аутбэк",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "FORESTER",
+    "name": "Forester",
+    "cyrillic_name": "Форестер",
+    "year_from": 1997,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": [
+      "Forester",
+      "MHEV",
+      "S-Edition",
+      "STi",
+      "tS"
+    ]
+  },
+  {
+    "id": "GETAWAY",
+    "name": "Getaway",
+    "cyrillic_name": "Гетэвэй",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "IMPREZA",
+    "name": "Impreza",
+    "cyrillic_name": "Импреза",
+    "year_from": 1992,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": [
+      "Impreza",
+      "XV"
+    ]
+  },
+  {
+    "id": "IMPREZA_WRX",
+    "name": "Impreza WRX",
+    "cyrillic_name": "Импреза WRX",
+    "year_from": 1992,
+    "year_to": 2014,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "IMPREZA_WRX_STI",
+    "name": "Impreza WRX STi",
+    "cyrillic_name": "импреза врх сти",
+    "year_from": 1994,
+    "year_to": 2014,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "JUSTY",
+    "name": "Justy",
+    "cyrillic_name": "Джасти",
+    "year_from": 1984,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "LEGACY",
+    "name": "Legacy",
+    "cyrillic_name": "Легаси",
+    "year_from": 1989,
+    "year_to": 2025,
+    "brand_id": "SUBARU",
+    "nameplates": [
+      "Legacy",
+      "GT",
+      "STi",
+      "tS"
+    ]
+  },
+  {
+    "id": "LEGACY_LANCASTER",
+    "name": "Legacy Lancaster",
+    "cyrillic_name": "Легаси Ланкастер",
+    "year_from": 1995,
+    "year_to": 2003,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "LEONE",
+    "name": "Leone",
+    "cyrillic_name": "Леон",
+    "year_from": 1979,
+    "year_to": 1994,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "LEVORG",
+    "name": "Levorg",
+    "cyrillic_name": "Леворг",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": [
+      "Levorg",
+      "Layback"
+    ]
+  },
+  {
+    "id": "LIBERO",
+    "name": "Libero",
+    "cyrillic_name": "Либеро",
+    "year_from": 1984,
+    "year_to": 1998,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "LUCRA",
+    "name": "Lucra",
+    "cyrillic_name": "Лукра",
+    "year_from": 2010,
+    "year_to": 2015,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "OUTBACK",
+    "name": "Outback",
+    "cyrillic_name": "Аутбек",
+    "year_from": 1994,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "PLEO",
+    "name": "Pleo",
+    "cyrillic_name": "Плео",
+    "year_from": 1998,
+    "year_to": 2018,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "PLEO_PLUS",
+    "name": "Pleo Plus",
+    "cyrillic_name": "Плео Плюс",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "R1",
+    "name": "R1",
+    "cyrillic_name": "R1",
+    "year_from": 2005,
+    "year_to": 2010,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "R2",
+    "name": "R2",
+    "cyrillic_name": "R2",
+    "year_from": 2003,
+    "year_to": 2010,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "REX",
+    "name": "Rex",
+    "cyrillic_name": "REX",
+    "year_from": 1972,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "SAMBAR",
+    "name": "Sambar",
+    "cyrillic_name": "Самбар",
+    "year_from": 1990,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "SOLTERRA",
+    "name": "Solterra",
+    "cyrillic_name": "Солтерра",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": [
+      "Solterra",
+      "XT"
+    ]
+  },
+  {
+    "id": "STELLA",
+    "name": "Stella",
+    "cyrillic_name": "Стелла",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "SVX",
+    "name": "SVX",
+    "cyrillic_name": "SVX",
+    "year_from": 1991,
+    "year_to": 1997,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "TRAILSEEKER",
+    "name": "Trailseeker",
+    "cyrillic_name": "Трейлсикер",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "TRAVIQ",
+    "name": "Traviq",
+    "cyrillic_name": "Трэвик",
+    "year_from": 2001,
+    "year_to": 2004,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "TREZIA",
+    "name": "Trezia",
+    "cyrillic_name": "Трэзия",
+    "year_from": 2010,
+    "year_to": 2016,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "UNCHARTED",
+    "name": "Uncharted",
+    "cyrillic_name": "Анчартед",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "VIVIO",
+    "name": "Vivio",
+    "cyrillic_name": "Вивио",
+    "year_from": 1992,
+    "year_to": 1998,
+    "brand_id": "SUBARU",
+    "nameplates": [
+      "Vivio",
+      "Bistro"
+    ]
+  },
+  {
+    "id": "WRX",
+    "name": "WRX",
+    "cyrillic_name": "WRX",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "WRX_STI",
+    "name": "WRX STi",
+    "cyrillic_name": "WRX STi",
+    "year_from": 2014,
+    "year_to": 2021,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "XT",
+    "name": "XT",
+    "cyrillic_name": "XT",
+    "year_from": 1987,
+    "year_to": 1992,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  },
+  {
+    "id": "XV",
+    "name": "XV",
+    "cyrillic_name": "XV",
+    "year_from": 2011,
+    "year_to": 2023,
+    "brand_id": "SUBARU",
+    "nameplates": []
+  }
+]

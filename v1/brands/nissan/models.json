@@ -1,0 +1,1292 @@
+[
+  {
+    "id": "100NX",
+    "name": "100NX",
+    "cyrillic_name": "100NX",
+    "year_from": 1990,
+    "year_to": 1996,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "180SX",
+    "name": "180SX",
+    "cyrillic_name": "180SX",
+    "year_from": 1988,
+    "year_to": 1998,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "200SX",
+    "name": "200SX",
+    "cyrillic_name": "200SX",
+    "year_from": 1983,
+    "year_to": 2000,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "240SX",
+    "name": "240SX",
+    "cyrillic_name": "240SX",
+    "year_from": 1989,
+    "year_to": 1999,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "280ZX",
+    "name": "280ZX",
+    "cyrillic_name": "280ZX",
+    "year_from": 1978,
+    "year_to": 1984,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "300ZX",
+    "name": "300ZX",
+    "cyrillic_name": "300ZX",
+    "year_from": 1983,
+    "year_to": 2000,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "350Z",
+    "name": "350Z",
+    "cyrillic_name": "350Z",
+    "year_from": 2002,
+    "year_to": 2009,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "370Z",
+    "name": "370Z",
+    "cyrillic_name": "370Z",
+    "year_from": 2008,
+    "year_to": 2020,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "AD",
+    "name": "AD",
+    "cyrillic_name": "AD",
+    "year_from": 1982,
+    "year_to": 2025,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "ALMERA",
+    "name": "Almera",
+    "cyrillic_name": "Альмера",
+    "year_from": 1995,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "ALMERA_CLASSIC",
+    "name": "Almera Classic",
+    "cyrillic_name": "Альмера Классик",
+    "year_from": 2006,
+    "year_to": 2013,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "ALMERA_TINO",
+    "name": "Almera Tino",
+    "cyrillic_name": "Альмера Тино",
+    "year_from": 2000,
+    "year_to": 2006,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "ALTIMA",
+    "name": "Altima",
+    "cyrillic_name": "Альтима",
+    "year_from": 1992,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "ARIYA",
+    "name": "Ariya",
+    "cyrillic_name": "Ария",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "ARMADA",
+    "name": "Armada",
+    "cyrillic_name": "Армада",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "AUSTER",
+    "name": "Auster",
+    "cyrillic_name": "Аустер",
+    "year_from": 1985,
+    "year_to": 1990,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "AUTECH_ZAGATO_STELVIO_AZ1",
+    "name": "Autech Zagato Stelvio AZ1",
+    "cyrillic_name": "Аутеч Загато Стельвио АЗ1",
+    "year_from": 1989,
+    "year_to": 1990,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "AVENIR",
+    "name": "Avenir",
+    "cyrillic_name": "Авенир",
+    "year_from": 1990,
+    "year_to": 2005,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "BASSARA",
+    "name": "Bassara",
+    "cyrillic_name": "Бассара",
+    "year_from": 1999,
+    "year_to": 2003,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "BE_1",
+    "name": "BE-1",
+    "cyrillic_name": "BE-1",
+    "year_from": 1987,
+    "year_to": 1989,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "BLUEBIRD",
+    "name": "Bluebird",
+    "cyrillic_name": "Блюбёрд",
+    "year_from": 1971,
+    "year_to": 2001,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "BLUEBIRD_MAXIMA",
+    "name": "Bluebird Maxima",
+    "cyrillic_name": "Блюберд Максима",
+    "year_from": 1984,
+    "year_to": 1988,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "BLUEBIRD_SYLPHY",
+    "name": "Bluebird Sylphy",
+    "cyrillic_name": "Блюбёрд Силфи",
+    "year_from": 2000,
+    "year_to": 2012,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "CARAVAN_COACH",
+    "name": "Caravan",
+    "cyrillic_name": "Караван",
+    "year_from": 1980,
+    "year_to": 2012,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "CEDRIC",
+    "name": "Cedric",
+    "cyrillic_name": "Цедрик",
+    "year_from": 1971,
+    "year_to": 2014,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "CEFIRO",
+    "name": "Cefiro",
+    "cyrillic_name": "Цефиро",
+    "year_from": 1988,
+    "year_to": 2008,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "CHERRY",
+    "name": "Cherry",
+    "cyrillic_name": "Черри",
+    "year_from": 1970,
+    "year_to": 1987,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "CIMA",
+    "name": "Cima",
+    "cyrillic_name": "Сима",
+    "year_from": 1988,
+    "year_to": 2022,
+    "brand_id": "NISSAN",
+    "nameplates": [
+      "Cima",
+      "Cedric Cima"
+    ]
+  },
+  {
+    "id": "CLIPPER",
+    "name": "NV100 Clipper",
+    "cyrillic_name": "клиппер",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "CLIPPER_RIO",
+    "name": "Clipper Rio",
+    "cyrillic_name": "клиппер рио",
+    "year_from": 2003,
+    "year_to": 2012,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "CREW",
+    "name": "Crew",
+    "cyrillic_name": "Крю",
+    "year_from": 1993,
+    "year_to": 2009,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "CUBE",
+    "name": "Cube",
+    "cyrillic_name": "Куб",
+    "year_from": 1998,
+    "year_to": 2020,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "DATSUN",
+    "name": "Datsun",
+    "cyrillic_name": "Датсан",
+    "year_from": 1985,
+    "year_to": 2002,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "DAYZ",
+    "name": "Dayz",
+    "cyrillic_name": "Дайз",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "DAYZ_ROOX",
+    "name": "Dayz Roox",
+    "cyrillic_name": "Дейз Рукс",
+    "year_from": 2014,
+    "year_to": 2020,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "DUALIS",
+    "name": "Dualis",
+    "cyrillic_name": "Дуалис",
+    "year_from": 2007,
+    "year_to": 2014,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "ELGRAND",
+    "name": "Elgrand",
+    "cyrillic_name": "Элгранд",
+    "year_from": 1997,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": [
+      "Elgrand",
+      "Caravan Elgrand"
+    ]
+  },
+  {
+    "id": "EXA",
+    "name": "Exa",
+    "cyrillic_name": "еха",
+    "year_from": 1982,
+    "year_to": 1990,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "EXPERT",
+    "name": "Expert",
+    "cyrillic_name": "Эксперт",
+    "year_from": 1999,
+    "year_to": 2007,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "FAIRLADY_Z",
+    "name": "Fairlady Z",
+    "cyrillic_name": "Файрледи З",
+    "year_from": 1969,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": [
+      "Fairlady Z",
+      "Nismo"
+    ]
+  },
+  {
+    "id": "FIGARO",
+    "name": "Figaro",
+    "cyrillic_name": "Фигаро",
+    "year_from": 1991,
+    "year_to": 1992,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "FRONTIER",
+    "name": "Frontier",
+    "cyrillic_name": "Фронтир",
+    "year_from": 2009,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "FRONTIER_PRO",
+    "name": "Frontier Pro",
+    "cyrillic_name": "Фронтир про",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "FUGA",
+    "name": "Fuga",
+    "cyrillic_name": "Фуга",
+    "year_from": 2004,
+    "year_to": 2022,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "GLORIA",
+    "name": "Gloria",
+    "cyrillic_name": "Глория",
+    "year_from": 1959,
+    "year_to": 2004,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "GRAVITE",
+    "name": "Gravite",
+    "cyrillic_name": "Гравит",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "GT_R",
+    "name": "GT-R",
+    "cyrillic_name": "GT-R",
+    "year_from": 2007,
+    "year_to": 2025,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "HOMY",
+    "name": "Homy",
+    "cyrillic_name": "Хоми",
+    "year_from": 1986,
+    "year_to": 1997,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "HYPERMINI",
+    "name": "Hypermini",
+    "cyrillic_name": "гипермини",
+    "year_from": 1999,
+    "year_to": 2001,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "JUKE",
+    "name": "Juke",
+    "cyrillic_name": "Джук",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "JUKE_NISMO",
+    "name": "Juke Nismo",
+    "cyrillic_name": "Джук Нисмо",
+    "year_from": 2013,
+    "year_to": 2019,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "KAIT",
+    "name": "Kait",
+    "cyrillic_name": "Кайт",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "KICKS",
+    "name": "Kicks",
+    "cyrillic_name": "Кикс",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "KIX",
+    "name": "Kix",
+    "cyrillic_name": "Кикс",
+    "year_from": 2008,
+    "year_to": 2012,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "KUBISTAR",
+    "name": "Kubistar",
+    "cyrillic_name": "Кубистар",
+    "year_from": 2003,
+    "year_to": 2009,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "LAFESTA",
+    "name": "Lafesta",
+    "cyrillic_name": "Лафеста",
+    "year_from": 2004,
+    "year_to": 2018,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "LANGLEY",
+    "name": "Langley",
+    "cyrillic_name": "Лэнгли",
+    "year_from": 1982,
+    "year_to": 1990,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "LANNIA",
+    "name": "Lannia",
+    "cyrillic_name": "Лания",
+    "year_from": 2015,
+    "year_to": 2022,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "LARGO",
+    "name": "Largo",
+    "cyrillic_name": "Ларго",
+    "year_from": 1986,
+    "year_to": 1999,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "LATIO",
+    "name": "Latio",
+    "cyrillic_name": "Латио",
+    "year_from": 2012,
+    "year_to": 2016,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "LAUREL",
+    "name": "Laurel",
+    "cyrillic_name": "Лаурель",
+    "year_from": 1977,
+    "year_to": 2002,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "LAUREL_SPIRIT",
+    "name": "Laurel Spirit",
+    "cyrillic_name": "Лаурель Спирит",
+    "year_from": 1982,
+    "year_to": 1990,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "LEAF",
+    "name": "Leaf",
+    "cyrillic_name": "лиф",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "LEOPARD",
+    "name": "Leopard",
+    "cyrillic_name": "Леопард",
+    "year_from": 1980,
+    "year_to": 2000,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "LIBERTA_VILLA",
+    "name": "Liberta Villa",
+    "cyrillic_name": "Либерта Вилла",
+    "year_from": 1982,
+    "year_to": 1990,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "LIBERTY",
+    "name": "Liberty",
+    "cyrillic_name": "Либерти",
+    "year_from": 1998,
+    "year_to": 2004,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "LIVINA",
+    "name": "Livina",
+    "cyrillic_name": "ливина",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": [
+      "Livina",
+      "Grand"
+    ]
+  },
+  {
+    "id": "LUCINO",
+    "name": "Lucino",
+    "cyrillic_name": "Люсино",
+    "year_from": 1994,
+    "year_to": 1999,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "MAGNITE",
+    "name": "Magnite",
+    "cyrillic_name": "Магнит",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "MARCH",
+    "name": "March",
+    "cyrillic_name": "Марч",
+    "year_from": 1982,
+    "year_to": 2022,
+    "brand_id": "NISSAN",
+    "nameplates": [
+      "March",
+      "Box"
+    ]
+  },
+  {
+    "id": "MAXIMA",
+    "name": "Maxima",
+    "cyrillic_name": "Максима",
+    "year_from": 1981,
+    "year_to": 2023,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "MICRA",
+    "name": "Micra",
+    "cyrillic_name": "Микра",
+    "year_from": 1982,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "MISTRAL",
+    "name": "Mistral",
+    "cyrillic_name": "Мистраль",
+    "year_from": 1994,
+    "year_to": 1999,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "MOCO",
+    "name": "Moco",
+    "cyrillic_name": "Моко",
+    "year_from": 2001,
+    "year_to": 2016,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "MURANO",
+    "name": "Murano",
+    "cyrillic_name": "Мурано",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "N6",
+    "name": "N6",
+    "cyrillic_name": "Н6",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "N7",
+    "name": "N7",
+    "cyrillic_name": "Н7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "NAVARA",
+    "name": "Navara (Frontier)",
+    "cyrillic_name": "Навара",
+    "year_from": 1985,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "NOTE",
+    "name": "Note",
+    "cyrillic_name": "Ноут",
+    "year_from": 2005,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": [
+      "Note",
+      "Aura",
+      "Aura Nismo",
+      "Aura Nismo e-Power 4WD",
+      "Autech Crossover",
+      "Nismo",
+      "Nismo S"
+    ]
+  },
+  {
+    "id": "NP200",
+    "name": "NP200",
+    "cyrillic_name": "НП200",
+    "year_from": 2008,
+    "year_to": 2024,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "NP300",
+    "name": "NP300",
+    "cyrillic_name": "NP 300",
+    "year_from": 2008,
+    "year_to": 2015,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "NV200",
+    "name": "NV200",
+    "cyrillic_name": "нв200",
+    "year_from": 2009,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "NV300",
+    "name": "NV300",
+    "cyrillic_name": "НВ300",
+    "year_from": 2016,
+    "year_to": 2021,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "NV350_CARAVAN",
+    "name": "NV350 Caravan",
+    "cyrillic_name": "NV350 Караван",
+    "year_from": 2012,
+    "year_to": 2021,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "NX7",
+    "name": "NX7",
+    "cyrillic_name": "НХ7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "NX8",
+    "name": "NX8",
+    "cyrillic_name": "нх8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "NX_COUPE",
+    "name": "NX Coupe",
+    "cyrillic_name": "нх купе",
+    "year_from": 1990,
+    "year_to": 1994,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "OTTI",
+    "name": "Otti",
+    "cyrillic_name": "Отти",
+    "year_from": 2005,
+    "year_to": 2013,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "PAO",
+    "name": "Pao",
+    "cyrillic_name": "Пао",
+    "year_from": 1989,
+    "year_to": 1991,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "PATHFINDER",
+    "name": "Pathfinder",
+    "cyrillic_name": "Патфайндер",
+    "year_from": 1985,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "PATROL",
+    "name": "Patrol",
+    "cyrillic_name": "Патрол",
+    "year_from": 1980,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "PINO",
+    "name": "Pino",
+    "cyrillic_name": "Пино",
+    "year_from": 2007,
+    "year_to": 2010,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "PIXO",
+    "name": "Pixo",
+    "cyrillic_name": "пиксо",
+    "year_from": 2008,
+    "year_to": 2013,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "PRAIRIE",
+    "name": "Prairie",
+    "cyrillic_name": "Прэри",
+    "year_from": 1982,
+    "year_to": 2004,
+    "brand_id": "NISSAN",
+    "nameplates": [
+      "Prairie",
+      "Joy"
+    ]
+  },
+  {
+    "id": "PRESAGE",
+    "name": "Presage",
+    "cyrillic_name": "Пресаж",
+    "year_from": 1998,
+    "year_to": 2009,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "PRESEA",
+    "name": "Presea",
+    "cyrillic_name": "Преси",
+    "year_from": 1990,
+    "year_to": 2000,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "PRESIDENT",
+    "name": "President",
+    "cyrillic_name": "Президент",
+    "year_from": 1973,
+    "year_to": 2010,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "PRIMASTAR",
+    "name": "Primastar",
+    "cyrillic_name": "примастар",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "PRIMERA",
+    "name": "Primera",
+    "cyrillic_name": "Примера",
+    "year_from": 1990,
+    "year_to": 2008,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "PULSAR",
+    "name": "Pulsar",
+    "cyrillic_name": "Пульсар",
+    "year_from": 1982,
+    "year_to": 2018,
+    "brand_id": "NISSAN",
+    "nameplates": [
+      "Pulsar",
+      "EXA"
+    ]
+  },
+  {
+    "id": "QASHQAI",
+    "name": "Qashqai",
+    "cyrillic_name": "Кашкай",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": [
+      "Qashqai",
+      "E-Power"
+    ]
+  },
+  {
+    "id": "QASHQAI_PLUS_2",
+    "name": "Qashqai+2",
+    "cyrillic_name": "Кашкай+2",
+    "year_from": 2008,
+    "year_to": 2013,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "QUEST",
+    "name": "Quest",
+    "cyrillic_name": "Квест",
+    "year_from": 1992,
+    "year_to": 2018,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "RASHEEN",
+    "name": "Rasheen",
+    "cyrillic_name": "Рашин",
+    "year_from": 1995,
+    "year_to": 2000,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "RNESSA",
+    "name": "R'nessa",
+    "cyrillic_name": "Р Несса",
+    "year_from": 1997,
+    "year_to": 2001,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "ROGUE",
+    "name": "Rogue",
+    "cyrillic_name": "Рог",
+    "year_from": 2007,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "ROGUE_SPORT",
+    "name": "Rogue Sport",
+    "cyrillic_name": "Рог Спорт",
+    "year_from": 2017,
+    "year_to": 2022,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "ROOX",
+    "name": "Roox",
+    "cyrillic_name": "Рукс",
+    "year_from": 2009,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "SAFARI",
+    "name": "Safari",
+    "cyrillic_name": "Сафари",
+    "year_from": 1980,
+    "year_to": 2013,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "SAKURA",
+    "name": "Sakura",
+    "cyrillic_name": "Сакура",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "SENTRA",
+    "name": "Sentra",
+    "cyrillic_name": "Сентра",
+    "year_from": 1982,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "SERENA",
+    "name": "Serena",
+    "cyrillic_name": "Серена",
+    "year_from": 1991,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "SILVIA",
+    "name": "Silvia",
+    "cyrillic_name": "Сильвия",
+    "year_from": 1965,
+    "year_to": 2002,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "SKYLINE",
+    "name": "Skyline",
+    "cyrillic_name": "Скайлайн",
+    "year_from": 1968,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": [
+      "Skyline",
+      "GT-R"
+    ]
+  },
+  {
+    "id": "SKYLINE_CROSSOVER",
+    "name": "Skyline Crossover",
+    "cyrillic_name": "Скайлайн Кроссовер",
+    "year_from": 2009,
+    "year_to": 2016,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "STAGEA",
+    "name": "Stagea",
+    "cyrillic_name": "Стайджиа",
+    "year_from": 1996,
+    "year_to": 2007,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "STANZA",
+    "name": "Stanza",
+    "cyrillic_name": "Станза",
+    "year_from": 1981,
+    "year_to": 1992,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "SUNNY",
+    "name": "Sunny",
+    "cyrillic_name": "Санни",
+    "year_from": 1982,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": [
+      "Sunny",
+      "California",
+      "RZ-1"
+    ]
+  },
+  {
+    "id": "SYLPHY",
+    "name": "Sylphy",
+    "cyrillic_name": "Сильфи",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "S_CARGO",
+    "name": "S-Cargo",
+    "cyrillic_name": "Эс-Карго",
+    "year_from": 1989,
+    "year_to": 1990,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "TEANA",
+    "name": "Teana",
+    "cyrillic_name": "Тиана",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "TEKTON",
+    "name": "Tekton",
+    "cyrillic_name": "Тектон",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "TERRA",
+    "name": "Terra",
+    "cyrillic_name": "Терра",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "TERRANO",
+    "name": "Terrano",
+    "cyrillic_name": "Террано",
+    "year_from": 1985,
+    "year_to": 2022,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "TERRANO_REGULUS",
+    "name": "Terrano Regulus",
+    "cyrillic_name": "Террано Регулус",
+    "year_from": 1996,
+    "year_to": 2002,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "TIIDA",
+    "name": "Tiida",
+    "cyrillic_name": "Тиида",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "TINO",
+    "name": "Tino",
+    "cyrillic_name": "Тино",
+    "year_from": 1998,
+    "year_to": 2003,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "TITAN",
+    "name": "Titan",
+    "cyrillic_name": "Титан",
+    "year_from": 2003,
+    "year_to": 2024,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "TOWNSTAR",
+    "name": "Townstar",
+    "cyrillic_name": "Таунстар",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "URVAN",
+    "name": "Urvan",
+    "cyrillic_name": "урван",
+    "year_from": 1986,
+    "year_to": 2012,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "VANETTE",
+    "name": "Vanette",
+    "cyrillic_name": "Ванэт",
+    "year_from": 1978,
+    "year_to": 2017,
+    "brand_id": "NISSAN",
+    "nameplates": [
+      "Vanette",
+      "Cargo"
+    ]
+  },
+  {
+    "id": "VERSA",
+    "name": "Versa",
+    "cyrillic_name": "верса",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "VERSA_NOTE",
+    "name": "Versa Note",
+    "cyrillic_name": "Верса Нот",
+    "year_from": 2013,
+    "year_to": 2019,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "WINGROAD",
+    "name": "Wingroad",
+    "cyrillic_name": "Вингроуд",
+    "year_from": 1996,
+    "year_to": 2018,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "XTERRA",
+    "name": "Xterra",
+    "cyrillic_name": "X-терра",
+    "year_from": 1999,
+    "year_to": 2015,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "X_TERRA",
+    "name": "X-Terra",
+    "cyrillic_name": "Икс-Терра",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": []
+  },
+  {
+    "id": "X_TRAIL",
+    "name": "X-Trail",
+    "cyrillic_name": "X-трейл",
+    "year_from": 2000,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": [
+      "X-Trail",
+      "Nismo"
+    ]
+  },
+  {
+    "id": "Z",
+    "name": "Z",
+    "cyrillic_name": "зет",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "NISSAN",
+    "nameplates": [
+      "Z",
+      "Nismo"
+    ]
+  }
+]

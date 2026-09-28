@@ -1,0 +1,11 @@
+[
+  {
+    "id": "ELECTRIC",
+    "name": "Electric",
+    "cyrillic_name": "Электрик",
+    "year_from": 2011,
+    "year_to": 2013,
+    "brand_id": "MIA",
+    "nameplates": []
+  }
+]

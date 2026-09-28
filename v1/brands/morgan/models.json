@@ -1,0 +1,110 @@
+[
+  {
+    "id": "3_WHEELER",
+    "name": "3 Wheeler",
+    "cyrillic_name": "3 вилер",
+    "year_from": 2011,
+    "year_to": 2021,
+    "brand_id": "MORGAN",
+    "nameplates": []
+  },
+  {
+    "id": "4_4",
+    "name": "4/4",
+    "cyrillic_name": "4/4",
+    "year_from": 1962,
+    "year_to": 2019,
+    "brand_id": "MORGAN",
+    "nameplates": []
+  },
+  {
+    "id": "4_SEATER",
+    "name": "4 Seater",
+    "cyrillic_name": "4 ситер",
+    "year_from": 2004,
+    "year_to": 2016,
+    "brand_id": "MORGAN",
+    "nameplates": []
+  },
+  {
+    "id": "AEROMAX",
+    "name": "AeroMax",
+    "cyrillic_name": "Аэромакс",
+    "year_from": 2008,
+    "year_to": 2010,
+    "brand_id": "MORGAN",
+    "nameplates": []
+  },
+  {
+    "id": "AERO_8",
+    "name": "Aero 8",
+    "cyrillic_name": "Аэро 8",
+    "year_from": 2001,
+    "year_to": 2010,
+    "brand_id": "MORGAN",
+    "nameplates": []
+  },
+  {
+    "id": "AERO_COUPE",
+    "name": "Aero Coupe",
+    "cyrillic_name": "Аэрокупе",
+    "year_from": 2011,
+    "year_to": 2016,
+    "brand_id": "MORGAN",
+    "nameplates": []
+  },
+  {
+    "id": "AERO_SUPERSPORTS",
+    "name": "Aero SuperSports",
+    "cyrillic_name": "Аэро Суперспорт",
+    "year_from": 2009,
+    "year_to": 2016,
+    "brand_id": "MORGAN",
+    "nameplates": []
+  },
+  {
+    "id": "PLUS_4",
+    "name": "Plus 4",
+    "cyrillic_name": "Плюс 4",
+    "year_from": 1950,
+    "year_to": 2020,
+    "brand_id": "MORGAN",
+    "nameplates": []
+  },
+  {
+    "id": "PLUS_8",
+    "name": "Plus 8",
+    "cyrillic_name": "Плюс 8",
+    "year_from": 1968,
+    "year_to": 2018,
+    "brand_id": "MORGAN",
+    "nameplates": []
+  },
+  {
+    "id": "PLUS_SIX",
+    "name": "Plus Six",
+    "cyrillic_name": "Плюс Сикс",
+    "year_from": 2019,
+    "year_to": 2025,
+    "brand_id": "MORGAN",
+    "nameplates": []
+  },
+  {
+    "id": "ROADSTER",
+    "name": "Roadster",
+    "cyrillic_name": "родстер",
+    "year_from": 2004,
+    "year_to": 2016,
+    "brand_id": "MORGAN",
+    "nameplates": []
+  },
+  {
+    "id": "SUPERSPORT",
+    "name": "Supersport",
+    "cyrillic_name": "Суперспорт",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "MORGAN",
+    "nameplates": []
+  }
+]

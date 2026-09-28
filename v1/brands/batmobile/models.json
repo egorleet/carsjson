@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1989",
+    "name": "1989",
+    "cyrillic_name": "1989",
+    "year_from": 1989,
+    "year_to": 1992,
+    "brand_id": "BATMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "2018",
+    "name": "2018",
+    "cyrillic_name": "2018",
+    "year_from": 2018,
+    "year_to": 2018,
+    "brand_id": "BATMOBILE",
+    "nameplates": []
+  }
+]

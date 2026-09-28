@@ -1,0 +1,20 @@
+[
+  {
+    "id": "3_6",
+    "name": "3=6",
+    "cyrillic_name": "3=6",
+    "year_from": 1953,
+    "year_to": 1955,
+    "brand_id": "DKW",
+    "nameplates": []
+  },
+  {
+    "id": "F7",
+    "name": "F7",
+    "cyrillic_name": "Ф7",
+    "year_from": 1936,
+    "year_to": 1939,
+    "brand_id": "DKW",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,925 @@
+[
+  {
+    "id": "3000_SERIES",
+    "name": "3000-Series",
+    "cyrillic_name": "3000 серия",
+    "year_from": 1947,
+    "year_to": 1955,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "ALERO",
+    "name": "Alero",
+    "cyrillic_name": "Алеро",
+    "year_from": 1999,
+    "year_to": 2004,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "APACHE",
+    "name": "Apache",
+    "cyrillic_name": "Апачи",
+    "year_from": 1955,
+    "year_to": 1960,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "ASTRA",
+    "name": "Astra",
+    "cyrillic_name": "Астра",
+    "year_from": 1998,
+    "year_to": 2011,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "ASTRO",
+    "name": "Astro",
+    "cyrillic_name": "Астро",
+    "year_from": 1985,
+    "year_to": 2005,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "AVALANCHE",
+    "name": "Avalanche",
+    "cyrillic_name": "Аваланч",
+    "year_from": 2001,
+    "year_to": 2013,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "AVEO",
+    "name": "Aveo",
+    "cyrillic_name": "Авео",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "BEL_AIR",
+    "name": "Bel Air",
+    "cyrillic_name": "Бел Эйр",
+    "year_from": 1949,
+    "year_to": 1957,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "BERETTA",
+    "name": "Beretta",
+    "cyrillic_name": "Беретта",
+    "year_from": 1987,
+    "year_to": 1996,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "BLAZER",
+    "name": "Blazer",
+    "cyrillic_name": "Блейзер",
+    "year_from": 1982,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "BLAZER_EV",
+    "name": "Blazer EV",
+    "cyrillic_name": "Блейзер ИВИ",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "BOLT",
+    "name": "Bolt",
+    "cyrillic_name": "болт",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "BOLT_EUV",
+    "name": "Bolt EUV",
+    "cyrillic_name": "Болт ЭУВ",
+    "year_from": 2021,
+    "year_to": 2023,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CAMARO",
+    "name": "Camaro",
+    "cyrillic_name": "Камаро",
+    "year_from": 1967,
+    "year_to": 2024,
+    "brand_id": "CHEVROLET",
+    "nameplates": [
+      "Camaro",
+      "SS",
+      "Z/28",
+      "ZL1"
+    ]
+  },
+  {
+    "id": "CAPRICE",
+    "name": "Caprice",
+    "cyrillic_name": "Каприз",
+    "year_from": 1965,
+    "year_to": 2017,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CAPTIVA",
+    "name": "Captiva",
+    "cyrillic_name": "Каптива",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CAPTIVA_SPORT",
+    "name": "Captiva Sport",
+    "cyrillic_name": "Каптива Спорт",
+    "year_from": 2008,
+    "year_to": 2016,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CAVALIER",
+    "name": "Cavalier",
+    "cyrillic_name": "Кавалер",
+    "year_from": 1982,
+    "year_to": 2005,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CELEBRITY",
+    "name": "Celebrity",
+    "cyrillic_name": "Селебрити",
+    "year_from": 1982,
+    "year_to": 1990,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CELTA",
+    "name": "Celta",
+    "cyrillic_name": "Сельта",
+    "year_from": 2000,
+    "year_to": 2006,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CHEVELLE",
+    "name": "Chevelle",
+    "cyrillic_name": "чевелле",
+    "year_from": 1963,
+    "year_to": 1977,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CHEVETTE",
+    "name": "Chevette",
+    "cyrillic_name": "Шевет",
+    "year_from": 1975,
+    "year_to": 1987,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CITATION",
+    "name": "Citation",
+    "cyrillic_name": "сайтейшн",
+    "year_from": 1980,
+    "year_to": 1985,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CK",
+    "name": "C/K",
+    "cyrillic_name": "Си/Кей",
+    "year_from": 1967,
+    "year_to": 2000,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CLASSIC",
+    "name": "Classic",
+    "cyrillic_name": "Классик",
+    "year_from": 2004,
+    "year_to": 2008,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CMATIZ",
+    "name": "Matiz",
+    "cyrillic_name": "Матиз",
+    "year_from": 2004,
+    "year_to": 2010,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "COBALT",
+    "name": "Cobalt",
+    "cyrillic_name": "Кобальт",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "COLORADO",
+    "name": "Colorado",
+    "cyrillic_name": "Колорадо",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CORSA",
+    "name": "Corsa",
+    "cyrillic_name": "Корса",
+    "year_from": 1994,
+    "year_to": 2001,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CORSICA",
+    "name": "Corsica",
+    "cyrillic_name": "Корсика",
+    "year_from": 1987,
+    "year_to": 1996,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CORVAIR",
+    "name": "Corvair",
+    "cyrillic_name": "Корвейр",
+    "year_from": 1959,
+    "year_to": 1969,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CORVETTE",
+    "name": "Corvette",
+    "cyrillic_name": "Корвет",
+    "year_from": 1953,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": [
+      "Corvette",
+      "E-Ray",
+      "FRC",
+      "Grand Sport",
+      "Grand Sport X",
+      "Stingray",
+      "Z06",
+      "ZR1"
+    ]
+  },
+  {
+    "id": "CRUZE",
+    "name": "Cruze",
+    "cyrillic_name": "Круз",
+    "year_from": 2008,
+    "year_to": 2023,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CRUZE_HR",
+    "name": "Cruze (HR)",
+    "cyrillic_name": "круз (эйчар)",
+    "year_from": 2001,
+    "year_to": 2008,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "CSV_CR8",
+    "name": "CSV CR8",
+    "cyrillic_name": "ЦСВ-ЦР8",
+    "year_from": 2008,
+    "year_to": 2009,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "C_10",
+    "name": "C-10",
+    "cyrillic_name": "C-10",
+    "year_from": 1960,
+    "year_to": 1988,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "DAMAS",
+    "name": "Damas",
+    "cyrillic_name": "Дамас",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "DELUXE",
+    "name": "Deluxe",
+    "cyrillic_name": "Делюкс",
+    "year_from": 1949,
+    "year_to": 1952,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "EL_CAMINO",
+    "name": "El Camino",
+    "cyrillic_name": "эль камино",
+    "year_from": 1959,
+    "year_to": 1987,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "EPICA",
+    "name": "Epica",
+    "cyrillic_name": "Эпика",
+    "year_from": 2003,
+    "year_to": 2012,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "EQUINOX",
+    "name": "Equinox",
+    "cyrillic_name": "Эквинокс",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "EQUINOX_EV",
+    "name": "Equinox EV",
+    "cyrillic_name": "Эквинокс Эв",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "EVANDA",
+    "name": "Evanda",
+    "cyrillic_name": "Эванда",
+    "year_from": 2000,
+    "year_to": 2006,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "EXPRESS",
+    "name": "Express",
+    "cyrillic_name": "Экспресс",
+    "year_from": 1996,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "FLEETMASTER",
+    "name": "Fleetmaster",
+    "cyrillic_name": "флитмастер",
+    "year_from": 1946,
+    "year_to": 1948,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "GROOVE",
+    "name": "Groove",
+    "cyrillic_name": "Грув",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "HHR",
+    "name": "HHR",
+    "cyrillic_name": "HHR",
+    "year_from": 2005,
+    "year_to": 2011,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "IMPALA",
+    "name": "Impala",
+    "cyrillic_name": "Импала",
+    "year_from": 1958,
+    "year_to": 2020,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "K5_BLAZER",
+    "name": "Blazer K5",
+    "cyrillic_name": "Блейзер K5",
+    "year_from": 1972,
+    "year_to": 1994,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "KALOS",
+    "name": "Kalos",
+    "cyrillic_name": "калос",
+    "year_from": 2003,
+    "year_to": 2008,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "LACETTI",
+    "name": "Lacetti",
+    "cyrillic_name": "Лачетти",
+    "year_from": 2004,
+    "year_to": 2024,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "LANOS",
+    "name": "Lanos",
+    "cyrillic_name": "Ланос",
+    "year_from": 2002,
+    "year_to": 2009,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "LUMINA",
+    "name": "Lumina",
+    "cyrillic_name": "Люмина",
+    "year_from": 1989,
+    "year_to": 2001,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "LUMINA_APV",
+    "name": "Lumina APV",
+    "cyrillic_name": "люмина апв",
+    "year_from": 1989,
+    "year_to": 1996,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "LUV_DMAX",
+    "name": "LUV D-MAX",
+    "cyrillic_name": "Лув Д-Макс",
+    "year_from": 2006,
+    "year_to": 2011,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "MALIBU",
+    "name": "Malibu",
+    "cyrillic_name": "Малибу",
+    "year_from": 1978,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "MASTER",
+    "name": "Master",
+    "cyrillic_name": "мастер",
+    "year_from": 1933,
+    "year_to": 1940,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "MENLO",
+    "name": "Menlo",
+    "cyrillic_name": "Менло",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "METRO",
+    "name": "Metro",
+    "cyrillic_name": "Метро",
+    "year_from": 1997,
+    "year_to": 2001,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "MONTE_CARLO",
+    "name": "Monte Carlo",
+    "cyrillic_name": "Монте Карло",
+    "year_from": 1970,
+    "year_to": 2007,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "MONZA",
+    "name": "Monza",
+    "cyrillic_name": "Монца",
+    "year_from": 1975,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "MW",
+    "name": "MW",
+    "cyrillic_name": "мв",
+    "year_from": 2001,
+    "year_to": 2010,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "NEXIA",
+    "name": "Nexia",
+    "cyrillic_name": "Нексия",
+    "year_from": 2017,
+    "year_to": 2023,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "NIVA",
+    "name": "Niva",
+    "cyrillic_name": "Нива",
+    "year_from": 2002,
+    "year_to": 2020,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "NOVA",
+    "name": "Nova",
+    "cyrillic_name": "Нова",
+    "year_from": 1967,
+    "year_to": 1988,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "NUBIRA",
+    "name": "Nubira",
+    "cyrillic_name": "Нубира",
+    "year_from": 2003,
+    "year_to": 2010,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "OMEGA",
+    "name": "Omega",
+    "cyrillic_name": "Омега",
+    "year_from": 1992,
+    "year_to": 2007,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "ONIX",
+    "name": "Onix",
+    "cyrillic_name": "Оникс",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "ORLANDO",
+    "name": "Orlando",
+    "cyrillic_name": "Орландо",
+    "year_from": 2010,
+    "year_to": 2023,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "PRIZM",
+    "name": "Prizm",
+    "cyrillic_name": "Призм",
+    "year_from": 1997,
+    "year_to": 2002,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "REZZO",
+    "name": "Rezzo",
+    "cyrillic_name": "Реззо",
+    "year_from": 2000,
+    "year_to": 2008,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "SAIL",
+    "name": "Sail",
+    "cyrillic_name": "Сейл",
+    "year_from": 2010,
+    "year_to": 2014,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "SEEKER",
+    "name": "Seeker",
+    "cyrillic_name": "Сикер",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "SILVERADO",
+    "name": "Silverado",
+    "cyrillic_name": "сильверадо",
+    "year_from": 1998,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "SONIC",
+    "name": "Sonic",
+    "cyrillic_name": "Соник",
+    "year_from": 2011,
+    "year_to": 2020,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "SPARK",
+    "name": "Spark",
+    "cyrillic_name": "Спарк",
+    "year_from": 2005,
+    "year_to": 2023,
+    "brand_id": "CHEVROLET",
+    "nameplates": [
+      "Spark",
+      "EV"
+    ]
+  },
+  {
+    "id": "SPARK_EUV",
+    "name": "Spark EUV",
+    "cyrillic_name": "Спарк ИЮВи",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "SPECIAL_DELUXE",
+    "name": "Special DeLuxe",
+    "cyrillic_name": "спешиал делюкс",
+    "year_from": 1941,
+    "year_to": 1948,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "SPIN",
+    "name": "Spin",
+    "cyrillic_name": "Спин",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "SS",
+    "name": "SS",
+    "cyrillic_name": "СС",
+    "year_from": 2013,
+    "year_to": 2017,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "SSR",
+    "name": "SSR",
+    "cyrillic_name": "SSR",
+    "year_from": 2003,
+    "year_to": 2006,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "STANDARD",
+    "name": "Standard",
+    "cyrillic_name": "Стандард",
+    "year_from": 1934,
+    "year_to": 1936,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "STARCRAFT",
+    "name": "Starcraft",
+    "cyrillic_name": "Старкрафт",
+    "year_from": 1992,
+    "year_to": 1996,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "SUBURBAN",
+    "name": "Suburban",
+    "cyrillic_name": "Субурбан",
+    "year_from": 1941,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "S_10",
+    "name": "S-10 Pickup",
+    "cyrillic_name": "С-10 Пикап",
+    "year_from": 1982,
+    "year_to": 2012,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "TACUMA",
+    "name": "Tacuma",
+    "cyrillic_name": "Такума",
+    "year_from": 2000,
+    "year_to": 2008,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "TAHOE",
+    "name": "Tahoe",
+    "cyrillic_name": "Тахо",
+    "year_from": 1994,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": [
+      "Tahoe",
+      "RST Performance Edition"
+    ]
+  },
+  {
+    "id": "TAVERA",
+    "name": "Tavera",
+    "cyrillic_name": "Тавера",
+    "year_from": 2002,
+    "year_to": 2017,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "TRACKER",
+    "name": "Tracker",
+    "cyrillic_name": "Трекер",
+    "year_from": 1989,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": [
+      "Tracker",
+      "RS"
+    ]
+  },
+  {
+    "id": "TRAILBLAZER",
+    "name": "TrailBlazer",
+    "cyrillic_name": "Трейл блейзер",
+    "year_from": 2001,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "TRANSSPORT",
+    "name": "Trans Sport",
+    "cyrillic_name": "Транс Спорт",
+    "year_from": 1996,
+    "year_to": 2005,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "TRAVERSE",
+    "name": "Traverse",
+    "cyrillic_name": "Траверс",
+    "year_from": 2008,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "TRAX",
+    "name": "Trax",
+    "cyrillic_name": "Тракс",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "UPLANDER",
+    "name": "Uplander",
+    "cyrillic_name": "Аплендер",
+    "year_from": 2004,
+    "year_to": 2008,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "VAN",
+    "name": "Van",
+    "cyrillic_name": "Ван",
+    "year_from": 1971,
+    "year_to": 1996,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "VECTRA",
+    "name": "Vectra",
+    "cyrillic_name": "Вектра",
+    "year_from": 1993,
+    "year_to": 2002,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "VENTURE",
+    "name": "Venture",
+    "cyrillic_name": "Вентура",
+    "year_from": 1996,
+    "year_to": 2005,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "VIVA",
+    "name": "Viva",
+    "cyrillic_name": "Вива",
+    "year_from": 2004,
+    "year_to": 2008,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "VOLT",
+    "name": "Volt",
+    "cyrillic_name": "Вольт",
+    "year_from": 2010,
+    "year_to": 2019,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  },
+  {
+    "id": "ZAFIRA",
+    "name": "Zafira",
+    "cyrillic_name": "Зафира",
+    "year_from": 2001,
+    "year_to": 2012,
+    "brand_id": "CHEVROLET",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "1",
+    "cyrillic_name": "1",
+    "year_from": 2019,
+    "year_to": 2021,
+    "brand_id": "POLESTAR",
+    "nameplates": []
+  },
+  {
+    "id": "2",
+    "name": "2",
+    "cyrillic_name": "2",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "POLESTAR",
+    "nameplates": []
+  },
+  {
+    "id": "3",
+    "name": "3",
+    "cyrillic_name": "3",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "POLESTAR",
+    "nameplates": []
+  },
+  {
+    "id": "4",
+    "name": "4",
+    "cyrillic_name": "4",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "POLESTAR",
+    "nameplates": [
+      "Coupe",
+      "SUV"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "5",
+    "cyrillic_name": "5",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "POLESTAR",
+    "nameplates": []
+  }
+]

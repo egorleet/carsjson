@@ -1,0 +1,38 @@
+[
+  {
+    "id": "CJ",
+    "name": "CJ",
+    "cyrillic_name": "СЖ",
+    "year_from": 1944,
+    "year_to": 1968,
+    "brand_id": "WILLIS",
+    "nameplates": []
+  },
+  {
+    "id": "JEEPSTER",
+    "name": "Jeepster",
+    "cyrillic_name": "Джипстер",
+    "year_from": 1948,
+    "year_to": 1951,
+    "brand_id": "WILLIS",
+    "nameplates": []
+  },
+  {
+    "id": "MB",
+    "name": "MB",
+    "cyrillic_name": "МБ",
+    "year_from": 1941,
+    "year_to": 1945,
+    "brand_id": "WILLIS",
+    "nameplates": []
+  },
+  {
+    "id": "MODEL_20",
+    "name": "Knight Model 20",
+    "cyrillic_name": "кнайт модель 20",
+    "year_from": 1920,
+    "year_to": 1923,
+    "brand_id": "WILLIS",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ACTYON",
+    "name": "Actyon",
+    "cyrillic_name": "Актион",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "KGM",
+    "nameplates": []
+  },
+  {
+    "id": "KORANDO",
+    "name": "Korando",
+    "cyrillic_name": "Корандо",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "KGM",
+    "nameplates": [
+      "Korando",
+      "E-motion"
+    ]
+  },
+  {
+    "id": "MUSSO",
+    "name": "Musso",
+    "cyrillic_name": "Муссо",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "KGM",
+    "nameplates": []
+  },
+  {
+    "id": "MUSSO_SPORTS",
+    "name": "Musso Sports",
+    "cyrillic_name": "Муссо Спортс",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "KGM",
+    "nameplates": []
+  },
+  {
+    "id": "REXTON",
+    "name": "Rexton",
+    "cyrillic_name": "Рекстон",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "KGM",
+    "nameplates": []
+  },
+  {
+    "id": "REXTON_SPORTS",
+    "name": "Rexton Sports",
+    "cyrillic_name": "Рекстон Спортс",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "KGM",
+    "nameplates": [
+      "Rexton Sports",
+      "KHAN"
+    ]
+  },
+  {
+    "id": "TIVOLI",
+    "name": "Tivoli",
+    "cyrillic_name": "Тиволи",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "KGM",
+    "nameplates": [
+      "Tivoli",
+      "Air"
+    ]
+  },
+  {
+    "id": "TORRES",
+    "name": "Torres",
+    "cyrillic_name": "Торрес",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "KGM",
+    "nameplates": []
+  }
+]

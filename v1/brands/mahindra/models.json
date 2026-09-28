@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ARMADA",
+    "name": "Armada",
+    "cyrillic_name": "Армада",
+    "year_from": 1990,
+    "year_to": 2005,
+    "brand_id": "MAHINDRA",
+    "nameplates": []
+  },
+  {
+    "id": "BOLERO",
+    "name": "Bolero",
+    "cyrillic_name": "Болеро",
+    "year_from": 2001,
+    "year_to": 2020,
+    "brand_id": "MAHINDRA",
+    "nameplates": []
+  },
+  {
+    "id": "CJ_3",
+    "name": "CJ-3",
+    "cyrillic_name": "Си-Джей 3",
+    "year_from": 1988,
+    "year_to": 1992,
+    "brand_id": "MAHINDRA",
+    "nameplates": []
+  },
+  {
+    "id": "CL",
+    "name": "CL",
+    "cyrillic_name": "сл",
+    "year_from": 1993,
+    "year_to": 2000,
+    "brand_id": "MAHINDRA",
+    "nameplates": []
+  },
+  {
+    "id": "COMMANDER",
+    "name": "Commander",
+    "cyrillic_name": "Коммандер",
+    "year_from": 1990,
+    "year_to": 2013,
+    "brand_id": "MAHINDRA",
+    "nameplates": []
+  },
+  {
+    "id": "MARSHAL",
+    "name": "Marshal",
+    "cyrillic_name": "Маршал",
+    "year_from": 2002,
+    "year_to": 2008,
+    "brand_id": "MAHINDRA",
+    "nameplates": []
+  },
+  {
+    "id": "MM",
+    "name": "MM",
+    "cyrillic_name": "ММ",
+    "year_from": 1990,
+    "year_to": 2000,
+    "brand_id": "MAHINDRA",
+    "nameplates": []
+  },
+  {
+    "id": "NC_640_DP",
+    "name": "NC 640 DP",
+    "cyrillic_name": "нс640дп",
+    "year_from": 1985,
+    "year_to": 2000,
+    "brand_id": "MAHINDRA",
+    "nameplates": []
+  },
+  {
+    "id": "SCORPIO",
+    "name": "Scorpio",
+    "cyrillic_name": "Скорпио",
+    "year_from": 2002,
+    "year_to": 2022,
+    "brand_id": "MAHINDRA",
+    "nameplates": []
+  },
+  {
+    "id": "THAR",
+    "name": "Thar",
+    "cyrillic_name": "Тар",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "MAHINDRA",
+    "nameplates": []
+  },
+  {
+    "id": "VERITO",
+    "name": "Verito",
+    "cyrillic_name": "Верито",
+    "year_from": 2011,
+    "year_to": 2019,
+    "brand_id": "MAHINDRA",
+    "nameplates": []
+  },
+  {
+    "id": "VOYAGER",
+    "name": "Voyager",
+    "cyrillic_name": "вояджер",
+    "year_from": 1997,
+    "year_to": 2000,
+    "brand_id": "MAHINDRA",
+    "nameplates": []
+  },
+  {
+    "id": "XYLO",
+    "name": "Xylo",
+    "cyrillic_name": "Ксило",
+    "year_from": 2009,
+    "year_to": 2019,
+    "brand_id": "MAHINDRA",
+    "nameplates": []
+  }
+]

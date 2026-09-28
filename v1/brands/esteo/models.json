@@ -1,0 +1,47 @@
+[
+  {
+    "id": "EXLANTIX_ES",
+    "name": "Exlantix ES",
+    "cyrillic_name": "Экслантикс ЕС",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "ESTEO",
+    "nameplates": []
+  },
+  {
+    "id": "EXLANTIX_ET",
+    "name": "Exlantix ET",
+    "cyrillic_name": "Экслантикс ЕТ",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "ESTEO",
+    "nameplates": []
+  },
+  {
+    "id": "EXLANTIX_ET8",
+    "name": "Exlantix ET8",
+    "cyrillic_name": "Экслантикс ЕТ8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "ESTEO",
+    "nameplates": []
+  },
+  {
+    "id": "MX",
+    "name": "MX",
+    "cyrillic_name": "ЭмИкс",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "ESTEO",
+    "nameplates": []
+  },
+  {
+    "id": "V_27",
+    "name": "V27",
+    "cyrillic_name": "В27",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "ESTEO",
+    "nameplates": []
+  }
+]

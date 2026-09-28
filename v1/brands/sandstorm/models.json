@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ALREEM",
+    "name": "Alreem",
+    "cyrillic_name": "Алрим",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "SANDSTORM",
+    "nameplates": []
+  },
+  {
+    "id": "S24",
+    "name": "S24",
+    "cyrillic_name": "с24",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "SANDSTORM",
+    "nameplates": []
+  }
+]

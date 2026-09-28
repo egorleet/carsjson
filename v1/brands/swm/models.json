@@ -1,0 +1,86 @@
+[
+  {
+    "id": "G01",
+    "name": "G01",
+    "cyrillic_name": "Г01",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "SWM",
+    "nameplates": []
+  },
+  {
+    "id": "G01F",
+    "name": "G01F",
+    "cyrillic_name": "Г01Ф",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "SWM",
+    "nameplates": []
+  },
+  {
+    "id": "G03F",
+    "name": "G03F",
+    "cyrillic_name": "Г03Ф",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "SWM",
+    "nameplates": []
+  },
+  {
+    "id": "G05",
+    "name": "G05",
+    "cyrillic_name": "Г05",
+    "year_from": 2019,
+    "year_to": 2021,
+    "brand_id": "SWM",
+    "nameplates": []
+  },
+  {
+    "id": "G05PRO",
+    "name": "G05 Pro",
+    "cyrillic_name": "г05про",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "SWM",
+    "nameplates": []
+  },
+  {
+    "id": "TIGER",
+    "name": "Tiger",
+    "cyrillic_name": "Тайгер",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "SWM",
+    "nameplates": [
+      "Tiger",
+      "EDi"
+    ]
+  },
+  {
+    "id": "X3",
+    "name": "X3",
+    "cyrillic_name": "Икс 3",
+    "year_from": 2017,
+    "year_to": 2023,
+    "brand_id": "SWM",
+    "nameplates": []
+  },
+  {
+    "id": "X30",
+    "name": "Shineray X30",
+    "cyrillic_name": "Шайнрей Икс30",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "SWM",
+    "nameplates": []
+  },
+  {
+    "id": "X7",
+    "name": "X7",
+    "cyrillic_name": "Икс7",
+    "year_from": 2016,
+    "year_to": 2021,
+    "brand_id": "SWM",
+    "nameplates": []
+  }
+]

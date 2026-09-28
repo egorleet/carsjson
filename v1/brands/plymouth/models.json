@@ -1,0 +1,197 @@
+[
+  {
+    "id": "ACCLAIM",
+    "name": "Acclaim",
+    "cyrillic_name": "Эклайм",
+    "year_from": 1989,
+    "year_to": 1995,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "BARRACUDA",
+    "name": "Barracuda",
+    "cyrillic_name": "барракуда",
+    "year_from": 1964,
+    "year_to": 1974,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "BREEZE",
+    "name": "Breeze",
+    "cyrillic_name": "Бриз",
+    "year_from": 1995,
+    "year_to": 2000,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "CARAVELLE",
+    "name": "Caravelle",
+    "cyrillic_name": "Каравелла",
+    "year_from": 1983,
+    "year_to": 1988,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "COLT_VISTA",
+    "name": "Colt Vista",
+    "cyrillic_name": "Кольт Виста",
+    "year_from": 1983,
+    "year_to": 1995,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "CRANBROOK",
+    "name": "Cranbrook",
+    "cyrillic_name": "Крэнбрук",
+    "year_from": 1951,
+    "year_to": 1953,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "DE_LUXE",
+    "name": "De Luxe",
+    "cyrillic_name": "Де Люкс",
+    "year_from": 1933,
+    "year_to": 1950,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "FURY",
+    "name": "Fury",
+    "cyrillic_name": "фьюри",
+    "year_from": 1959,
+    "year_to": 1978,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "GRAN_FURY",
+    "name": "Gran Fury",
+    "cyrillic_name": "Гран Фьюри",
+    "year_from": 1982,
+    "year_to": 1989,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "HORIZON",
+    "name": "Horizon",
+    "cyrillic_name": "Хорайзон",
+    "year_from": 1977,
+    "year_to": 1990,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "LASER",
+    "name": "Laser",
+    "cyrillic_name": "Лазер",
+    "year_from": 1989,
+    "year_to": 1994,
+    "brand_id": "PLYMOUTH",
+    "nameplates": [
+      "Laser",
+      "RS Turbo"
+    ]
+  },
+  {
+    "id": "NEON",
+    "name": "Neon",
+    "cyrillic_name": "Неон",
+    "year_from": 1993,
+    "year_to": 2001,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "PROWLER",
+    "name": "Prowler",
+    "cyrillic_name": "Проулер",
+    "year_from": 1997,
+    "year_to": 2002,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "RELIANT",
+    "name": "Reliant",
+    "cyrillic_name": "релиант",
+    "year_from": 1981,
+    "year_to": 1989,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "ROAD_RUNNER",
+    "name": "Road Runner",
+    "cyrillic_name": "роад раннер",
+    "year_from": 1968,
+    "year_to": 1975,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "SATELLITE",
+    "name": "Satellite",
+    "cyrillic_name": "Сателит",
+    "year_from": 1970,
+    "year_to": 1974,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "SUNDANCE",
+    "name": "Sundance",
+    "cyrillic_name": "Сандэнс",
+    "year_from": 1986,
+    "year_to": 1994,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "TURISMO",
+    "name": "Turismo",
+    "cyrillic_name": "Туризмо",
+    "year_from": 1983,
+    "year_to": 1987,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "VALIANT",
+    "name": "Valiant",
+    "cyrillic_name": "валиант",
+    "year_from": 1967,
+    "year_to": 1973,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "VOLARE",
+    "name": "Volare",
+    "cyrillic_name": "Волар",
+    "year_from": 1975,
+    "year_to": 1980,
+    "brand_id": "PLYMOUTH",
+    "nameplates": []
+  },
+  {
+    "id": "VOYAGER",
+    "name": "Voyager",
+    "cyrillic_name": "Вояджер",
+    "year_from": 1984,
+    "year_to": 2000,
+    "brand_id": "PLYMOUTH",
+    "nameplates": [
+      "Voyager",
+      "Grand Voyager"
+    ]
+  }
+]

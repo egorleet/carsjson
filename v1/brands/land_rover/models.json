@@ -1,0 +1,120 @@
+[
+  {
+    "id": "DEFENDER",
+    "name": "Defender",
+    "cyrillic_name": "Дефендер",
+    "year_from": 1983,
+    "year_to": 2026,
+    "brand_id": "LAND_ROVER",
+    "nameplates": [
+      "110",
+      "130",
+      "90",
+      "Arctic Trucks",
+      "Octa"
+    ]
+  },
+  {
+    "id": "DISCOVERY",
+    "name": "Discovery",
+    "cyrillic_name": "Дискавери",
+    "year_from": 1989,
+    "year_to": 2026,
+    "brand_id": "LAND_ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "DISCOVERY_SPORT",
+    "name": "Discovery Sport",
+    "cyrillic_name": "Дискавери Спорт",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "LAND_ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "EVOQUE",
+    "name": "Range Rover Evoque",
+    "cyrillic_name": "Рендж Ровер Эвок",
+    "year_from": 2011,
+    "year_to": 2026,
+    "brand_id": "LAND_ROVER",
+    "nameplates": [
+      "Range Rover Evoque",
+      "L"
+    ]
+  },
+  {
+    "id": "FREELANDER",
+    "name": "Freelander",
+    "cyrillic_name": "Фрилендер",
+    "year_from": 1997,
+    "year_to": 2014,
+    "brand_id": "LAND_ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "RANGE_ROVER",
+    "name": "Range Rover",
+    "cyrillic_name": "Рендж Ровер",
+    "year_from": 1970,
+    "year_to": 2026,
+    "brand_id": "LAND_ROVER",
+    "nameplates": [
+      "Range Rover",
+      "Long"
+    ]
+  },
+  {
+    "id": "RANGE_ROVER_SPORT",
+    "name": "Range Rover Sport",
+    "cyrillic_name": "Рендж Ровер Спорт",
+    "year_from": 2005,
+    "year_to": 2026,
+    "brand_id": "LAND_ROVER",
+    "nameplates": [
+      "Range Rover Sport",
+      "SV",
+      "SVR"
+    ]
+  },
+  {
+    "id": "RANGE_ROVER_VELAR",
+    "name": "Range Rover Velar",
+    "cyrillic_name": "Рендж Ровер Велар",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "LAND_ROVER",
+    "nameplates": [
+      "Range Rover Velar",
+      "SVAutobiography Dynamic Edition"
+    ]
+  },
+  {
+    "id": "SERIES_I",
+    "name": "Series I",
+    "cyrillic_name": "Серия 1",
+    "year_from": 1948,
+    "year_to": 1956,
+    "brand_id": "LAND_ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "SERIES_II",
+    "name": "Series II",
+    "cyrillic_name": "серия 2",
+    "year_from": 1958,
+    "year_to": 1971,
+    "brand_id": "LAND_ROVER",
+    "nameplates": []
+  },
+  {
+    "id": "SERIES_III",
+    "name": "Series III",
+    "cyrillic_name": "серия 3",
+    "year_from": 1971,
+    "year_to": 1985,
+    "brand_id": "LAND_ROVER",
+    "nameplates": []
+  }
+]

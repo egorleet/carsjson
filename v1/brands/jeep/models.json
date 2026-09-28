@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AVENGER",
+    "name": "Avenger",
+    "cyrillic_name": "Авенджер",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "JEEP",
+    "nameplates": [
+      "Avenger",
+      "EV"
+    ]
+  },
+  {
+    "id": "CHEROKEE",
+    "name": "Cherokee",
+    "cyrillic_name": "Чероки",
+    "year_from": 1983,
+    "year_to": 2026,
+    "brand_id": "JEEP",
+    "nameplates": [
+      "Cherokee",
+      "TrailHawk"
+    ]
+  },
+  {
+    "id": "CJ",
+    "name": "CJ",
+    "cyrillic_name": "CJ",
+    "year_from": 1966,
+    "year_to": 1987,
+    "brand_id": "JEEP",
+    "nameplates": []
+  },
+  {
+    "id": "COMANCHE",
+    "name": "Comanche",
+    "cyrillic_name": "Команч",
+    "year_from": 1985,
+    "year_to": 1992,
+    "brand_id": "JEEP",
+    "nameplates": []
+  },
+  {
+    "id": "COMMANDER",
+    "name": "Commander",
+    "cyrillic_name": "Коммандер",
+    "year_from": 2005,
+    "year_to": 2010,
+    "brand_id": "JEEP",
+    "nameplates": []
+  },
+  {
+    "id": "COMPASS",
+    "name": "Compass",
+    "cyrillic_name": "Компас",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "JEEP",
+    "nameplates": []
+  },
+  {
+    "id": "GLADIATOR",
+    "name": "Gladiator",
+    "cyrillic_name": "Гладиатор",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "JEEP",
+    "nameplates": []
+  },
+  {
+    "id": "GRAND_CHEROKEE",
+    "name": "Grand Cherokee",
+    "cyrillic_name": "Гранд Чероки",
+    "year_from": 1992,
+    "year_to": 2026,
+    "brand_id": "JEEP",
+    "nameplates": [
+      "Grand Cherokee",
+      "Arctic Trucks",
+      "SRT",
+      "SRT8",
+      "Trackhawk"
+    ]
+  },
+  {
+    "id": "GRAND_COMMANDER",
+    "name": "Grand Commander",
+    "cyrillic_name": "Гранд Коммандер",
+    "year_from": 2018,
+    "year_to": 2022,
+    "brand_id": "JEEP",
+    "nameplates": []
+  },
+  {
+    "id": "GRAND_WAGONEER",
+    "name": "Wagoneer",
+    "cyrillic_name": "Вагонер",
+    "year_from": 1984,
+    "year_to": 2026,
+    "brand_id": "JEEP",
+    "nameplates": [
+      "Wagoneer",
+      "Grand"
+    ]
+  },
+  {
+    "id": "LIBETY_NA",
+    "name": "Liberty (North America)",
+    "cyrillic_name": "Либерти",
+    "year_from": 2001,
+    "year_to": 2012,
+    "brand_id": "JEEP",
+    "nameplates": []
+  },
+  {
+    "id": "PATRIOT",
+    "name": "Liberty (Patriot)",
+    "cyrillic_name": "Патриот",
+    "year_from": 2006,
+    "year_to": 2016,
+    "brand_id": "JEEP",
+    "nameplates": []
+  },
+  {
+    "id": "RECON",
+    "name": "Recon",
+    "cyrillic_name": "Рекон",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "JEEP",
+    "nameplates": []
+  },
+  {
+    "id": "RENEGADE",
+    "name": "Renegade",
+    "cyrillic_name": "Ренегейд",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "JEEP",
+    "nameplates": []
+  },
+  {
+    "id": "WAGONEER_S",
+    "name": "Wagoneer S",
+    "cyrillic_name": "Вагонер С",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "JEEP",
+    "nameplates": []
+  },
+  {
+    "id": "WRANGLER",
+    "name": "Wrangler",
+    "cyrillic_name": "Рэнглер",
+    "year_from": 1986,
+    "year_to": 2026,
+    "brand_id": "JEEP",
+    "nameplates": [
+      "Wrangler",
+      "4xe"
+    ]
+  }
+]

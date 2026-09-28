@@ -1,0 +1,167 @@
+[
+  {
+    "id": "750",
+    "name": "750",
+    "cyrillic_name": "Семьсот пятьдесят",
+    "year_from": 2006,
+    "year_to": 2016,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  },
+  {
+    "id": "CLEVER",
+    "name": "Clever",
+    "cyrillic_name": "Клевер",
+    "year_from": 2020,
+    "year_to": 2024,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  },
+  {
+    "id": "D6",
+    "name": "D6",
+    "cyrillic_name": "Д6",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  },
+  {
+    "id": "D7",
+    "name": "D7",
+    "cyrillic_name": "Д7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  },
+  {
+    "id": "E50",
+    "name": "E50",
+    "cyrillic_name": "Е50",
+    "year_from": 2012,
+    "year_to": 2016,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  },
+  {
+    "id": "I5",
+    "name": "i5",
+    "cyrillic_name": "ай5",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "ROEWE",
+    "nameplates": [
+      "i5",
+      "Ei5"
+    ]
+  },
+  {
+    "id": "I6",
+    "name": "i6",
+    "cyrillic_name": "ай6",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  },
+  {
+    "id": "I6_MAX",
+    "name": "i6 Max",
+    "cyrillic_name": "ай6 макс",
+    "year_from": 2020,
+    "year_to": 2022,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  },
+  {
+    "id": "IMAX8",
+    "name": "iMAX8",
+    "cyrillic_name": "аймакс8",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  },
+  {
+    "id": "M7",
+    "name": "M7",
+    "cyrillic_name": "М7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  },
+  {
+    "id": "MARVEL_X",
+    "name": "Marvel X",
+    "cyrillic_name": "Марвел Икс",
+    "year_from": 2018,
+    "year_to": 2021,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  },
+  {
+    "id": "RX3",
+    "name": "RX3",
+    "cyrillic_name": "РХ3",
+    "year_from": 2017,
+    "year_to": 2021,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  },
+  {
+    "id": "RX3_PRO",
+    "name": "RX3 Pro",
+    "cyrillic_name": "РХ3 Про",
+    "year_from": 2021,
+    "year_to": 2023,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  },
+  {
+    "id": "RX5",
+    "name": "RX5",
+    "cyrillic_name": "рикс5",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  },
+  {
+    "id": "RX5_MAX",
+    "name": "RX5 Max",
+    "cyrillic_name": "рикс5 макс",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  },
+  {
+    "id": "RX8",
+    "name": "RX8",
+    "cyrillic_name": "РХ8",
+    "year_from": 2018,
+    "year_to": 2023,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  },
+  {
+    "id": "RX9",
+    "name": "RX9",
+    "cyrillic_name": "rx9",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  },
+  {
+    "id": "WHALE",
+    "name": "Whale",
+    "cyrillic_name": "Вейл",
+    "year_from": 2022,
+    "year_to": 2023,
+    "brand_id": "ROEWE",
+    "nameplates": []
+  }
+]

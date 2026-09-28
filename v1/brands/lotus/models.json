@@ -1,0 +1,168 @@
+[
+  {
+    "id": "2_ELEVEN",
+    "name": "2-Eleven",
+    "cyrillic_name": "2-Элевен",
+    "year_from": 2007,
+    "year_to": 2011,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  },
+  {
+    "id": "340R",
+    "name": "340R",
+    "cyrillic_name": "340р",
+    "year_from": 2000,
+    "year_to": 2000,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  },
+  {
+    "id": "3_ELEVEN",
+    "name": "3-Eleven",
+    "cyrillic_name": "3-Элевен",
+    "year_from": 2015,
+    "year_to": 2018,
+    "brand_id": "LOTUS",
+    "nameplates": [
+      "430",
+      "Race",
+      "Road"
+    ]
+  },
+  {
+    "id": "ECLAT",
+    "name": "Eclat",
+    "cyrillic_name": "Эклат",
+    "year_from": 1975,
+    "year_to": 1986,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  },
+  {
+    "id": "ELAN",
+    "name": "Elan",
+    "cyrillic_name": "Илан",
+    "year_from": 1989,
+    "year_to": 1995,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  },
+  {
+    "id": "ELETRE",
+    "name": "Eletre",
+    "cyrillic_name": "Элетре",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  },
+  {
+    "id": "ELISE",
+    "name": "Elise",
+    "cyrillic_name": "Элис",
+    "year_from": 1995,
+    "year_to": 2021,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  },
+  {
+    "id": "ELITE",
+    "name": "Elite",
+    "cyrillic_name": "Элит",
+    "year_from": 1974,
+    "year_to": 1982,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  },
+  {
+    "id": "EMEYA",
+    "name": "Emeya",
+    "cyrillic_name": "Эмея",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  },
+  {
+    "id": "EMIRA",
+    "name": "Emira",
+    "cyrillic_name": "Эмира",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  },
+  {
+    "id": "ESPRIT",
+    "name": "Esprit",
+    "cyrillic_name": "Эсприт",
+    "year_from": 1976,
+    "year_to": 2004,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  },
+  {
+    "id": "EUROPA",
+    "name": "Europa",
+    "cyrillic_name": "Европа",
+    "year_from": 1970,
+    "year_to": 1976,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  },
+  {
+    "id": "EUROPA_S",
+    "name": "Europa S",
+    "cyrillic_name": "Европа С",
+    "year_from": 2006,
+    "year_to": 2010,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  },
+  {
+    "id": "EVIJA",
+    "name": "Evija",
+    "cyrillic_name": "Эвия",
+    "year_from": 2022,
+    "year_to": 2024,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  },
+  {
+    "id": "EVORA",
+    "name": "Evora",
+    "cyrillic_name": "Эвора",
+    "year_from": 2009,
+    "year_to": 2021,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  },
+  {
+    "id": "EXCEL",
+    "name": "Excel",
+    "cyrillic_name": "Эксель",
+    "year_from": 1982,
+    "year_to": 1992,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  },
+  {
+    "id": "EXIGE",
+    "name": "Exige",
+    "cyrillic_name": "Эксиж",
+    "year_from": 2001,
+    "year_to": 2021,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  },
+  {
+    "id": "FOR_ME",
+    "name": "For Me",
+    "cyrillic_name": "Фо Ми",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "LOTUS",
+    "nameplates": []
+  }
+]

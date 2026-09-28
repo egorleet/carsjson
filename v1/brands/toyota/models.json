@@ -1,0 +1,1876 @@
+[
+  {
+    "id": "2000GT",
+    "name": "2000GT",
+    "cyrillic_name": "2000гт",
+    "year_from": 1967,
+    "year_to": 1970,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "4RUNNER",
+    "name": "4Runner",
+    "cyrillic_name": "Фораннер",
+    "year_from": 1984,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "AGYA",
+    "name": "Agya",
+    "cyrillic_name": "Агия",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "ALLEX",
+    "name": "Allex",
+    "cyrillic_name": "Аллекс",
+    "year_from": 2001,
+    "year_to": 2006,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "ALLION",
+    "name": "Allion",
+    "cyrillic_name": "Аллион",
+    "year_from": 2001,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "ALPHARD",
+    "name": "Alphard",
+    "cyrillic_name": "Альфард",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "ALTEZZA",
+    "name": "Altezza",
+    "cyrillic_name": "Альтеза",
+    "year_from": 1998,
+    "year_to": 2005,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "AQUA",
+    "name": "Aqua",
+    "cyrillic_name": "Аква",
+    "year_from": 2011,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "ARISTO",
+    "name": "Aristo",
+    "cyrillic_name": "Аристо",
+    "year_from": 1991,
+    "year_to": 2004,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "ATIV",
+    "name": "Ativ",
+    "cyrillic_name": "Атив",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "AURION",
+    "name": "Aurion",
+    "cyrillic_name": "Аурион",
+    "year_from": 2006,
+    "year_to": 2017,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "AURIS",
+    "name": "Auris",
+    "cyrillic_name": "Аурис",
+    "year_from": 2006,
+    "year_to": 2018,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "AVALON",
+    "name": "Avalon",
+    "cyrillic_name": "Авалон",
+    "year_from": 1994,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "AVANZA",
+    "name": "Avanza",
+    "cyrillic_name": "аванза",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "AVENSIS",
+    "name": "Avensis",
+    "cyrillic_name": "Авенсис",
+    "year_from": 1997,
+    "year_to": 2018,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "AVENSIS_VERSO",
+    "name": "Avensis Verso",
+    "cyrillic_name": "Авенсис Версо",
+    "year_from": 2001,
+    "year_to": 2009,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "AYGO",
+    "name": "Aygo",
+    "cyrillic_name": "Айго",
+    "year_from": 2005,
+    "year_to": 2022,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "AYGO_X",
+    "name": "Aygo X",
+    "cyrillic_name": "Айго Икс",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Aygo X",
+      "GR"
+    ]
+  },
+  {
+    "id": "BB",
+    "name": "bB",
+    "cyrillic_name": "bB",
+    "year_from": 2000,
+    "year_to": 2016,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "BELTA",
+    "name": "Belta",
+    "cyrillic_name": "Бельта",
+    "year_from": 2005,
+    "year_to": 2025,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "BLADE",
+    "name": "Blade",
+    "cyrillic_name": "Блейд",
+    "year_from": 2006,
+    "year_to": 2012,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "BLIZZARD",
+    "name": "Blizzard",
+    "cyrillic_name": "Близзард",
+    "year_from": 1980,
+    "year_to": 1994,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "BREVIS",
+    "name": "Brevis",
+    "cyrillic_name": "Бревис",
+    "year_from": 2001,
+    "year_to": 2007,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "BZ",
+    "name": "bZ",
+    "cyrillic_name": "БЗ",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "bZ",
+      "Woodland"
+    ]
+  },
+  {
+    "id": "BZ3",
+    "name": "bZ3",
+    "cyrillic_name": "бЗ3",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "BZ3X",
+    "name": "bZ3X",
+    "cyrillic_name": "бЗ3Х",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "BZ4X",
+    "name": "bZ4X",
+    "cyrillic_name": "бЗ4Х",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "BZ5",
+    "name": "bZ5",
+    "cyrillic_name": "бЗ5",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "BZ7",
+    "name": "bZ7",
+    "cyrillic_name": "БЗ7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CALDINA",
+    "name": "Caldina",
+    "cyrillic_name": "Калдина",
+    "year_from": 1992,
+    "year_to": 2007,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CAMI",
+    "name": "Cami",
+    "cyrillic_name": "Ками",
+    "year_from": 1999,
+    "year_to": 2006,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CAMRY",
+    "name": "Camry",
+    "cyrillic_name": "Камри",
+    "year_from": 1980,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Camry",
+      "Celica Camry",
+      "Gracia",
+      "Prominent"
+    ]
+  },
+  {
+    "id": "CAMRY_SOLARA",
+    "name": "Camry Solara",
+    "cyrillic_name": "Камри Соляра",
+    "year_from": 1998,
+    "year_to": 2009,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CARINA",
+    "name": "Carina",
+    "cyrillic_name": "Карина",
+    "year_from": 1973,
+    "year_to": 2001,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CARINA_E",
+    "name": "Carina E",
+    "cyrillic_name": "Карина Е",
+    "year_from": 1992,
+    "year_to": 1998,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CARINA_ED",
+    "name": "Carina ED",
+    "cyrillic_name": "Карина ED",
+    "year_from": 1985,
+    "year_to": 1998,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CAVALIER",
+    "name": "Cavalier",
+    "cyrillic_name": "Кавалер",
+    "year_from": 1995,
+    "year_to": 2000,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CELICA",
+    "name": "Celica",
+    "cyrillic_name": "Селика",
+    "year_from": 1970,
+    "year_to": 2006,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Celica",
+      "GT",
+      "GT-Four"
+    ]
+  },
+  {
+    "id": "CELSIOR",
+    "name": "Celsior",
+    "cyrillic_name": "Целсиор",
+    "year_from": 1989,
+    "year_to": 2006,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CENTURY",
+    "name": "Century",
+    "cyrillic_name": "Сентури",
+    "year_from": 1982,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CHASER",
+    "name": "Chaser",
+    "cyrillic_name": "Чайзер",
+    "year_from": 1977,
+    "year_to": 2001,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CLASSIC",
+    "name": "Classic",
+    "cyrillic_name": "Классик",
+    "year_from": 1996,
+    "year_to": 1997,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "COMFORT",
+    "name": "Comfort",
+    "cyrillic_name": "комфорт",
+    "year_from": 1995,
+    "year_to": 2017,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "COMS",
+    "name": "COMS",
+    "cyrillic_name": "КОМС",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "COPEN",
+    "name": "Copen",
+    "cyrillic_name": "Копен",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "COROLLA",
+    "name": "Corolla",
+    "cyrillic_name": "Королла",
+    "year_from": 1966,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Corolla",
+      "Axio",
+      "Ceres",
+      "Fielder",
+      "Fx",
+      "GR",
+      "GTi",
+      "Runx",
+      "Sport"
+    ]
+  },
+  {
+    "id": "COROLLA_CROSS",
+    "name": "Corolla Cross",
+    "cyrillic_name": "Королла Кросс",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "COROLLA_II",
+    "name": "Corolla II",
+    "cyrillic_name": "королла 2",
+    "year_from": 1978,
+    "year_to": 1999,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "COROLLA_LEVIN",
+    "name": "Corolla Levin",
+    "cyrillic_name": "Королла Левин",
+    "year_from": 1979,
+    "year_to": 2000,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "COROLLA_RUMION",
+    "name": "Corolla Rumion",
+    "cyrillic_name": "Королла Румион",
+    "year_from": 2007,
+    "year_to": 2016,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "COROLLA_SPACIO",
+    "name": "Corolla Spacio",
+    "cyrillic_name": "Королла Спасио",
+    "year_from": 1997,
+    "year_to": 2007,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "COROLLA_VERSO",
+    "name": "Corolla Verso",
+    "cyrillic_name": "Королла Версо",
+    "year_from": 2001,
+    "year_to": 2009,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CORONA",
+    "name": "Corona",
+    "cyrillic_name": "Корона",
+    "year_from": 1973,
+    "year_to": 2001,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Corona",
+      "Premio",
+      "SF"
+    ]
+  },
+  {
+    "id": "CORONA_EXIV",
+    "name": "Corona EXiV",
+    "cyrillic_name": "корона эксив",
+    "year_from": 1989,
+    "year_to": 1998,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CORSA",
+    "name": "Corsa",
+    "cyrillic_name": "Корса",
+    "year_from": 1982,
+    "year_to": 1999,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CRESSIDA",
+    "name": "Cressida",
+    "cyrillic_name": "Крессида",
+    "year_from": 1977,
+    "year_to": 1996,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CRESTA",
+    "name": "Cresta",
+    "cyrillic_name": "Креста",
+    "year_from": 1980,
+    "year_to": 2001,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CROWN",
+    "name": "Crown",
+    "cyrillic_name": "Краун",
+    "year_from": 1965,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Crown",
+      "Crown Estate",
+      "Crown Signia",
+      "Sport"
+    ]
+  },
+  {
+    "id": "CROWN_KLUGER",
+    "name": "Crown Kluger",
+    "cyrillic_name": "Краун Клагер",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CROWN_MAJESTA",
+    "name": "Crown Majesta",
+    "cyrillic_name": "Краун Маджеста",
+    "year_from": 1991,
+    "year_to": 2018,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CURREN",
+    "name": "Curren",
+    "cyrillic_name": "Каррен",
+    "year_from": 1994,
+    "year_to": 1999,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "CYNOS",
+    "name": "Cynos",
+    "cyrillic_name": "Цинос",
+    "year_from": 1991,
+    "year_to": 1999,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "C_HR",
+    "name": "C-HR",
+    "cyrillic_name": "C-HR",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "C_HR_PLUS",
+    "name": "C-HR+",
+    "cyrillic_name": "Си Эйч Ар Плюс",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "C_PLUS_POD",
+    "name": "C+pod",
+    "cyrillic_name": "Си плюс Под",
+    "year_from": 2020,
+    "year_to": 2024,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "DUET",
+    "name": "Duet",
+    "cyrillic_name": "Дуэт",
+    "year_from": 1998,
+    "year_to": 2004,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "ECHO",
+    "name": "Echo",
+    "cyrillic_name": "Эхо",
+    "year_from": 1999,
+    "year_to": 2005,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "ESQUIRE",
+    "name": "Esquire",
+    "cyrillic_name": "эсквайр",
+    "year_from": 2014,
+    "year_to": 2021,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "ESTIMA",
+    "name": "Estima",
+    "cyrillic_name": "Эстима",
+    "year_from": 1990,
+    "year_to": 2019,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Estima",
+      "Emina",
+      "Lucida"
+    ]
+  },
+  {
+    "id": "ETIOS",
+    "name": "Etios",
+    "cyrillic_name": "этиос",
+    "year_from": 2010,
+    "year_to": 2021,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "FJ_CRUISER",
+    "name": "FJ Cruiser",
+    "cyrillic_name": "ФДжи Крузер",
+    "year_from": 2006,
+    "year_to": 2022,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "FORTUNER",
+    "name": "Fortuner",
+    "cyrillic_name": "Фортунер",
+    "year_from": 2005,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Fortuner",
+      "Arctic Trucks"
+    ]
+  },
+  {
+    "id": "FRONTLANDER",
+    "name": "Frontlander",
+    "cyrillic_name": "Фронтлендер",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "FUNCARGO",
+    "name": "FunCargo",
+    "cyrillic_name": "Фанкарго",
+    "year_from": 1999,
+    "year_to": 2005,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "GAIA",
+    "name": "Gaia",
+    "cyrillic_name": "Гайя",
+    "year_from": 1998,
+    "year_to": 2004,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "GR86",
+    "name": "GR86",
+    "cyrillic_name": "ГР86",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "GRAND_HIACE",
+    "name": "Grand HiAce",
+    "cyrillic_name": "гранд хайс",
+    "year_from": 1999,
+    "year_to": 2002,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "GRAND_HIGHLANDER",
+    "name": "Grand Highlander",
+    "cyrillic_name": "Гранд Хайлендер",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "GRANVIA",
+    "name": "Granvia",
+    "cyrillic_name": "Гранвиа",
+    "year_from": 1995,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "GR_GT",
+    "name": "GR GT",
+    "cyrillic_name": "ГР ГТ",
+    "year_from": 2027,
+    "year_to": 2027,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "GT86",
+    "name": "GT86",
+    "cyrillic_name": "GT86",
+    "year_from": 2012,
+    "year_to": 2021,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "HARRIER",
+    "name": "Harrier",
+    "cyrillic_name": "Харриер",
+    "year_from": 1997,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "HIACE",
+    "name": "HiAce",
+    "cyrillic_name": "Хайс",
+    "year_from": 1982,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "HIGHLANDER",
+    "name": "Highlander",
+    "cyrillic_name": "Хайлендер",
+    "year_from": 2001,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "HILUX",
+    "name": "Hilux",
+    "cyrillic_name": "Хайлюкс",
+    "year_from": 1968,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Hilux",
+      "Arctic Trucks"
+    ]
+  },
+  {
+    "id": "HILUX_CHAMP",
+    "name": "Hilux Champ",
+    "cyrillic_name": "Хайлюкс Чамп",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "HILUX_SURF",
+    "name": "Hilux Surf",
+    "cyrillic_name": "Хайлюкс Сурф",
+    "year_from": 1984,
+    "year_to": 2009,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "INNOVA",
+    "name": "Innova",
+    "cyrillic_name": "Иннова",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "IPSUM",
+    "name": "Ipsum",
+    "cyrillic_name": "Ипсум",
+    "year_from": 1995,
+    "year_to": 2009,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "IQ",
+    "name": "iQ",
+    "cyrillic_name": "iQ",
+    "year_from": 2008,
+    "year_to": 2015,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "ISIS",
+    "name": "ISis",
+    "cyrillic_name": "ISis",
+    "year_from": 2004,
+    "year_to": 2017,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "IST",
+    "name": "Ist",
+    "cyrillic_name": "Ист",
+    "year_from": 2001,
+    "year_to": 2016,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "IZOA",
+    "name": "Izoa",
+    "cyrillic_name": "Изоа",
+    "year_from": 2018,
+    "year_to": 2025,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "JPN_TAXI",
+    "name": "JPN Taxi",
+    "cyrillic_name": "ЖПН Такси",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "KLUGER",
+    "name": "Kluger",
+    "cyrillic_name": "Клюгер",
+    "year_from": 2000,
+    "year_to": 2013,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "LAND_CRUISER",
+    "name": "Land Cruiser",
+    "cyrillic_name": "Ленд Крузер",
+    "year_from": 1960,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Land Cruiser",
+      "105",
+      "Arctic Trucks",
+      "Cygnus"
+    ]
+  },
+  {
+    "id": "LAND_CRUISER_FJ",
+    "name": "Land Cruiser FJ",
+    "cyrillic_name": "Ленд Крузер ФДжи",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "LAND_CRUISER_PRADO",
+    "name": "Land Cruiser Prado",
+    "cyrillic_name": "Ленд Крузер Прадо",
+    "year_from": 1987,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Land Cruiser Prado",
+      "Arctic Trucks"
+    ]
+  },
+  {
+    "id": "LEVIN",
+    "name": "Levin",
+    "cyrillic_name": "Левин",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Levin",
+      "L",
+      "PHEV"
+    ]
+  },
+  {
+    "id": "LITE_ACE",
+    "name": "Lite Ace",
+    "cyrillic_name": "ЛайтЭйс",
+    "year_from": 1979,
+    "year_to": 2020,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Lite Ace",
+      "LiteAce Noah"
+    ]
+  },
+  {
+    "id": "MARK_II",
+    "name": "Mark II",
+    "cyrillic_name": "Марк 2",
+    "year_from": 1968,
+    "year_to": 2007,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Mark II",
+      "Blit",
+      "Qualis"
+    ]
+  },
+  {
+    "id": "MARK_X",
+    "name": "Mark X",
+    "cyrillic_name": "Марк X",
+    "year_from": 2004,
+    "year_to": 2019,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "MARK_X_ZIO",
+    "name": "Mark X ZiO",
+    "cyrillic_name": "Марк X ZiO",
+    "year_from": 2007,
+    "year_to": 2013,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "MASTER_ACE_SURF",
+    "name": "MasterAce Surf",
+    "cyrillic_name": "мастер айс сурф",
+    "year_from": 1982,
+    "year_to": 1991,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "MATRIX",
+    "name": "Matrix",
+    "cyrillic_name": "Матрикс",
+    "year_from": 2002,
+    "year_to": 2014,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "MEGA_CRUISER",
+    "name": "Mega Cruiser",
+    "cyrillic_name": "Мега Крузер",
+    "year_from": 1995,
+    "year_to": 2001,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "MIRAI",
+    "name": "Mirai",
+    "cyrillic_name": "Мирай",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "MODEL_F",
+    "name": "Model F",
+    "cyrillic_name": "модель ф",
+    "year_from": 1982,
+    "year_to": 1992,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "MR2",
+    "name": "MR2",
+    "cyrillic_name": "МР 2",
+    "year_from": 1984,
+    "year_to": 2007,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "MR_S",
+    "name": "MR-S",
+    "cyrillic_name": "МР-С",
+    "year_from": 1999,
+    "year_to": 2007,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "NADIA",
+    "name": "Nadia",
+    "cyrillic_name": "Надя",
+    "year_from": 1998,
+    "year_to": 2003,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "NOAH",
+    "name": "Noah",
+    "cyrillic_name": "Ноа",
+    "year_from": 2001,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "OPA",
+    "name": "Opa",
+    "cyrillic_name": "Опа",
+    "year_from": 2000,
+    "year_to": 2005,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "ORIGIN",
+    "name": "Origin",
+    "cyrillic_name": "Ориджин",
+    "year_from": 2000,
+    "year_to": 2001,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PASEO",
+    "name": "Paseo",
+    "cyrillic_name": "Пасео",
+    "year_from": 1991,
+    "year_to": 1999,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PASSO",
+    "name": "Passo",
+    "cyrillic_name": "Пассо",
+    "year_from": 2004,
+    "year_to": 2023,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PASSO_SETTE",
+    "name": "Passo Sette",
+    "cyrillic_name": "Пассо Сетте",
+    "year_from": 2008,
+    "year_to": 2012,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PICNIC",
+    "name": "Picnic",
+    "cyrillic_name": "Пикник",
+    "year_from": 1996,
+    "year_to": 2009,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PIXIS_EPOCH",
+    "name": "Pixis Epoch",
+    "cyrillic_name": "Пиксис Эпоч",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PIXIS_JOY",
+    "name": "Pixis Joy",
+    "cyrillic_name": "Пиксис Джой",
+    "year_from": 2016,
+    "year_to": 2023,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PIXIS_MEGA",
+    "name": "Pixis Mega",
+    "cyrillic_name": "Пиксис Мега",
+    "year_from": 2015,
+    "year_to": 2022,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PIXIS_SPACE",
+    "name": "Pixis Space",
+    "cyrillic_name": "Пиксис Спэйс",
+    "year_from": 2011,
+    "year_to": 2017,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PIXIS_VAN",
+    "name": "Pixis Van",
+    "cyrillic_name": "Пиксис Ван",
+    "year_from": 2011,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PLATZ",
+    "name": "Platz",
+    "cyrillic_name": "Платз",
+    "year_from": 1999,
+    "year_to": 2005,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PORTE",
+    "name": "Porte",
+    "cyrillic_name": "Порте",
+    "year_from": 2004,
+    "year_to": 2020,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PREMIO",
+    "name": "Premio",
+    "cyrillic_name": "Премио",
+    "year_from": 2001,
+    "year_to": 2021,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PREVIA",
+    "name": "Previa",
+    "cyrillic_name": "Превиа",
+    "year_from": 1990,
+    "year_to": 2019,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PRIUS",
+    "name": "Prius",
+    "cyrillic_name": "Приус",
+    "year_from": 1997,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Prius",
+      "PHV ZVW35",
+      "PHV ZVW52",
+      "Prime"
+    ]
+  },
+  {
+    "id": "PRIUSPLUS",
+    "name": "Prius v (+)",
+    "cyrillic_name": "Приус V (+)",
+    "year_from": 2011,
+    "year_to": 2021,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PRIUS_ALPHA",
+    "name": "Prius Alpha",
+    "cyrillic_name": "Приус Альфа",
+    "year_from": 2011,
+    "year_to": 2021,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PRIUS_C",
+    "name": "Prius c",
+    "cyrillic_name": "Приус си",
+    "year_from": 2011,
+    "year_to": 2021,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PROACE",
+    "name": "ProAce",
+    "cyrillic_name": "ПроЭйс",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "ProAce",
+      "Long"
+    ]
+  },
+  {
+    "id": "PROACE_CITY",
+    "name": "ProAce City",
+    "cyrillic_name": "ПроЭйс Сити",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PROBOX",
+    "name": "Probox",
+    "cyrillic_name": "Пробокс",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PROGRES",
+    "name": "Progres",
+    "cyrillic_name": "Прогрес",
+    "year_from": 1998,
+    "year_to": 2007,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PRONARD",
+    "name": "Pronard",
+    "cyrillic_name": "Пронард",
+    "year_from": 2000,
+    "year_to": 2004,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "PUBLICA",
+    "name": "Publica",
+    "cyrillic_name": "публика",
+    "year_from": 1961,
+    "year_to": 1978,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "RACTIS",
+    "name": "Ractis",
+    "cyrillic_name": "Рактис",
+    "year_from": 2005,
+    "year_to": 2016,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "RAIZE",
+    "name": "Raize",
+    "cyrillic_name": "Райз",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "RAUM",
+    "name": "Raum",
+    "cyrillic_name": "Раум",
+    "year_from": 1997,
+    "year_to": 2011,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "RAV_4",
+    "name": "RAV4",
+    "cyrillic_name": "Рав4",
+    "year_from": 1994,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "RAV4",
+      "EV"
+    ]
+  },
+  {
+    "id": "REGIUS",
+    "name": "Regius",
+    "cyrillic_name": "Региус",
+    "year_from": 1997,
+    "year_to": 2002,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "REGIUSACE",
+    "name": "Regius Ace",
+    "cyrillic_name": "Региус Эйс",
+    "year_from": 1999,
+    "year_to": 2020,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "REIZ",
+    "name": "Reiz",
+    "cyrillic_name": "Рейз",
+    "year_from": 2005,
+    "year_to": 2017,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "ROOMY",
+    "name": "Roomy",
+    "cyrillic_name": "Руми",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "RUMION",
+    "name": "Rumion",
+    "cyrillic_name": "Румион",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "RUSH",
+    "name": "Rush",
+    "cyrillic_name": "Раш",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "SAI",
+    "name": "Sai",
+    "cyrillic_name": "сай",
+    "year_from": 2009,
+    "year_to": 2017,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "SCEPTER_SEDAN",
+    "name": "Scepter",
+    "cyrillic_name": "Сцептер",
+    "year_from": 1992,
+    "year_to": 1996,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "SEQUOIA",
+    "name": "Sequoia",
+    "cyrillic_name": "Секвойя",
+    "year_from": 2000,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Sequoia",
+      "Arctic Trucks"
+    ]
+  },
+  {
+    "id": "SERA",
+    "name": "Sera",
+    "cyrillic_name": "Сера",
+    "year_from": 1990,
+    "year_to": 1994,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "SIENNA",
+    "name": "Sienna",
+    "cyrillic_name": "Сиенна",
+    "year_from": 1997,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "SIENTA",
+    "name": "Sienta",
+    "cyrillic_name": "Сиента",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "SOARER",
+    "name": "Soarer",
+    "cyrillic_name": "Соарер",
+    "year_from": 1981,
+    "year_to": 2005,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "SOLUNA",
+    "name": "Soluna",
+    "cyrillic_name": "Солуна",
+    "year_from": 1996,
+    "year_to": 2003,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "SPADE",
+    "name": "Spade",
+    "cyrillic_name": "Спейд",
+    "year_from": 2012,
+    "year_to": 2020,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "SPARKY",
+    "name": "Sparky",
+    "cyrillic_name": "Спарки",
+    "year_from": 2000,
+    "year_to": 2003,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "SPORTS_800",
+    "name": "Sports 800",
+    "cyrillic_name": "Спортс 800",
+    "year_from": 1965,
+    "year_to": 1969,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "SPRINTER",
+    "name": "Sprinter",
+    "cyrillic_name": "Спринтер",
+    "year_from": 1974,
+    "year_to": 2002,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "SPRINTER_CARIB",
+    "name": "Sprinter Carib",
+    "cyrillic_name": "Спринтер Кариб",
+    "year_from": 1982,
+    "year_to": 2002,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "SPRINTER_MARINO",
+    "name": "Sprinter Marino",
+    "cyrillic_name": "Спринтер Марино",
+    "year_from": 1992,
+    "year_to": 1998,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "SPRINTER_TRUENO",
+    "name": "Sprinter Trueno",
+    "cyrillic_name": "Спринтер Труэно",
+    "year_from": 1983,
+    "year_to": 2000,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "STARLET",
+    "name": "Starlet",
+    "cyrillic_name": "Старлет",
+    "year_from": 1978,
+    "year_to": 1999,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "STARLET_CROSS",
+    "name": "Starlet Cross",
+    "cyrillic_name": "Старлет Кросс",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "SUCCEED",
+    "name": "Succeed",
+    "cyrillic_name": "Саксид",
+    "year_from": 2002,
+    "year_to": 2020,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "SUPRA",
+    "name": "Supra",
+    "cyrillic_name": "Супра",
+    "year_from": 1986,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "T100",
+    "name": "T100",
+    "cyrillic_name": "Т100",
+    "year_from": 1992,
+    "year_to": 1998,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "TACOMA",
+    "name": "Tacoma",
+    "cyrillic_name": "Такома",
+    "year_from": 1995,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "TANK",
+    "name": "Tank",
+    "cyrillic_name": "Танк",
+    "year_from": 2016,
+    "year_to": 2020,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "TERCEL",
+    "name": "Tercel",
+    "cyrillic_name": "Терсел",
+    "year_from": 1978,
+    "year_to": 1999,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "TOURING_HIACE",
+    "name": "Touring HiAce",
+    "cyrillic_name": "Туринг Хайэс",
+    "year_from": 1999,
+    "year_to": 2002,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "TOWN_ACE",
+    "name": "Town Ace",
+    "cyrillic_name": "Таун Эйс",
+    "year_from": 1976,
+    "year_to": 2020,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Town Ace",
+      "TownAce Noah"
+    ]
+  },
+  {
+    "id": "TUNDRA",
+    "name": "Tundra",
+    "cyrillic_name": "Тундра",
+    "year_from": 1999,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Tundra",
+      "Arctic Trucks"
+    ]
+  },
+  {
+    "id": "URBAN_CRUISER",
+    "name": "Urban Cruiser",
+    "cyrillic_name": "Урбан Крузер",
+    "year_from": 2009,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "URBAN_CRUISER_TAISOR",
+    "name": "Urban Cruiser Taisor",
+    "cyrillic_name": "Урбан Крузер Тэйсор",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "VANGUARD",
+    "name": "Vanguard",
+    "cyrillic_name": "Вангуард",
+    "year_from": 2007,
+    "year_to": 2013,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "VELLFIRE",
+    "name": "Vellfire",
+    "cyrillic_name": "Веллфайр",
+    "year_from": 2008,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "VELOZ",
+    "name": "Veloz",
+    "cyrillic_name": "Велоз",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "VENZA",
+    "name": "Venza",
+    "cyrillic_name": "Венза",
+    "year_from": 2008,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "VEROSSA",
+    "name": "Verossa",
+    "cyrillic_name": "Веросса",
+    "year_from": 2001,
+    "year_to": 2004,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "VERSO",
+    "name": "Verso",
+    "cyrillic_name": "Версо",
+    "year_from": 2009,
+    "year_to": 2018,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "VERSO_S",
+    "name": "Verso-S",
+    "cyrillic_name": "Версо-С",
+    "year_from": 2010,
+    "year_to": 2018,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "VIOS",
+    "name": "Vios",
+    "cyrillic_name": "Виос",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "VISTA",
+    "name": "Vista",
+    "cyrillic_name": "Виста",
+    "year_from": 1982,
+    "year_to": 2003,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Vista",
+      "Ardeo"
+    ]
+  },
+  {
+    "id": "VITZ",
+    "name": "Vitz",
+    "cyrillic_name": "Витц",
+    "year_from": 1999,
+    "year_to": 2020,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Vitz",
+      "GRMN"
+    ]
+  },
+  {
+    "id": "VOLTZ",
+    "name": "Voltz",
+    "cyrillic_name": "Вольтз",
+    "year_from": 2002,
+    "year_to": 2004,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "VOXY",
+    "name": "Voxy",
+    "cyrillic_name": "Вокси",
+    "year_from": 2001,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "WIGO",
+    "name": "Wigo",
+    "cyrillic_name": "Виго",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "WILDLANDER",
+    "name": "Wildlander",
+    "cyrillic_name": "Вайлдлендер",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "WILL",
+    "name": "WiLL",
+    "cyrillic_name": "Вилл",
+    "year_from": 2000,
+    "year_to": 2004,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "WILL_CYPHA",
+    "name": "WiLL Cypha",
+    "cyrillic_name": "вилл сифа",
+    "year_from": 2002,
+    "year_to": 2005,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "WINDOM",
+    "name": "Windom",
+    "cyrillic_name": "Виндом",
+    "year_from": 1991,
+    "year_to": 2006,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "WISH",
+    "name": "Wish",
+    "cyrillic_name": "Виш",
+    "year_from": 2003,
+    "year_to": 2017,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "XA",
+    "name": "xA",
+    "cyrillic_name": "ха",
+    "year_from": 2006,
+    "year_to": 2007,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "YARIS",
+    "name": "Yaris",
+    "cyrillic_name": "Ярис",
+    "year_from": 1999,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": [
+      "Yaris",
+      "GR Yaris"
+    ]
+  },
+  {
+    "id": "YARIS_CROSS",
+    "name": "Yaris Cross",
+    "cyrillic_name": "Ярис Кросс",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "YARIS_VERSO",
+    "name": "Yaris Verso",
+    "cyrillic_name": "Ярис Версо",
+    "year_from": 1999,
+    "year_to": 2006,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  },
+  {
+    "id": "ZELAS",
+    "name": "Zelas",
+    "cyrillic_name": "Зелас",
+    "year_from": 2010,
+    "year_to": 2016,
+    "brand_id": "TOYOTA",
+    "nameplates": []
+  }
+]

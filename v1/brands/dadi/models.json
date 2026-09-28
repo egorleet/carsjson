@@ -1,0 +1,29 @@
+[
+  {
+    "id": "CITY_LEADING",
+    "name": "City Leading",
+    "cyrillic_name": "Сити Лидин",
+    "year_from": 2004,
+    "year_to": 2007,
+    "brand_id": "DADI",
+    "nameplates": []
+  },
+  {
+    "id": "SHUTTLE",
+    "name": "Shuttle",
+    "cyrillic_name": "Шаттл",
+    "year_from": 2005,
+    "year_to": 2007,
+    "brand_id": "DADI",
+    "nameplates": []
+  },
+  {
+    "id": "SMOOTHING",
+    "name": "Smoothing",
+    "cyrillic_name": "Смуфин",
+    "year_from": 2006,
+    "year_to": 2007,
+    "brand_id": "DADI",
+    "nameplates": []
+  }
+]

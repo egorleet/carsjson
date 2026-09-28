@@ -1,0 +1,77 @@
+[
+  {
+    "id": "57",
+    "name": "57",
+    "cyrillic_name": "57",
+    "year_from": 1932,
+    "year_to": 1949,
+    "brand_id": "TATRA",
+    "nameplates": []
+  },
+  {
+    "id": "77",
+    "name": "77",
+    "cyrillic_name": "77",
+    "year_from": 1934,
+    "year_to": 1938,
+    "brand_id": "TATRA",
+    "nameplates": []
+  },
+  {
+    "id": "80",
+    "name": "80",
+    "cyrillic_name": "80",
+    "year_from": 1931,
+    "year_to": 1935,
+    "brand_id": "TATRA",
+    "nameplates": []
+  },
+  {
+    "id": "87",
+    "name": "87",
+    "cyrillic_name": "87",
+    "year_from": 1936,
+    "year_to": 1950,
+    "brand_id": "TATRA",
+    "nameplates": []
+  },
+  {
+    "id": "T600",
+    "name": "T600",
+    "cyrillic_name": "т600",
+    "year_from": 1946,
+    "year_to": 1952,
+    "brand_id": "TATRA",
+    "nameplates": []
+  },
+  {
+    "id": "T603",
+    "name": "T603",
+    "cyrillic_name": "т603",
+    "year_from": 1956,
+    "year_to": 1975,
+    "brand_id": "TATRA",
+    "nameplates": []
+  },
+  {
+    "id": "T613",
+    "name": "T613",
+    "cyrillic_name": "т613",
+    "year_from": 1973,
+    "year_to": 1996,
+    "brand_id": "TATRA",
+    "nameplates": []
+  },
+  {
+    "id": "T700",
+    "name": "T700",
+    "cyrillic_name": "т700",
+    "year_from": 1996,
+    "year_to": 1999,
+    "brand_id": "TATRA",
+    "nameplates": [
+      "T700",
+      "GT"
+    ]
+  }
+]

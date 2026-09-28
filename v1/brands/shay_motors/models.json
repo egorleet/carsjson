@@ -1,0 +1,11 @@
+[
+  {
+    "id": "MODEL_A",
+    "name": "Model A",
+    "cyrillic_name": "Модел А",
+    "year_from": 1979,
+    "year_to": 1982,
+    "brand_id": "SHAY_MOTORS",
+    "nameplates": []
+  }
+]

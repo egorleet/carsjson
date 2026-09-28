@@ -1,0 +1,95 @@
+[
+  {
+    "id": "03",
+    "name": "03",
+    "cyrillic_name": "03",
+    "year_from": 2023,
+    "year_to": 2025,
+    "brand_id": "ORA",
+    "nameplates": [
+      "03",
+      "GT"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "5",
+    "cyrillic_name": "5",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "ORA",
+    "nameplates": []
+  },
+  {
+    "id": "7",
+    "name": "7",
+    "cyrillic_name": "7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "ORA",
+    "nameplates": []
+  },
+  {
+    "id": "BALLET_CAT",
+    "name": "Ballet Cat",
+    "cyrillic_name": "Баллет Кэт",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "ORA",
+    "nameplates": []
+  },
+  {
+    "id": "BLACK_CAT",
+    "name": "Black Cat",
+    "cyrillic_name": "Блэк Кэт",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "ORA",
+    "nameplates": []
+  },
+  {
+    "id": "GOOD_CAT",
+    "name": "Good Cat",
+    "cyrillic_name": "Гуд Кэт",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "ORA",
+    "nameplates": []
+  },
+  {
+    "id": "IQ",
+    "name": "iQ",
+    "cyrillic_name": "АйКью",
+    "year_from": 2018,
+    "year_to": 2020,
+    "brand_id": "ORA",
+    "nameplates": []
+  },
+  {
+    "id": "LIGHTNING_CAT",
+    "name": "Lightning Cat",
+    "cyrillic_name": "Лайтнинг Кэт",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "ORA",
+    "nameplates": []
+  },
+  {
+    "id": "SAR_SALOON_MECHA_DRAGON",
+    "name": "SAR (Saloon) Mecha Dragon",
+    "cyrillic_name": "САР (Салун) Меча Дрегон",
+    "year_from": 2022,
+    "year_to": 2024,
+    "brand_id": "ORA",
+    "nameplates": []
+  },
+  {
+    "id": "WHITE_CAT",
+    "name": "White Cat",
+    "cyrillic_name": "Вайт Кэт",
+    "year_from": 2020,
+    "year_to": 2022,
+    "brand_id": "ORA",
+    "nameplates": []
+  }
+]

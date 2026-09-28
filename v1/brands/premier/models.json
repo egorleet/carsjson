@@ -1,0 +1,20 @@
+[
+  {
+    "id": "118NE",
+    "name": "118NE",
+    "cyrillic_name": "118 не",
+    "year_from": 1985,
+    "year_to": 2001,
+    "brand_id": "PREMIER",
+    "nameplates": []
+  },
+  {
+    "id": "PADMINI",
+    "name": "Padmini",
+    "cyrillic_name": "падмини",
+    "year_from": 1964,
+    "year_to": 2000,
+    "brand_id": "PREMIER",
+    "nameplates": []
+  }
+]

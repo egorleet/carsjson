@@ -1,0 +1,199 @@
+[
+  {
+    "id": "132",
+    "name": "132",
+    "cyrillic_name": "132",
+    "year_from": 1973,
+    "year_to": 1982,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "133",
+    "name": "133",
+    "cyrillic_name": "133",
+    "year_from": 1974,
+    "year_to": 1979,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "ALHAMBRA",
+    "name": "Alhambra",
+    "cyrillic_name": "Альхамбра",
+    "year_from": 1996,
+    "year_to": 2020,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "ALTEA",
+    "name": "Altea",
+    "cyrillic_name": "Альтеа",
+    "year_from": 2004,
+    "year_to": 2015,
+    "brand_id": "SEAT",
+    "nameplates": [
+      "Altea",
+      "Freetrack",
+      "XL"
+    ]
+  },
+  {
+    "id": "ARONA",
+    "name": "Arona",
+    "cyrillic_name": "Арона",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "AROSA",
+    "name": "Arosa",
+    "cyrillic_name": "Ароса",
+    "year_from": 1997,
+    "year_to": 2004,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "ATECA",
+    "name": "Ateca",
+    "cyrillic_name": "Атека",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "CORDOBA",
+    "name": "Cordoba",
+    "cyrillic_name": "Кордоба",
+    "year_from": 1993,
+    "year_to": 2009,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "EXEO",
+    "name": "Exeo",
+    "cyrillic_name": "Эксео",
+    "year_from": 2008,
+    "year_to": 2013,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "FURA",
+    "name": "Fura",
+    "cyrillic_name": "Фура",
+    "year_from": 1982,
+    "year_to": 1986,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "IBIZA",
+    "name": "Ibiza",
+    "cyrillic_name": "Ибица",
+    "year_from": 1984,
+    "year_to": 2026,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "IBIZA_CUPRA",
+    "name": "Ibiza Cupra",
+    "cyrillic_name": "Ибица Купра",
+    "year_from": 1996,
+    "year_to": 2018,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "INCA",
+    "name": "Inca",
+    "cyrillic_name": "ИНКА",
+    "year_from": 1995,
+    "year_to": 2003,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "LEON",
+    "name": "Leon",
+    "cyrillic_name": "Леон",
+    "year_from": 1999,
+    "year_to": 2026,
+    "brand_id": "SEAT",
+    "nameplates": [
+      "Leon",
+      "Copa Edition",
+      "X-PERIENCE"
+    ]
+  },
+  {
+    "id": "LEON_CUPRA",
+    "name": "Leon Cupra",
+    "cyrillic_name": "Леон Купра",
+    "year_from": 1999,
+    "year_to": 2020,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "MALAGA",
+    "name": "Malaga",
+    "cyrillic_name": "Малага",
+    "year_from": 1985,
+    "year_to": 1993,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "MARBELLA",
+    "name": "Marbella",
+    "cyrillic_name": "Марбелла",
+    "year_from": 1986,
+    "year_to": 1998,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "MII",
+    "name": "Mii",
+    "cyrillic_name": "мии",
+    "year_from": 2011,
+    "year_to": 2021,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "RONDA",
+    "name": "Ronda",
+    "cyrillic_name": "Ронда",
+    "year_from": 1982,
+    "year_to": 1988,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "TARRACO",
+    "name": "Tarraco",
+    "cyrillic_name": "Таррако",
+    "year_from": 2018,
+    "year_to": 2024,
+    "brand_id": "SEAT",
+    "nameplates": []
+  },
+  {
+    "id": "TOLEDO",
+    "name": "Toledo",
+    "cyrillic_name": "Толедо",
+    "year_from": 1991,
+    "year_to": 2019,
+    "brand_id": "SEAT",
+    "nameplates": []
+  }
+]

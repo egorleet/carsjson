@@ -1,0 +1,266 @@
+[
+  {
+    "id": "12",
+    "name": "12 ЗИМ",
+    "cyrillic_name": "12 ЗИМ",
+    "year_from": 1948,
+    "year_to": 1960,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "13",
+    "name": "13 «Чайка»",
+    "cyrillic_name": "13 «Чайка»",
+    "year_from": 1959,
+    "year_to": 1981,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "14",
+    "name": "14 «Чайка»",
+    "cyrillic_name": "14 «Чайка»",
+    "year_from": 1977,
+    "year_to": 1989,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "18",
+    "name": "18",
+    "cyrillic_name": "18",
+    "year_from": 1955,
+    "year_to": 1958,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "21",
+    "name": "21 «Волга»",
+    "cyrillic_name": "21 «Волга»",
+    "year_from": 1956,
+    "year_to": 1970,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "22",
+    "name": "22 «Волга»",
+    "cyrillic_name": "22 «Волга»",
+    "year_from": 1962,
+    "year_to": 1970,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2308_ATAMAN",
+    "name": "2308 «Атаман»",
+    "cyrillic_name": "2308 Атаман",
+    "year_from": 1999,
+    "year_to": 2001,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "2330_TIGR",
+    "name": "2330 «Тигр»",
+    "cyrillic_name": "2330 Тигр",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "24",
+    "name": "24 «Волга»",
+    "cyrillic_name": "24 «Волга»",
+    "year_from": 1968,
+    "year_to": 1992,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "25",
+    "name": "25",
+    "cyrillic_name": "25",
+    "year_from": 1939,
+    "year_to": 1939,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "3102",
+    "name": "3102 «Волга»",
+    "cyrillic_name": "3102 Волга",
+    "year_from": 1982,
+    "year_to": 2009,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "31022",
+    "name": "31022 «Волга»",
+    "cyrillic_name": "31022 Волга",
+    "year_from": 1992,
+    "year_to": 1998,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "310221",
+    "name": "310221 «Волга»",
+    "cyrillic_name": "310221 Волга",
+    "year_from": 1997,
+    "year_to": 2008,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "31029",
+    "name": "31029 «Волга»",
+    "cyrillic_name": "31029 Волга",
+    "year_from": 1992,
+    "year_to": 1998,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "3103_VOLGA",
+    "name": "3103 «Волга»",
+    "cyrillic_name": "3103 Волга",
+    "year_from": 1997,
+    "year_to": 1997,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "3105",
+    "name": "3105 «Волга»",
+    "cyrillic_name": "3105 Волга",
+    "year_from": 1992,
+    "year_to": 1996,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "3110",
+    "name": "3110 «Волга»",
+    "cyrillic_name": "31 10 Волга",
+    "year_from": 1997,
+    "year_to": 2008,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "31105",
+    "name": "31105 «Волга»",
+    "cyrillic_name": "31 10 5 Волга",
+    "year_from": 2003,
+    "year_to": 2009,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "3111",
+    "name": "3111 «Волга»",
+    "cyrillic_name": "3111 Волга",
+    "year_from": 2000,
+    "year_to": 2004,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "46",
+    "name": "46",
+    "cyrillic_name": "46",
+    "year_from": 1953,
+    "year_to": 1958,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "61",
+    "name": "61",
+    "cyrillic_name": "61",
+    "year_from": 1941,
+    "year_to": 1948,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "64",
+    "name": "64",
+    "cyrillic_name": "64",
+    "year_from": 1941,
+    "year_to": 1943,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "67",
+    "name": "ГАЗ 67",
+    "cyrillic_name": "67",
+    "year_from": 1943,
+    "year_to": 1953,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "69",
+    "name": "69",
+    "cyrillic_name": "69",
+    "year_from": 1953,
+    "year_to": 1972,
+    "brand_id": "GAZ",
+    "nameplates": [
+      "69",
+      "69А"
+    ]
+  },
+  {
+    "id": "A",
+    "name": "А",
+    "cyrillic_name": "А",
+    "year_from": 1932,
+    "year_to": 1936,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "M1",
+    "name": "М1",
+    "cyrillic_name": "М1",
+    "year_from": 1934,
+    "year_to": 1948,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "M_20",
+    "name": "М-20 «Победа»",
+    "cyrillic_name": "М-20 «Победа»",
+    "year_from": 1946,
+    "year_to": 1958,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "M_72",
+    "name": "М-72",
+    "cyrillic_name": "М-72",
+    "year_from": 1955,
+    "year_to": 1958,
+    "brand_id": "GAZ",
+    "nameplates": []
+  },
+  {
+    "id": "VOLGA_SIBER",
+    "name": "Volga Siber",
+    "cyrillic_name": "Волга Сайбер",
+    "year_from": 2008,
+    "year_to": 2010,
+    "brand_id": "GAZ",
+    "nameplates": []
+  }
+]

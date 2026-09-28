@@ -1,0 +1,80 @@
+[
+  {
+    "id": "G70",
+    "name": "G70",
+    "cyrillic_name": "Г70",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "GENESIS",
+    "nameplates": []
+  },
+  {
+    "id": "G80",
+    "name": "G80",
+    "cyrillic_name": "Г80",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "GENESIS",
+    "nameplates": []
+  },
+  {
+    "id": "G90",
+    "name": "G90",
+    "cyrillic_name": "Г90",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "GENESIS",
+    "nameplates": [
+      "G90",
+      "Limousine"
+    ]
+  },
+  {
+    "id": "GV60",
+    "name": "GV60",
+    "cyrillic_name": "ГВ60",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "GENESIS",
+    "nameplates": [
+      "GV60",
+      "Magma"
+    ]
+  },
+  {
+    "id": "GV70",
+    "name": "GV70",
+    "cyrillic_name": "ГВ70",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "GENESIS",
+    "nameplates": []
+  },
+  {
+    "id": "GV80",
+    "name": "GV80",
+    "cyrillic_name": "ГВ80",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "GENESIS",
+    "nameplates": []
+  },
+  {
+    "id": "GV80_COUPE",
+    "name": "GV80 Coupe",
+    "cyrillic_name": "ГВ80 Купе",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "GENESIS",
+    "nameplates": []
+  },
+  {
+    "id": "GV90",
+    "name": "GV90",
+    "cyrillic_name": "ГВ90",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "GENESIS",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "C50",
+    "name": "C50",
+    "cyrillic_name": "Ц50",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOLGA",
+    "nameplates": []
+  },
+  {
+    "id": "K40",
+    "name": "K40",
+    "cyrillic_name": "К40",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOLGA",
+    "nameplates": []
+  },
+  {
+    "id": "K50",
+    "name": "K50",
+    "cyrillic_name": "К50",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOLGA",
+    "nameplates": []
+  }
+]

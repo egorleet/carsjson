@@ -1,0 +1,273 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "CarsJSON API",
+    "description": "Free, public static JSON API providing normalized car brands, models, production years, and brand logos.",
+    "version": "1.0.0",
+    "contact": {
+      "name": "Egor Volchenko",
+      "url": "https://egor.im/"
+    },
+    "license": {
+      "name": "CC0-1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://carsjson.pages.dev",
+      "description": "Production CDN"
+    }
+  ],
+  "paths": {
+    "/v1/brands.json": {
+      "get": {
+        "summary": "Get all car brands",
+        "description": "Returns a list of all car brands with English and Cyrillic names, production years, and logo paths.",
+        "operationId": "getBrands",
+        "responses": {
+          "200": {
+            "description": "List of car brands",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Brand"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/brands/{brand_slug}/models.json": {
+      "get": {
+        "summary": "Get models for a car brand",
+        "description": "Returns all models and nameplates for the specified brand slug in lowercase.",
+        "operationId": "getBrandModels",
+        "parameters": [
+          {
+            "name": "brand_slug",
+            "in": "path",
+            "required": true,
+            "description": "Lowercase identifier of the brand, e.g. 'abarth', 'bmw', 'audi', 'mercedes'.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "List of models for the brand",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Model"
+                  }
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Brand not found"
+          }
+        }
+      }
+    },
+    "/v1/all.json": {
+      "get": {
+        "summary": "Get full car catalog",
+        "description": "Returns all car brands and all models consolidated into a single JSON object.",
+        "operationId": "getAllCatalog",
+        "responses": {
+          "200": {
+            "description": "Consolidated catalog with all brands and models",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "brands": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/Brand"
+                      }
+                    },
+                    "models": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/Model"
+                      }
+                    }
+                  },
+                  "required": [
+                    "brands",
+                    "models"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/meta.json": {
+      "get": {
+        "summary": "Get dataset metadata and snapshot version",
+        "description": "Returns dataset entity counts, build date, and SHA-256 data hash.",
+        "operationId": "getMetadata",
+        "responses": {
+          "200": {
+            "description": "Metadata object",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Metadata"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Brand": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "example": "ABARTH"
+          },
+          "name": {
+            "type": "string",
+            "example": "Abarth"
+          },
+          "cyrillic_name": {
+            "type": "string",
+            "example": "Абарт"
+          },
+          "year_from": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "example": 2008
+          },
+          "year_to": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "example": 2026
+          },
+          "logo": {
+            "type": "string",
+            "example": "/logos/abarth.webp"
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "cyrillic_name",
+          "logo"
+        ]
+      },
+      "Model": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "example": "500"
+          },
+          "name": {
+            "type": "string",
+            "example": "500"
+          },
+          "cyrillic_name": {
+            "type": "string",
+            "example": "500"
+          },
+          "year_from": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "example": 2008
+          },
+          "year_to": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "example": 2026
+          },
+          "brand_id": {
+            "type": "string",
+            "example": "ABARTH"
+          },
+          "nameplates": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "example": [
+              "500",
+              "500e"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "cyrillic_name",
+          "brand_id",
+          "nameplates"
+        ]
+      },
+      "Metadata": {
+        "type": "object",
+        "properties": {
+          "schema_version": {
+            "type": "integer",
+            "example": 1
+          },
+          "data_version": {
+            "type": "string",
+            "example": "4a73229b1e..."
+          },
+          "generated_at": {
+            "type": "string",
+            "format": "date-time",
+            "example": "2026-09-23T14:30:00Z"
+          },
+          "brands_count": {
+            "type": "integer",
+            "example": 315
+          },
+          "models_count": {
+            "type": "integer",
+            "example": 3840
+          },
+          "logos_count": {
+            "type": "integer",
+            "example": 315
+          }
+        },
+        "required": [
+          "schema_version",
+          "data_version",
+          "generated_at",
+          "brands_count",
+          "models_count",
+          "logos_count"
+        ]
+      }
+    }
+  }
+}

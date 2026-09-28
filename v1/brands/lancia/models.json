@@ -1,0 +1,250 @@
+[
+  {
+    "id": "APPIA",
+    "name": "Appia",
+    "cyrillic_name": "аппия",
+    "year_from": 1953,
+    "year_to": 1963,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "AURELIA",
+    "name": "Aurelia",
+    "cyrillic_name": "аурелия",
+    "year_from": 1950,
+    "year_to": 1953,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "A_112",
+    "name": "A 112",
+    "cyrillic_name": "а 112",
+    "year_from": 1982,
+    "year_to": 1986,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "BETA",
+    "name": "Beta",
+    "cyrillic_name": "Бета",
+    "year_from": 1972,
+    "year_to": 1984,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "DEDRA",
+    "name": "Dedra",
+    "cyrillic_name": "Дедра",
+    "year_from": 1989,
+    "year_to": 2000,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "DELTA",
+    "name": "Delta",
+    "cyrillic_name": "Дэльта",
+    "year_from": 1979,
+    "year_to": 2014,
+    "brand_id": "LANCIA",
+    "nameplates": [
+      "Delta",
+      "HF 4WD",
+      "HF Integrale",
+      "HF Turbo"
+    ]
+  },
+  {
+    "id": "FLAMINIA",
+    "name": "Flaminia",
+    "cyrillic_name": "фламиния",
+    "year_from": 1952,
+    "year_to": 1970,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "FLAVIA",
+    "name": "Flavia",
+    "cyrillic_name": "Флавия",
+    "year_from": 2012,
+    "year_to": 2014,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "FULVIA",
+    "name": "Fulvia",
+    "cyrillic_name": "Фульвия",
+    "year_from": 1968,
+    "year_to": 1975,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "GAMMA",
+    "name": "Gamma",
+    "cyrillic_name": "Гамма",
+    "year_from": 1976,
+    "year_to": 2026,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "HYUENA",
+    "name": "Hyena",
+    "cyrillic_name": "Гиена",
+    "year_from": 1992,
+    "year_to": 1996,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "KAPPA",
+    "name": "Kappa",
+    "cyrillic_name": "Каппа",
+    "year_from": 1994,
+    "year_to": 2000,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "LAMBDA",
+    "name": "Lambda",
+    "cyrillic_name": "лямбда",
+    "year_from": 1922,
+    "year_to": 1931,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "LYBRA",
+    "name": "Lybra",
+    "cyrillic_name": "Либра",
+    "year_from": 1999,
+    "year_to": 2006,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "MONTECARLO",
+    "name": "Monte Carlo",
+    "cyrillic_name": "Монте Карло",
+    "year_from": 1975,
+    "year_to": 1981,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "MUSA",
+    "name": "Musa",
+    "cyrillic_name": "Муса",
+    "year_from": 2004,
+    "year_to": 2012,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "PHEDRA",
+    "name": "Phedra",
+    "cyrillic_name": "Федра",
+    "year_from": 2002,
+    "year_to": 2010,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "PRISMA",
+    "name": "Prisma",
+    "cyrillic_name": "Призма",
+    "year_from": 1982,
+    "year_to": 1989,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "RALLY_037",
+    "name": "Rally 037",
+    "cyrillic_name": "ралли 037",
+    "year_from": 1982,
+    "year_to": 1983,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "STRATOS",
+    "name": "Stratos",
+    "cyrillic_name": "стратос",
+    "year_from": 1973,
+    "year_to": 1976,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "THEMA",
+    "name": "Thema",
+    "cyrillic_name": "Тема",
+    "year_from": 1984,
+    "year_to": 2014,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "THESIS",
+    "name": "Thesis",
+    "cyrillic_name": "Тезис",
+    "year_from": 2002,
+    "year_to": 2009,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "TREVI",
+    "name": "Trevi",
+    "cyrillic_name": "Треви",
+    "year_from": 1980,
+    "year_to": 1984,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "VOYAGER",
+    "name": "Voyager",
+    "cyrillic_name": "вояджер",
+    "year_from": 2011,
+    "year_to": 2015,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "Y10",
+    "name": "Y10",
+    "cyrillic_name": "Ю 10",
+    "year_from": 1985,
+    "year_to": 1995,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "YPSILON",
+    "name": "Ypsilon",
+    "cyrillic_name": "Ипсилон",
+    "year_from": 1995,
+    "year_to": 2026,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  },
+  {
+    "id": "ZETA",
+    "name": "Zeta",
+    "cyrillic_name": "Зета",
+    "year_from": 1995,
+    "year_to": 2002,
+    "brand_id": "LANCIA",
+    "nameplates": []
+  }
+]

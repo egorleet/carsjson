@@ -1,0 +1,59 @@
+[
+  {
+    "id": "I_JET",
+    "name": "i-Jet",
+    "cyrillic_name": "ай-Джет",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "EVOLUTE",
+    "nameplates": []
+  },
+  {
+    "id": "I_JOY",
+    "name": "i-Joy",
+    "cyrillic_name": "ай-Джой",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "EVOLUTE",
+    "nameplates": []
+  },
+  {
+    "id": "I_PRO",
+    "name": "i-Pro",
+    "cyrillic_name": "ай-Про",
+    "year_from": 2022,
+    "year_to": 2025,
+    "brand_id": "EVOLUTE",
+    "nameplates": []
+  },
+  {
+    "id": "I_SKY",
+    "name": "i-Sky",
+    "cyrillic_name": "АйСкай",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "EVOLUTE",
+    "nameplates": [
+      "i-Sky",
+      "City Edition"
+    ]
+  },
+  {
+    "id": "I_SPACE",
+    "name": "i-Space",
+    "cyrillic_name": "ай-Спэйс",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "EVOLUTE",
+    "nameplates": []
+  },
+  {
+    "id": "I_VAN",
+    "name": "i-Van",
+    "cyrillic_name": "ай-Вэн",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "EVOLUTE",
+    "nameplates": []
+  }
+]

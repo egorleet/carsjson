@@ -1,0 +1,20 @@
+[
+  {
+    "id": "CENTURY",
+    "name": "Century",
+    "cyrillic_name": "Сенчури",
+    "year_from": 2005,
+    "year_to": 2008,
+    "brand_id": "TIANMA",
+    "nameplates": []
+  },
+  {
+    "id": "DRAGON",
+    "name": "Dragon",
+    "cyrillic_name": "Дрэгон",
+    "year_from": 2005,
+    "year_to": 2015,
+    "brand_id": "TIANMA",
+    "nameplates": []
+  }
+]

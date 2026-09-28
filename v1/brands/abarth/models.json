@@ -1,0 +1,68 @@
+[
+  {
+    "id": "124_SPIDER",
+    "name": "124 Spider",
+    "cyrillic_name": "124 спайдер",
+    "year_from": 2016,
+    "year_to": 2020,
+    "brand_id": "ABARTH",
+    "nameplates": []
+  },
+  {
+    "id": "500",
+    "name": "500",
+    "cyrillic_name": "500",
+    "year_from": 2008,
+    "year_to": 2026,
+    "brand_id": "ABARTH",
+    "nameplates": [
+      "500",
+      "500e"
+    ]
+  },
+  {
+    "id": "595",
+    "name": "595",
+    "cyrillic_name": "595",
+    "year_from": 2012,
+    "year_to": 2024,
+    "brand_id": "ABARTH",
+    "nameplates": []
+  },
+  {
+    "id": "600E",
+    "name": "600e",
+    "cyrillic_name": "600е",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "ABARTH",
+    "nameplates": []
+  },
+  {
+    "id": "695",
+    "name": "695",
+    "cyrillic_name": "695",
+    "year_from": 2010,
+    "year_to": 2024,
+    "brand_id": "ABARTH",
+    "nameplates": []
+  },
+  {
+    "id": "FASTBACK",
+    "name": "Fastback",
+    "cyrillic_name": "Фастбек",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "ABARTH",
+    "nameplates": []
+  },
+  {
+    "id": "PULSE",
+    "name": "Pulse",
+    "cyrillic_name": "Пульс",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "ABARTH",
+    "nameplates": []
+  }
+]

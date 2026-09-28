@@ -1,0 +1,87 @@
+[
+  {
+    "id": "CYBERTRUCK",
+    "name": "Cybertruck",
+    "cyrillic_name": "Кибертрак",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "TESLA",
+    "nameplates": [
+      "All-wheel Drive",
+      "Cyberbeast"
+    ]
+  },
+  {
+    "id": "MODEL_3",
+    "name": "Model 3",
+    "cyrillic_name": "Модел 3",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "TESLA",
+    "nameplates": [
+      "Model 3",
+      "Long Range",
+      "Long Range RWD",
+      "Mid Range",
+      "Performance",
+      "Standart",
+      "Standart Plus"
+    ]
+  },
+  {
+    "id": "MODEL_S",
+    "name": "Model S",
+    "cyrillic_name": "Модел C",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "TESLA",
+    "nameplates": [
+      "Model S",
+      "Long Range",
+      "Long Range Plus",
+      "Performance",
+      "Plaid",
+      "Plaid+"
+    ]
+  },
+  {
+    "id": "MODEL_X",
+    "name": "Model X",
+    "cyrillic_name": "Модел Х",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "TESLA",
+    "nameplates": [
+      "Model X",
+      "Long Range",
+      "Long Range Plus",
+      "Performance",
+      "Plaid",
+      "Standard Range"
+    ]
+  },
+  {
+    "id": "MODEL_Y",
+    "name": "Model Y",
+    "cyrillic_name": "Модел Y",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "TESLA",
+    "nameplates": [
+      "L",
+      "Long Range",
+      "Long Range Dual Motor",
+      "Performance",
+      "Standard"
+    ]
+  },
+  {
+    "id": "ROADSTER",
+    "name": "Roadster",
+    "cyrillic_name": "Родстер",
+    "year_from": 2008,
+    "year_to": 2017,
+    "brand_id": "TESLA",
+    "nameplates": []
+  }
+]

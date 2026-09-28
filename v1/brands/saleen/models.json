@@ -1,0 +1,24 @@
+[
+  {
+    "id": "S7",
+    "name": "S7",
+    "cyrillic_name": "с7",
+    "year_from": 2000,
+    "year_to": 2006,
+    "brand_id": "SALEEN",
+    "nameplates": []
+  },
+  {
+    "id": "S_281",
+    "name": "S281",
+    "cyrillic_name": "С281",
+    "year_from": 2005,
+    "year_to": 2009,
+    "brand_id": "SALEEN",
+    "nameplates": [
+      "3V",
+      "Extreme",
+      "SC"
+    ]
+  }
+]

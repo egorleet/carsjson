@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ARSENAL",
+    "name": "Arsenal",
+    "cyrillic_name": "Арсенал",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "REZVANI",
+    "nameplates": []
+  },
+  {
+    "id": "BEAST",
+    "name": "Beast",
+    "cyrillic_name": "Бист",
+    "year_from": 2015,
+    "year_to": 2025,
+    "brand_id": "REZVANI",
+    "nameplates": []
+  },
+  {
+    "id": "FORTRESS",
+    "name": "Fortress",
+    "cyrillic_name": "Фортрис",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "REZVANI",
+    "nameplates": []
+  },
+  {
+    "id": "TANK",
+    "name": "Tank",
+    "cyrillic_name": "Танк",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "REZVANI",
+    "nameplates": []
+  }
+]

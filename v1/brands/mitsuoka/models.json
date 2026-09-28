@@ -1,0 +1,164 @@
+[
+  {
+    "id": "BUBU_CLASSIC_SSK",
+    "name": "Bubu Classic SSK",
+    "cyrillic_name": "Бубу Классик ССК",
+    "year_from": 1987,
+    "year_to": 1989,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "BUDDY",
+    "name": "Buddy",
+    "cyrillic_name": "Бадди",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "GALUE",
+    "name": "Galue",
+    "cyrillic_name": "Галю",
+    "year_from": 1998,
+    "year_to": 2020,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "GALUE_204",
+    "name": "Galue 204",
+    "cyrillic_name": "Галю 204",
+    "year_from": 2008,
+    "year_to": 2014,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "HIMIKO",
+    "name": "Himiko",
+    "cyrillic_name": "Химико",
+    "year_from": 2008,
+    "year_to": 2026,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "LE_SEYDE",
+    "name": "Le-Seyde",
+    "cyrillic_name": "Ле-Сейд",
+    "year_from": 1990,
+    "year_to": 2004,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "LIKE",
+    "name": "Like",
+    "cyrillic_name": "лайк",
+    "year_from": 2010,
+    "year_to": 2012,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "M55",
+    "name": "M55",
+    "cyrillic_name": "М55",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "MC_1",
+    "name": "MC-1",
+    "cyrillic_name": "мс 1",
+    "year_from": 1998,
+    "year_to": 2007,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "NOUERA",
+    "name": "Nouera",
+    "cyrillic_name": "Ноуера",
+    "year_from": 2003,
+    "year_to": 2012,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "OROCHI",
+    "name": "Orochi",
+    "cyrillic_name": "Орочи",
+    "year_from": 2006,
+    "year_to": 2014,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "RAY",
+    "name": "Ray",
+    "cyrillic_name": "Рэй",
+    "year_from": 1996,
+    "year_to": 2004,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "ROCK_STAR",
+    "name": "Rock Star",
+    "cyrillic_name": "Рок Стар",
+    "year_from": 2018,
+    "year_to": 2022,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "RYOGA",
+    "name": "Ryoga",
+    "cyrillic_name": "Риога",
+    "year_from": 1998,
+    "year_to": 2004,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "RYUGI",
+    "name": "Ryugi",
+    "cyrillic_name": "Рууги",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "VIEWT",
+    "name": "Viewt",
+    "cyrillic_name": "Вьювт",
+    "year_from": 1993,
+    "year_to": 2026,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "YUGA",
+    "name": "Yuga",
+    "cyrillic_name": "Юга",
+    "year_from": 2000,
+    "year_to": 2002,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  },
+  {
+    "id": "ZERO_ONE",
+    "name": "Zero 1",
+    "cyrillic_name": "зеро 1",
+    "year_from": 1996,
+    "year_to": 2000,
+    "brand_id": "MITSUOKA",
+    "nameplates": []
+  }
+]

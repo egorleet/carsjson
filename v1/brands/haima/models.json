@@ -1,0 +1,128 @@
+[
+  {
+    "id": "2",
+    "name": "2",
+    "cyrillic_name": "2",
+    "year_from": 2009,
+    "year_to": 2015,
+    "brand_id": "HAIMA",
+    "nameplates": []
+  },
+  {
+    "id": "3",
+    "name": "3",
+    "cyrillic_name": "3",
+    "year_from": 2010,
+    "year_to": 2014,
+    "brand_id": "HAIMA",
+    "nameplates": []
+  },
+  {
+    "id": "6P",
+    "name": "6P",
+    "cyrillic_name": "6Пи",
+    "year_from": 2021,
+    "year_to": 2022,
+    "brand_id": "HAIMA",
+    "nameplates": []
+  },
+  {
+    "id": "7",
+    "name": "7",
+    "cyrillic_name": "7",
+    "year_from": 2013,
+    "year_to": 2016,
+    "brand_id": "HAIMA",
+    "nameplates": []
+  },
+  {
+    "id": "7X",
+    "name": "7X",
+    "cyrillic_name": "7Икс",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "HAIMA",
+    "nameplates": []
+  },
+  {
+    "id": "8S",
+    "name": "8S",
+    "cyrillic_name": "8С",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "HAIMA",
+    "nameplates": []
+  },
+  {
+    "id": "AISHANG_EV",
+    "name": "Aishang EV",
+    "cyrillic_name": "Аишанг ЕВ",
+    "year_from": 2017,
+    "year_to": 2022,
+    "brand_id": "HAIMA",
+    "nameplates": []
+  },
+  {
+    "id": "E3",
+    "name": "E3",
+    "cyrillic_name": "Е3",
+    "year_from": 2016,
+    "year_to": 2019,
+    "brand_id": "HAIMA",
+    "nameplates": []
+  },
+  {
+    "id": "FAMILY",
+    "name": "Family",
+    "cyrillic_name": "фемели",
+    "year_from": 2003,
+    "year_to": 2012,
+    "brand_id": "HAIMA",
+    "nameplates": []
+  },
+  {
+    "id": "FAMILY_F7",
+    "name": "Family F7",
+    "cyrillic_name": "фемели-ф7",
+    "year_from": 2016,
+    "year_to": 2018,
+    "brand_id": "HAIMA",
+    "nameplates": []
+  },
+  {
+    "id": "FREEMA",
+    "name": "Freema",
+    "cyrillic_name": "фрима",
+    "year_from": 2006,
+    "year_to": 2017,
+    "brand_id": "HAIMA",
+    "nameplates": []
+  },
+  {
+    "id": "M3",
+    "name": "M3",
+    "cyrillic_name": "М3",
+    "year_from": 2014,
+    "year_to": 2017,
+    "brand_id": "HAIMA",
+    "nameplates": []
+  },
+  {
+    "id": "S5",
+    "name": "S5",
+    "cyrillic_name": "С5",
+    "year_from": 2014,
+    "year_to": 2019,
+    "brand_id": "HAIMA",
+    "nameplates": []
+  },
+  {
+    "id": "S5_YOUNG",
+    "name": "S5 Young",
+    "cyrillic_name": "С5 Янг",
+    "year_from": 2017,
+    "year_to": 2018,
+    "brand_id": "HAIMA",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FRV_BS2",
+    "name": "FRV (BS2)",
+    "cyrillic_name": "фрв (бс2)",
+    "year_from": 2008,
+    "year_to": 2013,
+    "brand_id": "BRILLIANCE",
+    "nameplates": [
+      "FRV (BS2)",
+      "Cross"
+    ]
+  },
+  {
+    "id": "H230",
+    "name": "H230",
+    "cyrillic_name": "н230",
+    "year_from": 2012,
+    "year_to": 2017,
+    "brand_id": "BRILLIANCE",
+    "nameplates": []
+  },
+  {
+    "id": "H530",
+    "name": "H530",
+    "cyrillic_name": "н530",
+    "year_from": 2011,
+    "year_to": 2020,
+    "brand_id": "BRILLIANCE",
+    "nameplates": []
+  },
+  {
+    "id": "M1",
+    "name": "M1 (BS6)",
+    "cyrillic_name": "М1",
+    "year_from": 2004,
+    "year_to": 2012,
+    "brand_id": "BRILLIANCE",
+    "nameplates": []
+  },
+  {
+    "id": "M2_BS4",
+    "name": "M2 (BS4)",
+    "cyrillic_name": "М2",
+    "year_from": 2006,
+    "year_to": 2012,
+    "brand_id": "BRILLIANCE",
+    "nameplates": []
+  },
+  {
+    "id": "M3_BC3",
+    "name": "M3 (BC3)",
+    "cyrillic_name": "М3",
+    "year_from": 2007,
+    "year_to": 2011,
+    "brand_id": "BRILLIANCE",
+    "nameplates": []
+  },
+  {
+    "id": "V3",
+    "name": "V3",
+    "cyrillic_name": "в3",
+    "year_from": 2015,
+    "year_to": 2020,
+    "brand_id": "BRILLIANCE",
+    "nameplates": []
+  },
+  {
+    "id": "V5",
+    "name": "V5",
+    "cyrillic_name": "в5",
+    "year_from": 2011,
+    "year_to": 2020,
+    "brand_id": "BRILLIANCE",
+    "nameplates": []
+  }
+]

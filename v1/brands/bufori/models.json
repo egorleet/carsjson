@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GENEVA",
+    "name": "Geneva",
+    "cyrillic_name": "Женева",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "BUFORI",
+    "nameplates": []
+  },
+  {
+    "id": "LA_JOYA",
+    "name": "La Joya",
+    "cyrillic_name": "Ла Джойа",
+    "year_from": 2004,
+    "year_to": 2018,
+    "brand_id": "BUFORI",
+    "nameplates": []
+  }
+]

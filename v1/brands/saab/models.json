@@ -1,0 +1,128 @@
+[
+  {
+    "id": "600",
+    "name": "600",
+    "cyrillic_name": "600",
+    "year_from": 1980,
+    "year_to": 1982,
+    "brand_id": "SAAB",
+    "nameplates": []
+  },
+  {
+    "id": "90",
+    "name": "90",
+    "cyrillic_name": "90",
+    "year_from": 1984,
+    "year_to": 1987,
+    "brand_id": "SAAB",
+    "nameplates": []
+  },
+  {
+    "id": "900",
+    "name": "900",
+    "cyrillic_name": "900",
+    "year_from": 1978,
+    "year_to": 1998,
+    "brand_id": "SAAB",
+    "nameplates": []
+  },
+  {
+    "id": "9000",
+    "name": "9000",
+    "cyrillic_name": "9000",
+    "year_from": 1984,
+    "year_to": 1998,
+    "brand_id": "SAAB",
+    "nameplates": []
+  },
+  {
+    "id": "93",
+    "name": "93",
+    "cyrillic_name": "93",
+    "year_from": 1956,
+    "year_to": 1960,
+    "brand_id": "SAAB",
+    "nameplates": []
+  },
+  {
+    "id": "95",
+    "name": "95",
+    "cyrillic_name": "95",
+    "year_from": 1959,
+    "year_to": 1978,
+    "brand_id": "SAAB",
+    "nameplates": []
+  },
+  {
+    "id": "96",
+    "name": "96",
+    "cyrillic_name": "96",
+    "year_from": 1960,
+    "year_to": 1980,
+    "brand_id": "SAAB",
+    "nameplates": []
+  },
+  {
+    "id": "99",
+    "name": "99",
+    "cyrillic_name": "99",
+    "year_from": 1967,
+    "year_to": 1984,
+    "brand_id": "SAAB",
+    "nameplates": []
+  },
+  {
+    "id": "9_2X",
+    "name": "9-2X",
+    "cyrillic_name": "9-2X",
+    "year_from": 2004,
+    "year_to": 2006,
+    "brand_id": "SAAB",
+    "nameplates": []
+  },
+  {
+    "id": "9_3",
+    "name": "9-3",
+    "cyrillic_name": "9-3",
+    "year_from": 1998,
+    "year_to": 2014,
+    "brand_id": "SAAB",
+    "nameplates": []
+  },
+  {
+    "id": "9_4X",
+    "name": "9-4X",
+    "cyrillic_name": "9-4X",
+    "year_from": 2011,
+    "year_to": 2011,
+    "brand_id": "SAAB",
+    "nameplates": []
+  },
+  {
+    "id": "9_5",
+    "name": "9-5",
+    "cyrillic_name": "9-5",
+    "year_from": 1997,
+    "year_to": 2012,
+    "brand_id": "SAAB",
+    "nameplates": []
+  },
+  {
+    "id": "9_7X",
+    "name": "9-7X",
+    "cyrillic_name": "9-7X",
+    "year_from": 2005,
+    "year_to": 2009,
+    "brand_id": "SAAB",
+    "nameplates": []
+  },
+  {
+    "id": "SONETT",
+    "name": "Sonett",
+    "cyrillic_name": "сонет",
+    "year_from": 1970,
+    "year_to": 1974,
+    "brand_id": "SAAB",
+    "nameplates": []
+  }
+]

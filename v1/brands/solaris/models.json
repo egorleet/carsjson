@@ -1,0 +1,38 @@
+[
+  {
+    "id": "HC",
+    "name": "HC",
+    "cyrillic_name": "ХЦ",
+    "year_from": 2022,
+    "year_to": 2025,
+    "brand_id": "SOLARIS",
+    "nameplates": []
+  },
+  {
+    "id": "HS",
+    "name": "HS",
+    "cyrillic_name": "ХС",
+    "year_from": 2022,
+    "year_to": 2025,
+    "brand_id": "SOLARIS",
+    "nameplates": []
+  },
+  {
+    "id": "KRS",
+    "name": "KRS",
+    "cyrillic_name": "КРС",
+    "year_from": 2024,
+    "year_to": 2025,
+    "brand_id": "SOLARIS",
+    "nameplates": []
+  },
+  {
+    "id": "KRX",
+    "name": "KRX",
+    "cyrillic_name": "КРИкс",
+    "year_from": 2024,
+    "year_to": 2025,
+    "brand_id": "SOLARIS",
+    "nameplates": []
+  }
+]

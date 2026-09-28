@@ -1,0 +1,239 @@
+[
+  {
+    "id": "COOLBEAR",
+    "name": "Coolbear",
+    "cyrillic_name": "Кулбир",
+    "year_from": 2009,
+    "year_to": 2013,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "COWRY",
+    "name": "Cowry (V80)",
+    "cyrillic_name": "Каури",
+    "year_from": 2007,
+    "year_to": 2014,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "DEER",
+    "name": "Deer",
+    "cyrillic_name": "Дир",
+    "year_from": 1996,
+    "year_to": 2013,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "FLORID",
+    "name": "Florid",
+    "cyrillic_name": "Флорид",
+    "year_from": 2008,
+    "year_to": 2013,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "HOVERH3",
+    "name": "Hover H3",
+    "cyrillic_name": "Ховер H3",
+    "year_from": 2010,
+    "year_to": 2016,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "HOVERH5",
+    "name": "Hover H5",
+    "cyrillic_name": "Ховер H5",
+    "year_from": 2010,
+    "year_to": 2017,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "HOVERH6",
+    "name": "Hover H6",
+    "cyrillic_name": "Ховер H6",
+    "year_from": 2011,
+    "year_to": 2017,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "HOVER_2005",
+    "name": "Hover",
+    "cyrillic_name": "Ховер",
+    "year_from": 2005,
+    "year_to": 2010,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "HOVER_M1",
+    "name": "Hover M1 (Peri 4x4)",
+    "cyrillic_name": "Ховер М1",
+    "year_from": 2008,
+    "year_to": 2010,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "HOVER_M2",
+    "name": "Hover M2",
+    "cyrillic_name": "Ховер М2",
+    "year_from": 2010,
+    "year_to": 2015,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "HOVER_M4",
+    "name": "Hover M4",
+    "cyrillic_name": "Ховер М4",
+    "year_from": 2012,
+    "year_to": 2017,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "HOVER_PI",
+    "name": "Hover Pi",
+    "cyrillic_name": "Ховер Пи",
+    "year_from": 2006,
+    "year_to": 2010,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "PEGASUS",
+    "name": "Pegasus",
+    "cyrillic_name": "Пегасус",
+    "year_from": 2005,
+    "year_to": 2008,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "PERI",
+    "name": "Peri",
+    "cyrillic_name": "Пери",
+    "year_from": 2008,
+    "year_to": 2010,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "POER",
+    "name": "Poer",
+    "cyrillic_name": "Поер",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "POER_KING_KONG",
+    "name": "Poer King Kong",
+    "cyrillic_name": "Кинг Конг",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "SAFE",
+    "name": "Safe",
+    "cyrillic_name": "Сэйф",
+    "year_from": 2001,
+    "year_to": 2010,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "SAILOR",
+    "name": "Sailor",
+    "cyrillic_name": "Сейлор",
+    "year_from": 2003,
+    "year_to": 2010,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "SHANHAI_POER",
+    "name": "Shanhai Poer",
+    "cyrillic_name": "Шанхай Поер",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "SING",
+    "name": "Sing RUV",
+    "cyrillic_name": "Синг",
+    "year_from": 2005,
+    "year_to": 2010,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "SOCOOL",
+    "name": "Socool",
+    "cyrillic_name": "Сокул",
+    "year_from": 2005,
+    "year_to": 2008,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "VOLEEXC10",
+    "name": "Voleex C10 (Phenom)",
+    "cyrillic_name": "Воликс C10",
+    "year_from": 2010,
+    "year_to": 2013,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "VOLEEXC30",
+    "name": "Voleex C30",
+    "cyrillic_name": "Воликс C30",
+    "year_from": 2010,
+    "year_to": 2020,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "VOLEEXC50",
+    "name": "Voleex C50",
+    "cyrillic_name": "Воликс С50",
+    "year_from": 2012,
+    "year_to": 2016,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  },
+  {
+    "id": "WINGLE_7",
+    "name": "Wingle 7",
+    "cyrillic_name": "Вингл 7",
+    "year_from": 2018,
+    "year_to": 2023,
+    "brand_id": "GREAT_WALL",
+    "nameplates": [
+      "Wingle 7",
+      "Arctic Trucks"
+    ]
+  },
+  {
+    "id": "WINGLE_UP",
+    "name": "Wingle",
+    "cyrillic_name": "Вингл",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "GREAT_WALL",
+    "nameplates": []
+  }
+]

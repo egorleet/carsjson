@@ -1,0 +1,20 @@
+[
+  {
+    "id": "L380",
+    "name": "L380",
+    "cyrillic_name": "Л380",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "LEVC",
+    "nameplates": []
+  },
+  {
+    "id": "TX",
+    "name": "TX",
+    "cyrillic_name": "ТХ",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "LEVC",
+    "nameplates": []
+  }
+]

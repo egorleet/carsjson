@@ -1,0 +1,33 @@
+[
+  {
+    "id": "D12",
+    "name": "D12",
+    "cyrillic_name": "Д12",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "DELAGE",
+    "nameplates": []
+  },
+  {
+    "id": "D6",
+    "name": "D6",
+    "cyrillic_name": "Д6",
+    "year_from": 1930,
+    "year_to": 1940,
+    "brand_id": "DELAGE",
+    "nameplates": []
+  },
+  {
+    "id": "DI",
+    "name": "DI",
+    "cyrillic_name": "ДИ",
+    "year_from": 1923,
+    "year_to": 1927,
+    "brand_id": "DELAGE",
+    "nameplates": [
+      "DI",
+      "Sports Special",
+      "Torpedo"
+    ]
+  }
+]

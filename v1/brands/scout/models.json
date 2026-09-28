@@ -1,0 +1,20 @@
+[
+  {
+    "id": "TERRA",
+    "name": "Terra",
+    "cyrillic_name": "Тэрра",
+    "year_from": 2027,
+    "year_to": 2027,
+    "brand_id": "SCOUT",
+    "nameplates": []
+  },
+  {
+    "id": "TRAVELER",
+    "name": "Traveler",
+    "cyrillic_name": "Трэвелер",
+    "year_from": 2027,
+    "year_to": 2027,
+    "brand_id": "SCOUT",
+    "nameplates": []
+  }
+]

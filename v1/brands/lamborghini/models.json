@@ -1,0 +1,257 @@
+[
+  {
+    "id": "350_400_GT",
+    "name": "350/400 GT",
+    "cyrillic_name": "350/400 гт",
+    "year_from": 1964,
+    "year_to": 1968,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "AVENTADOR",
+    "name": "Aventador",
+    "cyrillic_name": "авентадор",
+    "year_from": 2011,
+    "year_to": 2022,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "CENTANARIO",
+    "name": "Centenario",
+    "cyrillic_name": "Сентeнарио",
+    "year_from": 2016,
+    "year_to": 2018,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "COUNTACH",
+    "name": "Countach",
+    "cyrillic_name": "каунтач",
+    "year_from": 1974,
+    "year_to": 1991,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "COUNTACH_LPI_800_4",
+    "name": "Countach LPI 800-4",
+    "cyrillic_name": "Каунтач ЛПИ 800-4",
+    "year_from": 2021,
+    "year_to": 2023,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "DIABLO",
+    "name": "Diablo",
+    "cyrillic_name": "Диабло",
+    "year_from": 1990,
+    "year_to": 2001,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "EGOISTA",
+    "name": "Egoista",
+    "cyrillic_name": "Эгоиста",
+    "year_from": 2013,
+    "year_to": 2013,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "ESPADA",
+    "name": "Espada",
+    "cyrillic_name": "эспада",
+    "year_from": 1968,
+    "year_to": 1981,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "FENOMENO",
+    "name": "Fenomeno",
+    "cyrillic_name": "Феномено",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "GALLARDO",
+    "name": "Gallardo",
+    "cyrillic_name": "галлардо",
+    "year_from": 2003,
+    "year_to": 2013,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "HURACAN",
+    "name": "Huracán",
+    "cyrillic_name": "Хуракан",
+    "year_from": 2014,
+    "year_to": 2024,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": [
+      "Huracán",
+      "Performante",
+      "Sterrato",
+      "STO",
+      "Tecnica"
+    ]
+  },
+  {
+    "id": "ISLERO",
+    "name": "Islero",
+    "cyrillic_name": "ислеро",
+    "year_from": 1968,
+    "year_to": 1969,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "JALPA",
+    "name": "Jalpa",
+    "cyrillic_name": "ялпа",
+    "year_from": 1981,
+    "year_to": 1988,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "JARAMA",
+    "name": "Jarama",
+    "cyrillic_name": "джарама",
+    "year_from": 1968,
+    "year_to": 1976,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "LM001",
+    "name": "LM001",
+    "cyrillic_name": "лм001",
+    "year_from": 1981,
+    "year_to": 1981,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "LM002",
+    "name": "LM002",
+    "cyrillic_name": "лм002",
+    "year_from": 1986,
+    "year_to": 1993,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "MIURA",
+    "name": "Miura",
+    "cyrillic_name": "миура",
+    "year_from": 1966,
+    "year_to": 1973,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "MURCIELAGO",
+    "name": "Murcielago",
+    "cyrillic_name": "мурселаго",
+    "year_from": 2001,
+    "year_to": 2010,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "REVENTON",
+    "name": "Reventon",
+    "cyrillic_name": "Ревентон",
+    "year_from": 2007,
+    "year_to": 2010,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "REVUELTO",
+    "name": "Revuelto",
+    "cyrillic_name": "Ревуэлто",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "SESTO_ELEMENTO",
+    "name": "Sesto Elemento",
+    "cyrillic_name": "Сесто Элементо",
+    "year_from": 2010,
+    "year_to": 2011,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "SIAN",
+    "name": "Sián",
+    "cyrillic_name": "Сиан",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "SILHOUETTE",
+    "name": "Silhouette",
+    "cyrillic_name": "силуэт",
+    "year_from": 1976,
+    "year_to": 1979,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "TEMERARIO",
+    "name": "Temerario",
+    "cyrillic_name": "Темерарио",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "URRACO",
+    "name": "Urraco",
+    "cyrillic_name": "уррако",
+    "year_from": 1972,
+    "year_to": 1981,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  },
+  {
+    "id": "URUS",
+    "name": "Urus",
+    "cyrillic_name": "урус",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": [
+      "Urus",
+      "Performante",
+      "S",
+      "SE",
+      "SE Performante"
+    ]
+  },
+  {
+    "id": "VENENO",
+    "name": "Veneno",
+    "cyrillic_name": "Венено",
+    "year_from": 2013,
+    "year_to": 2013,
+    "brand_id": "LAMBORGHINI",
+    "nameplates": []
+  }
+]

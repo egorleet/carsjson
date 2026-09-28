@@ -1,0 +1,38 @@
+[
+  {
+    "id": "007",
+    "name": "007",
+    "cyrillic_name": "007",
+    "year_from": 2020,
+    "year_to": 2022,
+    "brand_id": "HYCAN",
+    "nameplates": []
+  },
+  {
+    "id": "A06",
+    "name": "A06",
+    "cyrillic_name": "А06",
+    "year_from": 2022,
+    "year_to": 2025,
+    "brand_id": "HYCAN",
+    "nameplates": []
+  },
+  {
+    "id": "V09",
+    "name": "V09",
+    "cyrillic_name": "B09",
+    "year_from": 2023,
+    "year_to": 2025,
+    "brand_id": "HYCAN",
+    "nameplates": []
+  },
+  {
+    "id": "Z03",
+    "name": "Z03",
+    "cyrillic_name": "З03",
+    "year_from": 2021,
+    "year_to": 2025,
+    "brand_id": "HYCAN",
+    "nameplates": []
+  }
+]

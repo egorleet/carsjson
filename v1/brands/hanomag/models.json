@@ -1,0 +1,20 @@
+[
+  {
+    "id": "REKORD",
+    "name": "Rekord",
+    "cyrillic_name": "Рекорд",
+    "year_from": 1934,
+    "year_to": 1940,
+    "brand_id": "HANOMAG",
+    "nameplates": []
+  },
+  {
+    "id": "TYP_13",
+    "name": "Typ 13",
+    "cyrillic_name": "Тип 13",
+    "year_from": 1939,
+    "year_to": 1941,
+    "brand_id": "HANOMAG",
+    "nameplates": []
+  }
+]

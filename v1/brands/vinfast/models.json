@@ -1,0 +1,56 @@
+[
+  {
+    "id": "LUX_A",
+    "name": "LUX A2.0",
+    "cyrillic_name": "Люкс А2.0",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "VINFAST",
+    "nameplates": []
+  },
+  {
+    "id": "LUX_SA",
+    "name": "LUX SA2.0",
+    "cyrillic_name": "Люкс СА2.0",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "VINFAST",
+    "nameplates": []
+  },
+  {
+    "id": "VF6",
+    "name": "VF6",
+    "cyrillic_name": "ВФ6",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "VINFAST",
+    "nameplates": []
+  },
+  {
+    "id": "VF7",
+    "name": "VF7",
+    "cyrillic_name": "ВФ7",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "VINFAST",
+    "nameplates": []
+  },
+  {
+    "id": "VF8",
+    "name": "VF8",
+    "cyrillic_name": "ВФ8",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "VINFAST",
+    "nameplates": []
+  },
+  {
+    "id": "VF9",
+    "name": "VF9",
+    "cyrillic_name": "ВФ9",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "VINFAST",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "S800",
+    "name": "S800",
+    "cyrillic_name": "С800",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "MAEXTRO",
+    "nameplates": []
+  },
+  {
+    "id": "V",
+    "name": "V",
+    "cyrillic_name": "Ви",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "MAEXTRO",
+    "nameplates": [
+      "680",
+      "800"
+    ]
+  }
+]

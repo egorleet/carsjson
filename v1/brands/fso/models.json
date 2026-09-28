@@ -1,0 +1,65 @@
+[
+  {
+    "id": "125_P",
+    "name": "125p",
+    "cyrillic_name": "125р",
+    "year_from": 1967,
+    "year_to": 1992,
+    "brand_id": "FSO",
+    "nameplates": []
+  },
+  {
+    "id": "126P",
+    "name": "126p",
+    "cyrillic_name": "126р",
+    "year_from": 1973,
+    "year_to": 1991,
+    "brand_id": "FSO",
+    "nameplates": []
+  },
+  {
+    "id": "127P",
+    "name": "127p",
+    "cyrillic_name": "127р",
+    "year_from": 1971,
+    "year_to": 1976,
+    "brand_id": "FSO",
+    "nameplates": []
+  },
+  {
+    "id": "132P",
+    "name": "132p",
+    "cyrillic_name": "132р",
+    "year_from": 1974,
+    "year_to": 1978,
+    "brand_id": "FSO",
+    "nameplates": []
+  },
+  {
+    "id": "LANOS",
+    "name": "Lanos",
+    "cyrillic_name": "Ланос",
+    "year_from": 2004,
+    "year_to": 2008,
+    "brand_id": "FSO",
+    "nameplates": []
+  },
+  {
+    "id": "POLONEZ",
+    "name": "Polonez",
+    "cyrillic_name": "Полонез",
+    "year_from": 1977,
+    "year_to": 2002,
+    "brand_id": "FSO",
+    "nameplates": []
+  },
+  {
+    "id": "WARSZAWA",
+    "name": "Warszawa",
+    "cyrillic_name": "Варшава",
+    "year_from": 1964,
+    "year_to": 1973,
+    "brand_id": "FSO",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,734 @@
+[
+  {
+    "id": "AVELLA",
+    "name": "Avella",
+    "cyrillic_name": "Авелла",
+    "year_from": 1994,
+    "year_to": 2000,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "BORREGO",
+    "name": "Borrego",
+    "cyrillic_name": "Боррего",
+    "year_from": 2008,
+    "year_to": 2011,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "CACHET",
+    "name": "Cachet",
+    "cyrillic_name": "Качет",
+    "year_from": 2014,
+    "year_to": 2020,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "CADENZA",
+    "name": "Cadenza",
+    "cyrillic_name": "Каденза",
+    "year_from": 2009,
+    "year_to": 2021,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "CAPITAL",
+    "name": "Capital",
+    "cyrillic_name": "Капитал",
+    "year_from": 1989,
+    "year_to": 1996,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "CARENS",
+    "name": "Carens",
+    "cyrillic_name": "Каренс",
+    "year_from": 1999,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "CARNIVAL",
+    "name": "Carnival",
+    "cyrillic_name": "Карнивал",
+    "year_from": 1998,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": [
+      "Carnival",
+      "Grand Carnival"
+    ]
+  },
+  {
+    "id": "CARSTAR",
+    "name": "Carstar",
+    "cyrillic_name": "Карстар",
+    "year_from": 1999,
+    "year_to": 2003,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "CEED",
+    "name": "Ceed",
+    "cyrillic_name": "Сид",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "CEED_GT",
+    "name": "Ceed GT",
+    "cyrillic_name": "Сид GT",
+    "year_from": 2012,
+    "year_to": 2021,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "CERATO",
+    "name": "Cerato",
+    "cyrillic_name": "Церато",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": [
+      "Cerato",
+      "Classic",
+      "Koup"
+    ]
+  },
+  {
+    "id": "CLARUS",
+    "name": "Clarus",
+    "cyrillic_name": "Кларус",
+    "year_from": 1996,
+    "year_to": 2001,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "CONCORD",
+    "name": "Concord",
+    "cyrillic_name": "Конкорд",
+    "year_from": 1987,
+    "year_to": 1995,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "ELAN",
+    "name": "Elan",
+    "cyrillic_name": "Элан",
+    "year_from": 1996,
+    "year_to": 1999,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "ENTERPRISE",
+    "name": "Enterprise",
+    "cyrillic_name": "Энтерпрайз",
+    "year_from": 1997,
+    "year_to": 2002,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "EV2",
+    "name": "EV2",
+    "cyrillic_name": "ев2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "EV3",
+    "name": "EV3",
+    "cyrillic_name": "ев3",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "EV4",
+    "name": "EV4",
+    "cyrillic_name": "ев4",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "EV5",
+    "name": "EV5",
+    "cyrillic_name": "ев5",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "EV6",
+    "name": "EV6",
+    "cyrillic_name": "ЕВ6",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": [
+      "EV6",
+      "GT"
+    ]
+  },
+  {
+    "id": "EV9",
+    "name": "EV9",
+    "cyrillic_name": "ЕВ9",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "FORTE",
+    "name": "Forte",
+    "cyrillic_name": "Форте",
+    "year_from": 2008,
+    "year_to": 2024,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "JOICE",
+    "name": "Joice",
+    "cyrillic_name": "Джойс",
+    "year_from": 1999,
+    "year_to": 2004,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "K2",
+    "name": "K2",
+    "cyrillic_name": "к2",
+    "year_from": 2016,
+    "year_to": 2020,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "K3",
+    "name": "K3",
+    "cyrillic_name": "к3",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": [
+      "K3",
+      "EV"
+    ]
+  },
+  {
+    "id": "K4",
+    "name": "K4",
+    "cyrillic_name": "К4",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "K5",
+    "name": "K5",
+    "cyrillic_name": "к5",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "K7",
+    "name": "K7",
+    "cyrillic_name": "K7",
+    "year_from": 2009,
+    "year_to": 2021,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "K8",
+    "name": "K8",
+    "cyrillic_name": "К8",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "K9",
+    "name": "K9",
+    "cyrillic_name": "К9",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "K900",
+    "name": "K900",
+    "cyrillic_name": "К900",
+    "year_from": 2014,
+    "year_to": 2022,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "KX1",
+    "name": "KX1",
+    "cyrillic_name": "КаИкс1",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "KX3",
+    "name": "KX3",
+    "cyrillic_name": "КаИкс3",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "KX5",
+    "name": "KX5",
+    "cyrillic_name": "КаИкс5",
+    "year_from": 2016,
+    "year_to": 2022,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "KX7",
+    "name": "KX7",
+    "cyrillic_name": "КаИкс7",
+    "year_from": 2017,
+    "year_to": 2021,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "KX_CROSS",
+    "name": "KX Cross",
+    "cyrillic_name": "KХ Кросс",
+    "year_from": 2017,
+    "year_to": 2020,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "LOTZE",
+    "name": "Lotze",
+    "cyrillic_name": "Лотз",
+    "year_from": 2005,
+    "year_to": 2010,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "MAGENTIS",
+    "name": "Magentis",
+    "cyrillic_name": "Маджентис",
+    "year_from": 2000,
+    "year_to": 2010,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "MENTOR",
+    "name": "Mentor",
+    "cyrillic_name": "ментор",
+    "year_from": 1996,
+    "year_to": 2002,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "MOHAVE",
+    "name": "Mohave",
+    "cyrillic_name": "Мохав",
+    "year_from": 2008,
+    "year_to": 2025,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "MORNING",
+    "name": "Morning",
+    "cyrillic_name": "морнинг",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "NIRO",
+    "name": "Niro",
+    "cyrillic_name": "Ниро",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "OPIRUS",
+    "name": "Opirus",
+    "cyrillic_name": "Опирус",
+    "year_from": 2003,
+    "year_to": 2011,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "OPTIMA",
+    "name": "Optima",
+    "cyrillic_name": "Оптима",
+    "year_from": 2000,
+    "year_to": 2020,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "PEGAS",
+    "name": "Pegas",
+    "cyrillic_name": "Пегас",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "PICANTO",
+    "name": "Picanto",
+    "cyrillic_name": "Пиканто",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": [
+      "Picanto",
+      "GT Line",
+      "X-Line"
+    ]
+  },
+  {
+    "id": "POTENTIA",
+    "name": "Potentia",
+    "cyrillic_name": "Потентиа",
+    "year_from": 1992,
+    "year_to": 2001,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "PREGIO",
+    "name": "Pregio",
+    "cyrillic_name": "Преджио",
+    "year_from": 1995,
+    "year_to": 2007,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "PRIDE",
+    "name": "Pride",
+    "cyrillic_name": "Прайд",
+    "year_from": 1987,
+    "year_to": 2017,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "PROCEED",
+    "name": "Proceed",
+    "cyrillic_name": "Просид",
+    "year_from": 2018,
+    "year_to": 2025,
+    "brand_id": "KIA",
+    "nameplates": [
+      "Proceed",
+      "GT"
+    ]
+  },
+  {
+    "id": "PV5",
+    "name": "PV5",
+    "cyrillic_name": "Пи Ви пять",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "QUANLIMA",
+    "name": "Quanlima",
+    "cyrillic_name": "кванлима",
+    "year_from": 2002,
+    "year_to": 2006,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "QUORIS",
+    "name": "Quoris",
+    "cyrillic_name": "Кворис",
+    "year_from": 2012,
+    "year_to": 2018,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "RAY",
+    "name": "Ray",
+    "cyrillic_name": "Рэй",
+    "year_from": 2011,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "RETONA",
+    "name": "Retona",
+    "cyrillic_name": "Ретона",
+    "year_from": 1998,
+    "year_to": 2003,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "RIO",
+    "name": "Rio",
+    "cyrillic_name": "Рио",
+    "year_from": 1999,
+    "year_to": 2023,
+    "brand_id": "KIA",
+    "nameplates": [
+      "Rio",
+      "X",
+      "X-Line"
+    ]
+  },
+  {
+    "id": "SEDONA",
+    "name": "Sedona",
+    "cyrillic_name": "Седона",
+    "year_from": 1998,
+    "year_to": 2021,
+    "brand_id": "KIA",
+    "nameplates": [
+      "Sedona",
+      "Long"
+    ]
+  },
+  {
+    "id": "SELTOS",
+    "name": "Seltos",
+    "cyrillic_name": "Селтос",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "SEPHIA",
+    "name": "Sephia",
+    "cyrillic_name": "Сефия",
+    "year_from": 1992,
+    "year_to": 2004,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "SHUMA",
+    "name": "Shuma",
+    "cyrillic_name": "Шума",
+    "year_from": 1996,
+    "year_to": 2004,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "SOLUTO",
+    "name": "Soluto",
+    "cyrillic_name": "Солуто",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "SONET",
+    "name": "Sonet",
+    "cyrillic_name": "Сонет",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "SORENTO",
+    "name": "Sorento",
+    "cyrillic_name": "Соренто",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": [
+      "Sorento",
+      "Prime"
+    ]
+  },
+  {
+    "id": "SOUL",
+    "name": "Soul",
+    "cyrillic_name": "Соул",
+    "year_from": 2008,
+    "year_to": 2025,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "SOUL_EV",
+    "name": "Soul EV",
+    "cyrillic_name": "Соул ИВ",
+    "year_from": 2014,
+    "year_to": 2023,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "SPECTRA",
+    "name": "Spectra",
+    "cyrillic_name": "Спектра",
+    "year_from": 2000,
+    "year_to": 2011,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "SPORTAGE",
+    "name": "Sportage",
+    "cyrillic_name": "Спортейдж",
+    "year_from": 1993,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "SPORTAGE_CHINA",
+    "name": "Sportage (China)",
+    "cyrillic_name": "Спортейдж Китай",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "STINGER",
+    "name": "Stinger",
+    "cyrillic_name": "Стингер",
+    "year_from": 2017,
+    "year_to": 2023,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "STONIC",
+    "name": "Stonic",
+    "cyrillic_name": "Стоник",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "SYROS",
+    "name": "Syros",
+    "cyrillic_name": "Сирос",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "TASMAN",
+    "name": "Tasman",
+    "cyrillic_name": "Тасман",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "TELLURIDE",
+    "name": "Telluride",
+    "cyrillic_name": "Телюрайд",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "TOWNER",
+    "name": "Towner",
+    "cyrillic_name": "тоунер",
+    "year_from": 1999,
+    "year_to": 2002,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "VENGA",
+    "name": "Venga",
+    "cyrillic_name": "Венга",
+    "year_from": 2009,
+    "year_to": 2018,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "VISTO",
+    "name": "Visto",
+    "cyrillic_name": "Висто",
+    "year_from": 1999,
+    "year_to": 2004,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "XCEED",
+    "name": "XCeed",
+    "cyrillic_name": "Икс Сид",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "KIA",
+    "nameplates": []
+  },
+  {
+    "id": "X_TREK",
+    "name": "X-Trek",
+    "cyrillic_name": "X-трек",
+    "year_from": 2003,
+    "year_to": 2006,
+    "brand_id": "KIA",
+    "nameplates": []
+  }
+]

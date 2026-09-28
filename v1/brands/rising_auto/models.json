@@ -1,0 +1,29 @@
+[
+  {
+    "id": "F7",
+    "name": "F7",
+    "cyrillic_name": "Ф7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "RISING_AUTO",
+    "nameplates": []
+  },
+  {
+    "id": "MARVEL_R",
+    "name": "Marvel R",
+    "cyrillic_name": "Марвел Р",
+    "year_from": 2020,
+    "year_to": 2022,
+    "brand_id": "RISING_AUTO",
+    "nameplates": []
+  },
+  {
+    "id": "R7",
+    "name": "R7",
+    "cyrillic_name": "Р7",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "RISING_AUTO",
+    "nameplates": []
+  }
+]

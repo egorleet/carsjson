@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ARISUN",
+    "name": "Arisun",
+    "cyrillic_name": "арисун",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "IRAN_KHODRO",
+    "nameplates": []
+  },
+  {
+    "id": "DENA",
+    "name": "Dena",
+    "cyrillic_name": "дена",
+    "year_from": 2011,
+    "year_to": 2026,
+    "brand_id": "IRAN_KHODRO",
+    "nameplates": []
+  },
+  {
+    "id": "PAYKAN",
+    "name": "Paykan",
+    "cyrillic_name": "Пайкан",
+    "year_from": 1985,
+    "year_to": 2005,
+    "brand_id": "IRAN_KHODRO",
+    "nameplates": []
+  },
+  {
+    "id": "RUNNA",
+    "name": "Runna",
+    "cyrillic_name": "рунна",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "IRAN_KHODRO",
+    "nameplates": []
+  },
+  {
+    "id": "SAHRA",
+    "name": "Sahra",
+    "cyrillic_name": "Сахра",
+    "year_from": 1989,
+    "year_to": 2001,
+    "brand_id": "IRAN_KHODRO",
+    "nameplates": []
+  },
+  {
+    "id": "SAMAND",
+    "name": "Samand",
+    "cyrillic_name": "саманд",
+    "year_from": 2001,
+    "year_to": 2022,
+    "brand_id": "IRAN_KHODRO",
+    "nameplates": []
+  },
+  {
+    "id": "SARIR",
+    "name": "Sarir",
+    "cyrillic_name": "сарир",
+    "year_from": 2006,
+    "year_to": 2017,
+    "brand_id": "IRAN_KHODRO",
+    "nameplates": []
+  },
+  {
+    "id": "SOREN",
+    "name": "Soren",
+    "cyrillic_name": "сорен",
+    "year_from": 2007,
+    "year_to": 2025,
+    "brand_id": "IRAN_KHODRO",
+    "nameplates": []
+  },
+  {
+    "id": "TARA",
+    "name": "Tara",
+    "cyrillic_name": "Тара",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "IRAN_KHODRO",
+    "nameplates": []
+  }
+]

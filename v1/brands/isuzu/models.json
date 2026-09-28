@@ -1,0 +1,296 @@
+[
+  {
+    "id": "117",
+    "name": "117",
+    "cyrillic_name": "117",
+    "year_from": 1968,
+    "year_to": 1981,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "AMIGO",
+    "name": "Amigo",
+    "cyrillic_name": "амиго",
+    "year_from": 1989,
+    "year_to": 2000,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "ASCENDER",
+    "name": "Ascender",
+    "cyrillic_name": "Асендер",
+    "year_from": 2003,
+    "year_to": 2008,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "ASKA",
+    "name": "Aska",
+    "cyrillic_name": "Аска",
+    "year_from": 1983,
+    "year_to": 2002,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "AXIOM",
+    "name": "Axiom",
+    "cyrillic_name": "аксиом",
+    "year_from": 2001,
+    "year_to": 2004,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "BELLETT",
+    "name": "Bellett",
+    "cyrillic_name": "Беллетт",
+    "year_from": 1963,
+    "year_to": 1973,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "BIGHORN",
+    "name": "Bighorn",
+    "cyrillic_name": "Бигхорн",
+    "year_from": 1981,
+    "year_to": 2002,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "D_MAX",
+    "name": "D-Max",
+    "cyrillic_name": "Д-Макс",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "ISUZU",
+    "nameplates": [
+      "D-Max",
+      "Arctic Trucks"
+    ]
+  },
+  {
+    "id": "FARGO",
+    "name": "Fargo",
+    "cyrillic_name": "Фарго",
+    "year_from": 1980,
+    "year_to": 2002,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "FARGO_FILLY",
+    "name": "Fargo Filly",
+    "cyrillic_name": "Фарго Филли",
+    "year_from": 1997,
+    "year_to": 2005,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "FLORIAN",
+    "name": "Florian",
+    "cyrillic_name": "Флориан",
+    "year_from": 1967,
+    "year_to": 1983,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "GEMINI",
+    "name": "Gemini",
+    "cyrillic_name": "Джемини",
+    "year_from": 1974,
+    "year_to": 2000,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "HOMBRE",
+    "name": "Hombre",
+    "cyrillic_name": "Хомбрэ",
+    "year_from": 1995,
+    "year_to": 2000,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "IMPULSE",
+    "name": "Impulse",
+    "cyrillic_name": "Импульс",
+    "year_from": 1983,
+    "year_to": 1993,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "KB",
+    "name": "KB",
+    "cyrillic_name": "КБ",
+    "year_from": 1980,
+    "year_to": 2003,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "LINGTUO",
+    "name": "Lingtuo",
+    "cyrillic_name": "Лингтуо",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "MIDI",
+    "name": "Midi",
+    "cyrillic_name": "Миди",
+    "year_from": 1986,
+    "year_to": 1996,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "MU",
+    "name": "MU",
+    "cyrillic_name": "му",
+    "year_from": 1989,
+    "year_to": 2004,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "MU_7",
+    "name": "MU-7",
+    "cyrillic_name": "му-7",
+    "year_from": 2004,
+    "year_to": 2013,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "MU_X",
+    "name": "MU-X",
+    "cyrillic_name": "му-х",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "ISUZU",
+    "nameplates": [
+      "MU-X",
+      "Arctic Trucks"
+    ]
+  },
+  {
+    "id": "OASIS",
+    "name": "Oasis",
+    "cyrillic_name": "Оазис",
+    "year_from": 1995,
+    "year_to": 1999,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "PA_NERO",
+    "name": "Pa Nero",
+    "cyrillic_name": "Па Неро",
+    "year_from": 1990,
+    "year_to": 1994,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "PIAZZA",
+    "name": "Piazza",
+    "cyrillic_name": "пиаза",
+    "year_from": 1980,
+    "year_to": 1993,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "RODEO",
+    "name": "Rodeo",
+    "cyrillic_name": "родео",
+    "year_from": 1989,
+    "year_to": 2004,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "RUIMAI",
+    "name": "Ruimai",
+    "cyrillic_name": "Руимай",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "STYLUS",
+    "name": "Stylus",
+    "cyrillic_name": "Стилус",
+    "year_from": 1990,
+    "year_to": 1993,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "T17",
+    "name": "T17",
+    "cyrillic_name": "Т17",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "T30_EXPLORER",
+    "name": "T30 Explorer",
+    "cyrillic_name": "Е30 Эксплорер",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "TF",
+    "name": "TF (Pickup)",
+    "cyrillic_name": "ТФ",
+    "year_from": 1988,
+    "year_to": 2002,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "TROOPER",
+    "name": "Trooper",
+    "cyrillic_name": "Трупер",
+    "year_from": 1981,
+    "year_to": 2002,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "VEHI_CROSS",
+    "name": "VehiCross",
+    "cyrillic_name": "Викросс",
+    "year_from": 1997,
+    "year_to": 2001,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  },
+  {
+    "id": "WIZARD",
+    "name": "Wizard",
+    "cyrillic_name": "Визард",
+    "year_from": 1990,
+    "year_to": 2004,
+    "brand_id": "ISUZU",
+    "nameplates": []
+  }
+]

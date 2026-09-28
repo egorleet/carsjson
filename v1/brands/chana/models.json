@@ -1,0 +1,29 @@
+[
+  {
+    "id": "BENNI",
+    "name": "Benni",
+    "cyrillic_name": "Бенни",
+    "year_from": 2006,
+    "year_to": 2011,
+    "brand_id": "CHANA",
+    "nameplates": []
+  },
+  {
+    "id": "SC_6390",
+    "name": "SC6390",
+    "cyrillic_name": "СЦ6390",
+    "year_from": 2006,
+    "year_to": 2011,
+    "brand_id": "CHANA",
+    "nameplates": []
+  },
+  {
+    "id": "TAURUSTAR",
+    "name": "Taurustar",
+    "cyrillic_name": "Таурустар",
+    "year_from": 2010,
+    "year_to": 2015,
+    "brand_id": "CHANA",
+    "nameplates": []
+  }
+]

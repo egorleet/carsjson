@@ -1,0 +1,83 @@
+[
+  {
+    "id": "AGERA",
+    "name": "Agera",
+    "cyrillic_name": "агера",
+    "year_from": 2011,
+    "year_to": 2018,
+    "brand_id": "KOENIGSEGG",
+    "nameplates": []
+  },
+  {
+    "id": "CC850",
+    "name": "CC850",
+    "cyrillic_name": "СС850",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "KOENIGSEGG",
+    "nameplates": []
+  },
+  {
+    "id": "CC8S",
+    "name": "CC8S",
+    "cyrillic_name": "цц8с",
+    "year_from": 2002,
+    "year_to": 2004,
+    "brand_id": "KOENIGSEGG",
+    "nameplates": []
+  },
+  {
+    "id": "CCR",
+    "name": "CCR",
+    "cyrillic_name": "сср",
+    "year_from": 2004,
+    "year_to": 2006,
+    "brand_id": "KOENIGSEGG",
+    "nameplates": []
+  },
+  {
+    "id": "CCX",
+    "name": "CCX",
+    "cyrillic_name": "ссх",
+    "year_from": 2006,
+    "year_to": 2010,
+    "brand_id": "KOENIGSEGG",
+    "nameplates": []
+  },
+  {
+    "id": "GEMERA",
+    "name": "Gemera",
+    "cyrillic_name": "Джемера",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "KOENIGSEGG",
+    "nameplates": []
+  },
+  {
+    "id": "JESKO",
+    "name": "Jesko",
+    "cyrillic_name": "Джеско",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "KOENIGSEGG",
+    "nameplates": []
+  },
+  {
+    "id": "ONE_1",
+    "name": "One:1",
+    "cyrillic_name": "уан:1",
+    "year_from": 2014,
+    "year_to": 2014,
+    "brand_id": "KOENIGSEGG",
+    "nameplates": []
+  },
+  {
+    "id": "REGERA",
+    "name": "Regera",
+    "cyrillic_name": "Регера",
+    "year_from": 2015,
+    "year_to": 2022,
+    "brand_id": "KOENIGSEGG",
+    "nameplates": []
+  }
+]

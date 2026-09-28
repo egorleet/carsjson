@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ATECA",
+    "name": "Ateca",
+    "cyrillic_name": "Атека",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "CUPRA",
+    "nameplates": []
+  },
+  {
+    "id": "BORN",
+    "name": "Born",
+    "cyrillic_name": "борн",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "CUPRA",
+    "nameplates": []
+  },
+  {
+    "id": "FORMENTOR",
+    "name": "Formentor",
+    "cyrillic_name": "Форментор",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "CUPRA",
+    "nameplates": []
+  },
+  {
+    "id": "LEON",
+    "name": "Leon",
+    "cyrillic_name": "леон",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "CUPRA",
+    "nameplates": []
+  },
+  {
+    "id": "RAVAL",
+    "name": "Raval",
+    "cyrillic_name": "Равал",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "CUPRA",
+    "nameplates": []
+  },
+  {
+    "id": "TAVASCAN",
+    "name": "Tavascan",
+    "cyrillic_name": "Таваскан",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CUPRA",
+    "nameplates": []
+  },
+  {
+    "id": "TERRAMAR",
+    "name": "Terramar",
+    "cyrillic_name": "Террамар",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CUPRA",
+    "nameplates": []
+  }
+]

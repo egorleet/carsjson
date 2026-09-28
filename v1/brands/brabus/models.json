@@ -1,0 +1,83 @@
+[
+  {
+    "id": "73_S",
+    "name": "7.3S",
+    "cyrillic_name": "7.3с",
+    "year_from": 1991,
+    "year_to": 1998,
+    "brand_id": "BRABUS",
+    "nameplates": []
+  },
+  {
+    "id": "BODO",
+    "name": "Bodo",
+    "cyrillic_name": "Бодо",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BRABUS",
+    "nameplates": []
+  },
+  {
+    "id": "CRAWLER",
+    "name": "Crawler",
+    "cyrillic_name": "Кроулер",
+    "year_from": 2022,
+    "year_to": 2022,
+    "brand_id": "BRABUS",
+    "nameplates": []
+  },
+  {
+    "id": "E_V12",
+    "name": "E V12",
+    "cyrillic_name": "Е В12",
+    "year_from": 1996,
+    "year_to": 2013,
+    "brand_id": "BRABUS",
+    "nameplates": []
+  },
+  {
+    "id": "G_V12",
+    "name": "G V12",
+    "cyrillic_name": "Г В12",
+    "year_from": 2004,
+    "year_to": 2006,
+    "brand_id": "BRABUS",
+    "nameplates": []
+  },
+  {
+    "id": "ML_63_BITURBO",
+    "name": "ML 63 Biturbo",
+    "cyrillic_name": "мл 63 битурбо",
+    "year_from": 2009,
+    "year_to": 2011,
+    "brand_id": "BRABUS",
+    "nameplates": []
+  },
+  {
+    "id": "M_V12",
+    "name": "M V12",
+    "cyrillic_name": "м в12",
+    "year_from": 1997,
+    "year_to": 2001,
+    "brand_id": "BRABUS",
+    "nameplates": []
+  },
+  {
+    "id": "ROCKET_GTS",
+    "name": "Rocket GTS",
+    "cyrillic_name": "Рокет ГТС",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BRABUS",
+    "nameplates": []
+  },
+  {
+    "id": "SV12",
+    "name": "SV12",
+    "cyrillic_name": "св12",
+    "year_from": 2009,
+    "year_to": 2013,
+    "brand_id": "BRABUS",
+    "nameplates": []
+  }
+]

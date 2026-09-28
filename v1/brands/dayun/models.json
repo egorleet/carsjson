@@ -1,0 +1,29 @@
+[
+  {
+    "id": "PICKUP",
+    "name": "Pickup",
+    "cyrillic_name": "Пикап",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "DAYUN",
+    "nameplates": []
+  },
+  {
+    "id": "YUANZHI_M1",
+    "name": "Yuanzhi M1",
+    "cyrillic_name": "Юаньчжи М1",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "DAYUN",
+    "nameplates": []
+  },
+  {
+    "id": "YUEHU",
+    "name": "Yuehu",
+    "cyrillic_name": "Юэху",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "DAYUN",
+    "nameplates": []
+  }
+]

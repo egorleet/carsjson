@@ -1,0 +1,514 @@
+[
+  {
+    "id": "1007",
+    "name": "1007",
+    "cyrillic_name": "1007",
+    "year_from": 2005,
+    "year_to": 2009,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "104",
+    "name": "104",
+    "cyrillic_name": "104",
+    "year_from": 1972,
+    "year_to": 1988,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "106",
+    "name": "106",
+    "cyrillic_name": "106",
+    "year_from": 1991,
+    "year_to": 2004,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "107",
+    "name": "107",
+    "cyrillic_name": "107",
+    "year_from": 2005,
+    "year_to": 2014,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "108",
+    "name": "108",
+    "cyrillic_name": "108",
+    "year_from": 2014,
+    "year_to": 2021,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "2008",
+    "name": "2008",
+    "cyrillic_name": "2008",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "201",
+    "name": "201",
+    "cyrillic_name": "201",
+    "year_from": 1929,
+    "year_to": 1937,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "202",
+    "name": "202",
+    "cyrillic_name": "202",
+    "year_from": 1938,
+    "year_to": 1948,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "203",
+    "name": "203",
+    "cyrillic_name": "203",
+    "year_from": 1948,
+    "year_to": 1960,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "204",
+    "name": "204",
+    "cyrillic_name": "204",
+    "year_from": 1965,
+    "year_to": 1977,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "205",
+    "name": "205",
+    "cyrillic_name": "205",
+    "year_from": 1983,
+    "year_to": 1998,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "205_GTI",
+    "name": "205 GTi",
+    "cyrillic_name": "205 GTi",
+    "year_from": 1984,
+    "year_to": 1998,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "206",
+    "name": "206",
+    "cyrillic_name": "206",
+    "year_from": 1998,
+    "year_to": 2012,
+    "brand_id": "PEUGEOT",
+    "nameplates": [
+      "206",
+      "206+",
+      "206cc",
+      "RC"
+    ]
+  },
+  {
+    "id": "207",
+    "name": "207",
+    "cyrillic_name": "207",
+    "year_from": 2006,
+    "year_to": 2015,
+    "brand_id": "PEUGEOT",
+    "nameplates": [
+      "207",
+      "207cc",
+      "GT",
+      "RC"
+    ]
+  },
+  {
+    "id": "207I",
+    "name": "207i (Iran Khodro)",
+    "cyrillic_name": "207и (Иран Кходро)",
+    "year_from": 2016,
+    "year_to": 2024,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "208",
+    "name": "208",
+    "cyrillic_name": "208",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "208_GTI",
+    "name": "208 GTi",
+    "cyrillic_name": "208 GTi",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "3008",
+    "name": "3008",
+    "cyrillic_name": "3008",
+    "year_from": 2009,
+    "year_to": 2026,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "301",
+    "name": "301",
+    "cyrillic_name": "301",
+    "year_from": 2012,
+    "year_to": 2022,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "304",
+    "name": "304",
+    "cyrillic_name": "304",
+    "year_from": 1969,
+    "year_to": 1980,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "305",
+    "name": "305",
+    "cyrillic_name": "305",
+    "year_from": 1977,
+    "year_to": 1990,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "306",
+    "name": "306",
+    "cyrillic_name": "306",
+    "year_from": 1993,
+    "year_to": 2002,
+    "brand_id": "PEUGEOT",
+    "nameplates": [
+      "306",
+      "GTi-6",
+      "S16"
+    ]
+  },
+  {
+    "id": "307",
+    "name": "307",
+    "cyrillic_name": "307",
+    "year_from": 2001,
+    "year_to": 2008,
+    "brand_id": "PEUGEOT",
+    "nameplates": [
+      "307",
+      "307cc"
+    ]
+  },
+  {
+    "id": "308",
+    "name": "308",
+    "cyrillic_name": "308",
+    "year_from": 2007,
+    "year_to": 2026,
+    "brand_id": "PEUGEOT",
+    "nameplates": [
+      "308",
+      "308cc",
+      "GT"
+    ]
+  },
+  {
+    "id": "308_GTI",
+    "name": "308 GTi",
+    "cyrillic_name": "308 GTi",
+    "year_from": 2015,
+    "year_to": 2021,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "309",
+    "name": "309",
+    "cyrillic_name": "309",
+    "year_from": 1985,
+    "year_to": 1993,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "4007",
+    "name": "4007",
+    "cyrillic_name": "4007",
+    "year_from": 2007,
+    "year_to": 2012,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "4008",
+    "name": "4008",
+    "cyrillic_name": "4008",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "402",
+    "name": "402",
+    "cyrillic_name": "402",
+    "year_from": 1935,
+    "year_to": 1942,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "403",
+    "name": "403",
+    "cyrillic_name": "403",
+    "year_from": 1955,
+    "year_to": 1966,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "404",
+    "name": "404",
+    "cyrillic_name": "404",
+    "year_from": 1960,
+    "year_to": 1975,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "405",
+    "name": "405",
+    "cyrillic_name": "405",
+    "year_from": 1987,
+    "year_to": 2014,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "406",
+    "name": "406",
+    "cyrillic_name": "406",
+    "year_from": 1995,
+    "year_to": 2005,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "407",
+    "name": "407",
+    "cyrillic_name": "407",
+    "year_from": 2004,
+    "year_to": 2011,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "408",
+    "name": "408",
+    "cyrillic_name": "408",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "PEUGEOT",
+    "nameplates": [
+      "408",
+      "E-408",
+      "X"
+    ]
+  },
+  {
+    "id": "5008",
+    "name": "5008",
+    "cyrillic_name": "5008",
+    "year_from": 2009,
+    "year_to": 2026,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "504",
+    "name": "504",
+    "cyrillic_name": "504",
+    "year_from": 1968,
+    "year_to": 1996,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "505",
+    "name": "505",
+    "cyrillic_name": "505",
+    "year_from": 1979,
+    "year_to": 1992,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "508",
+    "name": "508",
+    "cyrillic_name": "508",
+    "year_from": 2011,
+    "year_to": 2026,
+    "brand_id": "PEUGEOT",
+    "nameplates": [
+      "508",
+      "GT",
+      "PHEV"
+    ]
+  },
+  {
+    "id": "604",
+    "name": "604",
+    "cyrillic_name": "604",
+    "year_from": 1977,
+    "year_to": 1987,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "605",
+    "name": "605",
+    "cyrillic_name": "605",
+    "year_from": 1989,
+    "year_to": 1999,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "607",
+    "name": "607",
+    "cyrillic_name": "607",
+    "year_from": 2000,
+    "year_to": 2010,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "806",
+    "name": "806",
+    "cyrillic_name": "806",
+    "year_from": 1994,
+    "year_to": 2002,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "807",
+    "name": "807",
+    "cyrillic_name": "807",
+    "year_from": 2002,
+    "year_to": 2014,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "BIPPER",
+    "name": "Bipper",
+    "cyrillic_name": "Биппер",
+    "year_from": 2008,
+    "year_to": 2018,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "EXPERT",
+    "name": "Expert",
+    "cyrillic_name": "Эксперт",
+    "year_from": 1995,
+    "year_to": 2026,
+    "brand_id": "PEUGEOT",
+    "nameplates": [
+      "Expert",
+      "Long"
+    ]
+  },
+  {
+    "id": "ION",
+    "name": "iOn",
+    "cyrillic_name": "ион",
+    "year_from": 2010,
+    "year_to": 2020,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "LANDTREK",
+    "name": "Landtrek",
+    "cyrillic_name": "Ландтрек",
+    "year_from": 2020,
+    "year_to": 2024,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "PARTNER",
+    "name": "Partner",
+    "cyrillic_name": "Партнер",
+    "year_from": 1997,
+    "year_to": 2026,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "PICK_UP",
+    "name": "Pick Up",
+    "cyrillic_name": "Пик Ап",
+    "year_from": 2017,
+    "year_to": 2021,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "RCZ",
+    "name": "RCZ",
+    "cyrillic_name": "RCZ",
+    "year_from": 2010,
+    "year_to": 2015,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "RIFTER",
+    "name": "Rifter",
+    "cyrillic_name": "Рифтер",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "PEUGEOT",
+    "nameplates": []
+  },
+  {
+    "id": "TRAVELLER",
+    "name": "Traveller",
+    "cyrillic_name": "Травелер",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "PEUGEOT",
+    "nameplates": [
+      "Traveller",
+      "Long"
+    ]
+  }
+]

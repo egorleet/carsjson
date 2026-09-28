@@ -1,0 +1,20 @@
+[
+  {
+    "id": "SERIES_IV",
+    "name": "Series IV",
+    "cyrillic_name": "серия 4",
+    "year_from": 1980,
+    "year_to": 1985,
+    "brand_id": "EXCALIBUR",
+    "nameplates": []
+  },
+  {
+    "id": "SERIES_V",
+    "name": "Series V",
+    "cyrillic_name": "серия 5",
+    "year_from": 1985,
+    "year_to": 1997,
+    "brand_id": "EXCALIBUR",
+    "nameplates": []
+  }
+]

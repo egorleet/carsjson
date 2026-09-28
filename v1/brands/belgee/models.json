@@ -1,0 +1,47 @@
+[
+  {
+    "id": "S50",
+    "name": "S50",
+    "cyrillic_name": "С50",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BELGEE",
+    "nameplates": []
+  },
+  {
+    "id": "X50",
+    "name": "X50",
+    "cyrillic_name": "Икс 50",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "BELGEE",
+    "nameplates": []
+  },
+  {
+    "id": "X50PLUS",
+    "name": "X50+",
+    "cyrillic_name": "Икс 50 плюс",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BELGEE",
+    "nameplates": []
+  },
+  {
+    "id": "X70",
+    "name": "X70",
+    "cyrillic_name": "Икс 70",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BELGEE",
+    "nameplates": []
+  },
+  {
+    "id": "X80",
+    "name": "X80",
+    "cyrillic_name": "Икс 80",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "BELGEE",
+    "nameplates": []
+  }
+]

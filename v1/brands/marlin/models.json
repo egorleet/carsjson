@@ -1,0 +1,20 @@
+[
+  {
+    "id": "5EXI",
+    "name": "5EXi",
+    "cyrillic_name": "файвэкси",
+    "year_from": 2004,
+    "year_to": 2019,
+    "brand_id": "MARLIN",
+    "nameplates": []
+  },
+  {
+    "id": "SPORTSTER",
+    "name": "Sportster",
+    "cyrillic_name": "Спортстер",
+    "year_from": 2003,
+    "year_to": 2019,
+    "brand_id": "MARLIN",
+    "nameplates": []
+  }
+]

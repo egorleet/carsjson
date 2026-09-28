@@ -1,0 +1,56 @@
+[
+  {
+    "id": "BIGUA",
+    "name": "Bigua",
+    "cyrillic_name": "бигуа",
+    "year_from": 2000,
+    "year_to": 2002,
+    "brand_id": "DE_TOMASO",
+    "nameplates": []
+  },
+  {
+    "id": "GUARA",
+    "name": "Guara",
+    "cyrillic_name": "Гуара",
+    "year_from": 1993,
+    "year_to": 2001,
+    "brand_id": "DE_TOMASO",
+    "nameplates": []
+  },
+  {
+    "id": "LONGCHAMP",
+    "name": "Longchamp",
+    "cyrillic_name": "Лоншан",
+    "year_from": 1972,
+    "year_to": 1989,
+    "brand_id": "DE_TOMASO",
+    "nameplates": []
+  },
+  {
+    "id": "MANGUSTA",
+    "name": "Mangusta",
+    "cyrillic_name": "Мангуста",
+    "year_from": 1967,
+    "year_to": 2001,
+    "brand_id": "DE_TOMASO",
+    "nameplates": []
+  },
+  {
+    "id": "PANTERA",
+    "name": "Pantera",
+    "cyrillic_name": "Пантера",
+    "year_from": 1970,
+    "year_to": 1991,
+    "brand_id": "DE_TOMASO",
+    "nameplates": []
+  },
+  {
+    "id": "VALLELUNGA",
+    "name": "Vallelunga",
+    "cyrillic_name": "Валлелунга",
+    "year_from": 1964,
+    "year_to": 1968,
+    "brand_id": "DE_TOMASO",
+    "nameplates": []
+  }
+]

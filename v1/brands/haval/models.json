@@ -1,0 +1,257 @@
+[
+  {
+    "id": "CHITU",
+    "name": "Chitu",
+    "cyrillic_name": "Читу",
+    "year_from": 2021,
+    "year_to": 2025,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "DAGOU",
+    "name": "DaGou (Big Dog)",
+    "cyrillic_name": "Дагоу (Биг Дог)",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "DARGO",
+    "name": "Dargo",
+    "cyrillic_name": "Дарго",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "HAVAL",
+    "nameplates": [
+      "Dargo",
+      "X"
+    ]
+  },
+  {
+    "id": "F5",
+    "name": "F5",
+    "cyrillic_name": "Ф5",
+    "year_from": 2018,
+    "year_to": 2020,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "F7",
+    "name": "F7",
+    "cyrillic_name": "Ф7",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "F7X",
+    "name": "F7x",
+    "cyrillic_name": "Ф7х",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "H1",
+    "name": "H1",
+    "cyrillic_name": "Эйч1",
+    "year_from": 2014,
+    "year_to": 2018,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "H10",
+    "name": "H10",
+    "cyrillic_name": "Аш десять",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "H2",
+    "name": "H2",
+    "cyrillic_name": "Н2",
+    "year_from": 2014,
+    "year_to": 2021,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "H2S",
+    "name": "H2s",
+    "cyrillic_name": "Х2с",
+    "year_from": 2016,
+    "year_to": 2020,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "H3",
+    "name": "H3",
+    "cyrillic_name": "Х3",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "H4",
+    "name": "H4",
+    "cyrillic_name": "Эйч4",
+    "year_from": 2018,
+    "year_to": 2020,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "H5",
+    "name": "H5",
+    "cyrillic_name": "Эйч5",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "H6",
+    "name": "H6",
+    "cyrillic_name": "Н6",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "H6L",
+    "name": "H6L",
+    "cyrillic_name": "Х6Л",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "H6S",
+    "name": "H6S",
+    "cyrillic_name": "Х6С",
+    "year_from": 2021,
+    "year_to": 2024,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "H6_COUPE",
+    "name": "H6 Coupe",
+    "cyrillic_name": "Н6 Купе",
+    "year_from": 2015,
+    "year_to": 2021,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "H7",
+    "name": "H7",
+    "cyrillic_name": "Эйч7",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "HAVAL",
+    "nameplates": [
+      "H7",
+      "H7L"
+    ]
+  },
+  {
+    "id": "H8",
+    "name": "H8",
+    "cyrillic_name": "Н8",
+    "year_from": 2014,
+    "year_to": 2017,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "H9",
+    "name": "H9",
+    "cyrillic_name": "Н9",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "HAVAL",
+    "nameplates": [
+      "H9",
+      "Arctic Trucks"
+    ]
+  },
+  {
+    "id": "JOLION",
+    "name": "Jolion",
+    "cyrillic_name": "Джолион",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "KUGOU",
+    "name": "KuGou",
+    "cyrillic_name": "КуГоу",
+    "year_from": 2022,
+    "year_to": 2024,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "M6",
+    "name": "M6",
+    "cyrillic_name": "М6",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "MENGLONG",
+    "name": "Menglong (Raptor)",
+    "cyrillic_name": "Менглонг",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "HAVAL",
+    "nameplates": [
+      "Menglong (Raptor)",
+      "Plus"
+    ]
+  },
+  {
+    "id": "SHENSHOU",
+    "name": "Shenshou",
+    "cyrillic_name": "Шеншу",
+    "year_from": 2021,
+    "year_to": 2024,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "XIAOLONG",
+    "name": "Xiaolong",
+    "cyrillic_name": "Сяолонг",
+    "year_from": 2023,
+    "year_to": 2025,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  },
+  {
+    "id": "XIAOLONG_MAX",
+    "name": "Xiaolong Max",
+    "cyrillic_name": "Сяолонг Макс",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "HAVAL",
+    "nameplates": []
+  }
+]

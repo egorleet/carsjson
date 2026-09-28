@@ -1,0 +1,56 @@
+[
+  {
+    "id": "C5",
+    "name": "C5",
+    "cyrillic_name": "С5",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "OMODA",
+    "nameplates": []
+  },
+  {
+    "id": "C7",
+    "name": "C7",
+    "cyrillic_name": "С7",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "OMODA",
+    "nameplates": []
+  },
+  {
+    "id": "C9",
+    "name": "C9",
+    "cyrillic_name": "С9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "OMODA",
+    "nameplates": []
+  },
+  {
+    "id": "E5",
+    "name": "E5",
+    "cyrillic_name": "Е5",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "OMODA",
+    "nameplates": []
+  },
+  {
+    "id": "S5",
+    "name": "S5",
+    "cyrillic_name": "С5",
+    "year_from": 2023,
+    "year_to": 2025,
+    "brand_id": "OMODA",
+    "nameplates": []
+  },
+  {
+    "id": "S5_GT",
+    "name": "S5 GT",
+    "cyrillic_name": "С5 ГТ",
+    "year_from": 2023,
+    "year_to": 2025,
+    "brand_id": "OMODA",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "id": "212",
+    "name": "212",
+    "cyrillic_name": "212",
+    "year_from": 2020,
+    "year_to": 2023,
+    "brand_id": "BAW",
+    "nameplates": []
+  },
+  {
+    "id": "ACE_M7",
+    "name": "Ace M7",
+    "cyrillic_name": "Эйс Эм 7",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "BAW",
+    "nameplates": [
+      "Ace M7",
+      "EV"
+    ]
+  },
+  {
+    "id": "F7",
+    "name": "Calorie F7",
+    "cyrillic_name": "Калория Ф7",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "BAW",
+    "nameplates": [
+      "Calorie F7",
+      "LWB"
+    ]
+  },
+  {
+    "id": "JIABAO",
+    "name": "Jiabao",
+    "cyrillic_name": "Джиабао",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "BAW",
+    "nameplates": []
+  },
+  {
+    "id": "M8",
+    "name": "M8",
+    "cyrillic_name": "М8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "BAW",
+    "nameplates": []
+  },
+  {
+    "id": "MPV",
+    "name": "MPV",
+    "cyrillic_name": "МПВ",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "BAW",
+    "nameplates": []
+  },
+  {
+    "id": "YUANBAO",
+    "name": "Pony (Yuanbao)",
+    "cyrillic_name": "Пони (Янбао)",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "BAW",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "M5",
+    "name": "M5",
+    "cyrillic_name": "м5",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "AITO",
+    "nameplates": []
+  },
+  {
+    "id": "M6",
+    "name": "M6",
+    "cyrillic_name": "М6",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "AITO",
+    "nameplates": []
+  },
+  {
+    "id": "M7",
+    "name": "M7",
+    "cyrillic_name": "м7",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "AITO",
+    "nameplates": []
+  },
+  {
+    "id": "M8",
+    "name": "M8",
+    "cyrillic_name": "М8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "AITO",
+    "nameplates": []
+  },
+  {
+    "id": "M9",
+    "name": "M9",
+    "cyrillic_name": "м9",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "AITO",
+    "nameplates": []
+  }
+]

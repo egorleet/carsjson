@@ -1,0 +1,47 @@
+[
+  {
+    "id": "PREMIER",
+    "name": "Premier",
+    "cyrillic_name": "Премьер",
+    "year_from": 1987,
+    "year_to": 1992,
+    "brand_id": "EAGLE",
+    "nameplates": []
+  },
+  {
+    "id": "SUMMIT",
+    "name": "Summit",
+    "cyrillic_name": "Саммит",
+    "year_from": 1989,
+    "year_to": 1996,
+    "brand_id": "EAGLE",
+    "nameplates": []
+  },
+  {
+    "id": "TALON",
+    "name": "Talon",
+    "cyrillic_name": "Тэлон",
+    "year_from": 1989,
+    "year_to": 1999,
+    "brand_id": "EAGLE",
+    "nameplates": []
+  },
+  {
+    "id": "VISION",
+    "name": "Vision",
+    "cyrillic_name": "Вижн",
+    "year_from": 1992,
+    "year_to": 1997,
+    "brand_id": "EAGLE",
+    "nameplates": []
+  },
+  {
+    "id": "VISTA",
+    "name": "Vista",
+    "cyrillic_name": "Виста",
+    "year_from": 1988,
+    "year_to": 1992,
+    "brand_id": "EAGLE",
+    "nameplates": []
+  }
+]

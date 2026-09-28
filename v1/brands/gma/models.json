@@ -1,0 +1,20 @@
+[
+  {
+    "id": "T33",
+    "name": "T.33",
+    "cyrillic_name": "Т.33",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "GMA",
+    "nameplates": []
+  },
+  {
+    "id": "T50",
+    "name": "T.50",
+    "cyrillic_name": "Т.50",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "GMA",
+    "nameplates": []
+  }
+]

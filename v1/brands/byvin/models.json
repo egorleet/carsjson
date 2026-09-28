@@ -1,0 +1,20 @@
+[
+  {
+    "id": "BD_132J",
+    "name": "BD132J (CoCo)",
+    "cyrillic_name": "бд132ж (сосо)",
+    "year_from": 2011,
+    "year_to": 2016,
+    "brand_id": "BYVIN",
+    "nameplates": []
+  },
+  {
+    "id": "BD_326J",
+    "name": "BD326J (Moca)",
+    "cyrillic_name": "бд326ж (мока)",
+    "year_from": 2011,
+    "year_to": 2016,
+    "brand_id": "BYVIN",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ASTRA",
+    "name": "Astra",
+    "cyrillic_name": "астра",
+    "year_from": 2008,
+    "year_to": 2009,
+    "brand_id": "SATURN",
+    "nameplates": []
+  },
+  {
+    "id": "AURA",
+    "name": "Aura",
+    "cyrillic_name": "Аура",
+    "year_from": 2006,
+    "year_to": 2010,
+    "brand_id": "SATURN",
+    "nameplates": []
+  },
+  {
+    "id": "ION",
+    "name": "ION",
+    "cyrillic_name": "Ион",
+    "year_from": 2003,
+    "year_to": 2007,
+    "brand_id": "SATURN",
+    "nameplates": []
+  },
+  {
+    "id": "LS",
+    "name": "LS",
+    "cyrillic_name": "лс",
+    "year_from": 1998,
+    "year_to": 2004,
+    "brand_id": "SATURN",
+    "nameplates": []
+  },
+  {
+    "id": "LW",
+    "name": "LW",
+    "cyrillic_name": "лв",
+    "year_from": 1998,
+    "year_to": 2004,
+    "brand_id": "SATURN",
+    "nameplates": []
+  },
+  {
+    "id": "OUTLOOK",
+    "name": "Outlook",
+    "cyrillic_name": "Аутлук",
+    "year_from": 2006,
+    "year_to": 2010,
+    "brand_id": "SATURN",
+    "nameplates": []
+  },
+  {
+    "id": "RELAY",
+    "name": "Relay",
+    "cyrillic_name": "Релей",
+    "year_from": 2005,
+    "year_to": 2007,
+    "brand_id": "SATURN",
+    "nameplates": []
+  },
+  {
+    "id": "SC",
+    "name": "SC",
+    "cyrillic_name": "сц",
+    "year_from": 1990,
+    "year_to": 2002,
+    "brand_id": "SATURN",
+    "nameplates": []
+  },
+  {
+    "id": "SKY",
+    "name": "Sky",
+    "cyrillic_name": "Скай",
+    "year_from": 2006,
+    "year_to": 2009,
+    "brand_id": "SATURN",
+    "nameplates": []
+  },
+  {
+    "id": "SL",
+    "name": "SL",
+    "cyrillic_name": "сл",
+    "year_from": 1990,
+    "year_to": 2002,
+    "brand_id": "SATURN",
+    "nameplates": []
+  },
+  {
+    "id": "SW",
+    "name": "SW",
+    "cyrillic_name": "св",
+    "year_from": 1993,
+    "year_to": 2001,
+    "brand_id": "SATURN",
+    "nameplates": []
+  },
+  {
+    "id": "VUE",
+    "name": "VUE",
+    "cyrillic_name": "Вью",
+    "year_from": 2001,
+    "year_to": 2009,
+    "brand_id": "SATURN",
+    "nameplates": []
+  }
+]

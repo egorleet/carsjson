@@ -1,0 +1,811 @@
+[
+  {
+    "id": "ATLAS",
+    "name": "Atlas",
+    "cyrillic_name": "Атлас",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "ATLAS_PRO",
+    "name": "Atlas Pro",
+    "cyrillic_name": "Атлас Про",
+    "year_from": 2019,
+    "year_to": 2025,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "AZKARRA",
+    "name": "Azkarra",
+    "cyrillic_name": "Азкарра",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "BEAUTY_LEOPARD",
+    "name": "Beauty Leopard",
+    "cyrillic_name": "бьюти леопард",
+    "year_from": 2005,
+    "year_to": 2006,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "BINRUI",
+    "name": "Binrui",
+    "cyrillic_name": "Бинруй",
+    "year_from": 2018,
+    "year_to": 2022,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "BINRUI_COOL",
+    "name": "Binrui Cool",
+    "cyrillic_name": "Бинруй Кул",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "BINYUE",
+    "name": "Binyue",
+    "cyrillic_name": "Бинью",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "BINYUE_COOL",
+    "name": "Binyue Cool",
+    "cyrillic_name": "Биную Кул",
+    "year_from": 2022,
+    "year_to": 2024,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "BINYUE_L",
+    "name": "Binyue L",
+    "cyrillic_name": "Бинью Эл",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "BOYUE",
+    "name": "Boyue",
+    "cyrillic_name": "Боую",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": [
+      "Boyue",
+      "X"
+    ]
+  },
+  {
+    "id": "BOYUE_COOL",
+    "name": "Boyue Cool",
+    "cyrillic_name": "Бойе Кул",
+    "year_from": 2023,
+    "year_to": 2025,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "BOYUE_L",
+    "name": "Boyue L",
+    "cyrillic_name": "Боую Л",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "BOYUE_PRO",
+    "name": "Boyue Pro",
+    "cyrillic_name": "Бойе Про",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "BOYUE_REV",
+    "name": "Boyue REV",
+    "cyrillic_name": "Бойе Рев",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "CITYRAY",
+    "name": "Cityray",
+    "cyrillic_name": "Ситирэй",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "CK",
+    "name": "CK (Otaka)",
+    "cyrillic_name": "ЦК Отака",
+    "year_from": 2005,
+    "year_to": 2016,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "COOLRAY",
+    "name": "Coolray",
+    "cyrillic_name": "Кулрей",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "COWBOY",
+    "name": "Cowboy",
+    "cyrillic_name": "Ковбой",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "EMGRAND",
+    "name": "Emgrand",
+    "cyrillic_name": "Эмгранд",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "EMGRAND_7",
+    "name": "Emgrand 7",
+    "cyrillic_name": "Эмгранд 7",
+    "year_from": 2016,
+    "year_to": 2020,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "EMGRAND_8",
+    "name": "Emgrand EC8",
+    "cyrillic_name": "Эмгранд EC8",
+    "year_from": 2012,
+    "year_to": 2015,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "EMGRAND_EC7",
+    "name": "Emgrand EC7",
+    "cyrillic_name": "Эмгранд EC7",
+    "year_from": 2009,
+    "year_to": 2016,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "EMGRAND_GL",
+    "name": "Emgrand GL",
+    "cyrillic_name": "Эмгранд ГЛ",
+    "year_from": 2016,
+    "year_to": 2021,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "EMGRAND_GT",
+    "name": "Emgrand GT",
+    "cyrillic_name": "Эмгранд ГТ",
+    "year_from": 2015,
+    "year_to": 2020,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "EMGRAND_L",
+    "name": "Emgrand L",
+    "cyrillic_name": "Эмгранд Л",
+    "year_from": 2021,
+    "year_to": 2025,
+    "brand_id": "GEELY",
+    "nameplates": [
+      "Emgrand L",
+      "Hi-P",
+      "Hi-X"
+    ]
+  },
+  {
+    "id": "EMGRAND_S",
+    "name": "Emgrand S",
+    "cyrillic_name": "Эмгранд C",
+    "year_from": 2021,
+    "year_to": 2024,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "EMGRAND_X7",
+    "name": "Emgrand X7",
+    "cyrillic_name": "Эмгранд X7",
+    "year_from": 2011,
+    "year_to": 2021,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "EX2",
+    "name": "EX2",
+    "cyrillic_name": "ЕИкс2",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "EX5",
+    "name": "EX5",
+    "cyrillic_name": "ЕИкс5",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "EX5_HYBRID",
+    "name": "EX5 Гибрид",
+    "cyrillic_name": "ЕИкс5 Гибрид",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": [
+      "EX5 EM-i",
+      "EX5 EM-R"
+    ]
+  },
+  {
+    "id": "FARIZON_V6E",
+    "name": "Farizon V6E",
+    "cyrillic_name": "Фаризон В6Е",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXY_A7",
+    "name": "Galaxy A7",
+    "cyrillic_name": "Гелекси А7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXY_CRUISER_700",
+    "name": "Galaxy Cruiser 700",
+    "cyrillic_name": "Гэлэкси Крузер 700",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXY_E5",
+    "name": "Galaxy E5",
+    "cyrillic_name": "Гелекси Е5",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXY_E8",
+    "name": "Galaxy E8",
+    "cyrillic_name": "Гелекси Е8",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXY_L6",
+    "name": "Galaxy L6",
+    "cyrillic_name": "Гелекси Л6",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXY_L7",
+    "name": "Galaxy L7",
+    "cyrillic_name": "Гелекси Л7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXY_LEVC_L380",
+    "name": "Galaxy LEVC L380",
+    "cyrillic_name": "Гелекси ЛЕВК Л380",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXY_M7",
+    "name": "Galaxy M7",
+    "cyrillic_name": "Гелекси М7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXY_M9",
+    "name": "Galaxy M9",
+    "cyrillic_name": "Гелекси М9",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXY_STARSHINE_6",
+    "name": "Galaxy Starshine 6",
+    "cyrillic_name": "Гэлакси Старшайн 6",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXY_STARSHINE_7",
+    "name": "Galaxy Starshine 7",
+    "cyrillic_name": "Гэлакси Старшайн 7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXY_STARSHINE_8",
+    "name": "Galaxy Starshine 8",
+    "cyrillic_name": "Гэлакси Старшайн 8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXY_STARSHIP_7",
+    "name": "Galaxy Starship 7",
+    "cyrillic_name": "Гэлэкси Старшип 7",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXY_TT",
+    "name": "Galaxy TT",
+    "cyrillic_name": "Гэлэкси ТТ",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GALAXY_V900",
+    "name": "Galaxy V900",
+    "cyrillic_name": "Гелекси В900",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GC5",
+    "name": "GC5",
+    "cyrillic_name": "ДжиСи5",
+    "year_from": 2011,
+    "year_to": 2015,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GC6",
+    "name": "GC6",
+    "cyrillic_name": "гс6",
+    "year_from": 2014,
+    "year_to": 2016,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GC7",
+    "name": "GC7",
+    "cyrillic_name": "Джи-Си семь",
+    "year_from": 2010,
+    "year_to": 2013,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GC9",
+    "name": "GC9",
+    "cyrillic_name": "гс9",
+    "year_from": 2015,
+    "year_to": 2024,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GEOMETRY_A",
+    "name": "Geometry A",
+    "cyrillic_name": "Геометрия А",
+    "year_from": 2019,
+    "year_to": 2024,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GEOMETRY_C",
+    "name": "Geometry C",
+    "cyrillic_name": "Геометрия Ц",
+    "year_from": 2020,
+    "year_to": 2024,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GEOMETRY_E",
+    "name": "Geometry E",
+    "cyrillic_name": "Геометрия Е",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GEOMETRY_G6",
+    "name": "Geometry G6",
+    "cyrillic_name": "Геометрия Г6",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GEOMETRY_M6",
+    "name": "Geometry M6",
+    "cyrillic_name": "Геометрия М6",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GEOME_XINGYUAN",
+    "name": "Geome Xingyuan",
+    "cyrillic_name": "Джиом Синьюань",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GS",
+    "name": "GS",
+    "cyrillic_name": "ГС",
+    "year_from": 2016,
+    "year_to": 2021,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "GX3_PRO",
+    "name": "GX3 Pro",
+    "cyrillic_name": "ДиИкс3 Про",
+    "year_from": 2021,
+    "year_to": 2023,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "HAOQING",
+    "name": "Haoqing",
+    "cyrillic_name": "хаокинг",
+    "year_from": 1998,
+    "year_to": 2006,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "HAOYUE",
+    "name": "Haoyue",
+    "cyrillic_name": "Хаоюэ",
+    "year_from": 2020,
+    "year_to": 2022,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "HAOYUE_L",
+    "name": "Haoyue L",
+    "cyrillic_name": "Хаоюэ Л",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "HAOYUE_PRO",
+    "name": "Haoyue Pro",
+    "cyrillic_name": "Хаоюэ Про",
+    "year_from": 2024,
+    "year_to": 2025,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "HAPPINESS",
+    "name": "Farizon Happiness",
+    "cyrillic_name": "Фаризон Хеппинесс",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "ICON",
+    "name": "Icon",
+    "cyrillic_name": "Айкон",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "JIAJI",
+    "name": "Jiaji",
+    "cyrillic_name": "Джиаджи",
+    "year_from": 2019,
+    "year_to": 2025,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "KANDI_EX3",
+    "name": "Kandi EX3",
+    "cyrillic_name": "Канди ЕИкс3",
+    "year_from": 2018,
+    "year_to": 2018,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "LC",
+    "name": "LC (Panda)",
+    "cyrillic_name": "LC",
+    "year_from": 2008,
+    "year_to": 2016,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "LC_CROSS",
+    "name": "LC (Panda) Cross",
+    "cyrillic_name": "LC Кросс",
+    "year_from": 2008,
+    "year_to": 2016,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "MK",
+    "name": "MK",
+    "cyrillic_name": "МК",
+    "year_from": 2006,
+    "year_to": 2015,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "MK_CROSS",
+    "name": "MK Cross",
+    "cyrillic_name": "МК Кросс",
+    "year_from": 2010,
+    "year_to": 2016,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "MONJARO",
+    "name": "Monjaro",
+    "cyrillic_name": "Монжаро",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "MR",
+    "name": "MR",
+    "cyrillic_name": "MR",
+    "year_from": 2003,
+    "year_to": 2009,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "OKAVANGO",
+    "name": "Okavango",
+    "cyrillic_name": "Окаванго",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "PANDA",
+    "name": "Panda",
+    "cyrillic_name": "Панда",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": [
+      "Panda",
+      "Knight",
+      "Mini"
+    ]
+  },
+  {
+    "id": "PREFACE",
+    "name": "Preface",
+    "cyrillic_name": "Префейс",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "RADAR_KING_KONG",
+    "name": "Radar King Kong",
+    "cyrillic_name": "Радар Кинг Конг",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "SC7",
+    "name": "SC7",
+    "cyrillic_name": "SC7",
+    "year_from": 2011,
+    "year_to": 2015,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "TUGELLA",
+    "name": "Tugella",
+    "cyrillic_name": "Тугелла",
+    "year_from": 2019,
+    "year_to": 2024,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "TX4",
+    "name": "TX4",
+    "cyrillic_name": "ТХ4",
+    "year_from": 2008,
+    "year_to": 2017,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "VISION",
+    "name": "FC (Vision)",
+    "cyrillic_name": "фс (вижн)",
+    "year_from": 2006,
+    "year_to": 2011,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "VISION_S1",
+    "name": "Vision S1",
+    "cyrillic_name": "Вижн S1",
+    "year_from": 2017,
+    "year_to": 2021,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "VISION_X3",
+    "name": "Vision X3",
+    "cyrillic_name": "Вижн Икс3",
+    "year_from": 2017,
+    "year_to": 2021,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "VISION_X3_PRO",
+    "name": "Vision X3 Pro",
+    "cyrillic_name": "Вижн Икс3 Про",
+    "year_from": 2021,
+    "year_to": 2023,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "VISION_X6",
+    "name": "Vision X6",
+    "cyrillic_name": "Вижн Икс 6",
+    "year_from": 2016,
+    "year_to": 2021,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "VISION_X6_PRO",
+    "name": "Vision X6 Pro",
+    "cyrillic_name": "Вижн Икс 6 Про",
+    "year_from": 2021,
+    "year_to": 2024,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "XINGYUE",
+    "name": "Xingyue",
+    "cyrillic_name": "Синьюэ",
+    "year_from": 2018,
+    "year_to": 2023,
+    "brand_id": "GEELY",
+    "nameplates": [
+      "Xingyue",
+      "S"
+    ]
+  },
+  {
+    "id": "XINGYUE_L",
+    "name": "Xingyue L",
+    "cyrillic_name": "Синьюэ Л",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "YUANCHENG_FARIZON_FX",
+    "name": "Farizon FX",
+    "cyrillic_name": "Фаризон ФХ",
+    "year_from": 2020,
+    "year_to": 2023,
+    "brand_id": "GEELY",
+    "nameplates": []
+  }
+]

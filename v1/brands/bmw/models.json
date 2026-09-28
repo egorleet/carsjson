@@ -1,0 +1,901 @@
+[
+  {
+    "id": "02",
+    "name": "02 (E10)",
+    "cyrillic_name": "02",
+    "year_from": 1966,
+    "year_to": 1977,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "1ER",
+    "name": "1 серии",
+    "cyrillic_name": "1 серии",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "114",
+      "116",
+      "118",
+      "120",
+      "123",
+      "125",
+      "128",
+      "130",
+      "135",
+      "M135i",
+      "M140i"
+    ]
+  },
+  {
+    "id": "1M",
+    "name": "1M",
+    "cyrillic_name": "1М",
+    "year_from": 2010,
+    "year_to": 2012,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "2ACTIVETOURER",
+    "name": "2 серии Active Tourer",
+    "cyrillic_name": "2 серии Актив Турер",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "214",
+      "216",
+      "218",
+      "220",
+      "223",
+      "225",
+      "230"
+    ]
+  },
+  {
+    "id": "2ER",
+    "name": "2 серии",
+    "cyrillic_name": "2 серии",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "216",
+      "218",
+      "220",
+      "220L",
+      "223",
+      "225",
+      "225L",
+      "228",
+      "230",
+      "Gran Coupe",
+      "M235i",
+      "M235L",
+      "M240i"
+    ]
+  },
+  {
+    "id": "2GRANDTOURER",
+    "name": "2 серии Gran Tourer",
+    "cyrillic_name": "2 серии гран турер",
+    "year_from": 2015,
+    "year_to": 2022,
+    "brand_id": "BMW",
+    "nameplates": [
+      "214",
+      "216",
+      "218",
+      "220"
+    ]
+  },
+  {
+    "id": "315",
+    "name": "315",
+    "cyrillic_name": "315",
+    "year_from": 1934,
+    "year_to": 1937,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "320",
+    "name": "320",
+    "cyrillic_name": "320",
+    "year_from": 1937,
+    "year_to": 1938,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "3200",
+    "name": "3200",
+    "cyrillic_name": "3200",
+    "year_from": 1962,
+    "year_to": 1965,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "321",
+    "name": "321",
+    "cyrillic_name": "321",
+    "year_from": 1937,
+    "year_to": 1950,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "326",
+    "name": "326",
+    "cyrillic_name": "326",
+    "year_from": 1936,
+    "year_to": 1946,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "327",
+    "name": "327",
+    "cyrillic_name": "327",
+    "year_from": 1937,
+    "year_to": 1941,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "340",
+    "name": "340",
+    "cyrillic_name": "340",
+    "year_from": 1949,
+    "year_to": 1953,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "3ER",
+    "name": "3 серии",
+    "cyrillic_name": "3 серии",
+    "year_from": 1975,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "315",
+      "316",
+      "318",
+      "320",
+      "320d Efficient-dynamics edition",
+      "320L",
+      "323",
+      "324",
+      "325",
+      "325L",
+      "328",
+      "330",
+      "330L",
+      "335",
+      "340",
+      "ActiveHybrid",
+      "Compact",
+      "Gran Turismo",
+      "M340d",
+      "M340i"
+    ]
+  },
+  {
+    "id": "3_15",
+    "name": "3/15",
+    "cyrillic_name": "3/15",
+    "year_from": 1927,
+    "year_to": 1932,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "4",
+    "name": "4 серии",
+    "cyrillic_name": "4 серии",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "418",
+      "420",
+      "425",
+      "428",
+      "430",
+      "435",
+      "440",
+      "Gran Coupe"
+    ]
+  },
+  {
+    "id": "501",
+    "name": "501",
+    "cyrillic_name": "501",
+    "year_from": 1952,
+    "year_to": 1958,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "502",
+    "name": "502",
+    "cyrillic_name": "502",
+    "year_from": 1954,
+    "year_to": 1961,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "503",
+    "name": "503",
+    "cyrillic_name": "503",
+    "year_from": 1956,
+    "year_to": 1959,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "507",
+    "name": "507",
+    "cyrillic_name": "507",
+    "year_from": 1956,
+    "year_to": 1959,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "5ER",
+    "name": "5 серии",
+    "cyrillic_name": "5 серии",
+    "year_from": 1972,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "518",
+      "520",
+      "520L",
+      "523",
+      "524",
+      "525",
+      "525L",
+      "528",
+      "528L",
+      "530",
+      "530L",
+      "535",
+      "535L",
+      "540",
+      "540L",
+      "545",
+      "550",
+      "ActiveHybrid",
+      "Gran Turismo",
+      "M550d xDrive",
+      "M550i xDrive"
+    ]
+  },
+  {
+    "id": "600",
+    "name": "600",
+    "cyrillic_name": "600",
+    "year_from": 1957,
+    "year_to": 1959,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "6ER",
+    "name": "6 серии",
+    "cyrillic_name": "6 серии",
+    "year_from": 1976,
+    "year_to": 2024,
+    "brand_id": "BMW",
+    "nameplates": [
+      "628",
+      "630",
+      "633",
+      "635",
+      "640",
+      "645",
+      "650",
+      "Gran Coupe",
+      "Gran Turismo"
+    ]
+  },
+  {
+    "id": "700",
+    "name": "700",
+    "cyrillic_name": "700",
+    "year_from": 1959,
+    "year_to": 1965,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "7ER",
+    "name": "7 серии",
+    "cyrillic_name": "7 серии",
+    "year_from": 1977,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "725",
+      "725L",
+      "728",
+      "728L",
+      "730",
+      "730L",
+      "733",
+      "735",
+      "735L",
+      "740",
+      "740L",
+      "745",
+      "745L",
+      "750",
+      "750L",
+      "760",
+      "760L",
+      "Active Hybrid 7",
+      "Active Hybrid 7L",
+      "M760L"
+    ]
+  },
+  {
+    "id": "8ER",
+    "name": "8 серии",
+    "cyrillic_name": "8 серии",
+    "year_from": 1989,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "830",
+      "840",
+      "850",
+      "Gran Coupe",
+      "M850"
+    ]
+  },
+  {
+    "id": "E3",
+    "name": "E3",
+    "cyrillic_name": "е3",
+    "year_from": 1968,
+    "year_to": 1977,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "E9",
+    "name": "E9",
+    "cyrillic_name": "е9",
+    "year_from": 1968,
+    "year_to": 1975,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "I3",
+    "name": "i3",
+    "cyrillic_name": "и3",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "i3",
+      "35L",
+      "40L"
+    ]
+  },
+  {
+    "id": "I4",
+    "name": "i4",
+    "cyrillic_name": "и4",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "I5",
+    "name": "i5",
+    "cyrillic_name": "и5",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "eDrive35l",
+      "eDrive40",
+      "eDrive40L",
+      "M60 xDrive",
+      "xDrive40",
+      "xDrive50L"
+    ]
+  },
+  {
+    "id": "I7",
+    "name": "i7",
+    "cyrillic_name": "и7",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "I8",
+    "name": "i8",
+    "cyrillic_name": "и8",
+    "year_from": 2014,
+    "year_to": 2020,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "ISETTA",
+    "name": "Isetta",
+    "cyrillic_name": "Изетта",
+    "year_from": 1955,
+    "year_to": 1962,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "IX",
+    "name": "iX",
+    "cyrillic_name": "ИХ",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "40",
+      "45",
+      "50",
+      "60",
+      "M60",
+      "M70"
+    ]
+  },
+  {
+    "id": "IX1",
+    "name": "iX1",
+    "cyrillic_name": "ИХ1",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "iX1",
+      "Long"
+    ]
+  },
+  {
+    "id": "IX2",
+    "name": "iX2",
+    "cyrillic_name": "иХ2",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "IX3",
+    "name": "iX3",
+    "cyrillic_name": "ИХ3",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "iX3",
+      "Long"
+    ]
+  },
+  {
+    "id": "IX5",
+    "name": "iX5",
+    "cyrillic_name": "ИХ5",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "M2",
+    "name": "M2",
+    "cyrillic_name": "М2",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "M2",
+      "Competition",
+      "CS",
+      "M xDrive"
+    ]
+  },
+  {
+    "id": "M3",
+    "name": "M3",
+    "cyrillic_name": "М3",
+    "year_from": 1986,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "M4",
+    "name": "M4",
+    "cyrillic_name": "М4",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "M5",
+    "name": "M5",
+    "cyrillic_name": "М5",
+    "year_from": 1985,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "M5",
+      "Competition",
+      "CS"
+    ]
+  },
+  {
+    "id": "M6",
+    "name": "M6",
+    "cyrillic_name": "М6",
+    "year_from": 1984,
+    "year_to": 2018,
+    "brand_id": "BMW",
+    "nameplates": [
+      "M6",
+      "Gran Coupe"
+    ]
+  },
+  {
+    "id": "M8",
+    "name": "M8",
+    "cyrillic_name": "М8",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "M8",
+      "Gran Coupe"
+    ]
+  },
+  {
+    "id": "M_1",
+    "name": "M1",
+    "cyrillic_name": "м1",
+    "year_from": 1978,
+    "year_to": 1981,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "NAZCA",
+    "name": "Nazca",
+    "cyrillic_name": "Назка",
+    "year_from": 1991,
+    "year_to": 1993,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "NEW_CLASS",
+    "name": "New Class",
+    "cyrillic_name": "нью класс",
+    "year_from": 1962,
+    "year_to": 1971,
+    "brand_id": "BMW",
+    "nameplates": [
+      "New Class",
+      "C",
+      "CA",
+      "CS"
+    ]
+  },
+  {
+    "id": "X1",
+    "name": "X1",
+    "cyrillic_name": "Х1",
+    "year_from": 2009,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "16d",
+      "18d",
+      "18i",
+      "20d",
+      "20i",
+      "20Li",
+      "23d",
+      "23i",
+      "25d",
+      "25e",
+      "25i",
+      "25Li",
+      "28i",
+      "30e",
+      "30Le",
+      "35i",
+      "M35i",
+      "M35Li"
+    ]
+  },
+  {
+    "id": "X2",
+    "name": "X2",
+    "cyrillic_name": "Х2",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "16d",
+      "18d",
+      "18i",
+      "20d",
+      "20i",
+      "25d",
+      "25e",
+      "25i",
+      "28i",
+      "M35i"
+    ]
+  },
+  {
+    "id": "X3",
+    "name": "X3",
+    "cyrillic_name": "Х3",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "18d",
+      "20d",
+      "20i",
+      "25d",
+      "25i",
+      "25L",
+      "28i",
+      "30d",
+      "30e",
+      "30i",
+      "30L",
+      "35d",
+      "35i",
+      "40d",
+      "M40d",
+      "M40i",
+      "M50i"
+    ]
+  },
+  {
+    "id": "X3_M",
+    "name": "X3 M",
+    "cyrillic_name": "Х3 М",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "X3 M",
+      "Competition"
+    ]
+  },
+  {
+    "id": "X4",
+    "name": "X4",
+    "cyrillic_name": "Х4",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "20d",
+      "20i",
+      "25d",
+      "25i",
+      "28i",
+      "30d",
+      "30i",
+      "35d",
+      "35i",
+      "M40d",
+      "M40i"
+    ]
+  },
+  {
+    "id": "X4_M",
+    "name": "X4 M",
+    "cyrillic_name": "Х4 М",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "X5",
+    "name": "X5",
+    "cyrillic_name": "Х5",
+    "year_from": 1999,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "25d",
+      "3.0d",
+      "3.0i",
+      "3.0sd",
+      "3.0si",
+      "30d",
+      "30i",
+      "30Li",
+      "35d",
+      "35i",
+      "4.4i",
+      "4.6is",
+      "4.8i",
+      "4.8is",
+      "40",
+      "40d",
+      "40e",
+      "40i",
+      "40Li",
+      "45e",
+      "48i",
+      "50e",
+      "50i",
+      "M50d",
+      "M50i",
+      "M60e",
+      "M60i"
+    ]
+  },
+  {
+    "id": "X5_M",
+    "name": "X5 M",
+    "cyrillic_name": "Х5 М",
+    "year_from": 2009,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "X5 M",
+      "Competition"
+    ]
+  },
+  {
+    "id": "X6",
+    "name": "X6",
+    "cyrillic_name": "Х6",
+    "year_from": 2007,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "30d",
+      "30i",
+      "35d",
+      "35i",
+      "40d",
+      "40i",
+      "50i",
+      "ActiveHybrid",
+      "M50d",
+      "M50i",
+      "M60i"
+    ]
+  },
+  {
+    "id": "X6_M",
+    "name": "X6 M",
+    "cyrillic_name": "Х6 М",
+    "year_from": 2009,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "X6 M",
+      "Competition"
+    ]
+  },
+  {
+    "id": "X7",
+    "name": "X7",
+    "cyrillic_name": "Х7",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "30d",
+      "35d",
+      "40d",
+      "40i",
+      "50i",
+      "M50d",
+      "M50i",
+      "M60i"
+    ]
+  },
+  {
+    "id": "XM",
+    "name": "XM",
+    "cyrillic_name": "ХМ",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "XM",
+      "50e",
+      "Label"
+    ]
+  },
+  {
+    "id": "Z1",
+    "name": "Z1",
+    "cyrillic_name": "з1",
+    "year_from": 1988,
+    "year_to": 1991,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "Z3",
+    "name": "Z3",
+    "cyrillic_name": "з3",
+    "year_from": 1995,
+    "year_to": 2002,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "Z3M",
+    "name": "Z3 M",
+    "cyrillic_name": "з3м",
+    "year_from": 1997,
+    "year_to": 2002,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "Z4",
+    "name": "Z4",
+    "cyrillic_name": "З4",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": [
+      "Z4",
+      "18i",
+      "20i",
+      "23i",
+      "25i",
+      "28i",
+      "30i",
+      "35i",
+      "35is",
+      "M40i"
+    ]
+  },
+  {
+    "id": "Z4_M",
+    "name": "Z4 M",
+    "cyrillic_name": "з4м",
+    "year_from": 2006,
+    "year_to": 2009,
+    "brand_id": "BMW",
+    "nameplates": []
+  },
+  {
+    "id": "Z8",
+    "name": "Z8",
+    "cyrillic_name": "з8",
+    "year_from": 2000,
+    "year_to": 2003,
+    "brand_id": "BMW",
+    "nameplates": []
+  }
+]

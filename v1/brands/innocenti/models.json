@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ELBA",
+    "name": "Elba",
+    "cyrillic_name": "ельба",
+    "year_from": 1991,
+    "year_to": 1997,
+    "brand_id": "INNOCENTI",
+    "nameplates": []
+  },
+  {
+    "id": "MILLE",
+    "name": "Mille",
+    "cyrillic_name": "милле",
+    "year_from": 1994,
+    "year_to": 1997,
+    "brand_id": "INNOCENTI",
+    "nameplates": []
+  },
+  {
+    "id": "MINI",
+    "name": "Mini",
+    "cyrillic_name": "мини",
+    "year_from": 1965,
+    "year_to": 1993,
+    "brand_id": "INNOCENTI",
+    "nameplates": []
+  }
+]

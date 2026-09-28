@@ -1,0 +1,200 @@
+[
+  {
+    "id": "442",
+    "name": "442",
+    "cyrillic_name": "442",
+    "year_from": 1968,
+    "year_to": 1972,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "ACHIEVA",
+    "name": "Achieva",
+    "cyrillic_name": "Ачива",
+    "year_from": 1991,
+    "year_to": 1997,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "ALERO",
+    "name": "Alero",
+    "cyrillic_name": "Алеро",
+    "year_from": 1999,
+    "year_to": 2004,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "AURORA",
+    "name": "Aurora",
+    "cyrillic_name": "Аврора",
+    "year_from": 1994,
+    "year_to": 2003,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "BRAVADA",
+    "name": "Bravada",
+    "cyrillic_name": "Бравада",
+    "year_from": 1990,
+    "year_to": 2004,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "CUSTOM_CRUISER",
+    "name": "Custom Cruiser",
+    "cyrillic_name": "Кастом Круизер",
+    "year_from": 1971,
+    "year_to": 1992,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "CUTLASS",
+    "name": "Cutlass",
+    "cyrillic_name": "Катлас",
+    "year_from": 1968,
+    "year_to": 1999,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "CUTLASS_CALAIS",
+    "name": "Cutlass Calais",
+    "cyrillic_name": "Катлас Коле",
+    "year_from": 1984,
+    "year_to": 1991,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "CUTLASS_CIERA",
+    "name": "Cutlass Ciera",
+    "cyrillic_name": "Катлас  Цира",
+    "year_from": 1981,
+    "year_to": 1996,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "CUTLASS_SUPREME",
+    "name": "Cutlass Supreme",
+    "cyrillic_name": "Катлас Суприм",
+    "year_from": 1988,
+    "year_to": 1997,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "DELTA_88",
+    "name": "Delta 88",
+    "cyrillic_name": "Дельта 88",
+    "year_from": 1971,
+    "year_to": 1976,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "EIGHTY_EIGHT",
+    "name": "Eighty-Eight",
+    "cyrillic_name": "88",
+    "year_from": 1957,
+    "year_to": 1999,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "FIRENZA",
+    "name": "Firenza",
+    "cyrillic_name": "фиренца",
+    "year_from": 1982,
+    "year_to": 1988,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "INTRIGUE",
+    "name": "Intrigue",
+    "cyrillic_name": "Интриг",
+    "year_from": 1997,
+    "year_to": 2002,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "NINETY_EIGHT",
+    "name": "Ninety-Eight",
+    "cyrillic_name": "89",
+    "year_from": 1977,
+    "year_to": 1996,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "OMEGA",
+    "name": "Omega",
+    "cyrillic_name": "Омега",
+    "year_from": 1979,
+    "year_to": 1984,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "SERIES_60",
+    "name": "Series 60",
+    "cyrillic_name": "Серия 60",
+    "year_from": 1939,
+    "year_to": 1948,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "SERIES_70",
+    "name": "Series 70",
+    "cyrillic_name": "Серия 70",
+    "year_from": 1939,
+    "year_to": 1950,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "SILHOUETTE",
+    "name": "Silhouette",
+    "cyrillic_name": "Силуэт",
+    "year_from": 1989,
+    "year_to": 2004,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "STARFIRE",
+    "name": "Starfire",
+    "cyrillic_name": "Старфайер",
+    "year_from": 1961,
+    "year_to": 1980,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "TORONADO",
+    "name": "Toronado",
+    "cyrillic_name": "Торонадо",
+    "year_from": 1966,
+    "year_to": 1992,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  },
+  {
+    "id": "VISTA_CRUISER",
+    "name": "Vista Cruiser",
+    "cyrillic_name": "Виста Круизер",
+    "year_from": 1964,
+    "year_to": 1977,
+    "brand_id": "OLDSMOBILE",
+    "nameplates": []
+  }
+]

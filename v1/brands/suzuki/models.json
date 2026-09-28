@@ -1,0 +1,558 @@
+[
+  {
+    "id": "ACROSS",
+    "name": "Across",
+    "cyrillic_name": "Акросс",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "AERIO",
+    "name": "Aerio",
+    "cyrillic_name": "Аэрио",
+    "year_from": 2001,
+    "year_to": 2007,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "ALTO",
+    "name": "Alto",
+    "cyrillic_name": "Альто",
+    "year_from": 1979,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": [
+      "Alto",
+      "C",
+      "C2",
+      "Works"
+    ]
+  },
+  {
+    "id": "ALTO_LAPIN",
+    "name": "Alto Lapin",
+    "cyrillic_name": "альто лапин",
+    "year_from": 2002,
+    "year_to": 2025,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "APV",
+    "name": "APV",
+    "cyrillic_name": "АПВ",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "BALENO",
+    "name": "Baleno",
+    "cyrillic_name": "Балено",
+    "year_from": 1995,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "BEIDOUXING",
+    "name": "Beidouxing",
+    "cyrillic_name": "Бейдусинг",
+    "year_from": 2004,
+    "year_to": 2022,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "CAPPUCCINO",
+    "name": "Cappuccino",
+    "cyrillic_name": "Каппучино",
+    "year_from": 1990,
+    "year_to": 1997,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "CARA",
+    "name": "Cara",
+    "cyrillic_name": "кара",
+    "year_from": 1993,
+    "year_to": 1995,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "CARRY",
+    "name": "Carry",
+    "cyrillic_name": "карри",
+    "year_from": 1979,
+    "year_to": 2005,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "CELERIO",
+    "name": "Celerio",
+    "cyrillic_name": "Целерио",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "CERVO_CLASSIC",
+    "name": "Cervo",
+    "cyrillic_name": "Серво",
+    "year_from": 1977,
+    "year_to": 2011,
+    "brand_id": "SUZUKI",
+    "nameplates": [
+      "Cervo",
+      "C"
+    ]
+  },
+  {
+    "id": "CIAZ",
+    "name": "Ciaz",
+    "cyrillic_name": "Циаз",
+    "year_from": 2014,
+    "year_to": 2025,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "CULTUS",
+    "name": "Cultus",
+    "cyrillic_name": "Культус",
+    "year_from": 1983,
+    "year_to": 2002,
+    "brand_id": "SUZUKI",
+    "nameplates": [
+      "Cultus",
+      "Crescent"
+    ]
+  },
+  {
+    "id": "DZIRE",
+    "name": "DZire",
+    "cyrillic_name": "ДЗайр",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "EECO",
+    "name": "Eeco",
+    "cyrillic_name": "Ееко",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "EQUATOR",
+    "name": "Equator",
+    "cyrillic_name": "Экватор",
+    "year_from": 2008,
+    "year_to": 2012,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "ERTIGA",
+    "name": "Ertiga",
+    "cyrillic_name": "Эртига",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "ESCUDO",
+    "name": "Escudo",
+    "cyrillic_name": "Эскудо",
+    "year_from": 1988,
+    "year_to": 2023,
+    "brand_id": "SUZUKI",
+    "nameplates": [
+      "Escudo",
+      "Grand Escudo"
+    ]
+  },
+  {
+    "id": "ESTEEM",
+    "name": "Esteem",
+    "cyrillic_name": "эстим",
+    "year_from": 1995,
+    "year_to": 2004,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "EVERY",
+    "name": "Every",
+    "cyrillic_name": "Эвери",
+    "year_from": 1985,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": [
+      "Every",
+      "Landy"
+    ]
+  },
+  {
+    "id": "E_VITARA",
+    "name": "e Vitara",
+    "cyrillic_name": "е Витара",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "FORENZA",
+    "name": "Forenza",
+    "cyrillic_name": "форенза",
+    "year_from": 2003,
+    "year_to": 2008,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "FRONTE",
+    "name": "Fronte",
+    "cyrillic_name": "Фронт",
+    "year_from": 1986,
+    "year_to": 1988,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "FRONX",
+    "name": "Fronx",
+    "cyrillic_name": "Фронкс",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "GRAND_VITARA",
+    "name": "Grand Vitara",
+    "cyrillic_name": "Гранд Витара",
+    "year_from": 1997,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": [
+      "Grand Vitara",
+      "XL-7"
+    ]
+  },
+  {
+    "id": "HUSTLER",
+    "name": "Hustler",
+    "cyrillic_name": "Хастлер",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "IGNIS",
+    "name": "Ignis",
+    "cyrillic_name": "Игнис",
+    "year_from": 2000,
+    "year_to": 2024,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "INVICTO",
+    "name": "Invicto",
+    "cyrillic_name": "Инвикто",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "JIMNY",
+    "name": "Jimny",
+    "cyrillic_name": "Джимни",
+    "year_from": 1970,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": [
+      "Jimny",
+      "Kei car",
+      "Sierra"
+    ]
+  },
+  {
+    "id": "KEI",
+    "name": "Kei",
+    "cyrillic_name": "Кей",
+    "year_from": 1998,
+    "year_to": 2009,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "KIZASHI",
+    "name": "Kizashi",
+    "cyrillic_name": "Кизаши",
+    "year_from": 2009,
+    "year_to": 2014,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "LANDY",
+    "name": "Landy",
+    "cyrillic_name": "Лэнди",
+    "year_from": 2007,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "LIANA",
+    "name": "Liana",
+    "cyrillic_name": "Лиана",
+    "year_from": 2001,
+    "year_to": 2008,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "MIGHTY_BOY",
+    "name": "Mighty Boy",
+    "cyrillic_name": "Майти бой",
+    "year_from": 1983,
+    "year_to": 1985,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "MR_WAGON",
+    "name": "MR Wagon",
+    "cyrillic_name": "Мр Вагон",
+    "year_from": 2001,
+    "year_to": 2016,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "PALETTE",
+    "name": "Palette",
+    "cyrillic_name": "Палетт",
+    "year_from": 2008,
+    "year_to": 2013,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "RENO",
+    "name": "Reno",
+    "cyrillic_name": "Рено",
+    "year_from": 2004,
+    "year_to": 2008,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "SAMURAI",
+    "name": "Samurai",
+    "cyrillic_name": "Самурай",
+    "year_from": 1981,
+    "year_to": 2003,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "SC100",
+    "name": "SC100",
+    "cyrillic_name": "СЦ100",
+    "year_from": 1978,
+    "year_to": 1982,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "SIDEKICK",
+    "name": "Sidekick",
+    "cyrillic_name": "Сайдкик",
+    "year_from": 1988,
+    "year_to": 1998,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "SOLIO",
+    "name": "Solio",
+    "cyrillic_name": "Солио",
+    "year_from": 2005,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "SPACIA",
+    "name": "Spacia",
+    "cyrillic_name": "Спасиа",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "SPLASH",
+    "name": "Splash",
+    "cyrillic_name": "Сплэш",
+    "year_from": 2008,
+    "year_to": 2015,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "SWACE",
+    "name": "Swace",
+    "cyrillic_name": "Свайс",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "SWIFT",
+    "name": "Swift",
+    "cyrillic_name": "Свифт",
+    "year_from": 1983,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": [
+      "Swift",
+      "Sport"
+    ]
+  },
+  {
+    "id": "SX4",
+    "name": "SX4",
+    "cyrillic_name": "SX4",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "S_PRESSO",
+    "name": "S-Presso",
+    "cyrillic_name": "Эс-Прессо",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "TWIN",
+    "name": "Twin",
+    "cyrillic_name": "Твин",
+    "year_from": 2003,
+    "year_to": 2005,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "VERONA",
+    "name": "Verona",
+    "cyrillic_name": "Верона",
+    "year_from": 2003,
+    "year_to": 2006,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "VICTORIS",
+    "name": "Victoris",
+    "cyrillic_name": "Викторис",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "VITARA",
+    "name": "Vitara",
+    "cyrillic_name": "Витара",
+    "year_from": 1988,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "WAGON_R",
+    "name": "Wagon R",
+    "cyrillic_name": "Вагон Р",
+    "year_from": 1993,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": [
+      "Wagon R",
+      "Solio",
+      "Wide"
+    ]
+  },
+  {
+    "id": "WAGON_R_PLUS",
+    "name": "Wagon R+",
+    "cyrillic_name": "Вагон Р+",
+    "year_from": 1997,
+    "year_to": 2008,
+    "brand_id": "SUZUKI",
+    "nameplates": [
+      "Wagon R+",
+      "Solio"
+    ]
+  },
+  {
+    "id": "WAGON_R_SMILE",
+    "name": "Wagon R Smile",
+    "cyrillic_name": "Вагон Р Смайл",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "XBEE",
+    "name": "Xbee",
+    "cyrillic_name": "Иксби",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "XL_7",
+    "name": "XL7",
+    "cyrillic_name": "XL7",
+    "year_from": 1998,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
+    "id": "X_90",
+    "name": "X-90",
+    "cyrillic_name": "X-90",
+    "year_from": 1995,
+    "year_to": 2000,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  }
+]

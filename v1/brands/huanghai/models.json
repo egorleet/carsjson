@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ANTELOPE",
+    "name": "Antelope",
+    "cyrillic_name": "Антелоп",
+    "year_from": 2006,
+    "year_to": 2009,
+    "brand_id": "HUANGHAI",
+    "nameplates": []
+  },
+  {
+    "id": "LANDSCAPE",
+    "name": "Landscape",
+    "cyrillic_name": "Лендскейп",
+    "year_from": 2008,
+    "year_to": 2011,
+    "brand_id": "HUANGHAI",
+    "nameplates": []
+  },
+  {
+    "id": "N1",
+    "name": "N1",
+    "cyrillic_name": "Н1",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "HUANGHAI",
+    "nameplates": []
+  },
+  {
+    "id": "N2",
+    "name": "N2",
+    "cyrillic_name": "Н2",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "HUANGHAI",
+    "nameplates": []
+  },
+  {
+    "id": "N7",
+    "name": "N7",
+    "cyrillic_name": "Н7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "HUANGHAI",
+    "nameplates": []
+  },
+  {
+    "id": "PLUTUS",
+    "name": "Plutus",
+    "cyrillic_name": "Плютус",
+    "year_from": 2007,
+    "year_to": 2011,
+    "brand_id": "HUANGHAI",
+    "nameplates": []
+  }
+]

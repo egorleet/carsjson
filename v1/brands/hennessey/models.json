@@ -1,0 +1,20 @@
+[
+  {
+    "id": "VENOM_F5",
+    "name": "Venom F5",
+    "cyrillic_name": "Веном Ф5",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "HENNESSEY",
+    "nameplates": []
+  },
+  {
+    "id": "VENOM_GT",
+    "name": "Venom GT",
+    "cyrillic_name": "Веном ГТ",
+    "year_from": 2011,
+    "year_to": 2017,
+    "brand_id": "HENNESSEY",
+    "nameplates": []
+  }
+]

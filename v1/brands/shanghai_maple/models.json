@@ -1,0 +1,56 @@
+[
+  {
+    "id": "C31",
+    "name": "C31",
+    "cyrillic_name": "Ц31",
+    "year_from": 2004,
+    "year_to": 2009,
+    "brand_id": "SHANGHAI_MAPLE",
+    "nameplates": []
+  },
+  {
+    "id": "C32",
+    "name": "C32",
+    "cyrillic_name": "с32",
+    "year_from": 2007,
+    "year_to": 2010,
+    "brand_id": "SHANGHAI_MAPLE",
+    "nameplates": []
+  },
+  {
+    "id": "C51",
+    "name": "C51",
+    "cyrillic_name": "Ц51",
+    "year_from": 2005,
+    "year_to": 2009,
+    "brand_id": "SHANGHAI_MAPLE",
+    "nameplates": []
+  },
+  {
+    "id": "C52",
+    "name": "C52",
+    "cyrillic_name": "Ц52",
+    "year_from": 2007,
+    "year_to": 2010,
+    "brand_id": "SHANGHAI_MAPLE",
+    "nameplates": []
+  },
+  {
+    "id": "C61",
+    "name": "C61",
+    "cyrillic_name": "с61",
+    "year_from": 2007,
+    "year_to": 2010,
+    "brand_id": "SHANGHAI_MAPLE",
+    "nameplates": []
+  },
+  {
+    "id": "C81",
+    "name": "C81",
+    "cyrillic_name": "Ц81",
+    "year_from": 2005,
+    "year_to": 2010,
+    "brand_id": "SHANGHAI_MAPLE",
+    "nameplates": []
+  }
+]

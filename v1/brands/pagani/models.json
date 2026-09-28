@@ -1,0 +1,29 @@
+[
+  {
+    "id": "HUAYRA",
+    "name": "Huayra",
+    "cyrillic_name": "Уайра",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "PAGANI",
+    "nameplates": []
+  },
+  {
+    "id": "UTOPIA",
+    "name": "Utopia",
+    "cyrillic_name": "Утопия",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "PAGANI",
+    "nameplates": []
+  },
+  {
+    "id": "ZONDA",
+    "name": "Zonda",
+    "cyrillic_name": "Зонда",
+    "year_from": 1999,
+    "year_to": 2013,
+    "brand_id": "PAGANI",
+    "nameplates": []
+  }
+]

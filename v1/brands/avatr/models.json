@@ -1,0 +1,50 @@
+[
+  {
+    "id": "06",
+    "name": "06",
+    "cyrillic_name": "06",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "AVATR",
+    "nameplates": []
+  },
+  {
+    "id": "07",
+    "name": "07",
+    "cyrillic_name": "07",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "AVATR",
+    "nameplates": [
+      "07",
+      "L"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "11",
+    "cyrillic_name": "11",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "AVATR",
+    "nameplates": []
+  },
+  {
+    "id": "12",
+    "name": "12",
+    "cyrillic_name": "12",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "AVATR",
+    "nameplates": []
+  },
+  {
+    "id": "T09",
+    "name": "T09",
+    "cyrillic_name": "Т09",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "AVATR",
+    "nameplates": []
+  }
+]

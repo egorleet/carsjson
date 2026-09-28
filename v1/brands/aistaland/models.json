@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GT7",
+    "name": "GT7",
+    "cyrillic_name": "ГТ7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "AISTALAND",
+    "nameplates": []
+  },
+  {
+    "id": "GX7",
+    "name": "GX7",
+    "cyrillic_name": "ДжиИкс7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "AISTALAND",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "PALADIN",
+    "name": "Paladin",
+    "cyrillic_name": "Паладин",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "OTING",
+    "nameplates": []
+  },
+  {
+    "id": "PALASSO",
+    "name": "Palasso",
+    "cyrillic_name": "Паласcо",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "OTING",
+    "nameplates": []
+  },
+  {
+    "id": "RICH_7",
+    "name": "Rich 7",
+    "cyrillic_name": "Рич 7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "OTING",
+    "nameplates": []
+  },
+  {
+    "id": "Z9",
+    "name": "Z9",
+    "cyrillic_name": "З9",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "OTING",
+    "nameplates": []
+  }
+]

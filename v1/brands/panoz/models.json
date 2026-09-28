@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ESPERANTE",
+    "name": "Esperante",
+    "cyrillic_name": "Эсперанте",
+    "year_from": 2000,
+    "year_to": 2007,
+    "brand_id": "PANOZ",
+    "nameplates": []
+  },
+  {
+    "id": "ROADSTER",
+    "name": "Roadster",
+    "cyrillic_name": "Родстер",
+    "year_from": 1992,
+    "year_to": 1999,
+    "brand_id": "PANOZ",
+    "nameplates": []
+  }
+]

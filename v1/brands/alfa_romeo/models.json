@@ -1,0 +1,366 @@
+[
+  {
+    "id": "105_115",
+    "name": "105/115",
+    "cyrillic_name": "105/115",
+    "year_from": 1965,
+    "year_to": 1977,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "145",
+    "name": "145",
+    "cyrillic_name": "145",
+    "year_from": 1994,
+    "year_to": 2001,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "146",
+    "name": "146",
+    "cyrillic_name": "146",
+    "year_from": 1995,
+    "year_to": 2001,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "147",
+    "name": "147",
+    "cyrillic_name": "147",
+    "year_from": 2000,
+    "year_to": 2010,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": [
+      "147",
+      "GTA"
+    ]
+  },
+  {
+    "id": "155",
+    "name": "155",
+    "cyrillic_name": "155",
+    "year_from": 1992,
+    "year_to": 1997,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "156",
+    "name": "156",
+    "cyrillic_name": "156",
+    "year_from": 1997,
+    "year_to": 2007,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": [
+      "156",
+      "Crosswagon Q4",
+      "GTA"
+    ]
+  },
+  {
+    "id": "159",
+    "name": "159",
+    "cyrillic_name": "159",
+    "year_from": 2005,
+    "year_to": 2011,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "164",
+    "name": "164",
+    "cyrillic_name": "164",
+    "year_from": 1987,
+    "year_to": 1998,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "166",
+    "name": "166",
+    "cyrillic_name": "166",
+    "year_from": 1998,
+    "year_to": 2007,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "1900",
+    "name": "1900",
+    "cyrillic_name": "1900",
+    "year_from": 1950,
+    "year_to": 1959,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "2600",
+    "name": "2600",
+    "cyrillic_name": "2600",
+    "year_from": 1962,
+    "year_to": 1968,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "33",
+    "name": "33",
+    "cyrillic_name": "33",
+    "year_from": 1983,
+    "year_to": 1994,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "33_STRADALE",
+    "name": "33 Stradale",
+    "cyrillic_name": "33 Страдале",
+    "year_from": 2024,
+    "year_to": 2024,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "4C",
+    "name": "4C",
+    "cyrillic_name": "4с",
+    "year_from": 2013,
+    "year_to": 2020,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "6",
+    "name": "6",
+    "cyrillic_name": "6",
+    "year_from": 1979,
+    "year_to": 1988,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "6C",
+    "name": "6C",
+    "cyrillic_name": "6с",
+    "year_from": 1927,
+    "year_to": 1933,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "75",
+    "name": "75",
+    "cyrillic_name": "75",
+    "year_from": 1985,
+    "year_to": 1992,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "8C_COMPETIZIONE",
+    "name": "8C Competizione",
+    "cyrillic_name": "8с компетизион",
+    "year_from": 2007,
+    "year_to": 2010,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "90",
+    "name": "90",
+    "cyrillic_name": "90",
+    "year_from": 1984,
+    "year_to": 1987,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "ALFASUD",
+    "name": "Alfasud",
+    "cyrillic_name": "Альфасуд",
+    "year_from": 1971,
+    "year_to": 1983,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "ALFETTA",
+    "name": "Alfetta",
+    "cyrillic_name": "Альфетта",
+    "year_from": 1972,
+    "year_to": 1987,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": [
+      "Alfetta",
+      "GT",
+      "GTV"
+    ]
+  },
+  {
+    "id": "ARNA",
+    "name": "Arna",
+    "cyrillic_name": "Арна",
+    "year_from": 1983,
+    "year_to": 1987,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "BRERA",
+    "name": "Brera",
+    "cyrillic_name": "Брера",
+    "year_from": 2005,
+    "year_to": 2010,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "DISCO_VOLANTE",
+    "name": "Disco Volante",
+    "cyrillic_name": "диско воланте",
+    "year_from": 2013,
+    "year_to": 2013,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "GIULIA",
+    "name": "Giulia",
+    "cyrillic_name": "Джулия",
+    "year_from": 1962,
+    "year_to": 2025,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": [
+      "Giulia",
+      "GTA",
+      "GTAm",
+      "Quadrifoglio"
+    ]
+  },
+  {
+    "id": "GIULIETTA",
+    "name": "Giulietta",
+    "cyrillic_name": "Джульетта",
+    "year_from": 1954,
+    "year_to": 2020,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "GT",
+    "name": "GT",
+    "cyrillic_name": "GT",
+    "year_from": 2003,
+    "year_to": 2010,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "GTA",
+    "name": "GTA Coupe",
+    "cyrillic_name": "гта купе",
+    "year_from": 1965,
+    "year_to": 1975,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "GTV",
+    "name": "GTV",
+    "cyrillic_name": "GTV",
+    "year_from": 1995,
+    "year_to": 2006,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "JUNIOR",
+    "name": "Junior",
+    "cyrillic_name": "Джуниор",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": [
+      "Junior",
+      "Veloce"
+    ]
+  },
+  {
+    "id": "MITO",
+    "name": "MiTo",
+    "cyrillic_name": "Мито",
+    "year_from": 2008,
+    "year_to": 2018,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "MONTREAL",
+    "name": "Montreal",
+    "cyrillic_name": "Монреаль",
+    "year_from": 1970,
+    "year_to": 1979,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "RZ",
+    "name": "RZ",
+    "cyrillic_name": "RZ",
+    "year_from": 1992,
+    "year_to": 1994,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "SPIDER",
+    "name": "Spider",
+    "cyrillic_name": "Спайдер",
+    "year_from": 1966,
+    "year_to": 2010,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "SPRINT",
+    "name": "Sprint",
+    "cyrillic_name": "Спринт",
+    "year_from": 1983,
+    "year_to": 1989,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "STELVIO",
+    "name": "Stelvio",
+    "cyrillic_name": "Стелвио",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": [
+      "Stelvio",
+      "Quadrifoglio"
+    ]
+  },
+  {
+    "id": "SZ",
+    "name": "SZ",
+    "cyrillic_name": "SZ",
+    "year_from": 1989,
+    "year_to": 1991,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  },
+  {
+    "id": "TONALE",
+    "name": "Tonale",
+    "cyrillic_name": "Тонале",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "ALFA_ROMEO",
+    "nameplates": []
+  }
+]

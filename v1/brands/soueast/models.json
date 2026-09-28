@@ -1,0 +1,128 @@
+[
+  {
+    "id": "A5",
+    "name": "A5",
+    "cyrillic_name": "А5",
+    "year_from": 2018,
+    "year_to": 2023,
+    "brand_id": "SOUEAST",
+    "nameplates": []
+  },
+  {
+    "id": "DX3",
+    "name": "DX3",
+    "cyrillic_name": "ДиИкс3",
+    "year_from": 2016,
+    "year_to": 2023,
+    "brand_id": "SOUEAST",
+    "nameplates": []
+  },
+  {
+    "id": "DX5",
+    "name": "DX5",
+    "cyrillic_name": "ДиИкс5",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "SOUEAST",
+    "nameplates": []
+  },
+  {
+    "id": "DX7",
+    "name": "DX7",
+    "cyrillic_name": "ДиИкс7",
+    "year_from": 2015,
+    "year_to": 2023,
+    "brand_id": "SOUEAST",
+    "nameplates": []
+  },
+  {
+    "id": "DX8",
+    "name": "DX8",
+    "cyrillic_name": "ДиИкс8",
+    "year_from": 2022,
+    "year_to": 2023,
+    "brand_id": "SOUEAST",
+    "nameplates": []
+  },
+  {
+    "id": "DX8S",
+    "name": "DX8S",
+    "cyrillic_name": "ДиИкс8С",
+    "year_from": 2022,
+    "year_to": 2023,
+    "brand_id": "SOUEAST",
+    "nameplates": []
+  },
+  {
+    "id": "LIONCEL",
+    "name": "Lioncel",
+    "cyrillic_name": "Лайонсел",
+    "year_from": 2005,
+    "year_to": 2010,
+    "brand_id": "SOUEAST",
+    "nameplates": []
+  },
+  {
+    "id": "S06",
+    "name": "S06",
+    "cyrillic_name": "С06",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "SOUEAST",
+    "nameplates": []
+  },
+  {
+    "id": "S07",
+    "name": "S07",
+    "cyrillic_name": "С07",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "SOUEAST",
+    "nameplates": []
+  },
+  {
+    "id": "S09",
+    "name": "S09",
+    "cyrillic_name": "С09",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "SOUEAST",
+    "nameplates": []
+  },
+  {
+    "id": "SOVERAN",
+    "name": "Soveran",
+    "cyrillic_name": "Соверан",
+    "year_from": 2004,
+    "year_to": 2008,
+    "brand_id": "SOUEAST",
+    "nameplates": []
+  },
+  {
+    "id": "V3",
+    "name": "V3",
+    "cyrillic_name": "В3",
+    "year_from": 2008,
+    "year_to": 2017,
+    "brand_id": "SOUEAST",
+    "nameplates": []
+  },
+  {
+    "id": "V5",
+    "name": "V5",
+    "cyrillic_name": "В5",
+    "year_from": 2012,
+    "year_to": 2020,
+    "brand_id": "SOUEAST",
+    "nameplates": []
+  },
+  {
+    "id": "V6_CROSS",
+    "name": "V6 Cross",
+    "cyrillic_name": "В6 Кросс",
+    "year_from": 2013,
+    "year_to": 2015,
+    "brand_id": "SOUEAST",
+    "nameplates": []
+  }
+]

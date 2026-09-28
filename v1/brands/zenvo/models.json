@@ -1,0 +1,32 @@
+[
+  {
+    "id": "AURORA",
+    "name": "Aurora",
+    "cyrillic_name": "Аврора",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "ZENVO",
+    "nameplates": [
+      "Agil",
+      "Tur"
+    ]
+  },
+  {
+    "id": "ST1",
+    "name": "ST1",
+    "cyrillic_name": "СТ1",
+    "year_from": 2009,
+    "year_to": 2010,
+    "brand_id": "ZENVO",
+    "nameplates": []
+  },
+  {
+    "id": "TSR_S",
+    "name": "TSR-S",
+    "cyrillic_name": "ТСР-С",
+    "year_from": 2018,
+    "year_to": 2025,
+    "brand_id": "ZENVO",
+    "nameplates": []
+  }
+]

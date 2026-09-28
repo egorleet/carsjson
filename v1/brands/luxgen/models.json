@@ -1,0 +1,47 @@
+[
+  {
+    "id": "7_MPV",
+    "name": "Luxgen7 MPV",
+    "cyrillic_name": "люксген7 мпв",
+    "year_from": 2009,
+    "year_to": 2014,
+    "brand_id": "LUXGEN",
+    "nameplates": []
+  },
+  {
+    "id": "7_SUV",
+    "name": "Luxgen7 SUV",
+    "cyrillic_name": "люксген7 сув",
+    "year_from": 2013,
+    "year_to": 2017,
+    "brand_id": "LUXGEN",
+    "nameplates": []
+  },
+  {
+    "id": "LUXGEN5",
+    "name": "Luxgen5",
+    "cyrillic_name": "люксген5",
+    "year_from": 2012,
+    "year_to": 2020,
+    "brand_id": "LUXGEN",
+    "nameplates": []
+  },
+  {
+    "id": "U6_TURBO",
+    "name": "U6 Turbo",
+    "cyrillic_name": "Ю6-Турбо",
+    "year_from": 2013,
+    "year_to": 2023,
+    "brand_id": "LUXGEN",
+    "nameplates": []
+  },
+  {
+    "id": "U7_TURBO",
+    "name": "U7 Turbo",
+    "cyrillic_name": "у7 турбо",
+    "year_from": 2013,
+    "year_to": 2020,
+    "brand_id": "LUXGEN",
+    "nameplates": []
+  }
+]

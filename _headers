@@ -1,0 +1,5 @@
+/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=300
+  X-Content-Type-Options: nosniff
+  Link: <https://carsjson.pages.dev/llms.txt>; rel="help"; type="text/markdown"

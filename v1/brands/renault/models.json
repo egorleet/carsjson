@@ -1,0 +1,755 @@
+[
+  {
+    "id": "10",
+    "name": "10",
+    "cyrillic_name": "10",
+    "year_from": 1962,
+    "year_to": 1973,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "11",
+    "name": "11",
+    "cyrillic_name": "11",
+    "year_from": 1983,
+    "year_to": 1989,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "12",
+    "name": "12",
+    "cyrillic_name": "12",
+    "year_from": 1969,
+    "year_to": 1980,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "14",
+    "name": "14",
+    "cyrillic_name": "14",
+    "year_from": 1976,
+    "year_to": 1983,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "15",
+    "name": "15",
+    "cyrillic_name": "15",
+    "year_from": 1972,
+    "year_to": 1980,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "16",
+    "name": "16",
+    "cyrillic_name": "16",
+    "year_from": 1965,
+    "year_to": 1980,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "17",
+    "name": "17",
+    "cyrillic_name": "17",
+    "year_from": 1972,
+    "year_to": 1980,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "18",
+    "name": "18",
+    "cyrillic_name": "18",
+    "year_from": 1978,
+    "year_to": 1986,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "19",
+    "name": "19",
+    "cyrillic_name": "19",
+    "year_from": 1988,
+    "year_to": 2002,
+    "brand_id": "RENAULT",
+    "nameplates": [
+      "19",
+      "Europa"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "20",
+    "cyrillic_name": "20",
+    "year_from": 1975,
+    "year_to": 1983,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "21",
+    "name": "21",
+    "cyrillic_name": "21",
+    "year_from": 1986,
+    "year_to": 1995,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "25",
+    "name": "25",
+    "cyrillic_name": "25",
+    "year_from": 1983,
+    "year_to": 1992,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "30",
+    "name": "30",
+    "cyrillic_name": "30",
+    "year_from": 1975,
+    "year_to": 1986,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "4",
+    "name": "4",
+    "cyrillic_name": "4",
+    "year_from": 1962,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "4CV",
+    "name": "4CV",
+    "cyrillic_name": "4св",
+    "year_from": 1947,
+    "year_to": 1961,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "5",
+    "name": "5",
+    "cyrillic_name": "5",
+    "year_from": 1972,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "6",
+    "name": "6",
+    "cyrillic_name": "6",
+    "year_from": 1970,
+    "year_to": 1987,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "8",
+    "name": "8",
+    "cyrillic_name": "8",
+    "year_from": 1962,
+    "year_to": 1973,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "9",
+    "name": "9",
+    "cyrillic_name": "9",
+    "year_from": 1981,
+    "year_to": 2000,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "ALASKAN",
+    "name": "Alaskan",
+    "cyrillic_name": "Аласкан",
+    "year_from": 2017,
+    "year_to": 2025,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "ARKANA",
+    "name": "Arkana",
+    "cyrillic_name": "Аркана",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "AUSTRAL",
+    "name": "Austral",
+    "cyrillic_name": "Аустрал",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "AVANTIME",
+    "name": "Avantime",
+    "cyrillic_name": "Авантайм",
+    "year_from": 2001,
+    "year_to": 2003,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "BOREAL",
+    "name": "Boreal",
+    "cyrillic_name": "Бореал",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "CAPTUR",
+    "name": "Captur",
+    "cyrillic_name": "Каптюр",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "CARAVELLE",
+    "name": "Caravelle",
+    "cyrillic_name": "Каравелла",
+    "year_from": 1958,
+    "year_to": 1968,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "CELTAQUATRE",
+    "name": "Celtaquatre",
+    "cyrillic_name": "Сельтакватр",
+    "year_from": 1934,
+    "year_to": 1938,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "CITY_K_ZE",
+    "name": "City K-ZE",
+    "cyrillic_name": "Сити К-ЗЕ",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "CLIO",
+    "name": "Clio",
+    "cyrillic_name": "Клио",
+    "year_from": 1990,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "CLIO_RS",
+    "name": "Clio RS",
+    "cyrillic_name": "Клио РС",
+    "year_from": 2000,
+    "year_to": 2019,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "CLIO_SYMBOL",
+    "name": "Symbol",
+    "cyrillic_name": "Симбол",
+    "year_from": 1999,
+    "year_to": 2021,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "CLIO_V6",
+    "name": "Clio V6",
+    "cyrillic_name": "Клио В6",
+    "year_from": 2001,
+    "year_to": 2005,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "DAUPHINE",
+    "name": "Dauphine",
+    "cyrillic_name": "дауфине",
+    "year_from": 1956,
+    "year_to": 1967,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "DOKKER",
+    "name": "Dokker",
+    "cyrillic_name": "доккер",
+    "year_from": 2012,
+    "year_to": 2021,
+    "brand_id": "RENAULT",
+    "nameplates": [
+      "Dokker",
+      "Stepway"
+    ]
+  },
+  {
+    "id": "DUSTER",
+    "name": "Duster",
+    "cyrillic_name": "Дастер",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "ESPACE",
+    "name": "Espace",
+    "cyrillic_name": "Эспэйс",
+    "year_from": 1984,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": [
+      "Espace",
+      "Grand Espace"
+    ]
+  },
+  {
+    "id": "EXPRESS",
+    "name": "Express",
+    "cyrillic_name": "Экспресс",
+    "year_from": 1986,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "FILANTE",
+    "name": "Filante",
+    "cyrillic_name": "Филантэ",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "FLORIDE",
+    "name": "Floride",
+    "cyrillic_name": "Флорид",
+    "year_from": 1958,
+    "year_to": 1968,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "FLUENCE",
+    "name": "Fluence",
+    "cyrillic_name": "Флюенс",
+    "year_from": 2009,
+    "year_to": 2017,
+    "brand_id": "RENAULT",
+    "nameplates": [
+      "Fluence",
+      "Z.E."
+    ]
+  },
+  {
+    "id": "FREGATE",
+    "name": "Fregate",
+    "cyrillic_name": "Фрегат",
+    "year_from": 1951,
+    "year_to": 1960,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "FUEGO",
+    "name": "Fuego",
+    "cyrillic_name": "Фуего",
+    "year_from": 1980,
+    "year_to": 1985,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "GRAND_KOLEOS",
+    "name": "Grand Koleos",
+    "cyrillic_name": "Гранд Колеос",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "KADJAR",
+    "name": "Kadjar",
+    "cyrillic_name": "Каджар",
+    "year_from": 2015,
+    "year_to": 2022,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "KANGOO",
+    "name": "Kangoo",
+    "cyrillic_name": "Кэнгу",
+    "year_from": 1997,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": [
+      "Kangoo",
+      "Grand Kangoo"
+    ]
+  },
+  {
+    "id": "KAPTUR",
+    "name": "Kaptur",
+    "cyrillic_name": "Каптюр",
+    "year_from": 2016,
+    "year_to": 2022,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "KARDIAN",
+    "name": "Kardian",
+    "cyrillic_name": "Кардиан",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "KIGER",
+    "name": "Kiger",
+    "cyrillic_name": "Кигер",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "KOLEOS",
+    "name": "Koleos",
+    "cyrillic_name": "Колеос",
+    "year_from": 2008,
+    "year_to": 2023,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "KWID",
+    "name": "KWID",
+    "cyrillic_name": "квид",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "LAGUNA",
+    "name": "Laguna",
+    "cyrillic_name": "Лагуна",
+    "year_from": 1993,
+    "year_to": 2015,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "LATITUDE",
+    "name": "Latitude",
+    "cyrillic_name": "Латитюд",
+    "year_from": 2010,
+    "year_to": 2015,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "LODGY",
+    "name": "Lodgy",
+    "cyrillic_name": "Лоджи",
+    "year_from": 2012,
+    "year_to": 2022,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "LOGAN",
+    "name": "Logan",
+    "cyrillic_name": "Логан",
+    "year_from": 2004,
+    "year_to": 2022,
+    "brand_id": "RENAULT",
+    "nameplates": [
+      "Logan",
+      "Stepway"
+    ]
+  },
+  {
+    "id": "LUTECIA",
+    "name": "Lutecia",
+    "cyrillic_name": "Лютеция",
+    "year_from": 1991,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "MEGANE",
+    "name": "Megane",
+    "cyrillic_name": "Меган",
+    "year_from": 1995,
+    "year_to": 2024,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "MEGANE_E_TECH",
+    "name": "Megane E-Tech",
+    "cyrillic_name": "Меган Е Тех",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "MEGANE_RS",
+    "name": "Megane RS",
+    "cyrillic_name": "Меган РС",
+    "year_from": 2004,
+    "year_to": 2023,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "MODUS",
+    "name": "Modus",
+    "cyrillic_name": "Модус",
+    "year_from": 2004,
+    "year_to": 2012,
+    "brand_id": "RENAULT",
+    "nameplates": [
+      "Modus",
+      "Grand"
+    ]
+  },
+  {
+    "id": "QM6",
+    "name": "QM6",
+    "cyrillic_name": "КьюЭм6",
+    "year_from": 2024,
+    "year_to": 2025,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "RAFALE",
+    "name": "Rafale",
+    "cyrillic_name": "Рафаль",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "RAPID",
+    "name": "Rapid",
+    "cyrillic_name": "Рапид",
+    "year_from": 1986,
+    "year_to": 1991,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "RODEO",
+    "name": "Rodeo",
+    "cyrillic_name": "Родео",
+    "year_from": 1971,
+    "year_to": 1987,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "SAFRANE",
+    "name": "Safrane",
+    "cyrillic_name": "Сафран",
+    "year_from": 1992,
+    "year_to": 2010,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "SANDERO",
+    "name": "Sandero",
+    "cyrillic_name": "Сандеро",
+    "year_from": 2009,
+    "year_to": 2022,
+    "brand_id": "RENAULT",
+    "nameplates": [
+      "Sandero",
+      "Stepway"
+    ]
+  },
+  {
+    "id": "SANDERO_RS",
+    "name": "Sandero RS",
+    "cyrillic_name": "Сандеро РС",
+    "year_from": 2015,
+    "year_to": 2021,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "SCENIC",
+    "name": "Scenic",
+    "cyrillic_name": "Сценик",
+    "year_from": 1996,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": [
+      "Scenic",
+      "Grand Scenic",
+      "Grand Scenic (MHEV)",
+      "Grand Scenic GPF",
+      "RX4"
+    ]
+  },
+  {
+    "id": "SPORT_SPYDER",
+    "name": "Sport Spider",
+    "cyrillic_name": "Спорт Спайдер",
+    "year_from": 1995,
+    "year_to": 2000,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "SYMBIOZ",
+    "name": "Symbioz",
+    "cyrillic_name": "Симбиоз",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "TALIANT",
+    "name": "Taliant",
+    "cyrillic_name": "Талиант",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "TALISMAN",
+    "name": "Talisman",
+    "cyrillic_name": "Талисман",
+    "year_from": 2015,
+    "year_to": 2022,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "TRAFIC",
+    "name": "Trafic",
+    "cyrillic_name": "трафик",
+    "year_from": 1980,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "TRIBER",
+    "name": "Triber",
+    "cyrillic_name": "Трибер",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "TWINGO",
+    "name": "Twingo",
+    "cyrillic_name": "Твинго",
+    "year_from": 1993,
+    "year_to": 2026,
+    "brand_id": "RENAULT",
+    "nameplates": [
+      "Twingo",
+      "RS"
+    ]
+  },
+  {
+    "id": "TWIZY",
+    "name": "Twizy",
+    "cyrillic_name": "Твизи",
+    "year_from": 2011,
+    "year_to": 2023,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "TYPE_NN",
+    "name": "Type NN",
+    "cyrillic_name": "Тайп НН",
+    "year_from": 1924,
+    "year_to": 1929,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "VEL_SATIS",
+    "name": "Vel Satis",
+    "cyrillic_name": "Вел Сатиз",
+    "year_from": 2002,
+    "year_to": 2009,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "VIVASTELLA",
+    "name": "Vivastella",
+    "cyrillic_name": "вивастелла",
+    "year_from": 1929,
+    "year_to": 1939,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "WIND",
+    "name": "Wind",
+    "cyrillic_name": "Винд",
+    "year_from": 2010,
+    "year_to": 2013,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  },
+  {
+    "id": "ZOE",
+    "name": "ZOE",
+    "cyrillic_name": "ЗОЕ",
+    "year_from": 2012,
+    "year_to": 2024,
+    "brand_id": "RENAULT",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "id": "ADAM",
+    "name": "Adam",
+    "cyrillic_name": "Адам",
+    "year_from": 2013,
+    "year_to": 2019,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "AMPERA",
+    "name": "Ampera",
+    "cyrillic_name": "Ампера",
+    "year_from": 2011,
+    "year_to": 2015,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "ASTRA",
+    "name": "Astra",
+    "cyrillic_name": "астра",
+    "year_from": 1979,
+    "year_to": 2015,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "CARLTON",
+    "name": "Carlton",
+    "cyrillic_name": "карлтон",
+    "year_from": 1984,
+    "year_to": 1994,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "CAVALIER",
+    "name": "Cavalier",
+    "cyrillic_name": "Кавалер",
+    "year_from": 1975,
+    "year_to": 1981,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "CHEVETTE",
+    "name": "Chevette",
+    "cyrillic_name": "шеветт",
+    "year_from": 1975,
+    "year_to": 1984,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "COMBO",
+    "name": "Combo",
+    "cyrillic_name": "Комбо",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "CORSA",
+    "name": "Corsa",
+    "cyrillic_name": "Корса",
+    "year_from": 1993,
+    "year_to": 2026,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "FIRENZA",
+    "name": "Firenza",
+    "cyrillic_name": "фиренза",
+    "year_from": 1970,
+    "year_to": 1975,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "FRONTERA",
+    "name": "Frontera",
+    "cyrillic_name": "Фронтера",
+    "year_from": 1991,
+    "year_to": 2004,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "INSIGNIA",
+    "name": "Insignia",
+    "cyrillic_name": "Инсигния",
+    "year_from": 2008,
+    "year_to": 2022,
+    "brand_id": "VAUXHALL",
+    "nameplates": [
+      "Insignia",
+      "Country Tourer"
+    ]
+  },
+  {
+    "id": "LOTUS_CARLTON",
+    "name": "Lotus Carlton",
+    "cyrillic_name": "Лотус Карлтон",
+    "year_from": 1990,
+    "year_to": 1992,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "MERIVA",
+    "name": "Meriva",
+    "cyrillic_name": "Мерива",
+    "year_from": 2003,
+    "year_to": 2018,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "MOKKA",
+    "name": "Mokka",
+    "cyrillic_name": "Мокка",
+    "year_from": 2012,
+    "year_to": 2019,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "MONARO",
+    "name": "Monaro",
+    "cyrillic_name": "Монаро",
+    "year_from": 2001,
+    "year_to": 2007,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "OMEGA",
+    "name": "Omega",
+    "cyrillic_name": "омега",
+    "year_from": 1994,
+    "year_to": 2003,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "ROYALE",
+    "name": "Royale",
+    "cyrillic_name": "рояле",
+    "year_from": 1978,
+    "year_to": 1987,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "TIGRA",
+    "name": "Tigra",
+    "cyrillic_name": "Тигра",
+    "year_from": 1994,
+    "year_to": 2009,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "VECTRA",
+    "name": "Vectra",
+    "cyrillic_name": "вектра",
+    "year_from": 1995,
+    "year_to": 2008,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "VELOX",
+    "name": "Velox",
+    "cyrillic_name": "Велокс",
+    "year_from": 1948,
+    "year_to": 1965,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "VENTORA",
+    "name": "Ventora",
+    "cyrillic_name": "вентора",
+    "year_from": 1969,
+    "year_to": 1976,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "VICEROY",
+    "name": "Viceroy",
+    "cyrillic_name": "Вайсрой",
+    "year_from": 1978,
+    "year_to": 1982,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "VICTOR",
+    "name": "Victor",
+    "cyrillic_name": "виктор",
+    "year_from": 1963,
+    "year_to": 1978,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "VIVA",
+    "name": "Viva",
+    "cyrillic_name": "вива",
+    "year_from": 1963,
+    "year_to": 1979,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "VIVARO",
+    "name": "Vivaro",
+    "cyrillic_name": "Виваро",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "VXR8",
+    "name": "VXR8",
+    "cyrillic_name": "вхр8",
+    "year_from": 2007,
+    "year_to": 2009,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  },
+  {
+    "id": "ZAFIRA",
+    "name": "Zafira",
+    "cyrillic_name": "Зафира",
+    "year_from": 1999,
+    "year_to": 2018,
+    "brand_id": "VAUXHALL",
+    "nameplates": []
+  }
+]

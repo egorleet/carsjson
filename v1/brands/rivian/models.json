@@ -1,0 +1,37 @@
+[
+  {
+    "id": "R1S",
+    "name": "R1S",
+    "cyrillic_name": "Р1С",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "RIVIAN",
+    "nameplates": [
+      "Large pack (135 kWh)",
+      "Max pack (180 kWh)",
+      "Standard pack (105 kWh)"
+    ]
+  },
+  {
+    "id": "R1T",
+    "name": "R1T",
+    "cyrillic_name": "Р1Т",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "RIVIAN",
+    "nameplates": [
+      "Large pack (135 kWh)",
+      "Max pack (180kWh)",
+      "Standard pack (105 kWh)"
+    ]
+  },
+  {
+    "id": "R2",
+    "name": "R2",
+    "cyrillic_name": "Р2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "RIVIAN",
+    "nameplates": []
+  }
+]

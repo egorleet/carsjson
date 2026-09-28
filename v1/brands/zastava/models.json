@@ -1,0 +1,38 @@
+[
+  {
+    "id": "10",
+    "name": "10",
+    "cyrillic_name": "10",
+    "year_from": 2006,
+    "year_to": 2008,
+    "brand_id": "ZASTAVA",
+    "nameplates": []
+  },
+  {
+    "id": "FLORIDA",
+    "name": "Florida",
+    "cyrillic_name": "Флорида",
+    "year_from": 1990,
+    "year_to": 2008,
+    "brand_id": "ZASTAVA",
+    "nameplates": []
+  },
+  {
+    "id": "SKALA",
+    "name": "Skala",
+    "cyrillic_name": "Скала",
+    "year_from": 1973,
+    "year_to": 2008,
+    "brand_id": "ZASTAVA",
+    "nameplates": []
+  },
+  {
+    "id": "YUGO",
+    "name": "Yugo",
+    "cyrillic_name": "Юго",
+    "year_from": 1990,
+    "year_to": 2008,
+    "brand_id": "ZASTAVA",
+    "nameplates": []
+  }
+]

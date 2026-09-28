@@ -1,0 +1,38 @@
+[
+  {
+    "id": "QUICK",
+    "name": "Quick",
+    "cyrillic_name": "Квик",
+    "year_from": 2018,
+    "year_to": 2024,
+    "brand_id": "SAIPA",
+    "nameplates": []
+  },
+  {
+    "id": "SAINA",
+    "name": "Saina",
+    "cyrillic_name": "Сайна",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "SAIPA",
+    "nameplates": []
+  },
+  {
+    "id": "SHAHIN",
+    "name": "Shahin",
+    "cyrillic_name": "шахин",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "SAIPA",
+    "nameplates": []
+  },
+  {
+    "id": "TIBA",
+    "name": "Tiba",
+    "cyrillic_name": "Тиба",
+    "year_from": 2009,
+    "year_to": 2022,
+    "brand_id": "SAIPA",
+    "nameplates": []
+  }
+]

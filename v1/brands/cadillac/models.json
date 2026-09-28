@@ -1,0 +1,409 @@
+[
+  {
+    "id": "ALLANTE",
+    "name": "Allante",
+    "cyrillic_name": "Аланте",
+    "year_from": 1989,
+    "year_to": 1996,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "ATS",
+    "name": "ATS",
+    "cyrillic_name": "АТС",
+    "year_from": 2012,
+    "year_to": 2019,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "ATS_V",
+    "name": "ATS-V",
+    "cyrillic_name": "атс-в",
+    "year_from": 2015,
+    "year_to": 2019,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "BLS",
+    "name": "BLS",
+    "cyrillic_name": "блс",
+    "year_from": 2006,
+    "year_to": 2009,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "BROUGHAM",
+    "name": "Brougham",
+    "cyrillic_name": "Броугхэм",
+    "year_from": 1987,
+    "year_to": 1992,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "CATERA",
+    "name": "Catera",
+    "cyrillic_name": "Катера",
+    "year_from": 1996,
+    "year_to": 2001,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "CELESTIQ",
+    "name": "Celestiq",
+    "cyrillic_name": "Целестик",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "CT4",
+    "name": "CT4",
+    "cyrillic_name": "СТ4",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "CT4_V",
+    "name": "CT4-V",
+    "cyrillic_name": "СТ4-В",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "CT5",
+    "name": "CT5",
+    "cyrillic_name": "СТ5",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "CT5_V",
+    "name": "CT5-V",
+    "cyrillic_name": "СТ5-В",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "CT6",
+    "name": "CT6",
+    "cyrillic_name": "СТ6",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "CTS",
+    "name": "CTS",
+    "cyrillic_name": "цтс",
+    "year_from": 2002,
+    "year_to": 2019,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "CTS_V",
+    "name": "CTS-V",
+    "cyrillic_name": "Си-Ти-Эс-Вэ",
+    "year_from": 2004,
+    "year_to": 2019,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "DE_VILLE",
+    "name": "DeVille",
+    "cyrillic_name": "Девиль",
+    "year_from": 1958,
+    "year_to": 2005,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "DTS",
+    "name": "DTS",
+    "cyrillic_name": "дтс",
+    "year_from": 2005,
+    "year_to": 2011,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "ELDORADO",
+    "name": "Eldorado",
+    "cyrillic_name": "Эльдорадо",
+    "year_from": 1953,
+    "year_to": 2002,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "ELR",
+    "name": "ELR",
+    "cyrillic_name": "елр",
+    "year_from": 2013,
+    "year_to": 2016,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "ESCALADE",
+    "name": "Escalade",
+    "cyrillic_name": "Эскалейд",
+    "year_from": 1998,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": [
+      "Escalade",
+      "ESV",
+      "EXT"
+    ]
+  },
+  {
+    "id": "ESCALADE_IQ",
+    "name": "Escalade iQ",
+    "cyrillic_name": "Эскалейд АйКью",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": [
+      "Escalade iQ",
+      "L",
+      "Long"
+    ]
+  },
+  {
+    "id": "ESCALADE_V",
+    "name": "Escalade-V",
+    "cyrillic_name": "Эскалейд-В",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": [
+      "Escalade-V",
+      "ESV"
+    ]
+  },
+  {
+    "id": "FLEETWOOD",
+    "name": "Fleetwood",
+    "cyrillic_name": "флитвуд",
+    "year_from": 1956,
+    "year_to": 1996,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "GT4",
+    "name": "GT4",
+    "cyrillic_name": "ГТ4",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "LIRIQ_V",
+    "name": "Lyriq-V",
+    "cyrillic_name": "Лирик-в",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "LSE",
+    "name": "LSE",
+    "cyrillic_name": "лсе",
+    "year_from": 1993,
+    "year_to": 1996,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "LYRIQ",
+    "name": "Lyriq",
+    "cyrillic_name": "Лирик",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "MODEL_30",
+    "name": "Model 30",
+    "cyrillic_name": "Модель 30",
+    "year_from": 1909,
+    "year_to": 1914,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "OPTIQ",
+    "name": "Optiq",
+    "cyrillic_name": "Оптик",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "OPTIQ_V",
+    "name": "Optiq-V",
+    "cyrillic_name": "Оптик В",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "SERIES_314",
+    "name": "Series 314",
+    "cyrillic_name": "Серия 314",
+    "year_from": 1925,
+    "year_to": 1927,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "SERIES_341",
+    "name": "Series 341",
+    "cyrillic_name": "Серия 341",
+    "year_from": 1927,
+    "year_to": 1929,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "SERIES_62",
+    "name": "Series 62",
+    "cyrillic_name": "серия 62",
+    "year_from": 1940,
+    "year_to": 1956,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "SEVILLE",
+    "name": "Seville",
+    "cyrillic_name": "Севиль",
+    "year_from": 1975,
+    "year_to": 2004,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "SIXTY_SPECIAL",
+    "name": "Sixty Special",
+    "cyrillic_name": "Сиксти Спешл",
+    "year_from": 1971,
+    "year_to": 1976,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "SRX",
+    "name": "SRX",
+    "cyrillic_name": "срх",
+    "year_from": 2003,
+    "year_to": 2016,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "STS",
+    "name": "STS",
+    "cyrillic_name": "стс",
+    "year_from": 2004,
+    "year_to": 2011,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "STS_V",
+    "name": "STS-V",
+    "cyrillic_name": "СТС-В",
+    "year_from": 2005,
+    "year_to": 2009,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "V12",
+    "name": "V12",
+    "cyrillic_name": "В12",
+    "year_from": 1931,
+    "year_to": 1935,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "VISTIQ",
+    "name": "Vistiq",
+    "cyrillic_name": "Вистик",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "XLR",
+    "name": "XLR",
+    "cyrillic_name": "хлр",
+    "year_from": 2003,
+    "year_to": 2009,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "XT4",
+    "name": "XT4",
+    "cyrillic_name": "ХТ4",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "XT5",
+    "name": "XT5",
+    "cyrillic_name": "ХТ5",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "XT6",
+    "name": "XT6",
+    "cyrillic_name": "ХТ6",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  },
+  {
+    "id": "XTS",
+    "name": "XTS",
+    "cyrillic_name": "хтс",
+    "year_from": 2012,
+    "year_to": 2019,
+    "brand_id": "CADILLAC",
+    "nameplates": []
+  }
+]

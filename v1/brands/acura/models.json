@@ -1,0 +1,173 @@
+[
+  {
+    "id": "ADX",
+    "name": "ADX",
+    "cyrillic_name": "АДИкс",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "CDX",
+    "name": "CDX",
+    "cyrillic_name": "сдх",
+    "year_from": 2016,
+    "year_to": 2021,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "CL",
+    "name": "CL",
+    "cyrillic_name": "сл",
+    "year_from": 1996,
+    "year_to": 2003,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "CSX",
+    "name": "CSX",
+    "cyrillic_name": "цсх",
+    "year_from": 2005,
+    "year_to": 2011,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "EL",
+    "name": "EL",
+    "cyrillic_name": "ЕЛ",
+    "year_from": 1997,
+    "year_to": 2005,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "ILX",
+    "name": "ILX",
+    "cyrillic_name": "ИЛХ",
+    "year_from": 2012,
+    "year_to": 2022,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "INTEGRA",
+    "name": "Integra",
+    "cyrillic_name": "интегра",
+    "year_from": 1986,
+    "year_to": 2026,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "LEGEND",
+    "name": "Legend",
+    "cyrillic_name": "легенд",
+    "year_from": 1986,
+    "year_to": 1996,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "MDX",
+    "name": "MDX",
+    "cyrillic_name": "мдх",
+    "year_from": 2000,
+    "year_to": 2026,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "NSX",
+    "name": "NSX",
+    "cyrillic_name": "нсх",
+    "year_from": 1990,
+    "year_to": 2022,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "RDX",
+    "name": "RDX",
+    "cyrillic_name": "РДХ",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "RL",
+    "name": "RL",
+    "cyrillic_name": "рл",
+    "year_from": 1995,
+    "year_to": 2012,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "RLX",
+    "name": "RLX",
+    "cyrillic_name": "рлх",
+    "year_from": 2013,
+    "year_to": 2020,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "RSX",
+    "name": "RSX",
+    "cyrillic_name": "рсх",
+    "year_from": 2001,
+    "year_to": 2006,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "SLX",
+    "name": "SLX",
+    "cyrillic_name": "слх",
+    "year_from": 1995,
+    "year_to": 1999,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "TL",
+    "name": "TL",
+    "cyrillic_name": "тл",
+    "year_from": 1995,
+    "year_to": 2014,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "TLX",
+    "name": "TLX",
+    "cyrillic_name": "тлх",
+    "year_from": 2014,
+    "year_to": 2025,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "TSX",
+    "name": "TSX",
+    "cyrillic_name": "тсх",
+    "year_from": 2003,
+    "year_to": 2014,
+    "brand_id": "ACURA",
+    "nameplates": []
+  },
+  {
+    "id": "ZDX",
+    "name": "ZDX",
+    "cyrillic_name": "здх",
+    "year_from": 2009,
+    "year_to": 2025,
+    "brand_id": "ACURA",
+    "nameplates": []
+  }
+]

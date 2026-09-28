@@ -1,0 +1,32 @@
+[
+  {
+    "id": "KOMENDANT",
+    "name": "Komendant",
+    "cyrillic_name": "Комендант",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "AURUS",
+    "nameplates": []
+  },
+  {
+    "id": "LAFET",
+    "name": "Lafet",
+    "cyrillic_name": "Лафет",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "AURUS",
+    "nameplates": []
+  },
+  {
+    "id": "SENAT",
+    "name": "Senat",
+    "cyrillic_name": "Сенат",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "AURUS",
+    "nameplates": [
+      "Senat",
+      "Long"
+    ]
+  }
+]

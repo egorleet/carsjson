@@ -1,0 +1,828 @@
+[
+  {
+    "id": "3000_GT",
+    "name": "3000 GT",
+    "cyrillic_name": "3000",
+    "year_from": 1990,
+    "year_to": 2001,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "500",
+    "name": "500",
+    "cyrillic_name": "500",
+    "year_from": 1960,
+    "year_to": 1962,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "AIRTREK",
+    "name": "Airtrek",
+    "cyrillic_name": "Аиртрек",
+    "year_from": 2001,
+    "year_to": 2023,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "Airtrek",
+      "69.9 kWh",
+      "71.8 kWh"
+    ]
+  },
+  {
+    "id": "ASPIRE",
+    "name": "Aspire",
+    "cyrillic_name": "Аспайр",
+    "year_from": 1998,
+    "year_to": 2003,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "ASX",
+    "name": "ASX",
+    "cyrillic_name": "ASX",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "ATTRAGE",
+    "name": "Attrage",
+    "cyrillic_name": "Аттраж",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "BRABO",
+    "name": "Bravo",
+    "cyrillic_name": "Браво",
+    "year_from": 1991,
+    "year_to": 1999,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "CARISMA",
+    "name": "Carisma",
+    "cyrillic_name": "Каризма",
+    "year_from": 1995,
+    "year_to": 2004,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "CELESTE",
+    "name": "Celeste",
+    "cyrillic_name": "Селест",
+    "year_from": 1975,
+    "year_to": 1981,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "CHALLENGER",
+    "name": "Challenger",
+    "cyrillic_name": "Челленджер",
+    "year_from": 1996,
+    "year_to": 2015,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "CHARIOT",
+    "name": "Chariot",
+    "cyrillic_name": "Шариот",
+    "year_from": 1983,
+    "year_to": 2003,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "COLT",
+    "name": "Colt",
+    "cyrillic_name": "Кольт",
+    "year_from": 1978,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "Colt",
+      "Ralliart"
+    ]
+  },
+  {
+    "id": "CORDIA",
+    "name": "Cordia",
+    "cyrillic_name": "Кордия",
+    "year_from": 1982,
+    "year_to": 1990,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "DEBONAIR",
+    "name": "Debonair",
+    "cyrillic_name": "дебонаир",
+    "year_from": 1986,
+    "year_to": 1999,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "DELICA",
+    "name": "Delica",
+    "cyrillic_name": "Делика",
+    "year_from": 1979,
+    "year_to": 2019,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "DELICA_D2",
+    "name": "Delica D:2",
+    "cyrillic_name": "Делика Д:2",
+    "year_from": 2011,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "DELICA_D3",
+    "name": "Delica D:3",
+    "cyrillic_name": "Делика Д:3",
+    "year_from": 2011,
+    "year_to": 2019,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "DELICA_D_5",
+    "name": "Delica D:5",
+    "cyrillic_name": "Дулика Д:5",
+    "year_from": 2007,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "DELICA_MINI",
+    "name": "Delica Mini",
+    "cyrillic_name": "Делика Мини",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "DESTINATOR",
+    "name": "Destinator",
+    "cyrillic_name": "Дестинатор",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "DIAMANTE",
+    "name": "Diamante",
+    "cyrillic_name": "Диамант",
+    "year_from": 1990,
+    "year_to": 2005,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "DIGNITY",
+    "name": "Dignity",
+    "cyrillic_name": "Дигнити",
+    "year_from": 1999,
+    "year_to": 2016,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "DINGO",
+    "name": "Dingo",
+    "cyrillic_name": "Динго",
+    "year_from": 1998,
+    "year_to": 2003,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "DION",
+    "name": "Dion",
+    "cyrillic_name": "Дион",
+    "year_from": 2000,
+    "year_to": 2005,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "ECLIPSE",
+    "name": "Eclipse",
+    "cyrillic_name": "Эклипс",
+    "year_from": 1989,
+    "year_to": 2011,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "ECLIPSE_CROSS",
+    "name": "Eclipse Cross",
+    "cyrillic_name": "Эклипс Кросс",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "EK_ACTIVE",
+    "name": "eK Active",
+    "cyrillic_name": "еК Актив",
+    "year_from": 2004,
+    "year_to": 2006,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "EK_CLASSIC",
+    "name": "eK Classic",
+    "cyrillic_name": "еК Классик",
+    "year_from": 2003,
+    "year_to": 2005,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "EK_CUSTOM",
+    "name": "eK Custom",
+    "cyrillic_name": "еК Кастом",
+    "year_from": 2013,
+    "year_to": 2019,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "EK_SPACE",
+    "name": "eK Space",
+    "cyrillic_name": "еК Спейс",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "EK_SPORT",
+    "name": "eK Sport",
+    "cyrillic_name": "еК Спорт",
+    "year_from": 2002,
+    "year_to": 2013,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "EK_WAGON",
+    "name": "eK Wagon",
+    "cyrillic_name": "eK Вагон",
+    "year_from": 2001,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "EK_X",
+    "name": "eK X",
+    "cyrillic_name": "ек икс",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "EMERAUDE",
+    "name": "Emeraude",
+    "cyrillic_name": "Эмерауд",
+    "year_from": 1992,
+    "year_to": 1996,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "ENDEAVOR",
+    "name": "Endeavor",
+    "cyrillic_name": "Эндевор",
+    "year_from": 2003,
+    "year_to": 2011,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "ETERNA",
+    "name": "Eterna",
+    "cyrillic_name": "Этерна",
+    "year_from": 1983,
+    "year_to": 1996,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "Eterna",
+      "Sava"
+    ]
+  },
+  {
+    "id": "FREECA",
+    "name": "Freeca",
+    "cyrillic_name": "фриса",
+    "year_from": 1997,
+    "year_to": 2017,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "FTO",
+    "name": "FTO",
+    "cyrillic_name": "FTO",
+    "year_from": 1994,
+    "year_to": 2001,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "GALANT",
+    "name": "Galant",
+    "cyrillic_name": "Галант",
+    "year_from": 1976,
+    "year_to": 2012,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "Galant",
+      "VR-4"
+    ]
+  },
+  {
+    "id": "GALANT_FORTIS",
+    "name": "Galant Fortis",
+    "cyrillic_name": "Галант Фортис",
+    "year_from": 2007,
+    "year_to": 2015,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "Galant Fortis",
+      "Ralliart"
+    ]
+  },
+  {
+    "id": "GRANDIS",
+    "name": "Grandis",
+    "cyrillic_name": "Грандис",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "GTO",
+    "name": "GTO",
+    "cyrillic_name": "GTO",
+    "year_from": 1990,
+    "year_to": 2005,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "I",
+    "name": "i",
+    "cyrillic_name": "i",
+    "year_from": 2006,
+    "year_to": 2013,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "I_MIEV",
+    "name": "i-MiEV",
+    "cyrillic_name": "i-MiEV",
+    "year_from": 2009,
+    "year_to": 2015,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "JEEP_J",
+    "name": "Jeep J",
+    "cyrillic_name": "Джип",
+    "year_from": 1953,
+    "year_to": 1998,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "L200",
+    "name": "L200",
+    "cyrillic_name": "Л200",
+    "year_from": 1986,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "L200",
+      "Arctic Trucks"
+    ]
+  },
+  {
+    "id": "L300",
+    "name": "L300",
+    "cyrillic_name": "л300",
+    "year_from": 1979,
+    "year_to": 1999,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "L400",
+    "name": "L400",
+    "cyrillic_name": "л400",
+    "year_from": 1995,
+    "year_to": 2006,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "LANCER",
+    "name": "Lancer",
+    "cyrillic_name": "Лансер",
+    "year_from": 1973,
+    "year_to": 2017,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "Lancer",
+      "Cedia"
+    ]
+  },
+  {
+    "id": "LANCER_CARGO",
+    "name": "Lancer Cargo",
+    "cyrillic_name": "Лансер Карго",
+    "year_from": 2002,
+    "year_to": 2019,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "LANCER_EVOLUTION",
+    "name": "Lancer Evolution",
+    "cyrillic_name": "Лансер Эволюшн",
+    "year_from": 1992,
+    "year_to": 2016,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "LANCER_RALLIART",
+    "name": "Lancer Ralliart",
+    "cyrillic_name": "Лансер Раллиарт",
+    "year_from": 2003,
+    "year_to": 2012,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "LEGNUM",
+    "name": "Legnum",
+    "cyrillic_name": "Легнум",
+    "year_from": 1996,
+    "year_to": 2002,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "LIBERO",
+    "name": "Libero",
+    "cyrillic_name": "Либеро",
+    "year_from": 1992,
+    "year_to": 2003,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "MINICA",
+    "name": "Minica",
+    "cyrillic_name": "Миника",
+    "year_from": 1984,
+    "year_to": 2011,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "Minica",
+      "Toppo"
+    ]
+  },
+  {
+    "id": "MINICAB",
+    "name": "Minicab",
+    "cyrillic_name": "Миникэб",
+    "year_from": 1984,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "Minicab",
+      "MiEV"
+    ]
+  },
+  {
+    "id": "MIRAGE",
+    "name": "Mirage",
+    "cyrillic_name": "Мираж",
+    "year_from": 1978,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "Mirage",
+      "Asti"
+    ]
+  },
+  {
+    "id": "MONTERO",
+    "name": "Montero",
+    "cyrillic_name": "Монтеро",
+    "year_from": 1982,
+    "year_to": 2021,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "MONTERO_SPORT",
+    "name": "Montero Sport",
+    "cyrillic_name": "Монтеро Спорт",
+    "year_from": 1996,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "OUTLANDER",
+    "name": "Outlander",
+    "cyrillic_name": "Аутлендер",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "Outlander",
+      "PHEV"
+    ]
+  },
+  {
+    "id": "OUTLANDER_SPORT",
+    "name": "Outlander Sport",
+    "cyrillic_name": "Аутлендер Спорт",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "PAJERO",
+    "name": "Pajero",
+    "cyrillic_name": "Паджеро",
+    "year_from": 1982,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "Pajero",
+      "Evolution"
+    ]
+  },
+  {
+    "id": "PAJERO_IO",
+    "name": "Pajero iO",
+    "cyrillic_name": "Паджеро iO",
+    "year_from": 1998,
+    "year_to": 2007,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "PAJERO_JUNIOR",
+    "name": "Pajero Junior",
+    "cyrillic_name": "Паджеро Джуниор",
+    "year_from": 1995,
+    "year_to": 1998,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "PAJERO_MINI",
+    "name": "Pajero Mini",
+    "cyrillic_name": "Паджеро Мини",
+    "year_from": 1994,
+    "year_to": 2012,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "PAJERO_PININ",
+    "name": "Pajero Pinin",
+    "cyrillic_name": "Паджеро Пинин",
+    "year_from": 1998,
+    "year_to": 2006,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "PAJERO_SPORT",
+    "name": "Pajero Sport",
+    "cyrillic_name": "Паджеро Спорт",
+    "year_from": 1998,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "Pajero Sport",
+      "Arctic Trucks"
+    ]
+  },
+  {
+    "id": "PISTACHIO",
+    "name": "Pistachio",
+    "cyrillic_name": "Писташио",
+    "year_from": 1999,
+    "year_to": 2000,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "PROUDIA",
+    "name": "Proudia",
+    "cyrillic_name": "Прудия",
+    "year_from": 1999,
+    "year_to": 2016,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "RAIDER",
+    "name": "Raider",
+    "cyrillic_name": "Рэйдер",
+    "year_from": 2006,
+    "year_to": 2009,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "RVR",
+    "name": "RVR",
+    "cyrillic_name": "РВР",
+    "year_from": 1991,
+    "year_to": 2024,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "SAPPORO",
+    "name": "Sapporo",
+    "cyrillic_name": "Саппоро",
+    "year_from": 1978,
+    "year_to": 1990,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "SAVRIN",
+    "name": "Savrin",
+    "cyrillic_name": "саврин",
+    "year_from": 2001,
+    "year_to": 2014,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "SIGMA",
+    "name": "Sigma",
+    "cyrillic_name": "Сигма",
+    "year_from": 1990,
+    "year_to": 1996,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "SPACE_GEAR",
+    "name": "Space Gear",
+    "cyrillic_name": "Спайс Гир",
+    "year_from": 1994,
+    "year_to": 2007,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "SPACE_RUNNER",
+    "name": "Space Runner",
+    "cyrillic_name": "Спайс Раннер",
+    "year_from": 1991,
+    "year_to": 2002,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "SPACE_STAR",
+    "name": "Space Star",
+    "cyrillic_name": "Спайс Стар",
+    "year_from": 1998,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "SPACE_WAGON",
+    "name": "Space Wagon",
+    "cyrillic_name": "Спайс Вагон",
+    "year_from": 1984,
+    "year_to": 2004,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "STARION",
+    "name": "Starion",
+    "cyrillic_name": "Старион",
+    "year_from": 1982,
+    "year_to": 1990,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "STRADA",
+    "name": "Strada",
+    "cyrillic_name": "Страда",
+    "year_from": 1991,
+    "year_to": 2023,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "Strada",
+      "Athlete"
+    ]
+  },
+  {
+    "id": "TOPPO",
+    "name": "Toppo",
+    "cyrillic_name": "Топпо",
+    "year_from": 1990,
+    "year_to": 2013,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "TOWN_BOX",
+    "name": "Town Box",
+    "cyrillic_name": "Таун Бокс",
+    "year_from": 1999,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "Town Box",
+      "Wide"
+    ]
+  },
+  {
+    "id": "TREDIA",
+    "name": "Tredia",
+    "cyrillic_name": "Тредия",
+    "year_from": 1982,
+    "year_to": 1987,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "TRITON",
+    "name": "Triton",
+    "cyrillic_name": "Тритон",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "Triton",
+      "Athlete"
+    ]
+  },
+  {
+    "id": "XFORCE",
+    "name": "Xforce",
+    "cyrillic_name": "Иксфорс",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
+    "id": "XPANDER",
+    "name": "Xpander",
+    "cyrillic_name": "хпандер",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": [
+      "Xpander",
+      "Cross"
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "CUSTOM",
+    "name": "Custom",
+    "cyrillic_name": "кастом",
+    "year_from": 1949,
+    "year_to": 1952,
+    "brand_id": "DESOTO",
+    "nameplates": []
+  },
+  {
+    "id": "DELUXE",
+    "name": "Deluxe",
+    "cyrillic_name": "Делюкс",
+    "year_from": 1946,
+    "year_to": 1952,
+    "brand_id": "DESOTO",
+    "nameplates": [
+      "Deluxe",
+      "Business Coupe",
+      "Club Coupe"
+    ]
+  },
+  {
+    "id": "FIREDOME",
+    "name": "Firedome",
+    "cyrillic_name": "Файрдом",
+    "year_from": 1952,
+    "year_to": 1959,
+    "brand_id": "DESOTO",
+    "nameplates": []
+  },
+  {
+    "id": "FIREFLITE",
+    "name": "Fireflite",
+    "cyrillic_name": "Файрфлит",
+    "year_from": 1955,
+    "year_to": 1960,
+    "brand_id": "DESOTO",
+    "nameplates": []
+  }
+]

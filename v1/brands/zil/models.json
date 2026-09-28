@@ -1,0 +1,38 @@
+[
+  {
+    "id": "111",
+    "name": "111",
+    "cyrillic_name": "111",
+    "year_from": 1959,
+    "year_to": 1967,
+    "brand_id": "ZIL",
+    "nameplates": []
+  },
+  {
+    "id": "114",
+    "name": "114",
+    "cyrillic_name": "114",
+    "year_from": 1967,
+    "year_to": 1978,
+    "brand_id": "ZIL",
+    "nameplates": []
+  },
+  {
+    "id": "117",
+    "name": "117",
+    "cyrillic_name": "117",
+    "year_from": 1971,
+    "year_to": 1978,
+    "brand_id": "ZIL",
+    "nameplates": []
+  },
+  {
+    "id": "4104",
+    "name": "4104",
+    "cyrillic_name": "4104",
+    "year_from": 1978,
+    "year_to": 2002,
+    "brand_id": "ZIL",
+    "nameplates": []
+  }
+]

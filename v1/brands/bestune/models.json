@@ -1,0 +1,38 @@
+[
+  {
+    "id": "B70",
+    "name": "B70",
+    "cyrillic_name": "Б70",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "BESTUNE",
+    "nameplates": []
+  },
+  {
+    "id": "T55",
+    "name": "T55",
+    "cyrillic_name": "Т55",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "BESTUNE",
+    "nameplates": []
+  },
+  {
+    "id": "T77",
+    "name": "T77",
+    "cyrillic_name": "Т77",
+    "year_from": 2020,
+    "year_to": 2025,
+    "brand_id": "BESTUNE",
+    "nameplates": []
+  },
+  {
+    "id": "T90",
+    "name": "T90",
+    "cyrillic_name": "Т90",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "BESTUNE",
+    "nameplates": []
+  }
+]

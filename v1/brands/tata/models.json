@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ARIA",
+    "name": "Aria",
+    "cyrillic_name": "Ария",
+    "year_from": 2010,
+    "year_to": 2017,
+    "brand_id": "TATA",
+    "nameplates": []
+  },
+  {
+    "id": "CURVV",
+    "name": "Curvv",
+    "cyrillic_name": "Курвв",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "TATA",
+    "nameplates": []
+  },
+  {
+    "id": "ESTATE",
+    "name": "Estate",
+    "cyrillic_name": "Эстейт",
+    "year_from": 1993,
+    "year_to": 2000,
+    "brand_id": "TATA",
+    "nameplates": []
+  },
+  {
+    "id": "INDICA",
+    "name": "Indica",
+    "cyrillic_name": "Индика",
+    "year_from": 1998,
+    "year_to": 2018,
+    "brand_id": "TATA",
+    "nameplates": []
+  },
+  {
+    "id": "INDIGO",
+    "name": "Indigo",
+    "cyrillic_name": "Индиго",
+    "year_from": 2002,
+    "year_to": 2016,
+    "brand_id": "TATA",
+    "nameplates": []
+  },
+  {
+    "id": "NANO",
+    "name": "Nano",
+    "cyrillic_name": "Нано",
+    "year_from": 2008,
+    "year_to": 2018,
+    "brand_id": "TATA",
+    "nameplates": []
+  },
+  {
+    "id": "SAFARI",
+    "name": "Safari",
+    "cyrillic_name": "Сафари",
+    "year_from": 1998,
+    "year_to": 2019,
+    "brand_id": "TATA",
+    "nameplates": []
+  },
+  {
+    "id": "SIERRA",
+    "name": "Sierra",
+    "cyrillic_name": "Сьерра",
+    "year_from": 1993,
+    "year_to": 2001,
+    "brand_id": "TATA",
+    "nameplates": []
+  },
+  {
+    "id": "SUMO",
+    "name": "Sumo",
+    "cyrillic_name": "Сумо",
+    "year_from": 1996,
+    "year_to": 2004,
+    "brand_id": "TATA",
+    "nameplates": []
+  },
+  {
+    "id": "SUMO_GRANDE",
+    "name": "Sumo Grande",
+    "cyrillic_name": "сумо гранде",
+    "year_from": 2008,
+    "year_to": 2016,
+    "brand_id": "TATA",
+    "nameplates": []
+  },
+  {
+    "id": "TELCOLINE",
+    "name": "Telcoline",
+    "cyrillic_name": "Тэлколайн",
+    "year_from": 2005,
+    "year_to": 2007,
+    "brand_id": "TATA",
+    "nameplates": []
+  },
+  {
+    "id": "XENON",
+    "name": "Xenon",
+    "cyrillic_name": "Ксенон",
+    "year_from": 2006,
+    "year_to": 2026,
+    "brand_id": "TATA",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "SF1",
+    "name": "SF1",
+    "cyrillic_name": "СФ1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "SOLLERS",
+    "nameplates": []
+  },
+  {
+    "id": "SP7",
+    "name": "SP7",
+    "cyrillic_name": "СП7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "SOLLERS",
+    "nameplates": []
+  },
+  {
+    "id": "ST6",
+    "name": "ST6",
+    "cyrillic_name": "СТ6",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "SOLLERS",
+    "nameplates": []
+  },
+  {
+    "id": "ST8",
+    "name": "ST8",
+    "cyrillic_name": "СТ8",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "SOLLERS",
+    "nameplates": []
+  },
+  {
+    "id": "ST9",
+    "name": "ST9",
+    "cyrillic_name": "СТ9",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "SOLLERS",
+    "nameplates": []
+  }
+]

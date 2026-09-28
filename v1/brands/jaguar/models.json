@@ -1,0 +1,186 @@
+[
+  {
+    "id": "E_PACE",
+    "name": "E-Pace",
+    "cyrillic_name": "Е-Пейс",
+    "year_from": 2017,
+    "year_to": 2024,
+    "brand_id": "JAGUAR",
+    "nameplates": []
+  },
+  {
+    "id": "E_TYPE",
+    "name": "E-type",
+    "cyrillic_name": "Е-Тайп",
+    "year_from": 1961,
+    "year_to": 1975,
+    "brand_id": "JAGUAR",
+    "nameplates": []
+  },
+  {
+    "id": "F_PACE",
+    "name": "F-Pace",
+    "cyrillic_name": "F-Pace",
+    "year_from": 2016,
+    "year_to": 2025,
+    "brand_id": "JAGUAR",
+    "nameplates": [
+      "F-Pace",
+      "SVR",
+      "SVR P575"
+    ]
+  },
+  {
+    "id": "F_TYPE",
+    "name": "F-Type",
+    "cyrillic_name": "Ф-Тайп",
+    "year_from": 2013,
+    "year_to": 2024,
+    "brand_id": "JAGUAR",
+    "nameplates": [
+      "F-Type",
+      "R",
+      "S",
+      "SVR",
+      "V8 S"
+    ]
+  },
+  {
+    "id": "I_PACE",
+    "name": "I-Pace",
+    "cyrillic_name": "Ай-Пейс",
+    "year_from": 2018,
+    "year_to": 2024,
+    "brand_id": "JAGUAR",
+    "nameplates": []
+  },
+  {
+    "id": "MARK_2",
+    "name": "Mark 2",
+    "cyrillic_name": "Марк 2",
+    "year_from": 1959,
+    "year_to": 1967,
+    "brand_id": "JAGUAR",
+    "nameplates": []
+  },
+  {
+    "id": "MARK_IX",
+    "name": "Mark IX",
+    "cyrillic_name": "Марк 9",
+    "year_from": 1958,
+    "year_to": 1961,
+    "brand_id": "JAGUAR",
+    "nameplates": []
+  },
+  {
+    "id": "S_TYPE",
+    "name": "S-Type",
+    "cyrillic_name": "S-type",
+    "year_from": 1963,
+    "year_to": 2008,
+    "brand_id": "JAGUAR",
+    "nameplates": [
+      "S-Type",
+      "R"
+    ]
+  },
+  {
+    "id": "XE",
+    "name": "XE",
+    "cyrillic_name": "XE",
+    "year_from": 2015,
+    "year_to": 2024,
+    "brand_id": "JAGUAR",
+    "nameplates": [
+      "XE",
+      "S"
+    ]
+  },
+  {
+    "id": "XF",
+    "name": "XF",
+    "cyrillic_name": "XF",
+    "year_from": 2007,
+    "year_to": 2024,
+    "brand_id": "JAGUAR",
+    "nameplates": []
+  },
+  {
+    "id": "XFR",
+    "name": "XFR",
+    "cyrillic_name": "XFR",
+    "year_from": 2009,
+    "year_to": 2015,
+    "brand_id": "JAGUAR",
+    "nameplates": []
+  },
+  {
+    "id": "XJ",
+    "name": "XJ",
+    "cyrillic_name": "XJ",
+    "year_from": 1968,
+    "year_to": 2019,
+    "brand_id": "JAGUAR",
+    "nameplates": [
+      "XJ",
+      "Long"
+    ]
+  },
+  {
+    "id": "XJ220",
+    "name": "XJ220",
+    "cyrillic_name": "XJ220",
+    "year_from": 1992,
+    "year_to": 1994,
+    "brand_id": "JAGUAR",
+    "nameplates": []
+  },
+  {
+    "id": "XJR",
+    "name": "XJR",
+    "cyrillic_name": "XJR",
+    "year_from": 1994,
+    "year_to": 2019,
+    "brand_id": "JAGUAR",
+    "nameplates": [
+      "XJR",
+      "Long"
+    ]
+  },
+  {
+    "id": "XJS",
+    "name": "XJS",
+    "cyrillic_name": "XJS",
+    "year_from": 1975,
+    "year_to": 1996,
+    "brand_id": "JAGUAR",
+    "nameplates": []
+  },
+  {
+    "id": "XK",
+    "name": "XK",
+    "cyrillic_name": "XK",
+    "year_from": 1948,
+    "year_to": 2014,
+    "brand_id": "JAGUAR",
+    "nameplates": []
+  },
+  {
+    "id": "XKR",
+    "name": "XKR",
+    "cyrillic_name": "XKR",
+    "year_from": 1998,
+    "year_to": 2014,
+    "brand_id": "JAGUAR",
+    "nameplates": []
+  },
+  {
+    "id": "X_TYPE",
+    "name": "X-Type",
+    "cyrillic_name": "X-type",
+    "year_from": 2001,
+    "year_to": 2009,
+    "brand_id": "JAGUAR",
+    "nameplates": []
+  }
+]

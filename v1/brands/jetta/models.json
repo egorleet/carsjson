@@ -1,0 +1,56 @@
+[
+  {
+    "id": "M6",
+    "name": "M6",
+    "cyrillic_name": "М6",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "JETTA",
+    "nameplates": []
+  },
+  {
+    "id": "VA3",
+    "name": "VA3",
+    "cyrillic_name": "ВА3",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "JETTA",
+    "nameplates": []
+  },
+  {
+    "id": "VA7",
+    "name": "VA7",
+    "cyrillic_name": "ВА7",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "JETTA",
+    "nameplates": []
+  },
+  {
+    "id": "VS5",
+    "name": "VS5",
+    "cyrillic_name": "ВС5",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "JETTA",
+    "nameplates": []
+  },
+  {
+    "id": "VS7",
+    "name": "VS7",
+    "cyrillic_name": "ВС7",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "JETTA",
+    "nameplates": []
+  },
+  {
+    "id": "VS8",
+    "name": "VS8",
+    "cyrillic_name": "ВС8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "JETTA",
+    "nameplates": []
+  }
+]

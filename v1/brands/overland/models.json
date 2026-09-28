@@ -1,0 +1,11 @@
+[
+  {
+    "id": "ROADSTER",
+    "name": "Roadster",
+    "cyrillic_name": "Родстер",
+    "year_from": 1914,
+    "year_to": 1915,
+    "brand_id": "OVERLAND",
+    "nameplates": []
+  }
+]

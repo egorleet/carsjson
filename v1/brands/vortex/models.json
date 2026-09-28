@@ -1,0 +1,29 @@
+[
+  {
+    "id": "CORDA",
+    "name": "Corda",
+    "cyrillic_name": "корда",
+    "year_from": 2010,
+    "year_to": 2012,
+    "brand_id": "VORTEX",
+    "nameplates": []
+  },
+  {
+    "id": "ESTINA",
+    "name": "Estina",
+    "cyrillic_name": "эстина",
+    "year_from": 2008,
+    "year_to": 2013,
+    "brand_id": "VORTEX",
+    "nameplates": []
+  },
+  {
+    "id": "TINGO",
+    "name": "Tingo",
+    "cyrillic_name": "Тинго",
+    "year_from": 2010,
+    "year_to": 2014,
+    "brand_id": "VORTEX",
+    "nameplates": []
+  }
+]

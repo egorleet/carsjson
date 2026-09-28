@@ -1,0 +1,960 @@
+[
+  {
+    "id": "145",
+    "name": "145",
+    "cyrillic_name": "145",
+    "year_from": 1972,
+    "year_to": 1974,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "ACCORD",
+    "name": "Accord",
+    "cyrillic_name": "Аккорд",
+    "year_from": 1976,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": [
+      "Accord",
+      "Type R",
+      "Type S"
+    ]
+  },
+  {
+    "id": "ACTY",
+    "name": "Acty",
+    "cyrillic_name": "акти",
+    "year_from": 1977,
+    "year_to": 2018,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "AIRWAVE",
+    "name": "Airwave",
+    "cyrillic_name": "Эйрвэйв",
+    "year_from": 2005,
+    "year_to": 2010,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "ASCOT",
+    "name": "Ascot",
+    "cyrillic_name": "Аскот",
+    "year_from": 1989,
+    "year_to": 1997,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "ASCOT_INNOVA",
+    "name": "Ascot Innova",
+    "cyrillic_name": "Аскот Иннова",
+    "year_from": 1992,
+    "year_to": 1996,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "AVANCIER",
+    "name": "Avancier",
+    "cyrillic_name": "Авансьер",
+    "year_from": 1999,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "BALLADE",
+    "name": "Ballade",
+    "cyrillic_name": "баллада",
+    "year_from": 1980,
+    "year_to": 1987,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "BEAT",
+    "name": "Beat",
+    "cyrillic_name": "Бит",
+    "year_from": 1991,
+    "year_to": 1996,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "BREEZE",
+    "name": "Breeze",
+    "cyrillic_name": "Бриз",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "BRIO",
+    "name": "Brio",
+    "cyrillic_name": "Брио",
+    "year_from": 2011,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "BR_V",
+    "name": "BR-V",
+    "cyrillic_name": "BR-V",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "CAPA",
+    "name": "Capa",
+    "cyrillic_name": "Капа",
+    "year_from": 1998,
+    "year_to": 2002,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "CITY",
+    "name": "City",
+    "cyrillic_name": "Сити",
+    "year_from": 1981,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "CIVIC",
+    "name": "Civic",
+    "cyrillic_name": "Цивик",
+    "year_from": 1972,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": [
+      "Civic",
+      "Shuttle"
+    ]
+  },
+  {
+    "id": "CIVIC_FERIO",
+    "name": "Civic Ferio",
+    "cyrillic_name": "Цивик Ферио",
+    "year_from": 1991,
+    "year_to": 2006,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "CIVIC_TYPE_R",
+    "name": "Civic Type R",
+    "cyrillic_name": "Сивик Тайп Р",
+    "year_from": 1997,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "CONCERTO",
+    "name": "Concerto",
+    "cyrillic_name": "Концерто",
+    "year_from": 1988,
+    "year_to": 1994,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "CRIDER",
+    "name": "Crider",
+    "cyrillic_name": "Кридер",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "CROSSROAD",
+    "name": "Crossroad",
+    "cyrillic_name": "Кроссроуд",
+    "year_from": 1993,
+    "year_to": 2010,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "CROSSTOUR",
+    "name": "Crosstour",
+    "cyrillic_name": "Кросстур",
+    "year_from": 2009,
+    "year_to": 2015,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "CR_V",
+    "name": "CR-V",
+    "cyrillic_name": "CR-V",
+    "year_from": 1995,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "CR_X",
+    "name": "CR-X",
+    "cyrillic_name": "CR-X",
+    "year_from": 1983,
+    "year_to": 1998,
+    "brand_id": "HONDA",
+    "nameplates": [
+      "CR-X",
+      "Civic del Sol",
+      "CR-X del Sol",
+      "del Sol"
+    ]
+  },
+  {
+    "id": "CR_Z",
+    "name": "CR-Z",
+    "cyrillic_name": "CR-Z",
+    "year_from": 2010,
+    "year_to": 2017,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "DOMANI",
+    "name": "Domani",
+    "cyrillic_name": "Домани",
+    "year_from": 1992,
+    "year_to": 2000,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "E",
+    "name": "e",
+    "cyrillic_name": "е",
+    "year_from": 2019,
+    "year_to": 2024,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "EDIX",
+    "name": "Edix",
+    "cyrillic_name": "Эдикс",
+    "year_from": 2004,
+    "year_to": 2009,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "ELEMENT",
+    "name": "Element",
+    "cyrillic_name": "Элемент",
+    "year_from": 2002,
+    "year_to": 2011,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "ELEVATE",
+    "name": "Elevate",
+    "cyrillic_name": "Елевате",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "ELYSION",
+    "name": "Elysion",
+    "cyrillic_name": "Элюзион",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "ENVIX",
+    "name": "Envix",
+    "cyrillic_name": "Енвикс",
+    "year_from": 2019,
+    "year_to": 2025,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "E_NP1",
+    "name": "e:NP1",
+    "cyrillic_name": "И:НП1",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "E_NP2",
+    "name": "e:NP2",
+    "cyrillic_name": "И:НП2",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "E_NS1",
+    "name": "e:NS1",
+    "cyrillic_name": "Е:НС1",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "E_NS2",
+    "name": "e:NS2",
+    "cyrillic_name": "Е:НС2",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "E_NY1",
+    "name": "e:Ny1",
+    "cyrillic_name": "и:Эн-Вай один",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "FCX_CLARITY",
+    "name": "Clarity",
+    "cyrillic_name": "Кларити",
+    "year_from": 2008,
+    "year_to": 2021,
+    "brand_id": "HONDA",
+    "nameplates": [
+      "Electric",
+      "FCX",
+      "Plug-in Hybrid"
+    ]
+  },
+  {
+    "id": "FIT",
+    "name": "Fit",
+    "cyrillic_name": "Фит",
+    "year_from": 2001,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "FIT_ARIA",
+    "name": "Fit Aria",
+    "cyrillic_name": "Фит Ариа",
+    "year_from": 2002,
+    "year_to": 2009,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "FIT_SHUTTLE",
+    "name": "Fit Shuttle",
+    "cyrillic_name": "Фит Шатл",
+    "year_from": 2011,
+    "year_to": 2015,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "FREED",
+    "name": "Freed",
+    "cyrillic_name": "Фрид",
+    "year_from": 2008,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": [
+      "Freed",
+      "Air",
+      "Crosstar",
+      "Freed+",
+      "Spike"
+    ]
+  },
+  {
+    "id": "FR_V",
+    "name": "FR-V",
+    "cyrillic_name": "FR-V",
+    "year_from": 2004,
+    "year_to": 2009,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "GRACE",
+    "name": "Grace",
+    "cyrillic_name": "Грейс",
+    "year_from": 2014,
+    "year_to": 2020,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "HORIZON",
+    "name": "Horizon",
+    "cyrillic_name": "хорайзон",
+    "year_from": 1994,
+    "year_to": 1999,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "HR_V",
+    "name": "HR-V",
+    "cyrillic_name": "HR-V",
+    "year_from": 1998,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "INSIGHT",
+    "name": "Insight",
+    "cyrillic_name": "Инсайт",
+    "year_from": 1999,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "INSPIRE",
+    "name": "Inspire",
+    "cyrillic_name": "инспаер",
+    "year_from": 1989,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "INTEGRA",
+    "name": "Integra",
+    "cyrillic_name": "Интегра",
+    "year_from": 1985,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": [
+      "Integra",
+      "Type R"
+    ]
+  },
+  {
+    "id": "INTEGRA_SJ",
+    "name": "Integra SJ",
+    "cyrillic_name": "Интегра SJ",
+    "year_from": 1996,
+    "year_to": 2001,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "JADE",
+    "name": "Jade",
+    "cyrillic_name": "джейд",
+    "year_from": 2015,
+    "year_to": 2020,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "JAZZ",
+    "name": "Jazz",
+    "cyrillic_name": "Джаз",
+    "year_from": 1983,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": [
+      "Jazz",
+      "Crosstar"
+    ]
+  },
+  {
+    "id": "LAGREAT",
+    "name": "Lagreat",
+    "cyrillic_name": "Лагрейт",
+    "year_from": 1998,
+    "year_to": 2005,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "LEGEND",
+    "name": "Legend",
+    "cyrillic_name": "Легенд",
+    "year_from": 1985,
+    "year_to": 2021,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "LIFE",
+    "name": "Life",
+    "cyrillic_name": "Лайф",
+    "year_from": 1997,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": [
+      "Life",
+      "Dunk"
+    ]
+  },
+  {
+    "id": "LOGO",
+    "name": "Logo",
+    "cyrillic_name": "Лого",
+    "year_from": 1996,
+    "year_to": 2001,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "MDX",
+    "name": "MDX",
+    "cyrillic_name": "MDX",
+    "year_from": 2003,
+    "year_to": 2006,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "MOBILIO",
+    "name": "Mobilio",
+    "cyrillic_name": "Мобилио",
+    "year_from": 2001,
+    "year_to": 2024,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "MOBILIO_SPIKE",
+    "name": "Mobilio Spike",
+    "cyrillic_name": "Мобилио Спайк",
+    "year_from": 2002,
+    "year_to": 2008,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "N360",
+    "name": "N360",
+    "cyrillic_name": "н360",
+    "year_from": 1969,
+    "year_to": 1970,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "NSX",
+    "name": "NSX",
+    "cyrillic_name": "NSX",
+    "year_from": 1990,
+    "year_to": 2022,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "N_BOX",
+    "name": "N-BOX",
+    "cyrillic_name": "н-бокс",
+    "year_from": 2011,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "N_BOXPLUS",
+    "name": "N-BOX+",
+    "cyrillic_name": "н-бокс+",
+    "year_from": 2012,
+    "year_to": 2018,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "N_BOX_SLASH",
+    "name": "N-BOX Slash",
+    "cyrillic_name": "Н-БОКС Слэш",
+    "year_from": 2014,
+    "year_to": 2020,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "N_ONE",
+    "name": "N-One",
+    "cyrillic_name": "Н-Уан",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": [
+      "N-One",
+      "e:"
+    ]
+  },
+  {
+    "id": "N_VAN",
+    "name": "N-VAN",
+    "cyrillic_name": "Н-ВЭН",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "N_WGN",
+    "name": "N-WGN",
+    "cyrillic_name": "Н-Вгн",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "ODYSSEY",
+    "name": "Odyssey",
+    "cyrillic_name": "Одисей",
+    "year_from": 1994,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "ODYSSEY_NA",
+    "name": "Odyssey (North America)",
+    "cyrillic_name": "Одиссей (Северная Америка)",
+    "year_from": 1994,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "ORTHIA",
+    "name": "Orthia",
+    "cyrillic_name": "ортхия",
+    "year_from": 1996,
+    "year_to": 2002,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "PARTNER",
+    "name": "Partner",
+    "cyrillic_name": "Партнер",
+    "year_from": 1996,
+    "year_to": 2010,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "PASSPORT",
+    "name": "Passport",
+    "cyrillic_name": "Пасспорт",
+    "year_from": 1993,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "PILOT",
+    "name": "Pilot",
+    "cyrillic_name": "Пилот",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "PRELUDE",
+    "name": "Prelude",
+    "cyrillic_name": "Прелюд",
+    "year_from": 1978,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "PROLOGUE",
+    "name": "Prologue",
+    "cyrillic_name": "Пролог",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "QUINT",
+    "name": "Quint",
+    "cyrillic_name": "Квинт",
+    "year_from": 1980,
+    "year_to": 1989,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "RAFAGA",
+    "name": "Rafaga",
+    "cyrillic_name": "Рафага",
+    "year_from": 1993,
+    "year_to": 1997,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "RIDGELINE",
+    "name": "Ridgeline",
+    "cyrillic_name": "Риджлайн",
+    "year_from": 2005,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "S2000",
+    "name": "S2000",
+    "cyrillic_name": "S2000",
+    "year_from": 1999,
+    "year_to": 2009,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "S500",
+    "name": "S500",
+    "cyrillic_name": "с500",
+    "year_from": 1963,
+    "year_to": 1964,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "S600",
+    "name": "S600",
+    "cyrillic_name": "с600",
+    "year_from": 1964,
+    "year_to": 1966,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "S660",
+    "name": "S660",
+    "cyrillic_name": "С660",
+    "year_from": 2015,
+    "year_to": 2022,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "SABER",
+    "name": "Saber",
+    "cyrillic_name": "Сабер",
+    "year_from": 1995,
+    "year_to": 2003,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "SHUTTLE",
+    "name": "Shuttle",
+    "cyrillic_name": "Шатл",
+    "year_from": 1994,
+    "year_to": 2022,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "STEPWAGON",
+    "name": "Stepwgn",
+    "cyrillic_name": "Степвагон",
+    "year_from": 1996,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": [
+      "Stepwgn",
+      "Spada"
+    ]
+  },
+  {
+    "id": "STREAM",
+    "name": "Stream",
+    "cyrillic_name": "Стрим",
+    "year_from": 2000,
+    "year_to": 2014,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "STREET",
+    "name": "Street",
+    "cyrillic_name": "Стрит",
+    "year_from": 1988,
+    "year_to": 1998,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "SUPER_ONE",
+    "name": "Super-One",
+    "cyrillic_name": "Супер-Уан",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "S_MX",
+    "name": "S-MX",
+    "cyrillic_name": "СМИкс",
+    "year_from": 1996,
+    "year_to": 2002,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "THATS",
+    "name": "That'S",
+    "cyrillic_name": "That S",
+    "year_from": 2002,
+    "year_to": 2007,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "TODAY",
+    "name": "Today",
+    "cyrillic_name": "Тудей",
+    "year_from": 1985,
+    "year_to": 1998,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "TORNEO",
+    "name": "Torneo",
+    "cyrillic_name": "Торнео",
+    "year_from": 1997,
+    "year_to": 2002,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "UR_V",
+    "name": "UR-V",
+    "cyrillic_name": "ЮР-В",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "VAMOS",
+    "name": "Vamos",
+    "cyrillic_name": "Вамос",
+    "year_from": 1999,
+    "year_to": 2018,
+    "brand_id": "HONDA",
+    "nameplates": [
+      "Vamos",
+      "Hobio"
+    ]
+  },
+  {
+    "id": "VEZEL",
+    "name": "Vezel",
+    "cyrillic_name": "Везел",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "VIGOR",
+    "name": "Vigor",
+    "cyrillic_name": "Вигор",
+    "year_from": 1989,
+    "year_to": 1998,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "WRV",
+    "name": "WR-V",
+    "cyrillic_name": "ВР-В",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "XR_V",
+    "name": "XR-V",
+    "cyrillic_name": "ХР-В",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "YE_P7",
+    "name": "Ye P7",
+    "cyrillic_name": "Ё П7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "YE_S7",
+    "name": "Ye S7",
+    "cyrillic_name": "Ё С7",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "Z",
+    "name": "Z",
+    "cyrillic_name": "Z",
+    "year_from": 1998,
+    "year_to": 2002,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "ZEST",
+    "name": "Zest",
+    "cyrillic_name": "Зест",
+    "year_from": 2006,
+    "year_to": 2012,
+    "brand_id": "HONDA",
+    "nameplates": []
+  },
+  {
+    "id": "ZR_V",
+    "name": "ZR-V",
+    "cyrillic_name": "ЗР-В",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "HONDA",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "EIGHT",
+    "name": "Eight",
+    "cyrillic_name": "Эйт",
+    "year_from": 1935,
+    "year_to": 1937,
+    "brand_id": "MORRIS",
+    "nameplates": []
+  },
+  {
+    "id": "MARINA",
+    "name": "Marina",
+    "cyrillic_name": "Марина",
+    "year_from": 1971,
+    "year_to": 1980,
+    "brand_id": "MORRIS",
+    "nameplates": []
+  }
+]

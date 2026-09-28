@@ -1,0 +1,29 @@
+[
+  {
+    "id": "PICKUP_X3",
+    "name": "Pickup X3",
+    "cyrillic_name": "Пикап Икс3",
+    "year_from": 2003,
+    "year_to": 2006,
+    "brand_id": "XINKAI",
+    "nameplates": []
+  },
+  {
+    "id": "SR_V_X3",
+    "name": "SR-V X3",
+    "cyrillic_name": "СР-В Икс-3",
+    "year_from": 2003,
+    "year_to": 2006,
+    "brand_id": "XINKAI",
+    "nameplates": []
+  },
+  {
+    "id": "SUV_X3",
+    "name": "SUV X3",
+    "cyrillic_name": "СУВ Икс-3",
+    "year_from": 2003,
+    "year_to": 2006,
+    "brand_id": "XINKAI",
+    "nameplates": []
+  }
+]

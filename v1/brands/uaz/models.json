@@ -1,0 +1,95 @@
+[
+  {
+    "id": "3151",
+    "name": "3151",
+    "cyrillic_name": "3151",
+    "year_from": 1985,
+    "year_to": 2013,
+    "brand_id": "UAZ",
+    "nameplates": []
+  },
+  {
+    "id": "3153",
+    "name": "3153",
+    "cyrillic_name": "3153",
+    "year_from": 1996,
+    "year_to": 2006,
+    "brand_id": "UAZ",
+    "nameplates": []
+  },
+  {
+    "id": "3159",
+    "name": "3159",
+    "cyrillic_name": "3159 Барс",
+    "year_from": 1999,
+    "year_to": 2010,
+    "brand_id": "UAZ",
+    "nameplates": []
+  },
+  {
+    "id": "3160",
+    "name": "3160",
+    "cyrillic_name": "3160",
+    "year_from": 1997,
+    "year_to": 2004,
+    "brand_id": "UAZ",
+    "nameplates": []
+  },
+  {
+    "id": "3162",
+    "name": "3162 Симбир",
+    "cyrillic_name": "3162 Симбир",
+    "year_from": 1999,
+    "year_to": 2005,
+    "brand_id": "UAZ",
+    "nameplates": []
+  },
+  {
+    "id": "469",
+    "name": "469",
+    "cyrillic_name": "469",
+    "year_from": 1972,
+    "year_to": 2011,
+    "brand_id": "UAZ",
+    "nameplates": []
+  },
+  {
+    "id": "ASTERO",
+    "name": "Астеро",
+    "cyrillic_name": "Астеро",
+    "year_from": 1997,
+    "year_to": 1999,
+    "brand_id": "UAZ",
+    "nameplates": []
+  },
+  {
+    "id": "HUNTER",
+    "name": "Хантер",
+    "cyrillic_name": "Хантер",
+    "year_from": 2003,
+    "year_to": 2026,
+    "brand_id": "UAZ",
+    "nameplates": []
+  },
+  {
+    "id": "PATRIOT",
+    "name": "Патриот",
+    "cyrillic_name": "Патриот",
+    "year_from": 2005,
+    "year_to": 2026,
+    "brand_id": "UAZ",
+    "nameplates": [
+      "Патриот",
+      "Sport"
+    ]
+  },
+  {
+    "id": "PICKUP",
+    "name": "Пикап",
+    "cyrillic_name": "Пикап",
+    "year_from": 2008,
+    "year_to": 2026,
+    "brand_id": "UAZ",
+    "nameplates": []
+  }
+]

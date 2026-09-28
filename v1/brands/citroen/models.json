@@ -1,0 +1,510 @@
+[
+  {
+    "id": "2CV",
+    "name": "2 CV",
+    "cyrillic_name": "Де Шво",
+    "year_from": 1963,
+    "year_to": 1990,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "AMI",
+    "name": "Ami",
+    "cyrillic_name": "AMI",
+    "year_from": 1961,
+    "year_to": 1978,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "AMI_EV",
+    "name": "Ami EV",
+    "cyrillic_name": "Ами ЕВ",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "AX",
+    "name": "AX",
+    "cyrillic_name": "Ax",
+    "year_from": 1986,
+    "year_to": 1998,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "BASALT",
+    "name": "Basalt",
+    "cyrillic_name": "Базальт",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "BERLINGO",
+    "name": "Berlingo",
+    "cyrillic_name": "Берлинго",
+    "year_from": 1996,
+    "year_to": 2026,
+    "brand_id": "CITROEN",
+    "nameplates": [
+      "Berlingo",
+      "Trek",
+      "Донинвест Орион-М"
+    ]
+  },
+  {
+    "id": "BX",
+    "name": "BX",
+    "cyrillic_name": "Bx",
+    "year_from": 1982,
+    "year_to": 1994,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C1",
+    "name": "C1",
+    "cyrillic_name": "C1",
+    "year_from": 2005,
+    "year_to": 2022,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C2",
+    "name": "C2",
+    "cyrillic_name": "C2",
+    "year_from": 2003,
+    "year_to": 2009,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C3",
+    "name": "C3",
+    "cyrillic_name": "C3",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C3L",
+    "name": "C3L",
+    "cyrillic_name": "с3л",
+    "year_from": 2020,
+    "year_to": 2021,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C3_AIRCROSS",
+    "name": "C3 Aircross",
+    "cyrillic_name": "C3 Аиркросс",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C3_PICASSO",
+    "name": "C3 Picasso",
+    "cyrillic_name": "C3 Пикассо",
+    "year_from": 2008,
+    "year_to": 2017,
+    "brand_id": "CITROEN",
+    "nameplates": [
+      "C3 Picasso",
+      "Aircross"
+    ]
+  },
+  {
+    "id": "C3_XR",
+    "name": "C3-XR",
+    "cyrillic_name": "С3-ИксР",
+    "year_from": 2014,
+    "year_to": 2023,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C4",
+    "name": "C4",
+    "cyrillic_name": "C4",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "CITROEN",
+    "nameplates": [
+      "C4",
+      "C4X",
+      "e-C4",
+      "e-C4 X"
+    ]
+  },
+  {
+    "id": "C4_AIRCROSS",
+    "name": "C4 Aircross",
+    "cyrillic_name": "с4 аиркросс",
+    "year_from": 2012,
+    "year_to": 2017,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C4_CACTUS",
+    "name": "C4 Cactus",
+    "cyrillic_name": "C4 Кактус",
+    "year_from": 2014,
+    "year_to": 2024,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C4_PICASSO",
+    "name": "C4 Picasso",
+    "cyrillic_name": "C4 Пикассо",
+    "year_from": 2006,
+    "year_to": 2018,
+    "brand_id": "CITROEN",
+    "nameplates": [
+      "C4 Picasso",
+      "Grand C4 Picasso"
+    ]
+  },
+  {
+    "id": "C4_SPACETOURER",
+    "name": "C4 SpaceTourer",
+    "cyrillic_name": "С4 Спейстурер",
+    "year_from": 2018,
+    "year_to": 2022,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C5",
+    "name": "C5",
+    "cyrillic_name": "C5",
+    "year_from": 2000,
+    "year_to": 2017,
+    "brand_id": "CITROEN",
+    "nameplates": [
+      "C5",
+      "CrossTourer"
+    ]
+  },
+  {
+    "id": "C5_AIRCROSS",
+    "name": "C5 Aircross",
+    "cyrillic_name": "C5 Аиркросс",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C5_X",
+    "name": "C5 X",
+    "cyrillic_name": "C5 Икс",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C6",
+    "name": "C6",
+    "cyrillic_name": "C6",
+    "year_from": 2004,
+    "year_to": 2023,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C8",
+    "name": "C8",
+    "cyrillic_name": "C8",
+    "year_from": 2002,
+    "year_to": 2014,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "CX",
+    "name": "CX",
+    "cyrillic_name": "Cx",
+    "year_from": 1974,
+    "year_to": 1991,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C_CROSSER",
+    "name": "C-Crosser",
+    "cyrillic_name": "Си кроссер",
+    "year_from": 2007,
+    "year_to": 2013,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C_ELYSEE",
+    "name": "C-Elysee",
+    "cyrillic_name": "Си Элизи",
+    "year_from": 2012,
+    "year_to": 2022,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C_QUATRE",
+    "name": "C-Quatre",
+    "cyrillic_name": "ц-куатре",
+    "year_from": 2008,
+    "year_to": 2016,
+    "brand_id": "CITROEN",
+    "nameplates": [
+      "C-Quatre",
+      "Cross"
+    ]
+  },
+  {
+    "id": "C_TRIOMPHE",
+    "name": "C-Triomphe",
+    "cyrillic_name": "ц-триомфе",
+    "year_from": 2006,
+    "year_to": 2010,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "C_ZERO",
+    "name": "C-ZERO",
+    "cyrillic_name": "ц-зеро",
+    "year_from": 2010,
+    "year_to": 2012,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "DS",
+    "name": "DS",
+    "cyrillic_name": "дс",
+    "year_from": 1955,
+    "year_to": 1976,
+    "brand_id": "CITROEN",
+    "nameplates": [
+      "DS",
+      "19",
+      "ID"
+    ]
+  },
+  {
+    "id": "DS3",
+    "name": "DS3",
+    "cyrillic_name": "DS3",
+    "year_from": 2009,
+    "year_to": 2015,
+    "brand_id": "CITROEN",
+    "nameplates": [
+      "DS3",
+      "Racing"
+    ]
+  },
+  {
+    "id": "DS4",
+    "name": "DS4",
+    "cyrillic_name": "DS4",
+    "year_from": 2010,
+    "year_to": 2015,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "DS5",
+    "name": "DS5",
+    "cyrillic_name": "дс5",
+    "year_from": 2012,
+    "year_to": 2015,
+    "brand_id": "CITROEN",
+    "nameplates": [
+      "DS5",
+      "Hybrid4"
+    ]
+  },
+  {
+    "id": "DYANE",
+    "name": "Dyane",
+    "cyrillic_name": "Дайан",
+    "year_from": 1967,
+    "year_to": 1984,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "EVASION",
+    "name": "Evasion",
+    "cyrillic_name": "Эвазион",
+    "year_from": 1994,
+    "year_to": 2002,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "E_MEHARI",
+    "name": "E-Mehari",
+    "cyrillic_name": "Е-Мехари",
+    "year_from": 2016,
+    "year_to": 2019,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "GS",
+    "name": "GS",
+    "cyrillic_name": "GS",
+    "year_from": 1971,
+    "year_to": 1986,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "JUMPY",
+    "name": "Jumpy",
+    "cyrillic_name": "Джампи",
+    "year_from": 1994,
+    "year_to": 2026,
+    "brand_id": "CITROEN",
+    "nameplates": [
+      "Jumpy",
+      "Long",
+      "M",
+      "M 50 kWh",
+      "M 75 kWh",
+      "XL",
+      "XL 50 kWh",
+      "XL 75 kWh"
+    ]
+  },
+  {
+    "id": "LN",
+    "name": "LN",
+    "cyrillic_name": "лн",
+    "year_from": 1976,
+    "year_to": 1986,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "NEMO",
+    "name": "Nemo",
+    "cyrillic_name": "немо",
+    "year_from": 2007,
+    "year_to": 2017,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "SAXO",
+    "name": "Saxo",
+    "cyrillic_name": "Саксо",
+    "year_from": 1996,
+    "year_to": 2003,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "SM",
+    "name": "SM",
+    "cyrillic_name": "см",
+    "year_from": 1970,
+    "year_to": 1975,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "SPACETOURER",
+    "name": "SpaceTourer",
+    "cyrillic_name": "Спейс турер",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "CITROEN",
+    "nameplates": [
+      "M",
+      "M 50 kWh",
+      "M 75 kWh",
+      "XL",
+      "XL 50 kWh",
+      "XL 75 kWh",
+      "XS",
+      "XS 50 kWh"
+    ]
+  },
+  {
+    "id": "TRACTION_AVANT",
+    "name": "Traction Avant",
+    "cyrillic_name": "трекшн авант",
+    "year_from": 1934,
+    "year_to": 1957,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "VISA",
+    "name": "Visa",
+    "cyrillic_name": "Виза",
+    "year_from": 1978,
+    "year_to": 1991,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "XANTIA",
+    "name": "Xantia",
+    "cyrillic_name": "Ксантия",
+    "year_from": 1992,
+    "year_to": 2002,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "XM",
+    "name": "XM",
+    "cyrillic_name": "XM",
+    "year_from": 1989,
+    "year_to": 2000,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "XSARA",
+    "name": "Xsara",
+    "cyrillic_name": "Ксара",
+    "year_from": 1997,
+    "year_to": 2006,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "XSARA_PICASSO",
+    "name": "Xsara Picasso",
+    "cyrillic_name": "Ксара Пикассо",
+    "year_from": 1999,
+    "year_to": 2012,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  },
+  {
+    "id": "ZX",
+    "name": "ZX",
+    "cyrillic_name": "ZX",
+    "year_from": 1991,
+    "year_to": 1998,
+    "brand_id": "CITROEN",
+    "nameplates": []
+  }
+]

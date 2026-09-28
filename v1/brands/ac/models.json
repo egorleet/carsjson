@@ -1,0 +1,47 @@
+[
+  {
+    "id": "378_GT",
+    "name": "378 GT Zagato",
+    "cyrillic_name": "378 ДжиТи Загато",
+    "year_from": 2012,
+    "year_to": 2012,
+    "brand_id": "AC",
+    "nameplates": []
+  },
+  {
+    "id": "ACE",
+    "name": "Ace",
+    "cyrillic_name": "асе",
+    "year_from": 1992,
+    "year_to": 2000,
+    "brand_id": "AC",
+    "nameplates": []
+  },
+  {
+    "id": "ACECA",
+    "name": "Aceca",
+    "cyrillic_name": "Асека",
+    "year_from": 1998,
+    "year_to": 2000,
+    "brand_id": "AC",
+    "nameplates": []
+  },
+  {
+    "id": "COBRA",
+    "name": "Cobra",
+    "cyrillic_name": "Кобра",
+    "year_from": 1965,
+    "year_to": 2015,
+    "brand_id": "AC",
+    "nameplates": []
+  },
+  {
+    "id": "COBRA_GT",
+    "name": "Cobra GT",
+    "cyrillic_name": "Кобра ГТ",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "AC",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "2125",
+    "name": "2125 «Комби»",
+    "cyrillic_name": "2125 Комби",
+    "year_from": 1973,
+    "year_to": 1997,
+    "brand_id": "IG",
+    "nameplates": []
+  },
+  {
+    "id": "2126",
+    "name": "2126 «Ода»",
+    "cyrillic_name": "2126 Ода",
+    "year_from": 1990,
+    "year_to": 2005,
+    "brand_id": "IG",
+    "nameplates": []
+  },
+  {
+    "id": "21261_FABULA",
+    "name": "21261 «Фабула»",
+    "cyrillic_name": "21261 Фабула",
+    "year_from": 2004,
+    "year_to": 2005,
+    "brand_id": "IG",
+    "nameplates": []
+  },
+  {
+    "id": "2715",
+    "name": "2715",
+    "cyrillic_name": "2715",
+    "year_from": 1972,
+    "year_to": 2001,
+    "brand_id": "IG",
+    "nameplates": []
+  },
+  {
+    "id": "2717",
+    "name": "2717",
+    "cyrillic_name": "2717",
+    "year_from": 1997,
+    "year_to": 2005,
+    "brand_id": "IG",
+    "nameplates": []
+  },
+  {
+    "id": "27175",
+    "name": "27175",
+    "cyrillic_name": "27175",
+    "year_from": 2005,
+    "year_to": 2012,
+    "brand_id": "IG",
+    "nameplates": []
+  },
+  {
+    "id": "412",
+    "name": "Москвич-412",
+    "cyrillic_name": "412",
+    "year_from": 1967,
+    "year_to": 1998,
+    "brand_id": "IG",
+    "nameplates": []
+  }
+]

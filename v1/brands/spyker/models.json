@@ -1,0 +1,20 @@
+[
+  {
+    "id": "C12",
+    "name": "C12",
+    "cyrillic_name": "с12",
+    "year_from": 2006,
+    "year_to": 2008,
+    "brand_id": "SPYKER",
+    "nameplates": []
+  },
+  {
+    "id": "C8",
+    "name": "C8",
+    "cyrillic_name": "с8",
+    "year_from": 2000,
+    "year_to": 2026,
+    "brand_id": "SPYKER",
+    "nameplates": []
+  }
+]

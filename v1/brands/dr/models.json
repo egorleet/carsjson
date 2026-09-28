@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1_0",
+    "name": "1.0",
+    "cyrillic_name": "1.0",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "DR",
+    "nameplates": []
+  },
+  {
+    "id": "3_0",
+    "name": "3.0",
+    "cyrillic_name": "Три Ноль",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "DR",
+    "nameplates": []
+  },
+  {
+    "id": "5_0",
+    "name": "5.0",
+    "cyrillic_name": "Пять Ноль",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "DR",
+    "nameplates": []
+  },
+  {
+    "id": "6_0",
+    "name": "6.0",
+    "cyrillic_name": "Шесть Ноль",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "DR",
+    "nameplates": []
+  },
+  {
+    "id": "7_0",
+    "name": "7.0",
+    "cyrillic_name": "Семь Ноль",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "DR",
+    "nameplates": []
+  },
+  {
+    "id": "PK8",
+    "name": "PK8",
+    "cyrillic_name": "ПК8",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "DR",
+    "nameplates": []
+  }
+]

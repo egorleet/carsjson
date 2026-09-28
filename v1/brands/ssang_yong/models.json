@@ -1,0 +1,173 @@
+[
+  {
+    "id": "ACTYON",
+    "name": "Actyon",
+    "cyrillic_name": "Актион",
+    "year_from": 2005,
+    "year_to": 2019,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "ACTYON_SPORT",
+    "name": "Actyon Sports",
+    "cyrillic_name": "Актион Спортс",
+    "year_from": 2006,
+    "year_to": 2016,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "CHAIRMAN",
+    "name": "Chairman",
+    "cyrillic_name": "Чиамэн",
+    "year_from": 1997,
+    "year_to": 2017,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "ISTANA",
+    "name": "Istana",
+    "cyrillic_name": "истана",
+    "year_from": 1995,
+    "year_to": 2003,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "KALLISTA",
+    "name": "Kallista",
+    "cyrillic_name": "Калиста",
+    "year_from": 1992,
+    "year_to": 1994,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "KORANDO",
+    "name": "Korando",
+    "cyrillic_name": "Корандо",
+    "year_from": 1988,
+    "year_to": 2023,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "KORANDO_FAMILY",
+    "name": "Korando Family",
+    "cyrillic_name": "Корандо Фэмили",
+    "year_from": 1987,
+    "year_to": 1998,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "KORANDO_SPORTS",
+    "name": "Korando Sports",
+    "cyrillic_name": "Корандо Спортс",
+    "year_from": 2011,
+    "year_to": 2017,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "KORANDO_TURISMO",
+    "name": "Korando Turismo",
+    "cyrillic_name": "корандо туризмо",
+    "year_from": 2013,
+    "year_to": 2019,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "KYRON",
+    "name": "Kyron",
+    "cyrillic_name": "Кайрон",
+    "year_from": 2005,
+    "year_to": 2015,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "MUSSO",
+    "name": "Musso",
+    "cyrillic_name": "Муссо",
+    "year_from": 1993,
+    "year_to": 2023,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "NOMAD",
+    "name": "Nomad",
+    "cyrillic_name": "Номад",
+    "year_from": 2013,
+    "year_to": 2017,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "REXTON",
+    "name": "Rexton",
+    "cyrillic_name": "Рекстон",
+    "year_from": 2001,
+    "year_to": 2023,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "REXTON_SPORTS",
+    "name": "Rexton Sports",
+    "cyrillic_name": "Рекстон Спортс",
+    "year_from": 2018,
+    "year_to": 2023,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "RODIUS",
+    "name": "Rodius",
+    "cyrillic_name": "Родиус",
+    "year_from": 2004,
+    "year_to": 2019,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "STAVIC",
+    "name": "Stavic",
+    "cyrillic_name": "Ставик",
+    "year_from": 2013,
+    "year_to": 2019,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "TIVOLI",
+    "name": "Tivoli",
+    "cyrillic_name": "Тиволи",
+    "year_from": 2015,
+    "year_to": 2023,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "TIVOLI_XLV",
+    "name": "XLV",
+    "cyrillic_name": "ХЛВ",
+    "year_from": 2016,
+    "year_to": 2023,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  },
+  {
+    "id": "TORRES",
+    "name": "Torres",
+    "cyrillic_name": "Торрес",
+    "year_from": 2022,
+    "year_to": 2023,
+    "brand_id": "SSANG_YONG",
+    "nameplates": []
+  }
+]

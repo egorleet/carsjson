@@ -1,0 +1,23 @@
+[
+  {
+    "id": "10",
+    "name": "10",
+    "cyrillic_name": "10",
+    "year_from": 1984,
+    "year_to": 2006,
+    "brand_id": "ARO",
+    "nameplates": [
+      "10",
+      "Spartana"
+    ]
+  },
+  {
+    "id": "24",
+    "name": "24",
+    "cyrillic_name": "24",
+    "year_from": 1972,
+    "year_to": 2006,
+    "brand_id": "ARO",
+    "nameplates": []
+  }
+]

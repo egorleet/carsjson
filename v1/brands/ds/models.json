@@ -1,0 +1,86 @@
+[
+  {
+    "id": "3",
+    "name": "3",
+    "cyrillic_name": "3",
+    "year_from": 2015,
+    "year_to": 2019,
+    "brand_id": "DS",
+    "nameplates": []
+  },
+  {
+    "id": "3_CROSSBACK",
+    "name": "3 Crossback",
+    "cyrillic_name": "3 Кроссбэк",
+    "year_from": 2018,
+    "year_to": 2022,
+    "brand_id": "DS",
+    "nameplates": []
+  },
+  {
+    "id": "4",
+    "name": "4",
+    "cyrillic_name": "4",
+    "year_from": 2015,
+    "year_to": 2025,
+    "brand_id": "DS",
+    "nameplates": [
+      "4",
+      "Crossback"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "5",
+    "cyrillic_name": "5",
+    "year_from": 2015,
+    "year_to": 2018,
+    "brand_id": "DS",
+    "nameplates": []
+  },
+  {
+    "id": "7_CROSSBACK",
+    "name": "7 Crossback",
+    "cyrillic_name": "7 Кроссбэк",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "DS",
+    "nameplates": []
+  },
+  {
+    "id": "9",
+    "name": "9",
+    "cyrillic_name": "9",
+    "year_from": 2020,
+    "year_to": 2024,
+    "brand_id": "DS",
+    "nameplates": []
+  },
+  {
+    "id": "NO4",
+    "name": "No4",
+    "cyrillic_name": "Номер 4",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "DS",
+    "nameplates": []
+  },
+  {
+    "id": "NO7",
+    "name": "No7",
+    "cyrillic_name": "H7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "DS",
+    "nameplates": []
+  },
+  {
+    "id": "NO8",
+    "name": "No8",
+    "cyrillic_name": "Н8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "DS",
+    "nameplates": []
+  }
+]

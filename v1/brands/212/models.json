@@ -1,0 +1,29 @@
+[
+  {
+    "id": "212_T01",
+    "name": "T01",
+    "cyrillic_name": "212 Т01",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "212",
+    "nameplates": []
+  },
+  {
+    "id": "212_T10",
+    "name": "T10",
+    "cyrillic_name": "212 Т10",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "212",
+    "nameplates": []
+  },
+  {
+    "id": "EXPLORER_01",
+    "name": "Explorer 01",
+    "cyrillic_name": "Эксплорер 01",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "212",
+    "nameplates": []
+  }
+]

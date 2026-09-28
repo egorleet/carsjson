@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_S",
+    "name": "FR-S",
+    "cyrillic_name": "фр-с",
+    "year_from": 2012,
+    "year_to": 2016,
+    "brand_id": "SCION",
+    "nameplates": []
+  },
+  {
+    "id": "IA",
+    "name": "iA",
+    "cyrillic_name": "айа",
+    "year_from": 2015,
+    "year_to": 2016,
+    "brand_id": "SCION",
+    "nameplates": []
+  },
+  {
+    "id": "IM",
+    "name": "iM",
+    "cyrillic_name": "айм",
+    "year_from": 2015,
+    "year_to": 2016,
+    "brand_id": "SCION",
+    "nameplates": []
+  },
+  {
+    "id": "IQQ",
+    "name": "iQ",
+    "cyrillic_name": "айку",
+    "year_from": 2011,
+    "year_to": 2016,
+    "brand_id": "SCION",
+    "nameplates": [
+      "iQ",
+      "EV"
+    ]
+  },
+  {
+    "id": "TC",
+    "name": "tC",
+    "cyrillic_name": "тс",
+    "year_from": 2004,
+    "year_to": 2016,
+    "brand_id": "SCION",
+    "nameplates": []
+  },
+  {
+    "id": "XA",
+    "name": "xA",
+    "cyrillic_name": "ха",
+    "year_from": 2003,
+    "year_to": 2006,
+    "brand_id": "SCION",
+    "nameplates": []
+  },
+  {
+    "id": "XB",
+    "name": "xB",
+    "cyrillic_name": "хб",
+    "year_from": 2003,
+    "year_to": 2015,
+    "brand_id": "SCION",
+    "nameplates": []
+  },
+  {
+    "id": "XD",
+    "name": "xD",
+    "cyrillic_name": "хд",
+    "year_from": 2008,
+    "year_to": 2014,
+    "brand_id": "SCION",
+    "nameplates": []
+  }
+]

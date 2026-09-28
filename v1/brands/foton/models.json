@@ -1,0 +1,101 @@
+[
+  {
+    "id": "CONQUEROR_5",
+    "name": "Conqueror 5",
+    "cyrillic_name": "Конкуерор 5",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "FOTON",
+    "nameplates": []
+  },
+  {
+    "id": "MARS_7",
+    "name": "Mars 7",
+    "cyrillic_name": "Марс 7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "FOTON",
+    "nameplates": []
+  },
+  {
+    "id": "MARS_9",
+    "name": "Mars 9",
+    "cyrillic_name": "Марс 9",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "FOTON",
+    "nameplates": []
+  },
+  {
+    "id": "MIDI",
+    "name": "Midi",
+    "cyrillic_name": "Миди",
+    "year_from": 2007,
+    "year_to": 2014,
+    "brand_id": "FOTON",
+    "nameplates": []
+  },
+  {
+    "id": "SAUVANA",
+    "name": "Sauvana",
+    "cyrillic_name": "Савана",
+    "year_from": 2015,
+    "year_to": 2020,
+    "brand_id": "FOTON",
+    "nameplates": []
+  },
+  {
+    "id": "TUNLAND",
+    "name": "Tunland",
+    "cyrillic_name": "Тунланд",
+    "year_from": 2011,
+    "year_to": 2018,
+    "brand_id": "FOTON",
+    "nameplates": []
+  },
+  {
+    "id": "TUNLAND_F9",
+    "name": "Tunland F9",
+    "cyrillic_name": "Тунланд Ф9",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "FOTON",
+    "nameplates": []
+  },
+  {
+    "id": "TUNLAND_G7",
+    "name": "Tunland G7",
+    "cyrillic_name": "Тунланд Г7",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "FOTON",
+    "nameplates": []
+  },
+  {
+    "id": "TUNLAND_G9",
+    "name": "Tunland G9",
+    "cyrillic_name": "Тунланд Г9",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "FOTON",
+    "nameplates": []
+  },
+  {
+    "id": "TUNLAND_V7",
+    "name": "Tunland V7",
+    "cyrillic_name": "Тунланд В7",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "FOTON",
+    "nameplates": []
+  },
+  {
+    "id": "TUNLAND_V9",
+    "name": "Tunland V9",
+    "cyrillic_name": "Тунланд В9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "FOTON",
+    "nameplates": []
+  }
+]

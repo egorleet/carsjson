@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ANTELOPE",
+    "name": "Antelope",
+    "cyrillic_name": "Антилопа",
+    "year_from": 2007,
+    "year_to": 2007,
+    "brand_id": "DERWAYS",
+    "nameplates": []
+  },
+  {
+    "id": "AURORA",
+    "name": "Aurora",
+    "cyrillic_name": "Аврора",
+    "year_from": 2006,
+    "year_to": 2008,
+    "brand_id": "DERWAYS",
+    "nameplates": []
+  },
+  {
+    "id": "COWBOY",
+    "name": "Cowboy",
+    "cyrillic_name": "Ковбой",
+    "year_from": 2004,
+    "year_to": 2006,
+    "brand_id": "DERWAYS",
+    "nameplates": []
+  },
+  {
+    "id": "LAND_CROWN",
+    "name": "Land Crown",
+    "cyrillic_name": "Ленд Краун",
+    "year_from": 2006,
+    "year_to": 2007,
+    "brand_id": "DERWAYS",
+    "nameplates": []
+  },
+  {
+    "id": "PLUTUS",
+    "name": "Plutus",
+    "cyrillic_name": "Плутус",
+    "year_from": 2007,
+    "year_to": 2008,
+    "brand_id": "DERWAYS",
+    "nameplates": []
+  },
+  {
+    "id": "SALADIN",
+    "name": "Saladin",
+    "cyrillic_name": "Саладин",
+    "year_from": 2006,
+    "year_to": 2008,
+    "brand_id": "DERWAYS",
+    "nameplates": []
+  },
+  {
+    "id": "SHUTTLE",
+    "name": "Shuttle",
+    "cyrillic_name": "Шатл",
+    "year_from": 2005,
+    "year_to": 2008,
+    "brand_id": "DERWAYS",
+    "nameplates": []
+  }
+]

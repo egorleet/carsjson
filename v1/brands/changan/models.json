@@ -1,0 +1,596 @@
+[
+  {
+    "id": "A05",
+    "name": "Qiyuan A05",
+    "cyrillic_name": "Циюань А05",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "A06",
+    "name": "Qiyuan A06",
+    "cyrillic_name": "Циюань А06",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "A07",
+    "name": "Qiyuan A07",
+    "cyrillic_name": "Циюань А07",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "ALSVIN",
+    "name": "Alsvin",
+    "cyrillic_name": "Алсвин",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "ALSVIN_V7",
+    "name": "Alsvin V7",
+    "cyrillic_name": "Алсвин В7",
+    "year_from": 2014,
+    "year_to": 2018,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "AUCHAN_A600",
+    "name": "Auchan A600",
+    "cyrillic_name": "Ашан А600",
+    "year_from": 2015,
+    "year_to": 2022,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "AUCHAN_A600EV",
+    "name": "Auchan A600 EV",
+    "cyrillic_name": "Ашан А600 ЕВ",
+    "year_from": 2018,
+    "year_to": 2022,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "AUCHAN_CHANGXNG",
+    "name": "Auchan Changxing",
+    "cyrillic_name": "Ашан Чансин",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "BENBEN_E_STAR",
+    "name": "Benben E-Star",
+    "cyrillic_name": "бенбен е-стар",
+    "year_from": 2020,
+    "year_to": 2024,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "BENNI",
+    "name": "Benni",
+    "cyrillic_name": "Бенни",
+    "year_from": 2006,
+    "year_to": 2014,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "BENNI_EC_EV",
+    "name": "Benni EC/EV",
+    "cyrillic_name": "Бенни ЕЦ/ЕВ",
+    "year_from": 2018,
+    "year_to": 2020,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "CM_8",
+    "name": "CM-8",
+    "cyrillic_name": "см-8",
+    "year_from": 2008,
+    "year_to": 2015,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "CS15",
+    "name": "CS15",
+    "cyrillic_name": "цс15",
+    "year_from": 2016,
+    "year_to": 2023,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "CS35",
+    "name": "CS35",
+    "cyrillic_name": "цс35",
+    "year_from": 2013,
+    "year_to": 2022,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "CS35MAX",
+    "name": "CS35 Max",
+    "cyrillic_name": "ЦС 35 Макс",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "CS35PLUS",
+    "name": "CS35 Plus",
+    "cyrillic_name": "ЦС 35 плюс",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "CS55",
+    "name": "CS55",
+    "cyrillic_name": "цс55",
+    "year_from": 2017,
+    "year_to": 2023,
+    "brand_id": "CHANGAN",
+    "nameplates": [
+      "CS55",
+      "E-Rock"
+    ]
+  },
+  {
+    "id": "CS55PLUS",
+    "name": "CS55 Plus",
+    "cyrillic_name": "ЦС55ПЛЮС",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "CS75",
+    "name": "CS75",
+    "cyrillic_name": "ЦС75",
+    "year_from": 2014,
+    "year_to": 2025,
+    "brand_id": "CHANGAN",
+    "nameplates": [
+      "CS75",
+      "FL"
+    ]
+  },
+  {
+    "id": "CS75PLUS",
+    "name": "CS75 Plus",
+    "cyrillic_name": "ЦС75Плюс",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "CS75_PRO",
+    "name": "CS75 Pro",
+    "cyrillic_name": "ЦС75 Про",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "CS85",
+    "name": "CS85",
+    "cyrillic_name": "ЦС85",
+    "year_from": 2019,
+    "year_to": 2025,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "CS95",
+    "name": "CS95",
+    "cyrillic_name": "ЦС95",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "CS95PLUS",
+    "name": "CS95 Plus",
+    "cyrillic_name": "ЦС95Плюс",
+    "year_from": 2023,
+    "year_to": 2025,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "CX20",
+    "name": "CX20",
+    "cyrillic_name": "сх20",
+    "year_from": 2011,
+    "year_to": 2016,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "CX70",
+    "name": "Oshan CX70",
+    "cyrillic_name": "ЦИкс70",
+    "year_from": 2016,
+    "year_to": 2019,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "E07",
+    "name": "Qiyuan E07",
+    "cyrillic_name": "Циюань Е07",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "EADO",
+    "name": "Eado",
+    "cyrillic_name": "Еадо",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": [
+      "Eado",
+      "EV"
+    ]
+  },
+  {
+    "id": "EADO_DT",
+    "name": "Eado DT",
+    "cyrillic_name": "Еадо ДТ",
+    "year_from": 2018,
+    "year_to": 2022,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "EADO_PLUS",
+    "name": "Eado Plus",
+    "cyrillic_name": "Еадо Плюс",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "EXPLORER",
+    "name": "Lantuozhe (Explorer)",
+    "cyrillic_name": "Лантоуж (Эксплорер)",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "G318",
+    "name": "Deepal G318",
+    "cyrillic_name": "Дипал Джи318",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "HUNTER",
+    "name": "Hunter",
+    "cyrillic_name": "Хантер",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "HUNTER_K50",
+    "name": "Qiyuan Hunter K50",
+    "cyrillic_name": "Циюань Хантер К50",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "HUNTER_PLUS",
+    "name": "Hunter Plus",
+    "cyrillic_name": "Хантер Плюс",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "KAICENE_F70",
+    "name": "Kaicene F70",
+    "cyrillic_name": "Кайсен Ф70",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "L06",
+    "name": "Deepal L06",
+    "cyrillic_name": "Дипал Л06",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "L07",
+    "name": "Deepal L07",
+    "cyrillic_name": "Дипал Л07",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "LAMORE",
+    "name": "Lamore",
+    "cyrillic_name": "Ламоре",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "LINMAX",
+    "name": "Linmax",
+    "cyrillic_name": "Линмакс",
+    "year_from": 2017,
+    "year_to": 2020,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "LUMIN",
+    "name": "Lumin",
+    "cyrillic_name": "Люмин",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "OUSHAN_CHANGXING",
+    "name": "Oushan Changxing",
+    "cyrillic_name": "Оушан Чанксин",
+    "year_from": 2018,
+    "year_to": 2022,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "Q05",
+    "name": "Qiyuan Q05",
+    "cyrillic_name": "Циюань Ку05",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "Q06",
+    "name": "Qiyuan Q06",
+    "cyrillic_name": "Циюань Ку06",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "Q07",
+    "name": "Qiyuan Q07",
+    "cyrillic_name": "Циюань Ку07",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "QIYUAN_A05L",
+    "name": "Qiyuan A05L",
+    "cyrillic_name": "Циюань А05Л",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "QIYUAN_LUMIN",
+    "name": "Qiyuan Lumin",
+    "cyrillic_name": "Циюань Люмин",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "RAETON",
+    "name": "Raeton",
+    "cyrillic_name": "Раетон",
+    "year_from": 2013,
+    "year_to": 2019,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "RAETON_CC",
+    "name": "Raeton CC",
+    "cyrillic_name": "Раетон СС",
+    "year_from": 2017,
+    "year_to": 2022,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "RAETON_PLUS",
+    "name": "Raeton Plus",
+    "cyrillic_name": "Раетон Плюс",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "S05",
+    "name": "Deepal S05",
+    "cyrillic_name": "Дипал С05",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "S07",
+    "name": "Deepal S07",
+    "cyrillic_name": "Дипал С07",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "S09",
+    "name": "Deepal S09",
+    "cyrillic_name": "Дипал С09",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "SL03",
+    "name": "Deepal SL03",
+    "cyrillic_name": "Дипал СЛ03",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "UNI_K",
+    "name": "UNI-K",
+    "cyrillic_name": "УНИ-К",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": [
+      "UNI-K",
+      "iDD"
+    ]
+  },
+  {
+    "id": "UNI_L",
+    "name": "UNI-L",
+    "cyrillic_name": "Уни-Эл",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "UNI_S",
+    "name": "UNI-S",
+    "cyrillic_name": "Уни-С",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "UNI_T",
+    "name": "UNI-T",
+    "cyrillic_name": "Уни-Т",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "UNI_V",
+    "name": "UNI-V",
+    "cyrillic_name": "Уни-В",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": [
+      "UNI-V",
+      "iDD"
+    ]
+  },
+  {
+    "id": "UNI_Z",
+    "name": "UNI-Z",
+    "cyrillic_name": "Уни-Зед",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": [
+      "UNI-Z",
+      "iDD"
+    ]
+  },
+  {
+    "id": "X5_PLUS",
+    "name": "X5 Plus",
+    "cyrillic_name": "икс 5 плюс",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "X7_PLUS",
+    "name": "X7 Plus",
+    "cyrillic_name": "икс 7 плюс",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "YIDA",
+    "name": "Yida",
+    "cyrillic_name": "Ида",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  },
+  {
+    "id": "Z_SHINE",
+    "name": "Z-Shine",
+    "cyrillic_name": "зет-шайн",
+    "year_from": 2008,
+    "year_to": 2010,
+    "brand_id": "CHANGAN",
+    "nameplates": []
+  }
+]

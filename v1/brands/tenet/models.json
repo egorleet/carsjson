@@ -1,0 +1,56 @@
+[
+  {
+    "id": "A8",
+    "name": "A8",
+    "cyrillic_name": "А8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "TENET",
+    "nameplates": []
+  },
+  {
+    "id": "T4",
+    "name": "T4",
+    "cyrillic_name": "Т4",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "TENET",
+    "nameplates": []
+  },
+  {
+    "id": "T4L",
+    "name": "T4L",
+    "cyrillic_name": "Т4Л",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "TENET",
+    "nameplates": []
+  },
+  {
+    "id": "T7",
+    "name": "T7",
+    "cyrillic_name": "Т7",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "TENET",
+    "nameplates": []
+  },
+  {
+    "id": "T8",
+    "name": "T8",
+    "cyrillic_name": "Т8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "TENET",
+    "nameplates": []
+  },
+  {
+    "id": "T9",
+    "name": "T9",
+    "cyrillic_name": "Т9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "TENET",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,666 @@
+[
+  {
+    "id": "AMULET",
+    "name": "Amulet (A15)",
+    "cyrillic_name": "Амулет",
+    "year_from": 2003,
+    "year_to": 2012,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "ARRIZO6",
+    "name": "Arrizo 6",
+    "cyrillic_name": "Арризо 6",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "ARRIZO7",
+    "name": "Arrizo 7",
+    "cyrillic_name": "Арризо 7",
+    "year_from": 2013,
+    "year_to": 2018,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "ARRIZO_3",
+    "name": "Arrizo 3",
+    "cyrillic_name": "Арризо 3",
+    "year_from": 2014,
+    "year_to": 2018,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "ARRIZO_5",
+    "name": "Arrizo 5",
+    "cyrillic_name": "Арризо 5",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": [
+      "Arrizo 5",
+      "e"
+    ]
+  },
+  {
+    "id": "ARRIZO_5_GT",
+    "name": "Arrizo 5 GT",
+    "cyrillic_name": "Арризо 5 ГТ",
+    "year_from": 2022,
+    "year_to": 2023,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "ARRIZO_5_PLUS",
+    "name": "Arrizo 5 Plus",
+    "cyrillic_name": "Арризо 5 Плюс",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "ARRIZO_8",
+    "name": "Arrizo 8",
+    "cyrillic_name": "Арризо 8",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "ARRIZO_8_PRO",
+    "name": "Arrizo 8 Pro",
+    "cyrillic_name": "Арризо 8 Про",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "B13",
+    "name": "B13",
+    "cyrillic_name": "Б13",
+    "year_from": 2006,
+    "year_to": 2008,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "BONUS",
+    "name": "Bonus (A13)",
+    "cyrillic_name": "Бонус",
+    "year_from": 2011,
+    "year_to": 2014,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "BONUS_3",
+    "name": "Bonus 3 (E3/A19)",
+    "cyrillic_name": "Бонус 3",
+    "year_from": 2014,
+    "year_to": 2017,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "CROSS_EASTAR",
+    "name": "CrossEastar (B14)",
+    "cyrillic_name": "Кросс Эстар",
+    "year_from": 2006,
+    "year_to": 2015,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "DOMI",
+    "name": "Domi",
+    "cyrillic_name": "Доми",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "E5",
+    "name": "E5",
+    "cyrillic_name": "Е5",
+    "year_from": 2011,
+    "year_to": 2016,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "EQ1",
+    "name": "eQ1",
+    "cyrillic_name": "ЕКу1",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "EQ5",
+    "name": "eQ5",
+    "cyrillic_name": "еКу5",
+    "year_from": 2020,
+    "year_to": 2022,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "EQ7",
+    "name": "eQ7",
+    "cyrillic_name": "еКу7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "EXPLORE_06",
+    "name": "Explore 06",
+    "cyrillic_name": "Эксплор 06",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "FACE",
+    "name": "Face",
+    "cyrillic_name": "Фэйс",
+    "year_from": 2007,
+    "year_to": 2015,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "FORA",
+    "name": "Fora (A21)",
+    "cyrillic_name": "Фора",
+    "year_from": 2006,
+    "year_to": 2011,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "FULWIN_A8",
+    "name": "Fulwin A8",
+    "cyrillic_name": "Фулвин А8",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "FULWIN_A9",
+    "name": "Fulwin A9",
+    "cyrillic_name": "Фулвин А9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "FULWIN_A9L",
+    "name": "Fulwin A9L",
+    "cyrillic_name": "Фулвин А9 Л",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "FULWIN_T10",
+    "name": "Fulwin T10",
+    "cyrillic_name": "Фулвин Т10",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "FULWIN_T11",
+    "name": "Fulwin T11",
+    "cyrillic_name": "Фулвин Т11",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "FULWIN_T6",
+    "name": "Fulwin T6",
+    "cyrillic_name": "Фулвин Т6",
+    "year_from": 2024,
+    "year_to": 2025,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "FULWIN_T7",
+    "name": "Fulwin T7",
+    "cyrillic_name": "Фулвин Т7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "FULWIN_T8",
+    "name": "Fulwin T8",
+    "cyrillic_name": "Фулвин Т8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "FULWIN_T9",
+    "name": "Fulwin T9",
+    "cyrillic_name": "Фулвин Т9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "FULWIN_T9L",
+    "name": "Fulwin T9L",
+    "cyrillic_name": "Фулвин Т9Л",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "FULWIN_X3",
+    "name": "Fulwin X3",
+    "cyrillic_name": "Фулвин икс 3",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": [
+      "Fulwin X3",
+      "L",
+      "Plus"
+    ]
+  },
+  {
+    "id": "INDIS",
+    "name": "IndiS (S18D)",
+    "cyrillic_name": "Индис",
+    "year_from": 2010,
+    "year_to": 2015,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "KARRY",
+    "name": "Karry",
+    "cyrillic_name": "Кари",
+    "year_from": 2007,
+    "year_to": 2010,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "KIMO",
+    "name": "Kimo (A1)",
+    "cyrillic_name": "Кимо",
+    "year_from": 2007,
+    "year_to": 2014,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "M11",
+    "name": "M11 (A3)",
+    "cyrillic_name": "M11",
+    "year_from": 2010,
+    "year_to": 2015,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "OMODA_5",
+    "name": "Omoda 5",
+    "cyrillic_name": "Омода 5",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "ORIENTAL_SON",
+    "name": "Oriental Son (B11)",
+    "cyrillic_name": "Ориентал Сон",
+    "year_from": 2003,
+    "year_to": 2012,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "Q22",
+    "name": "Q22",
+    "cyrillic_name": "Ку22",
+    "year_from": 2009,
+    "year_to": 2022,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "QQ",
+    "name": "Sweet (QQ)",
+    "cyrillic_name": "Свит",
+    "year_from": 2003,
+    "year_to": 2015,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "QQ3",
+    "name": "QQ3",
+    "cyrillic_name": "КуКу3",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "QQ6",
+    "name": "QQ6 (S21)",
+    "cyrillic_name": "Куку6",
+    "year_from": 2006,
+    "year_to": 2010,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "QQME",
+    "name": "QQme",
+    "cyrillic_name": "КьюКьюМи",
+    "year_from": 2009,
+    "year_to": 2011,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "QQ_ICE_CREAM",
+    "name": "QQ Ice Cream",
+    "cyrillic_name": "КуКу Айс Крим",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "RELAY_R08",
+    "name": "Rely R08",
+    "cyrillic_name": "Релай Р8",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO",
+    "name": "Tiggo (T11)",
+    "cyrillic_name": "Тиго",
+    "year_from": 2005,
+    "year_to": 2016,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_2",
+    "name": "Tiggo 2",
+    "cyrillic_name": "Тиго 2",
+    "year_from": 2016,
+    "year_to": 2021,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_2_PRO",
+    "name": "Tiggo 2 Pro",
+    "cyrillic_name": "Тигго 2 Про",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_3",
+    "name": "Tiggo 3",
+    "cyrillic_name": "Тигго 3",
+    "year_from": 2014,
+    "year_to": 2020,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_3X",
+    "name": "Tiggo 3x",
+    "cyrillic_name": "Тигго 3Х",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_3XE",
+    "name": "Tiggo 3xe",
+    "cyrillic_name": "Тигго 3ИксЕ",
+    "year_from": 2018,
+    "year_to": 2021,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_4",
+    "name": "Tiggo 4",
+    "cyrillic_name": "Тигго 4",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_4_PRO",
+    "name": "Tiggo 4 Pro",
+    "cyrillic_name": "Тигго 4 про",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_5",
+    "name": "Tiggo 5",
+    "cyrillic_name": "Тигго 5",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_5X",
+    "name": "Tiggo 5x",
+    "cyrillic_name": "Тигго 5 икс",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_7",
+    "name": "Tiggo 7",
+    "cyrillic_name": "Тигго 7",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_7L",
+    "name": "Tiggo 7L",
+    "cyrillic_name": "Тигго 7L",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_7_PLUS",
+    "name": "Tiggo 7 Plus",
+    "cyrillic_name": "Тигго 7 плюс",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_7_PRO",
+    "name": "Tiggo 7 Pro",
+    "cyrillic_name": "Тигго 7 Про",
+    "year_from": 2020,
+    "year_to": 2024,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_7_PRO_MAX",
+    "name": "Tiggo 7 Pro Max",
+    "cyrillic_name": "Тигго 7 Про Макс",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_7_PRO_PLUG_IN_HYBRID",
+    "name": "Tiggo 7 Pro Plug-in Hybrid",
+    "cyrillic_name": "Тигго 7 Про Плаг-ин Гибрид",
+    "year_from": 2023,
+    "year_to": 2025,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_8",
+    "name": "Tiggo 8",
+    "cyrillic_name": "Тигго Восемь",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_8L",
+    "name": "Tiggo 8L",
+    "cyrillic_name": "Тигго 8Л",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_8_PLUS",
+    "name": "Tiggo 8 Plus",
+    "cyrillic_name": "Тигго 8 плюс",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_8_PRO",
+    "name": "Tiggo 8 Pro",
+    "cyrillic_name": "Тигго 8 Про",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_8_PRO_EPLUS",
+    "name": "Tiggo 8 Pro e+",
+    "cyrillic_name": "Тигго 8 Про е+",
+    "year_from": 2021,
+    "year_to": 2024,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_8_PRO_MAX",
+    "name": "Tiggo 8 Pro Max",
+    "cyrillic_name": "Тигго 8 Про Макс",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_8_PRO_PLUG_IN_HYBRID",
+    "name": "Tiggo 8 Pro Plug-in Hybrid",
+    "cyrillic_name": "Тигго 8 Про Плаг-ин Гибрид",
+    "year_from": 2023,
+    "year_to": 2025,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_9",
+    "name": "Tiggo 9",
+    "cyrillic_name": "Тигго 9",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_9X",
+    "name": "Tiggo 9x",
+    "cyrillic_name": "Тигго 9х",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "TIGGO_E",
+    "name": "Tiggo E",
+    "cyrillic_name": "Тигго Е",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "VERY",
+    "name": "Very (A13)",
+    "cyrillic_name": "Вери",
+    "year_from": 2011,
+    "year_to": 2014,
+    "brand_id": "CHERY",
+    "nameplates": []
+  },
+  {
+    "id": "WINDCLOUD",
+    "name": "Windcloud (A11)",
+    "cyrillic_name": "Виндклауд",
+    "year_from": 1999,
+    "year_to": 2006,
+    "brand_id": "CHERY",
+    "nameplates": []
+  }
+]

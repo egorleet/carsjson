@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GTB",
+    "name": "GTB",
+    "cyrillic_name": "гтб",
+    "year_from": 1973,
+    "year_to": 1984,
+    "brand_id": "PUMA",
+    "nameplates": []
+  },
+  {
+    "id": "GTE",
+    "name": "GTE",
+    "cyrillic_name": "гте",
+    "year_from": 1967,
+    "year_to": 1995,
+    "brand_id": "PUMA",
+    "nameplates": []
+  }
+]

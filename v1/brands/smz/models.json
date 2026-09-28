@@ -1,0 +1,38 @@
+[
+  {
+    "id": "S1L",
+    "name": "С-1Л",
+    "cyrillic_name": "с-1л",
+    "year_from": 1952,
+    "year_to": 1956,
+    "brand_id": "SMZ",
+    "nameplates": []
+  },
+  {
+    "id": "S3A",
+    "name": "С-3А",
+    "cyrillic_name": "с-3а",
+    "year_from": 1958,
+    "year_to": 1970,
+    "brand_id": "SMZ",
+    "nameplates": []
+  },
+  {
+    "id": "S3D",
+    "name": "С-3Д",
+    "cyrillic_name": "с-3д",
+    "year_from": 1970,
+    "year_to": 1997,
+    "brand_id": "SMZ",
+    "nameplates": []
+  },
+  {
+    "id": "S3L",
+    "name": "С-3Л",
+    "cyrillic_name": "с-3л",
+    "year_from": 1956,
+    "year_to": 1958,
+    "brand_id": "SMZ",
+    "nameplates": []
+  }
+]

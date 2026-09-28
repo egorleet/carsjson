@@ -1,0 +1,149 @@
+[
+  {
+    "id": "1300",
+    "name": "1300",
+    "cyrillic_name": "1300",
+    "year_from": 1969,
+    "year_to": 1978,
+    "brand_id": "DACIA",
+    "nameplates": []
+  },
+  {
+    "id": "1310",
+    "name": "1310",
+    "cyrillic_name": "1310",
+    "year_from": 1979,
+    "year_to": 2004,
+    "brand_id": "DACIA",
+    "nameplates": []
+  },
+  {
+    "id": "1410",
+    "name": "1410",
+    "cyrillic_name": "1410",
+    "year_from": 1984,
+    "year_to": 2004,
+    "brand_id": "DACIA",
+    "nameplates": []
+  },
+  {
+    "id": "BIGSTER",
+    "name": "Bigster",
+    "cyrillic_name": "Бигстер",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "DACIA",
+    "nameplates": []
+  },
+  {
+    "id": "DOKKER",
+    "name": "Dokker",
+    "cyrillic_name": "Доккер",
+    "year_from": 2012,
+    "year_to": 2021,
+    "brand_id": "DACIA",
+    "nameplates": [
+      "Dokker",
+      "Stepway"
+    ]
+  },
+  {
+    "id": "DUSTER",
+    "name": "Duster",
+    "cyrillic_name": "Дастер",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "DACIA",
+    "nameplates": []
+  },
+  {
+    "id": "JOGGER",
+    "name": "Jogger",
+    "cyrillic_name": "Джоггер",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "DACIA",
+    "nameplates": []
+  },
+  {
+    "id": "LODGY",
+    "name": "Lodgy",
+    "cyrillic_name": "Лоджи",
+    "year_from": 2012,
+    "year_to": 2022,
+    "brand_id": "DACIA",
+    "nameplates": [
+      "Lodgy",
+      "Stepway"
+    ]
+  },
+  {
+    "id": "LOGAN",
+    "name": "Logan",
+    "cyrillic_name": "Логан",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "DACIA",
+    "nameplates": [
+      "Logan",
+      "Stepway"
+    ]
+  },
+  {
+    "id": "NOVA",
+    "name": "Nova",
+    "cyrillic_name": "Нова",
+    "year_from": 1995,
+    "year_to": 2000,
+    "brand_id": "DACIA",
+    "nameplates": []
+  },
+  {
+    "id": "PICK_UP",
+    "name": "Pick-Up",
+    "cyrillic_name": "Пик-Ап",
+    "year_from": 1975,
+    "year_to": 2006,
+    "brand_id": "DACIA",
+    "nameplates": []
+  },
+  {
+    "id": "SANDERO",
+    "name": "Sandero",
+    "cyrillic_name": "Сандэро",
+    "year_from": 2007,
+    "year_to": 2026,
+    "brand_id": "DACIA",
+    "nameplates": [
+      "Sandero",
+      "Stepway"
+    ]
+  },
+  {
+    "id": "SOLENZA",
+    "name": "Solenza",
+    "cyrillic_name": "Соленза",
+    "year_from": 2003,
+    "year_to": 2005,
+    "brand_id": "DACIA",
+    "nameplates": []
+  },
+  {
+    "id": "SPRING",
+    "name": "Spring",
+    "cyrillic_name": "Спринг",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "DACIA",
+    "nameplates": []
+  },
+  {
+    "id": "SUPERNOVA",
+    "name": "SuperNova",
+    "cyrillic_name": "СуперНова",
+    "year_from": 2000,
+    "year_to": 2003,
+    "brand_id": "DACIA",
+    "nameplates": []
+  }
+]

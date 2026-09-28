@@ -1,0 +1,47 @@
+[
+  {
+    "id": "F8C",
+    "name": "F8C",
+    "cyrillic_name": "ф8с",
+    "year_from": 2009,
+    "year_to": 2015,
+    "brand_id": "MICROCAR",
+    "nameplates": []
+  },
+  {
+    "id": "M8",
+    "name": "M8",
+    "cyrillic_name": "м8",
+    "year_from": 2009,
+    "year_to": 2015,
+    "brand_id": "MICROCAR",
+    "nameplates": []
+  },
+  {
+    "id": "MC",
+    "name": "MC",
+    "cyrillic_name": "мс",
+    "year_from": 2000,
+    "year_to": 2008,
+    "brand_id": "MICROCAR",
+    "nameplates": []
+  },
+  {
+    "id": "MGO",
+    "name": "M.Go",
+    "cyrillic_name": "м.го",
+    "year_from": 2009,
+    "year_to": 2014,
+    "brand_id": "MICROCAR",
+    "nameplates": []
+  },
+  {
+    "id": "VIRGO",
+    "name": "Virgo",
+    "cyrillic_name": "вирго",
+    "year_from": 1999,
+    "year_to": 2003,
+    "brand_id": "MICROCAR",
+    "nameplates": []
+  }
+]

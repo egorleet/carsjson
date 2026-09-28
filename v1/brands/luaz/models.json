@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1302",
+    "name": "1302 Волынь",
+    "cyrillic_name": "1302 Волынь",
+    "year_from": 1990,
+    "year_to": 2001,
+    "brand_id": "LUAZ",
+    "nameplates": []
+  },
+  {
+    "id": "967",
+    "name": "967",
+    "cyrillic_name": "967",
+    "year_from": 1965,
+    "year_to": 1989,
+    "brand_id": "LUAZ",
+    "nameplates": []
+  },
+  {
+    "id": "969",
+    "name": "969",
+    "cyrillic_name": "969",
+    "year_from": 1966,
+    "year_to": 1992,
+    "brand_id": "LUAZ",
+    "nameplates": []
+  }
+]

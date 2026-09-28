@@ -1,0 +1,74 @@
+[
+  {
+    "id": "QM3",
+    "name": "QM3",
+    "cyrillic_name": "куэм3",
+    "year_from": 2013,
+    "year_to": 2019,
+    "brand_id": "SAMSUNG",
+    "nameplates": []
+  },
+  {
+    "id": "QM5",
+    "name": "QM5",
+    "cyrillic_name": "куэм5",
+    "year_from": 2007,
+    "year_to": 2016,
+    "brand_id": "SAMSUNG",
+    "nameplates": []
+  },
+  {
+    "id": "QM6",
+    "name": "QM6",
+    "cyrillic_name": "куэм6",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "SAMSUNG",
+    "nameplates": []
+  },
+  {
+    "id": "SM3",
+    "name": "SM3",
+    "cyrillic_name": "см3",
+    "year_from": 2002,
+    "year_to": 2020,
+    "brand_id": "SAMSUNG",
+    "nameplates": []
+  },
+  {
+    "id": "SM5",
+    "name": "SM5",
+    "cyrillic_name": "см5",
+    "year_from": 1998,
+    "year_to": 2019,
+    "brand_id": "SAMSUNG",
+    "nameplates": []
+  },
+  {
+    "id": "SM6",
+    "name": "SM6",
+    "cyrillic_name": "СМ6",
+    "year_from": 2016,
+    "year_to": 2024,
+    "brand_id": "SAMSUNG",
+    "nameplates": []
+  },
+  {
+    "id": "SM7",
+    "name": "SM7",
+    "cyrillic_name": "см7",
+    "year_from": 2004,
+    "year_to": 2019,
+    "brand_id": "SAMSUNG",
+    "nameplates": []
+  },
+  {
+    "id": "XM3",
+    "name": "XM3",
+    "cyrillic_name": "ИксЭм3",
+    "year_from": 2020,
+    "year_to": 2024,
+    "brand_id": "SAMSUNG",
+    "nameplates": []
+  }
+]

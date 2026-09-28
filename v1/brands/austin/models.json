@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ALLEGRO",
+    "name": "Allegro",
+    "cyrillic_name": "Аллегро",
+    "year_from": 1973,
+    "year_to": 1983,
+    "brand_id": "AUSTIN",
+    "nameplates": []
+  },
+  {
+    "id": "AMBASSADOR",
+    "name": "Ambassador",
+    "cyrillic_name": "Амбассадор",
+    "year_from": 1982,
+    "year_to": 1984,
+    "brand_id": "AUSTIN",
+    "nameplates": []
+  },
+  {
+    "id": "FL2",
+    "name": "FL2",
+    "cyrillic_name": "ФЛ2",
+    "year_from": 1958,
+    "year_to": 1978,
+    "brand_id": "AUSTIN",
+    "nameplates": []
+  },
+  {
+    "id": "FX4",
+    "name": "FX4",
+    "cyrillic_name": "ФХ4",
+    "year_from": 1958,
+    "year_to": 1982,
+    "brand_id": "AUSTIN",
+    "nameplates": []
+  },
+  {
+    "id": "MAESTRO",
+    "name": "Maestro",
+    "cyrillic_name": "Маэстро",
+    "year_from": 1983,
+    "year_to": 1997,
+    "brand_id": "AUSTIN",
+    "nameplates": []
+  },
+  {
+    "id": "MAXI",
+    "name": "Maxi",
+    "cyrillic_name": "Макси",
+    "year_from": 1969,
+    "year_to": 1982,
+    "brand_id": "AUSTIN",
+    "nameplates": []
+  },
+  {
+    "id": "METRO",
+    "name": "Metro",
+    "cyrillic_name": "метро",
+    "year_from": 1980,
+    "year_to": 1990,
+    "brand_id": "AUSTIN",
+    "nameplates": []
+  },
+  {
+    "id": "MINI",
+    "name": "Mini",
+    "cyrillic_name": "Мини",
+    "year_from": 1967,
+    "year_to": 1993,
+    "brand_id": "AUSTIN",
+    "nameplates": []
+  },
+  {
+    "id": "MONTEGO",
+    "name": "Montego",
+    "cyrillic_name": "Монтего",
+    "year_from": 1984,
+    "year_to": 1994,
+    "brand_id": "AUSTIN",
+    "nameplates": []
+  },
+  {
+    "id": "PRINCESS",
+    "name": "Princess",
+    "cyrillic_name": "Принцес",
+    "year_from": 1972,
+    "year_to": 1982,
+    "brand_id": "AUSTIN",
+    "nameplates": []
+  },
+  {
+    "id": "SPRITE",
+    "name": "Sprite",
+    "cyrillic_name": "Спрайт",
+    "year_from": 1958,
+    "year_to": 1971,
+    "brand_id": "AUSTIN",
+    "nameplates": []
+  }
+]

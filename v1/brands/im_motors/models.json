@@ -1,0 +1,56 @@
+[
+  {
+    "id": "L6",
+    "name": "L6",
+    "cyrillic_name": "Л6",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "IM_MOTORS",
+    "nameplates": []
+  },
+  {
+    "id": "L7",
+    "name": "L7",
+    "cyrillic_name": "Л7",
+    "year_from": 2022,
+    "year_to": 2024,
+    "brand_id": "IM_MOTORS",
+    "nameplates": []
+  },
+  {
+    "id": "LS6",
+    "name": "LS6",
+    "cyrillic_name": "ЛС6",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "IM_MOTORS",
+    "nameplates": []
+  },
+  {
+    "id": "LS7",
+    "name": "LS7",
+    "cyrillic_name": "ЛС7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "IM_MOTORS",
+    "nameplates": []
+  },
+  {
+    "id": "LS8",
+    "name": "LS8",
+    "cyrillic_name": "ЛС8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "IM_MOTORS",
+    "nameplates": []
+  },
+  {
+    "id": "LS9",
+    "name": "LS9",
+    "cyrillic_name": "ЛС9",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "IM_MOTORS",
+    "nameplates": []
+  }
+]

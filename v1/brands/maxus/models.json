@@ -1,0 +1,185 @@
+[
+  {
+    "id": "D60",
+    "name": "D60",
+    "cyrillic_name": "Д60",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "MAXUS",
+    "nameplates": []
+  },
+  {
+    "id": "D90_PRO",
+    "name": "D90",
+    "cyrillic_name": "Д90 Про",
+    "year_from": 2017,
+    "year_to": 2023,
+    "brand_id": "MAXUS",
+    "nameplates": [
+      "D90",
+      "Pro"
+    ]
+  },
+  {
+    "id": "DANA_V1",
+    "name": "Dana V1",
+    "cyrillic_name": "Дана В1",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "MAXUS",
+    "nameplates": []
+  },
+  {
+    "id": "EUNIQ_5",
+    "name": "EUNIQ 5",
+    "cyrillic_name": "ЮНИК 5",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "MAXUS",
+    "nameplates": []
+  },
+  {
+    "id": "EUNIQ_6",
+    "name": "EUNIQ 6",
+    "cyrillic_name": "ЮНИК 6",
+    "year_from": 2020,
+    "year_to": 2023,
+    "brand_id": "MAXUS",
+    "nameplates": []
+  },
+  {
+    "id": "G10",
+    "name": "G10",
+    "cyrillic_name": "Г10",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "MAXUS",
+    "nameplates": []
+  },
+  {
+    "id": "G20",
+    "name": "G20",
+    "cyrillic_name": "Джи20",
+    "year_from": 2019,
+    "year_to": 2025,
+    "brand_id": "MAXUS",
+    "nameplates": [
+      "ES",
+      "Plus"
+    ]
+  },
+  {
+    "id": "G50",
+    "name": "G50",
+    "cyrillic_name": "Джи50",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "MAXUS",
+    "nameplates": [
+      "G50",
+      "Max"
+    ]
+  },
+  {
+    "id": "G50_PLUS",
+    "name": "G50 Plus",
+    "cyrillic_name": "Джи50 Плюс",
+    "year_from": 2021,
+    "year_to": 2025,
+    "brand_id": "MAXUS",
+    "nameplates": []
+  },
+  {
+    "id": "G70",
+    "name": "G70",
+    "cyrillic_name": "Г70",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "MAXUS",
+    "nameplates": []
+  },
+  {
+    "id": "G90",
+    "name": "G90",
+    "cyrillic_name": "Джи90",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "MAXUS",
+    "nameplates": []
+  },
+  {
+    "id": "INTERSTELLAR",
+    "name": "Interstellar",
+    "cyrillic_name": "Интерстеллар",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "MAXUS",
+    "nameplates": [
+      "H",
+      "X"
+    ]
+  },
+  {
+    "id": "MIFA_5",
+    "name": "MIFA 5",
+    "cyrillic_name": "МИФА 5",
+    "year_from": 2022,
+    "year_to": 2024,
+    "brand_id": "MAXUS",
+    "nameplates": []
+  },
+  {
+    "id": "MIFA_7",
+    "name": "MIFA 7",
+    "cyrillic_name": "МИФА 7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "MAXUS",
+    "nameplates": []
+  },
+  {
+    "id": "MIFA_9",
+    "name": "MIFA 9",
+    "cyrillic_name": "МИФА 9",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "MAXUS",
+    "nameplates": []
+  },
+  {
+    "id": "T70",
+    "name": "T70",
+    "cyrillic_name": "Т70",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "MAXUS",
+    "nameplates": []
+  },
+  {
+    "id": "T90",
+    "name": "T90",
+    "cyrillic_name": "Т90",
+    "year_from": 2021,
+    "year_to": 2023,
+    "brand_id": "MAXUS",
+    "nameplates": []
+  },
+  {
+    "id": "TERRITORY",
+    "name": "Territory",
+    "cyrillic_name": "территори",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "MAXUS",
+    "nameplates": []
+  },
+  {
+    "id": "V70",
+    "name": "V70",
+    "cyrillic_name": "В70",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "MAXUS",
+    "nameplates": []
+  }
+]

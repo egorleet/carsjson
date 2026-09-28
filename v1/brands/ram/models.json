@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1500",
+    "name": "1500",
+    "cyrillic_name": "1500",
+    "year_from": 2011,
+    "year_to": 2026,
+    "brand_id": "RAM",
+    "nameplates": [
+      "1500",
+      "Arctic Trucks",
+      "RHO",
+      "Rumble Bee",
+      "TRX",
+      "TRX SRT"
+    ]
+  },
+  {
+    "id": "DAKOTA",
+    "name": "Dakota",
+    "cyrillic_name": "Дакота",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "RAM",
+    "nameplates": []
+  },
+  {
+    "id": "PROMASTER_CITY",
+    "name": "ProMaster City",
+    "cyrillic_name": "Промастер Сити",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "RAM",
+    "nameplates": []
+  },
+  {
+    "id": "RAMPAGE",
+    "name": "Rampage",
+    "cyrillic_name": "Рэмпейдж",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "RAM",
+    "nameplates": []
+  },
+  {
+    "id": "V_1000",
+    "name": "V1000",
+    "cyrillic_name": "Ви 1000",
+    "year_from": 2022,
+    "year_to": 2023,
+    "brand_id": "RAM",
+    "nameplates": []
+  }
+]

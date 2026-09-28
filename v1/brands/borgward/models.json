@@ -1,0 +1,29 @@
+[
+  {
+    "id": "2000",
+    "name": "2000",
+    "cyrillic_name": "2000",
+    "year_from": 1939,
+    "year_to": 1942,
+    "brand_id": "BORGWARD",
+    "nameplates": []
+  },
+  {
+    "id": "BX5",
+    "name": "BX5",
+    "cyrillic_name": "БиИкс5",
+    "year_from": 2017,
+    "year_to": 2021,
+    "brand_id": "BORGWARD",
+    "nameplates": []
+  },
+  {
+    "id": "HANSA_1100",
+    "name": "Hansa 1100",
+    "cyrillic_name": "ханса 1100",
+    "year_from": 1934,
+    "year_to": 1939,
+    "brand_id": "BORGWARD",
+    "nameplates": []
+  }
+]

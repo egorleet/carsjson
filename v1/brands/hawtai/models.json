@@ -1,0 +1,29 @@
+[
+  {
+    "id": "BOLIGER",
+    "name": "Boliger",
+    "cyrillic_name": "Болигер",
+    "year_from": 2011,
+    "year_to": 2020,
+    "brand_id": "HAWTAI",
+    "nameplates": []
+  },
+  {
+    "id": "B_21",
+    "name": "B21",
+    "cyrillic_name": "б21",
+    "year_from": 2013,
+    "year_to": 2017,
+    "brand_id": "HAWTAI",
+    "nameplates": []
+  },
+  {
+    "id": "LAVILLE",
+    "name": "Laville",
+    "cyrillic_name": "Лавиль",
+    "year_from": 2016,
+    "year_to": 2020,
+    "brand_id": "HAWTAI",
+    "nameplates": []
+  }
+]

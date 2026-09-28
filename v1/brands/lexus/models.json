@@ -1,0 +1,322 @@
+[
+  {
+    "id": "CT",
+    "name": "CT",
+    "cyrillic_name": "CT",
+    "year_from": 2010,
+    "year_to": 2022,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "200h"
+    ]
+  },
+  {
+    "id": "ES",
+    "name": "ES",
+    "cyrillic_name": "ЕС",
+    "year_from": 1989,
+    "year_to": 2026,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "200",
+      "250",
+      "260",
+      "300",
+      "300h",
+      "330",
+      "350",
+      "350e",
+      "350h",
+      "500e"
+    ]
+  },
+  {
+    "id": "GS",
+    "name": "GS",
+    "cyrillic_name": "ГС",
+    "year_from": 1993,
+    "year_to": 2020,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "200t",
+      "250",
+      "300",
+      "300h",
+      "350",
+      "400",
+      "430",
+      "450h",
+      "460"
+    ]
+  },
+  {
+    "id": "GS_F",
+    "name": "GS F",
+    "cyrillic_name": "Джи Эс Эф",
+    "year_from": 2015,
+    "year_to": 2020,
+    "brand_id": "LEXUS",
+    "nameplates": []
+  },
+  {
+    "id": "GX",
+    "name": "GX",
+    "cyrillic_name": "ГХ",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "400",
+      "460",
+      "470",
+      "550",
+      "550h"
+    ]
+  },
+  {
+    "id": "HS",
+    "name": "HS",
+    "cyrillic_name": "ХС",
+    "year_from": 2009,
+    "year_to": 2018,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "250h"
+    ]
+  },
+  {
+    "id": "IS",
+    "name": "IS",
+    "cyrillic_name": "ИС",
+    "year_from": 1999,
+    "year_to": 2026,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "200",
+      "200t",
+      "220d",
+      "250",
+      "300",
+      "300h",
+      "350",
+      "500"
+    ]
+  },
+  {
+    "id": "IS_F",
+    "name": "IS F",
+    "cyrillic_name": "ис ф",
+    "year_from": 2007,
+    "year_to": 2014,
+    "brand_id": "LEXUS",
+    "nameplates": []
+  },
+  {
+    "id": "LBX",
+    "name": "LBX",
+    "cyrillic_name": "Лбх",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "LEXUS",
+    "nameplates": []
+  },
+  {
+    "id": "LC",
+    "name": "LC",
+    "cyrillic_name": "лц",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "500",
+      "500h"
+    ]
+  },
+  {
+    "id": "LFA",
+    "name": "LFA",
+    "cyrillic_name": "Лфа",
+    "year_from": 2010,
+    "year_to": 2012,
+    "brand_id": "LEXUS",
+    "nameplates": []
+  },
+  {
+    "id": "LM",
+    "name": "LM",
+    "cyrillic_name": "ЛМ",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "300h",
+      "350",
+      "350h",
+      "500h"
+    ]
+  },
+  {
+    "id": "LS",
+    "name": "LS",
+    "cyrillic_name": "лс",
+    "year_from": 1989,
+    "year_to": 2026,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "350",
+      "400",
+      "430",
+      "460",
+      "460 L",
+      "500",
+      "500h",
+      "600h",
+      "600h L"
+    ]
+  },
+  {
+    "id": "LX",
+    "name": "LX",
+    "cyrillic_name": "ЛХ",
+    "year_from": 1995,
+    "year_to": 2026,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "450",
+      "450d",
+      "470",
+      "500d",
+      "570",
+      "600",
+      "700h",
+      "Arctic Trucks"
+    ]
+  },
+  {
+    "id": "NX",
+    "name": "NX",
+    "cyrillic_name": "Н-Икс",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "200",
+      "200t",
+      "250",
+      "260",
+      "300",
+      "300h",
+      "350",
+      "350h",
+      "400h+",
+      "450h+"
+    ]
+  },
+  {
+    "id": "RC",
+    "name": "RC",
+    "cyrillic_name": "РС",
+    "year_from": 2014,
+    "year_to": 2025,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "200t",
+      "300",
+      "300h",
+      "350"
+    ]
+  },
+  {
+    "id": "RC_F",
+    "name": "RC F",
+    "cyrillic_name": "РС Ф",
+    "year_from": 2014,
+    "year_to": 2025,
+    "brand_id": "LEXUS",
+    "nameplates": []
+  },
+  {
+    "id": "RX",
+    "name": "RX",
+    "cyrillic_name": "рх",
+    "year_from": 1997,
+    "year_to": 2026,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "200t",
+      "270",
+      "300",
+      "330",
+      "350",
+      "350h",
+      "350L",
+      "400h",
+      "450h",
+      "450hL",
+      "500h"
+    ]
+  },
+  {
+    "id": "RZ",
+    "name": "RZ",
+    "cyrillic_name": "РЗ",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "RZ",
+      "300e",
+      "450e"
+    ]
+  },
+  {
+    "id": "SC",
+    "name": "SC",
+    "cyrillic_name": "сц",
+    "year_from": 1991,
+    "year_to": 2010,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "300",
+      "400",
+      "430"
+    ]
+  },
+  {
+    "id": "TX",
+    "name": "TX",
+    "cyrillic_name": "ТХ",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "350",
+      "500h",
+      "550h+"
+    ]
+  },
+  {
+    "id": "TZ",
+    "name": "TZ",
+    "cyrillic_name": "ТЗ",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "LEXUS",
+    "nameplates": []
+  },
+  {
+    "id": "UX",
+    "name": "UX",
+    "cyrillic_name": "ЮХ",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "LEXUS",
+    "nameplates": [
+      "200",
+      "250h",
+      "260h",
+      "300e",
+      "300h"
+    ]
+  }
+]

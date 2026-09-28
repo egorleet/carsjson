@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1_1",
+    "name": "1.1",
+    "cyrillic_name": "1.1",
+    "year_from": 1990,
+    "year_to": 1991,
+    "brand_id": "TRABANT",
+    "nameplates": []
+  },
+  {
+    "id": "600",
+    "name": "600",
+    "cyrillic_name": "600",
+    "year_from": 1962,
+    "year_to": 1964,
+    "brand_id": "TRABANT",
+    "nameplates": []
+  },
+  {
+    "id": "601",
+    "name": "P 601",
+    "cyrillic_name": "П 601",
+    "year_from": 1963,
+    "year_to": 1990,
+    "brand_id": "TRABANT",
+    "nameplates": []
+  },
+  {
+    "id": "P50",
+    "name": "P50",
+    "cyrillic_name": "п50",
+    "year_from": 1958,
+    "year_to": 1962,
+    "brand_id": "TRABANT",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "280",
+    "name": "280",
+    "cyrillic_name": "280",
+    "year_from": 1980,
+    "year_to": 1986,
+    "brand_id": "TVR",
+    "nameplates": []
+  },
+  {
+    "id": "350",
+    "name": "350",
+    "cyrillic_name": "350",
+    "year_from": 1983,
+    "year_to": 1989,
+    "brand_id": "TVR",
+    "nameplates": []
+  },
+  {
+    "id": "390",
+    "name": "390",
+    "cyrillic_name": "390",
+    "year_from": 1984,
+    "year_to": 1989,
+    "brand_id": "TVR",
+    "nameplates": []
+  },
+  {
+    "id": "400",
+    "name": "400",
+    "cyrillic_name": "400",
+    "year_from": 1989,
+    "year_to": 1993,
+    "brand_id": "TVR",
+    "nameplates": []
+  },
+  {
+    "id": "420",
+    "name": "420",
+    "cyrillic_name": "420",
+    "year_from": 1984,
+    "year_to": 1989,
+    "brand_id": "TVR",
+    "nameplates": []
+  },
+  {
+    "id": "450",
+    "name": "450",
+    "cyrillic_name": "450",
+    "year_from": 1989,
+    "year_to": 1993,
+    "brand_id": "TVR",
+    "nameplates": []
+  },
+  {
+    "id": "CERBERA",
+    "name": "Cerbera",
+    "cyrillic_name": "цербера",
+    "year_from": 1994,
+    "year_to": 2003,
+    "brand_id": "TVR",
+    "nameplates": []
+  },
+  {
+    "id": "CHIMAERA",
+    "name": "Chimaera",
+    "cyrillic_name": "химера",
+    "year_from": 1992,
+    "year_to": 2003,
+    "brand_id": "TVR",
+    "nameplates": []
+  },
+  {
+    "id": "GRIFFITH",
+    "name": "Griffith",
+    "cyrillic_name": "гриффит",
+    "year_from": 1991,
+    "year_to": 2002,
+    "brand_id": "TVR",
+    "nameplates": []
+  },
+  {
+    "id": "SAGARIS",
+    "name": "Sagaris",
+    "cyrillic_name": "сагарис",
+    "year_from": 2004,
+    "year_to": 2006,
+    "brand_id": "TVR",
+    "nameplates": []
+  },
+  {
+    "id": "S_SERIES",
+    "name": "S-Series",
+    "cyrillic_name": "с-серия",
+    "year_from": 1986,
+    "year_to": 1996,
+    "brand_id": "TVR",
+    "nameplates": []
+  },
+  {
+    "id": "TAIMAR",
+    "name": "Taimar",
+    "cyrillic_name": "таймар",
+    "year_from": 1976,
+    "year_to": 1979,
+    "brand_id": "TVR",
+    "nameplates": []
+  },
+  {
+    "id": "TAMORA",
+    "name": "Tamora",
+    "cyrillic_name": "тамора",
+    "year_from": 2002,
+    "year_to": 2006,
+    "brand_id": "TVR",
+    "nameplates": []
+  },
+  {
+    "id": "TASMIN",
+    "name": "Tasmin",
+    "cyrillic_name": "тасмин",
+    "year_from": 1980,
+    "year_to": 1987,
+    "brand_id": "TVR",
+    "nameplates": []
+  },
+  {
+    "id": "TUSCAN",
+    "name": "Tuscan",
+    "cyrillic_name": "тускан",
+    "year_from": 1999,
+    "year_to": 2006,
+    "brand_id": "TVR",
+    "nameplates": []
+  }
+]

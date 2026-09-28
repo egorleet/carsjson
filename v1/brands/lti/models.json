@@ -1,0 +1,20 @@
+[
+  {
+    "id": "FX4",
+    "name": "FX4",
+    "cyrillic_name": "фх4",
+    "year_from": 1984,
+    "year_to": 1989,
+    "brand_id": "LTI",
+    "nameplates": []
+  },
+  {
+    "id": "TX",
+    "name": "TX",
+    "cyrillic_name": "тх",
+    "year_from": 1998,
+    "year_to": 2010,
+    "brand_id": "LTI",
+    "nameplates": []
+  }
+]

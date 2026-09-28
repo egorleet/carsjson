@@ -1,0 +1,38 @@
+[
+  {
+    "id": "EJ6",
+    "name": "EJ6",
+    "cyrillic_name": "ЕДжей6",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "JAECOO",
+    "nameplates": []
+  },
+  {
+    "id": "J6",
+    "name": "J6",
+    "cyrillic_name": "Джей6",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "JAECOO",
+    "nameplates": []
+  },
+  {
+    "id": "J7",
+    "name": "J7",
+    "cyrillic_name": "Джей7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "JAECOO",
+    "nameplates": []
+  },
+  {
+    "id": "J8",
+    "name": "J8",
+    "cyrillic_name": "Джей8",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "JAECOO",
+    "nameplates": []
+  }
+]

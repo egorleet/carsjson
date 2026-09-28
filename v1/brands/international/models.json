@@ -1,0 +1,20 @@
+[
+  {
+    "id": "SCOUT",
+    "name": "Scout",
+    "cyrillic_name": "Скаут",
+    "year_from": 1971,
+    "year_to": 1980,
+    "brand_id": "INTERNATIONAL",
+    "nameplates": []
+  },
+  {
+    "id": "TRAVELALL",
+    "name": "Travelall",
+    "cyrillic_name": "Трэйвелолл",
+    "year_from": 1969,
+    "year_to": 1975,
+    "brand_id": "INTERNATIONAL",
+    "nameplates": []
+  }
+]

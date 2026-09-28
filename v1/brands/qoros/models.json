@@ -1,0 +1,20 @@
+[
+  {
+    "id": "3",
+    "name": "3",
+    "cyrillic_name": "3",
+    "year_from": 2014,
+    "year_to": 2022,
+    "brand_id": "QOROS",
+    "nameplates": []
+  },
+  {
+    "id": "5",
+    "name": "5",
+    "cyrillic_name": "5",
+    "year_from": 2016,
+    "year_to": 2022,
+    "brand_id": "QOROS",
+    "nameplates": []
+  }
+]

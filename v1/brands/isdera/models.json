@@ -1,0 +1,29 @@
+[
+  {
+    "id": "COMMENDATORE_112I",
+    "name": "Commendatore 112i",
+    "cyrillic_name": "Коммендаторе 112i",
+    "year_from": 1993,
+    "year_to": 1993,
+    "brand_id": "ISDERA",
+    "nameplates": []
+  },
+  {
+    "id": "IMPERATOR_108I",
+    "name": "Imperator 108i",
+    "cyrillic_name": "Император 108i",
+    "year_from": 1984,
+    "year_to": 1993,
+    "brand_id": "ISDERA",
+    "nameplates": []
+  },
+  {
+    "id": "SPYDER",
+    "name": "Spyder",
+    "cyrillic_name": "спайдер",
+    "year_from": 1983,
+    "year_to": 1993,
+    "brand_id": "ISDERA",
+    "nameplates": []
+  }
+]

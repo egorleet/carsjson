@@ -1,0 +1,1600 @@
+[
+  {
+    "id": "190_SL",
+    "name": "190 SL",
+    "cyrillic_name": "190 сл",
+    "year_from": 1955,
+    "year_to": 1963,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "220_W187",
+    "name": "220 (W187)",
+    "cyrillic_name": "220 (В187)",
+    "year_from": 1951,
+    "year_to": 1955,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "300_SLR",
+    "name": "300 SLR",
+    "cyrillic_name": "300 СЛР",
+    "year_from": 1954,
+    "year_to": 1955,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "300 SLR",
+      "Uhlenhaut"
+    ]
+  },
+  {
+    "id": "AMG_GLC_COUPE",
+    "name": "GLC Coupe AMG",
+    "cyrillic_name": "глц купе амг",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "43 AMG",
+      "53 AMG",
+      "63 AMG",
+      "63 AMG S",
+      "63 AMG S E Performance"
+    ]
+  },
+  {
+    "id": "AMG_GT",
+    "name": "AMG GT",
+    "cyrillic_name": "АМГ GT",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "AMG_GT_4_DOOR_COUPE",
+    "name": "AMG GT 4-Door Coupe",
+    "cyrillic_name": "АМГ ГТ 4-Дверное Купе",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "AMG_ONE",
+    "name": "AMG ONE",
+    "cyrillic_name": "АМГ УАН",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "AMG_PURESPEED",
+    "name": "AMG PureSpeed",
+    "cyrillic_name": "АМГ ПьюрСпид",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "A_KLASSE",
+    "name": "A-Класс",
+    "cyrillic_name": "А-класс",
+    "year_from": 1997,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "140",
+      "140 L",
+      "150",
+      "160",
+      "160 L",
+      "170",
+      "170 L",
+      "180",
+      "180 L",
+      "190",
+      "190 L",
+      "200",
+      "200 L",
+      "210",
+      "210 L",
+      "220",
+      "220 L",
+      "250"
+    ]
+  },
+  {
+    "id": "A_KLASSE_AMG",
+    "name": "A-Класс AMG",
+    "cyrillic_name": "А-класс АМГ",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "35 AMG",
+      "35 L AMG",
+      "45 AMG",
+      "45 AMG S"
+    ]
+  },
+  {
+    "id": "B_KLASSE",
+    "name": "B-Класс",
+    "cyrillic_name": "B-класс",
+    "year_from": 2005,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "150",
+      "160",
+      "170",
+      "180",
+      "200",
+      "200e",
+      "220",
+      "250",
+      "250 e"
+    ]
+  },
+  {
+    "id": "CITAN",
+    "name": "Citan",
+    "cyrillic_name": "Цитан",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "108 CDI",
+      "109 CDI",
+      "110",
+      "110 CDI",
+      "111 CDI",
+      "112",
+      "113",
+      "eCitan"
+    ]
+  },
+  {
+    "id": "CLA_KLASSE",
+    "name": "CLA",
+    "cyrillic_name": "ЦЛА-класс",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "180",
+      "200",
+      "220",
+      "250",
+      "260",
+      "300",
+      "350"
+    ]
+  },
+  {
+    "id": "CLA_KLASSE_AMG",
+    "name": "CLA AMG",
+    "cyrillic_name": "ЦЛА-класс АМГ",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "35 AMG",
+      "45 AMG",
+      "45 AMG S"
+    ]
+  },
+  {
+    "id": "CLC_KLASSE",
+    "name": "CLC-Класс",
+    "cyrillic_name": "ЦЛЦ-класс",
+    "year_from": 2008,
+    "year_to": 2011,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "160",
+      "180",
+      "200",
+      "220",
+      "230",
+      "350"
+    ]
+  },
+  {
+    "id": "CLE_KLASSE",
+    "name": "CLE",
+    "cyrillic_name": "ЦЛЕ-класс",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "180",
+      "200",
+      "220",
+      "300",
+      "300 e",
+      "450"
+    ]
+  },
+  {
+    "id": "CLE_KLASSE_AMG",
+    "name": "CLE AMG",
+    "cyrillic_name": "ЦЛЕ-класс АМГ",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "CLK_AMG_GTR",
+    "name": "CLK AMG GTR",
+    "cyrillic_name": "ЦЛК АМГ ГТР",
+    "year_from": 1997,
+    "year_to": 1999,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "CLK_KLASSE",
+    "name": "CLK-Класс",
+    "cyrillic_name": "ЦЛК-класс",
+    "year_from": 1997,
+    "year_to": 2010,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "200",
+      "220",
+      "230",
+      "240",
+      "270",
+      "280",
+      "320",
+      "350",
+      "430",
+      "500",
+      "550"
+    ]
+  },
+  {
+    "id": "CLK_KLASSE_AMG",
+    "name": "CLK-Класс AMG",
+    "cyrillic_name": "ЦЛК-класс АМГ",
+    "year_from": 1999,
+    "year_to": 2010,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "CLK-Класс AMG",
+      "55 AMG",
+      "63 AMG"
+    ]
+  },
+  {
+    "id": "CLS_KLASSE",
+    "name": "CLS",
+    "cyrillic_name": "ЦЛС-класс",
+    "year_from": 2004,
+    "year_to": 2023,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "220",
+      "250",
+      "260",
+      "280",
+      "300",
+      "320",
+      "350",
+      "400",
+      "450",
+      "500",
+      "550"
+    ]
+  },
+  {
+    "id": "CLS_KLASSE_AMG",
+    "name": "CLS AMG",
+    "cyrillic_name": "ЦЛС-класс АМГ",
+    "year_from": 2005,
+    "year_to": 2023,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "CLS AMG",
+      "55 AMG",
+      "63 AMG",
+      "63 AMG S"
+    ]
+  },
+  {
+    "id": "CL_KLASSE",
+    "name": "CL-Класс",
+    "cyrillic_name": "ЦЛ-класс",
+    "year_from": 1992,
+    "year_to": 2014,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "420",
+      "500",
+      "550",
+      "600"
+    ]
+  },
+  {
+    "id": "CL_KLASSE_AMG",
+    "name": "CL-Класс AMG",
+    "cyrillic_name": "ЦЛ-класс АМГ",
+    "year_from": 1999,
+    "year_to": 2014,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "55 AMG",
+      "63 AMG",
+      "65 AMG"
+    ]
+  },
+  {
+    "id": "C_KLASSE",
+    "name": "C-Класс",
+    "cyrillic_name": "Ц-класс",
+    "year_from": 1993,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "160",
+      "180",
+      "200",
+      "200 L",
+      "220",
+      "230",
+      "240",
+      "250",
+      "260",
+      "260 L",
+      "270",
+      "280",
+      "300",
+      "300 L",
+      "320",
+      "350",
+      "350 e L",
+      "400",
+      "All-Terrain"
+    ]
+  },
+  {
+    "id": "C_KLASSE_AMG",
+    "name": "C-Класс AMG",
+    "cyrillic_name": "Ц-класс АМГ",
+    "year_from": 1994,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "C-Класс AMG",
+      "30 AMG",
+      "32 AMG",
+      "36 AMG",
+      "43 AMG",
+      "450 AMG",
+      "55 AMG",
+      "63 AMG",
+      "63 AMG S"
+    ]
+  },
+  {
+    "id": "EQA",
+    "name": "EQA",
+    "cyrillic_name": "ЕКьюА",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "250",
+      "250+",
+      "260",
+      "300",
+      "350"
+    ]
+  },
+  {
+    "id": "EQB",
+    "name": "EQB",
+    "cyrillic_name": "ЕКьюБ",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "250",
+      "250+",
+      "260",
+      "300",
+      "350"
+    ]
+  },
+  {
+    "id": "EQC",
+    "name": "EQC",
+    "cyrillic_name": "ЕКьюС",
+    "year_from": 2019,
+    "year_to": 2023,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "350",
+      "400"
+    ]
+  },
+  {
+    "id": "EQE",
+    "name": "EQE",
+    "cyrillic_name": "ЕКьюЕ",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "300",
+      "350",
+      "500"
+    ]
+  },
+  {
+    "id": "EQE_AMG",
+    "name": "EQE AMG",
+    "cyrillic_name": "ЕКьюЕ АМГ",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "43 4Matic",
+      "53 4Matic+",
+      "53 4Matic+ Dynamic Plus"
+    ]
+  },
+  {
+    "id": "EQE_SUV",
+    "name": "EQE SUV",
+    "cyrillic_name": "ЕКьюЕ СУВ",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "300",
+      "350",
+      "500"
+    ]
+  },
+  {
+    "id": "EQE_SUV_AMG",
+    "name": "EQE SUV AMG",
+    "cyrillic_name": "ЕКьюЕ СУВ АМГ",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "43 4Matic",
+      "53 4Matic+",
+      "53 4Matic+ Dynamic Plus"
+    ]
+  },
+  {
+    "id": "EQS",
+    "name": "EQS",
+    "cyrillic_name": "ЕКьюЭс",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "350",
+      "400",
+      "450",
+      "500",
+      "580"
+    ]
+  },
+  {
+    "id": "EQS_AMG",
+    "name": "EQS AMG",
+    "cyrillic_name": "ЕКьюЭс АМГ",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "53 4MATIC+",
+      "53 4MATIC+ Dynamic Plus"
+    ]
+  },
+  {
+    "id": "EQS_SUV",
+    "name": "EQS SUV",
+    "cyrillic_name": "ЕКьюЭс СУВ",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "450",
+      "500",
+      "580"
+    ]
+  },
+  {
+    "id": "EQT",
+    "name": "EQT",
+    "cyrillic_name": "ЕКьюТи",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "EQV",
+    "name": "EQV",
+    "cyrillic_name": "ЕКьюВ",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "EQV",
+      "250",
+      "300"
+    ]
+  },
+  {
+    "id": "E_KLASSE",
+    "name": "E-Класс",
+    "cyrillic_name": "Е-класс",
+    "year_from": 1992,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "180",
+      "200",
+      "220",
+      "230",
+      "240",
+      "250",
+      "260",
+      "260 L",
+      "270",
+      "280",
+      "290",
+      "300",
+      "300 L",
+      "320",
+      "350",
+      "350 e L",
+      "400",
+      "420",
+      "430",
+      "450",
+      "500",
+      "550",
+      "All-Terrain"
+    ]
+  },
+  {
+    "id": "E_KLASSE_AMG",
+    "name": "E-Класс AMG",
+    "cyrillic_name": "Е-класс АМГ",
+    "year_from": 1994,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "E-Класс AMG",
+      "36 AMG",
+      "43 AMG",
+      "50 AMG",
+      "53 AMG",
+      "55 AMG",
+      "60 AMG",
+      "63 AMG",
+      "63 AMG S"
+    ]
+  },
+  {
+    "id": "GLA_CLASS",
+    "name": "GLA",
+    "cyrillic_name": "ГЛА-класс",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "180",
+      "200",
+      "220",
+      "250",
+      "350"
+    ]
+  },
+  {
+    "id": "GLA_CLASS_AMG",
+    "name": "GLA AMG",
+    "cyrillic_name": "ГЛА-класс АМГ",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "35 AMG",
+      "45 AMG",
+      "45 S AMG"
+    ]
+  },
+  {
+    "id": "GLB_AMG",
+    "name": "GLB AMG",
+    "cyrillic_name": "ГЛБ АМГ",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "GLB_KLASSE",
+    "name": "GLB",
+    "cyrillic_name": "ГЛБ",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "180",
+      "200",
+      "220",
+      "250",
+      "350"
+    ]
+  },
+  {
+    "id": "GLC_COUPE",
+    "name": "GLC Coupe",
+    "cyrillic_name": "ГЛЦ Купе",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "200",
+      "220",
+      "250",
+      "260",
+      "300",
+      "350",
+      "400"
+    ]
+  },
+  {
+    "id": "GLC_KLASSE",
+    "name": "GLC",
+    "cyrillic_name": "ГЛЦ",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "GLC",
+      "200",
+      "220",
+      "250",
+      "260 L",
+      "300",
+      "300 L",
+      "350",
+      "350 EQ L",
+      "400"
+    ]
+  },
+  {
+    "id": "GLC_KLASSE_AMG",
+    "name": "GLC AMG",
+    "cyrillic_name": "ГЛЦ АМГ",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "43 AMG",
+      "53 AMG",
+      "63 AMG",
+      "63 AMG S",
+      "63 AMG S E Performance"
+    ]
+  },
+  {
+    "id": "GLE_KLASSE",
+    "name": "GLE",
+    "cyrillic_name": "ГЛЕ",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "250",
+      "300",
+      "350",
+      "400",
+      "450",
+      "450 AMG",
+      "500",
+      "580"
+    ]
+  },
+  {
+    "id": "GLE_KLASSE_AMG",
+    "name": "GLE AMG",
+    "cyrillic_name": "ГЛЕ АМГ",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "43 AMG",
+      "53 AMG",
+      "53 AMG Hybrid",
+      "63 AMG",
+      "63 AMG S"
+    ]
+  },
+  {
+    "id": "GLE_KLASSE_COUPE",
+    "name": "GLE Coupe",
+    "cyrillic_name": "ГЛЕ Купе",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "300",
+      "350",
+      "400",
+      "450",
+      "450 AMG",
+      "500"
+    ]
+  },
+  {
+    "id": "GLE_KLASSE_COUPE_AMG",
+    "name": "GLE Coupe AMG",
+    "cyrillic_name": "ГЛЕ Купе АМГ",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "43 AMG",
+      "53 AMG",
+      "53 AMG Hybrid",
+      "63 AMG",
+      "63 AMG S",
+      "Brabus 900 Rocket Edition"
+    ]
+  },
+  {
+    "id": "GLK_KLASSE",
+    "name": "GLK-Класс",
+    "cyrillic_name": "GLK-класс",
+    "year_from": 2008,
+    "year_to": 2015,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "200",
+      "220",
+      "250",
+      "280",
+      "300",
+      "320",
+      "350"
+    ]
+  },
+  {
+    "id": "GLS_KLASSE",
+    "name": "GLS",
+    "cyrillic_name": "GLS-класс",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "350",
+      "400",
+      "450",
+      "500",
+      "580"
+    ]
+  },
+  {
+    "id": "GLS_KLASSE_AMG",
+    "name": "GLS AMG",
+    "cyrillic_name": "GLS-класс АМГ",
+    "year_from": 2015,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "63 AMG",
+      "63 AMG S"
+    ]
+  },
+  {
+    "id": "GL_KLASSE",
+    "name": "GL-Класс",
+    "cyrillic_name": "GL-класс",
+    "year_from": 2006,
+    "year_to": 2016,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "320",
+      "350",
+      "400",
+      "420",
+      "450",
+      "500",
+      "550"
+    ]
+  },
+  {
+    "id": "GL_KLASSE_AMG",
+    "name": "GL-Класс AMG",
+    "cyrillic_name": "GL-класс АМГ",
+    "year_from": 2012,
+    "year_to": 2016,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "63 AMG"
+    ]
+  },
+  {
+    "id": "G_KLASSE",
+    "name": "G-Класс",
+    "cyrillic_name": "G-класс",
+    "year_from": 1979,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "200",
+      "230",
+      "240",
+      "250",
+      "270",
+      "280",
+      "280 PUR",
+      "290",
+      "300",
+      "300 Professional",
+      "320",
+      "350",
+      "350 Professional",
+      "400",
+      "450",
+      "500",
+      "500 4x4",
+      "550",
+      "580"
+    ]
+  },
+  {
+    "id": "G_KLASSE_AMG",
+    "name": "G-Класс AMG",
+    "cyrillic_name": "G-класс АМГ",
+    "year_from": 1993,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "G-Класс AMG",
+      "36 AMG",
+      "500 GE 6.0 AMG",
+      "55 AMG",
+      "63 AMG",
+      "63 AMG 4x4 Squared",
+      "65 AMG",
+      "Brabus 700",
+      "Brabus 800",
+      "BRABUS 800 4x4 Squared",
+      "Brabus 900",
+      "Brabus 900 Rocket Edition",
+      "Brabus P 900 Rocket Edition",
+      "Hofele HG 800"
+    ]
+  },
+  {
+    "id": "G_KLASSE_AMG_6X6",
+    "name": "G-Класс AMG 6x6",
+    "cyrillic_name": "G-класс АМГ 6x6",
+    "year_from": 2013,
+    "year_to": 2024,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "G-Класс AMG 6x6",
+      "63 AMG"
+    ]
+  },
+  {
+    "id": "MARCO_POLO",
+    "name": "Marco Polo",
+    "cyrillic_name": "Марко Поло",
+    "year_from": 1996,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "Marco Polo",
+      "160 d",
+      "200 d",
+      "220 d",
+      "250 d",
+      "300 d"
+    ]
+  },
+  {
+    "id": "MAYBACH_EQS_SUV",
+    "name": "Maybach EQS SUV",
+    "cyrillic_name": "Майбах ЕКьюэС СУВ",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "680"
+    ]
+  },
+  {
+    "id": "MAYBACH_GLS",
+    "name": "Maybach GLS",
+    "cyrillic_name": "Майбах ГЛС",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "MAYBACH_G_650",
+    "name": "Maybach G 650 Landaulet",
+    "cyrillic_name": "Майбах Джи 650",
+    "year_from": 2017,
+    "year_to": 2023,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "MAYBACH_SL",
+    "name": "Maybach SL",
+    "cyrillic_name": "Майбах СЛ",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "METRIS",
+    "name": "Metris",
+    "cyrillic_name": "Метрис",
+    "year_from": 2015,
+    "year_to": 2023,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "M_KLASSE",
+    "name": "M-Класс",
+    "cyrillic_name": "M-класс",
+    "year_from": 1997,
+    "year_to": 2015,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "230",
+      "250",
+      "270",
+      "280",
+      "300",
+      "320",
+      "350",
+      "400",
+      "420",
+      "430",
+      "450",
+      "500",
+      "550"
+    ]
+  },
+  {
+    "id": "M_KLASSE_AMG",
+    "name": "M-Класс AMG",
+    "cyrillic_name": "М-класс АМГ",
+    "year_from": 2000,
+    "year_to": 2015,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "55 AMG",
+      "63 AMG"
+    ]
+  },
+  {
+    "id": "R_KLASSE",
+    "name": "R-Класс",
+    "cyrillic_name": "Р-класс",
+    "year_from": 2005,
+    "year_to": 2017,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "280",
+      "280 L",
+      "300",
+      "300 L",
+      "320",
+      "320 L",
+      "350",
+      "350 L",
+      "500",
+      "500 L"
+    ]
+  },
+  {
+    "id": "R_KLASSE_AMG",
+    "name": "R-Класс AMG",
+    "cyrillic_name": "Р-класс АМГ",
+    "year_from": 2006,
+    "year_to": 2007,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "63 AMG",
+      "63 AMG Long"
+    ]
+  },
+  {
+    "id": "SIMPLEX",
+    "name": "Simplex",
+    "cyrillic_name": "Симплекс",
+    "year_from": 1904,
+    "year_to": 1909,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "SLC_KLASSE",
+    "name": "SLC",
+    "cyrillic_name": "CЛЦ-класс",
+    "year_from": 1971,
+    "year_to": 2020,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "180",
+      "200",
+      "250 d",
+      "280",
+      "300",
+      "350",
+      "380",
+      "450",
+      "500"
+    ]
+  },
+  {
+    "id": "SLC_KLASSE_AMG",
+    "name": "SLC AMG",
+    "cyrillic_name": "CЛЦ-класс AMG",
+    "year_from": 2016,
+    "year_to": 2020,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "SLK_KLASSE",
+    "name": "SLK-Класс",
+    "cyrillic_name": "СЛК-класс",
+    "year_from": 1996,
+    "year_to": 2016,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "200",
+      "230",
+      "250",
+      "280",
+      "300",
+      "320",
+      "350"
+    ]
+  },
+  {
+    "id": "SLK_KLASSE_AMG",
+    "name": "SLK-Класс AMG",
+    "cyrillic_name": "СЛК-класс АМГ",
+    "year_from": 2001,
+    "year_to": 2016,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "SLK-Класс AMG",
+      "32 AMG",
+      "55 AMG"
+    ]
+  },
+  {
+    "id": "SLR_KLASSE",
+    "name": "SLR McLaren",
+    "cyrillic_name": "SLR Макларен",
+    "year_from": 2003,
+    "year_to": 2009,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "SLR McLaren",
+      "722",
+      "Stirling Moss"
+    ]
+  },
+  {
+    "id": "SLS_AMG",
+    "name": "SLS AMG",
+    "cyrillic_name": "SLS AMG",
+    "year_from": 2010,
+    "year_to": 2014,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "SLS AMG",
+      "GT"
+    ]
+  },
+  {
+    "id": "SL_KLASSE",
+    "name": "SL-Класс",
+    "cyrillic_name": "SL-класс",
+    "year_from": 1954,
+    "year_to": 2020,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "SL-Класс",
+      "190",
+      "230",
+      "250",
+      "280",
+      "300",
+      "320",
+      "350",
+      "380",
+      "400",
+      "420",
+      "450",
+      "500",
+      "550",
+      "600"
+    ]
+  },
+  {
+    "id": "SL_KLASSE_AMG",
+    "name": "SL-Класс AMG",
+    "cyrillic_name": "СЛ-класс АМГ",
+    "year_from": 1993,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "43 AMG",
+      "55 AMG",
+      "60 AMG",
+      "63 AMG",
+      "63 AMG S E Performance",
+      "65 AMG",
+      "70 AMG",
+      "73 AMG"
+    ]
+  },
+  {
+    "id": "S_CLASS_MAYBACH",
+    "name": "Maybach S-Класс",
+    "cyrillic_name": "Майбах Эс-Класс",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "Maybach S-Класс",
+      "400",
+      "450",
+      "480",
+      "500",
+      "560",
+      "580",
+      "600",
+      "650",
+      "680"
+    ]
+  },
+  {
+    "id": "S_KLASSE",
+    "name": "S-Класс",
+    "cyrillic_name": "S-класс",
+    "year_from": 1972,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "S-Класс",
+      "250",
+      "250 L",
+      "260",
+      "280",
+      "280 L",
+      "300",
+      "300 L",
+      "320",
+      "320 L",
+      "350",
+      "350 L",
+      "380",
+      "400",
+      "400 L",
+      "420",
+      "420 L",
+      "430",
+      "430 L",
+      "450",
+      "450 L",
+      "500",
+      "500 L",
+      "550",
+      "550 L",
+      "560",
+      "560 L",
+      "580",
+      "580 L",
+      "600",
+      "600 Guard",
+      "600 L",
+      "600 L Guard",
+      "680 Guard",
+      "680 L Guard",
+      "Pullman"
+    ]
+  },
+  {
+    "id": "S_KLASSE_AMG",
+    "name": "S-Класс AMG",
+    "cyrillic_name": "S-класс АМГ",
+    "year_from": 1999,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "55 AMG",
+      "55 AMG Long",
+      "63 AMG",
+      "63 AMG Long",
+      "65 AMG",
+      "65 AMG Long",
+      "Brabus 930"
+    ]
+  },
+  {
+    "id": "TYP_630",
+    "name": "Typ 630",
+    "cyrillic_name": "Тип 630",
+    "year_from": 1926,
+    "year_to": 1929,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "T_KLASSE",
+    "name": "T-Класс",
+    "cyrillic_name": "Т-класс",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "160",
+      "180"
+    ]
+  },
+  {
+    "id": "VANEO",
+    "name": "Vaneo",
+    "cyrillic_name": "Ванео",
+    "year_from": 2001,
+    "year_to": 2005,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "VIANO",
+    "name": "Viano",
+    "cyrillic_name": "Виано",
+    "year_from": 2003,
+    "year_to": 2014,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "VITO",
+    "name": "Vito",
+    "cyrillic_name": "вито",
+    "year_from": 1996,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "Vito",
+      "108 CDI",
+      "109 CDI",
+      "110 CDI",
+      "111 CDI",
+      "112 CDI",
+      "113",
+      "113 CDI",
+      "114",
+      "114 CDI",
+      "115 CDI",
+      "116 CDI",
+      "119",
+      "119 BlueTEC",
+      "119 CDI",
+      "120 CDI",
+      "121",
+      "122",
+      "122 CDI",
+      "123",
+      "124 CDI",
+      "126",
+      "eVito"
+    ]
+  },
+  {
+    "id": "VLE",
+    "name": "VLE",
+    "cyrillic_name": "ВЛЕ",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "V_KLASSE",
+    "name": "V-Класс",
+    "cyrillic_name": "V-класс",
+    "year_from": 1996,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "200",
+      "220",
+      "230",
+      "250",
+      "260",
+      "280",
+      "300",
+      "350"
+    ]
+  },
+  {
+    "id": "W100",
+    "name": "W100",
+    "cyrillic_name": "в100",
+    "year_from": 1964,
+    "year_to": 1981,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W105",
+    "name": "W105",
+    "cyrillic_name": "в105",
+    "year_from": 1956,
+    "year_to": 1959,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W108",
+    "name": "W108",
+    "cyrillic_name": "в108",
+    "year_from": 1965,
+    "year_to": 1972,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W110",
+    "name": "W110",
+    "cyrillic_name": "в110",
+    "year_from": 1961,
+    "year_to": 1968,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W111",
+    "name": "W111",
+    "cyrillic_name": "W111",
+    "year_from": 1959,
+    "year_to": 1971,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W114",
+    "name": "W114",
+    "cyrillic_name": "W114",
+    "year_from": 1968,
+    "year_to": 1977,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "230",
+      "250",
+      "280"
+    ]
+  },
+  {
+    "id": "W115",
+    "name": "W115",
+    "cyrillic_name": "W115",
+    "year_from": 1968,
+    "year_to": 1977,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "200",
+      "220",
+      "230",
+      "240"
+    ]
+  },
+  {
+    "id": "W120",
+    "name": "W120",
+    "cyrillic_name": "в120",
+    "year_from": 1953,
+    "year_to": 1962,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W121",
+    "name": "W121",
+    "cyrillic_name": "W121",
+    "year_from": 1959,
+    "year_to": 1961,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W123",
+    "name": "W123",
+    "cyrillic_name": "W123",
+    "year_from": 1975,
+    "year_to": 1986,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "200",
+      "220",
+      "230",
+      "240",
+      "250",
+      "280",
+      "300"
+    ]
+  },
+  {
+    "id": "W124",
+    "name": "W124",
+    "cyrillic_name": "W124",
+    "year_from": 1984,
+    "year_to": 1993,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "200",
+      "220",
+      "230",
+      "250",
+      "260",
+      "280",
+      "300",
+      "300 AMG Hammer",
+      "300E",
+      "320",
+      "400",
+      "500"
+    ]
+  },
+  {
+    "id": "W128",
+    "name": "W128",
+    "cyrillic_name": "W128",
+    "year_from": 1958,
+    "year_to": 1960,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W136",
+    "name": "W136",
+    "cyrillic_name": "в136",
+    "year_from": 1936,
+    "year_to": 1955,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W138",
+    "name": "W138",
+    "cyrillic_name": "В138",
+    "year_from": 1935,
+    "year_to": 1940,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W142",
+    "name": "W142",
+    "cyrillic_name": "в142",
+    "year_from": 1937,
+    "year_to": 1942,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W180",
+    "name": "W180",
+    "cyrillic_name": "В180",
+    "year_from": 1954,
+    "year_to": 1959,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W186",
+    "name": "W186",
+    "cyrillic_name": "в186",
+    "year_from": 1951,
+    "year_to": 1957,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W188",
+    "name": "W188",
+    "cyrillic_name": "в188",
+    "year_from": 1951,
+    "year_to": 1958,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "W188",
+      "Roadster"
+    ]
+  },
+  {
+    "id": "W189",
+    "name": "W189",
+    "cyrillic_name": "в189",
+    "year_from": 1957,
+    "year_to": 1962,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W191",
+    "name": "W191",
+    "cyrillic_name": "в191",
+    "year_from": 1949,
+    "year_to": 1952,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W201",
+    "name": "190 (W201)",
+    "cyrillic_name": "190",
+    "year_from": 1982,
+    "year_to": 1993,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W21",
+    "name": "W21",
+    "cyrillic_name": "в21",
+    "year_from": 1933,
+    "year_to": 1936,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "W29",
+    "name": "W29",
+    "cyrillic_name": "в29",
+    "year_from": 1934,
+    "year_to": 1936,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
+    "id": "X_KLASSE",
+    "name": "X-Класс",
+    "cyrillic_name": "X-класс",
+    "year_from": 2017,
+    "year_to": 2020,
+    "brand_id": "MERCEDES",
+    "nameplates": [
+      "220",
+      "250",
+      "350"
+    ]
+  }
+]

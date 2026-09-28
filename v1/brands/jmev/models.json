@@ -1,0 +1,29 @@
+[
+  {
+    "id": "01",
+    "name": "01",
+    "cyrillic_name": "01",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "JMEV",
+    "nameplates": []
+  },
+  {
+    "id": "EV3",
+    "name": "EV3",
+    "cyrillic_name": "EB3",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "JMEV",
+    "nameplates": []
+  },
+  {
+    "id": "GSE_YI",
+    "name": "GSE (Yi)",
+    "cyrillic_name": "Гсе (Йи)",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "JMEV",
+    "nameplates": []
+  }
+]

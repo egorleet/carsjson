@@ -1,0 +1,137 @@
+[
+  {
+    "id": "APOLLO",
+    "name": "Apollo",
+    "cyrillic_name": "Аполло",
+    "year_from": 1991,
+    "year_to": 1996,
+    "brand_id": "HOLDEN",
+    "nameplates": []
+  },
+  {
+    "id": "ASTRA",
+    "name": "Astra",
+    "cyrillic_name": "Астра",
+    "year_from": 1999,
+    "year_to": 2004,
+    "brand_id": "HOLDEN",
+    "nameplates": []
+  },
+  {
+    "id": "BARINA",
+    "name": "Barina",
+    "cyrillic_name": "Барина",
+    "year_from": 1997,
+    "year_to": 2005,
+    "brand_id": "HOLDEN",
+    "nameplates": []
+  },
+  {
+    "id": "CALAIS",
+    "name": "Calais",
+    "cyrillic_name": "Кале",
+    "year_from": 1988,
+    "year_to": 2006,
+    "brand_id": "HOLDEN",
+    "nameplates": []
+  },
+  {
+    "id": "CAPRICE",
+    "name": "Caprice",
+    "cyrillic_name": "Каприс",
+    "year_from": 1990,
+    "year_to": 2006,
+    "brand_id": "HOLDEN",
+    "nameplates": []
+  },
+  {
+    "id": "COMMODORE",
+    "name": "Commodore",
+    "cyrillic_name": "Коммодор",
+    "year_from": 1990,
+    "year_to": 2002,
+    "brand_id": "HOLDEN",
+    "nameplates": []
+  },
+  {
+    "id": "CRUZE",
+    "name": "Cruze",
+    "cyrillic_name": "круз",
+    "year_from": 2002,
+    "year_to": 2006,
+    "brand_id": "HOLDEN",
+    "nameplates": []
+  },
+  {
+    "id": "FRONTERA",
+    "name": "Frontera",
+    "cyrillic_name": "Фронтера",
+    "year_from": 1998,
+    "year_to": 2003,
+    "brand_id": "HOLDEN",
+    "nameplates": []
+  },
+  {
+    "id": "JACKAROO",
+    "name": "Jackaroo",
+    "cyrillic_name": "Джакару",
+    "year_from": 1998,
+    "year_to": 2003,
+    "brand_id": "HOLDEN",
+    "nameplates": []
+  },
+  {
+    "id": "MONARO",
+    "name": "Monaro",
+    "cyrillic_name": "Монаро",
+    "year_from": 2001,
+    "year_to": 2005,
+    "brand_id": "HOLDEN",
+    "nameplates": []
+  },
+  {
+    "id": "RODEO",
+    "name": "Rodeo",
+    "cyrillic_name": "Родео",
+    "year_from": 1998,
+    "year_to": 2003,
+    "brand_id": "HOLDEN",
+    "nameplates": []
+  },
+  {
+    "id": "STATESMAN",
+    "name": "Statesman",
+    "cyrillic_name": "Стэйтсман",
+    "year_from": 1990,
+    "year_to": 2006,
+    "brand_id": "HOLDEN",
+    "nameplates": []
+  },
+  {
+    "id": "UTE",
+    "name": "UTE",
+    "cyrillic_name": "Ю Т Е",
+    "year_from": 2000,
+    "year_to": 2013,
+    "brand_id": "HOLDEN",
+    "nameplates": []
+  },
+  {
+    "id": "VECTRA",
+    "name": "Vectra",
+    "cyrillic_name": "Вектра",
+    "year_from": 1998,
+    "year_to": 2001,
+    "brand_id": "HOLDEN",
+    "nameplates": []
+  },
+  {
+    "id": "ZAFIRA",
+    "name": "Zafira",
+    "cyrillic_name": "Зафира",
+    "year_from": 2001,
+    "year_to": 2005,
+    "brand_id": "HOLDEN",
+    "nameplates": []
+  }
+]

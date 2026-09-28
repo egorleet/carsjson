@@ -1,0 +1,65 @@
+[
+  {
+    "id": "AQUILA",
+    "name": "Aquila",
+    "cyrillic_name": "Аквила",
+    "year_from": 2012,
+    "year_to": 2014,
+    "brand_id": "TAGAZ",
+    "nameplates": []
+  },
+  {
+    "id": "C10",
+    "name": "C10",
+    "cyrillic_name": "с10",
+    "year_from": 2011,
+    "year_to": 2013,
+    "brand_id": "TAGAZ",
+    "nameplates": []
+  },
+  {
+    "id": "C190",
+    "name": "C190",
+    "cyrillic_name": "с190",
+    "year_from": 2011,
+    "year_to": 2013,
+    "brand_id": "TAGAZ",
+    "nameplates": []
+  },
+  {
+    "id": "C30",
+    "name": "C-30",
+    "cyrillic_name": "с-30",
+    "year_from": 2011,
+    "year_to": 2011,
+    "brand_id": "TAGAZ",
+    "nameplates": []
+  },
+  {
+    "id": "C_100",
+    "name": "Vega",
+    "cyrillic_name": "Вега",
+    "year_from": 2009,
+    "year_to": 2010,
+    "brand_id": "TAGAZ",
+    "nameplates": []
+  },
+  {
+    "id": "ROAD_PARTNER",
+    "name": "Road Partner",
+    "cyrillic_name": "Роуд Партнер",
+    "year_from": 2008,
+    "year_to": 2011,
+    "brand_id": "TAGAZ",
+    "nameplates": []
+  },
+  {
+    "id": "TAGER",
+    "name": "Tager",
+    "cyrillic_name": "Тагер",
+    "year_from": 2008,
+    "year_to": 2012,
+    "brand_id": "TAGAZ",
+    "nameplates": []
+  }
+]

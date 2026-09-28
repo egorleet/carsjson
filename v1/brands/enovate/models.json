@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ME5",
+    "name": "ME5",
+    "cyrillic_name": "МЕ5",
+    "year_from": 2021,
+    "year_to": 2023,
+    "brand_id": "ENOVATE",
+    "nameplates": []
+  },
+  {
+    "id": "ME7",
+    "name": "ME7",
+    "cyrillic_name": "ме7",
+    "year_from": 2020,
+    "year_to": 2023,
+    "brand_id": "ENOVATE",
+    "nameplates": []
+  }
+]

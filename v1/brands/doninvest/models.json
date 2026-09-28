@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ASSOL",
+    "name": "Assol",
+    "cyrillic_name": "Ассоль",
+    "year_from": 1998,
+    "year_to": 2002,
+    "brand_id": "DONINVEST",
+    "nameplates": []
+  },
+  {
+    "id": "KONDOR",
+    "name": "Kondor",
+    "cyrillic_name": "Кондор",
+    "year_from": 1998,
+    "year_to": 2002,
+    "brand_id": "DONINVEST",
+    "nameplates": []
+  },
+  {
+    "id": "ORION",
+    "name": "Orion",
+    "cyrillic_name": "Орион",
+    "year_from": 1998,
+    "year_to": 2002,
+    "brand_id": "DONINVEST",
+    "nameplates": []
+  },
+  {
+    "id": "ORION_M",
+    "name": "Orion M",
+    "cyrillic_name": "Орион М",
+    "year_from": 1999,
+    "year_to": 2002,
+    "brand_id": "DONINVEST",
+    "nameplates": []
+  }
+]

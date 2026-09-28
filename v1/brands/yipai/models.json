@@ -1,0 +1,47 @@
+[
+  {
+    "id": "007",
+    "name": "007",
+    "cyrillic_name": "007",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "YIPAI",
+    "nameplates": []
+  },
+  {
+    "id": "008",
+    "name": "008",
+    "cyrillic_name": "008",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "YIPAI",
+    "nameplates": []
+  },
+  {
+    "id": "M8",
+    "name": "M8",
+    "cyrillic_name": "М8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "YIPAI",
+    "nameplates": []
+  },
+  {
+    "id": "NAMMI_01",
+    "name": "Nammi 01",
+    "cyrillic_name": "Намми 01",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "YIPAI",
+    "nameplates": []
+  },
+  {
+    "id": "NAMMI_06",
+    "name": "Nammi 06",
+    "cyrillic_name": "Намми 06",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "YIPAI",
+    "nameplates": []
+  }
+]

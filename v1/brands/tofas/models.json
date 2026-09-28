@@ -1,0 +1,47 @@
+[
+  {
+    "id": "KARTAL",
+    "name": "Kartal",
+    "cyrillic_name": "Картал",
+    "year_from": 1985,
+    "year_to": 2003,
+    "brand_id": "TOFAS",
+    "nameplates": []
+  },
+  {
+    "id": "MURAT_124",
+    "name": "Murat 124",
+    "cyrillic_name": "Мурат 124",
+    "year_from": 1971,
+    "year_to": 1977,
+    "brand_id": "TOFAS",
+    "nameplates": []
+  },
+  {
+    "id": "MURAT_131",
+    "name": "Murat 131",
+    "cyrillic_name": "Мурат 131",
+    "year_from": 1985,
+    "year_to": 1995,
+    "brand_id": "TOFAS",
+    "nameplates": []
+  },
+  {
+    "id": "SAHIN",
+    "name": "Sahin",
+    "cyrillic_name": "сахин",
+    "year_from": 1990,
+    "year_to": 2002,
+    "brand_id": "TOFAS",
+    "nameplates": []
+  },
+  {
+    "id": "SERCE",
+    "name": "Serce",
+    "cyrillic_name": "серсе",
+    "year_from": 1985,
+    "year_to": 1996,
+    "brand_id": "TOFAS",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "BEACH_BUGGY_TYPE1",
+    "name": "Багги Type 1",
+    "cyrillic_name": "Пляжный багги тип 1",
+    "year_from": 1964,
+    "year_to": 2026,
+    "brand_id": "PROMO_AUTO",
+    "nameplates": []
+  },
+  {
+    "id": "DRAGSTER",
+    "name": "Драгстер",
+    "cyrillic_name": "Драгстер",
+    "year_from": 1950,
+    "year_to": 2026,
+    "brand_id": "PROMO_AUTO",
+    "nameplates": []
+  },
+  {
+    "id": "DRIFT",
+    "name": "Дрифт-кар",
+    "cyrillic_name": "Дрифт",
+    "year_from": 1950,
+    "year_to": 2026,
+    "brand_id": "PROMO_AUTO",
+    "nameplates": []
+  },
+  {
+    "id": "FORMULA",
+    "name": "Формула",
+    "cyrillic_name": "Формула",
+    "year_from": 1950,
+    "year_to": 2026,
+    "brand_id": "PROMO_AUTO",
+    "nameplates": []
+  },
+  {
+    "id": "GT_TOURING",
+    "name": "GT & Touring",
+    "cyrillic_name": "ГТ и Туринг",
+    "year_from": 1950,
+    "year_to": 2026,
+    "brand_id": "PROMO_AUTO",
+    "nameplates": []
+  },
+  {
+    "id": "HOT_ROD_CUSTOM",
+    "name": "Хот-род и Кастом",
+    "cyrillic_name": "Хот-род и Кастом",
+    "year_from": 1950,
+    "year_to": 2026,
+    "brand_id": "PROMO_AUTO",
+    "nameplates": []
+  },
+  {
+    "id": "OFFROAD",
+    "name": "Offroad",
+    "cyrillic_name": "Оффроуд",
+    "year_from": 1950,
+    "year_to": 2026,
+    "brand_id": "PROMO_AUTO",
+    "nameplates": []
+  },
+  {
+    "id": "PROTOTYPE",
+    "name": "Спортпрототип",
+    "cyrillic_name": "Спортпрототип",
+    "year_from": 1950,
+    "year_to": 2026,
+    "brand_id": "PROMO_AUTO",
+    "nameplates": []
+  },
+  {
+    "id": "RALLY_CROSS",
+    "name": "Rally/cross",
+    "cyrillic_name": "Ралли/кросс",
+    "year_from": 1950,
+    "year_to": 2026,
+    "brand_id": "PROMO_AUTO",
+    "nameplates": []
+  },
+  {
+    "id": "REPLICA_I_SAMODELKI",
+    "name": "Самоделки",
+    "cyrillic_name": "Самоделки",
+    "year_from": 1943,
+    "year_to": 2026,
+    "brand_id": "PROMO_AUTO",
+    "nameplates": []
+  },
+  {
+    "id": "SHORTCUT",
+    "name": "Shortcut",
+    "cyrillic_name": "Шорткат",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "PROMO_AUTO",
+    "nameplates": []
+  }
+]

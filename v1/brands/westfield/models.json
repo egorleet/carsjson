@@ -1,0 +1,20 @@
+[
+  {
+    "id": "SEIGHT",
+    "name": "SEiGHT",
+    "cyrillic_name": "сейгт",
+    "year_from": 1991,
+    "year_to": 2010,
+    "brand_id": "WESTFIELD",
+    "nameplates": []
+  },
+  {
+    "id": "SEI_SPORT",
+    "name": "SEi & Sport",
+    "cyrillic_name": "сей и спорт",
+    "year_from": 1982,
+    "year_to": 2025,
+    "brand_id": "WESTFIELD",
+    "nameplates": []
+  }
+]

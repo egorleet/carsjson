@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C5",
+    "name": "C5",
+    "cyrillic_name": "Це5",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "JELAND",
+    "nameplates": []
+  },
+  {
+    "id": "J6",
+    "name": "J6",
+    "cyrillic_name": "Джей6",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "JELAND",
+    "nameplates": []
+  },
+  {
+    "id": "J7",
+    "name": "J7",
+    "cyrillic_name": "Джей7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "JELAND",
+    "nameplates": []
+  },
+  {
+    "id": "J8",
+    "name": "J8",
+    "cyrillic_name": "Джей8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "JELAND",
+    "nameplates": []
+  }
+]

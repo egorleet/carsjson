@@ -1,0 +1,336 @@
+[
+  {
+    "id": "100_SERIES",
+    "name": "100/110",
+    "cyrillic_name": "100/110",
+    "year_from": 1969,
+    "year_to": 1980,
+    "brand_id": "SKODA",
+    "nameplates": [
+      "100/110",
+      "110 R"
+    ]
+  },
+  {
+    "id": "120",
+    "name": "105/120/125/130",
+    "cyrillic_name": "105/120/125/130",
+    "year_from": 1976,
+    "year_to": 1990,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "1200",
+    "name": "1200",
+    "cyrillic_name": "1200",
+    "year_from": 1952,
+    "year_to": 1973,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "440",
+    "name": "440",
+    "cyrillic_name": "440",
+    "year_from": 1955,
+    "year_to": 1959,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "445",
+    "name": "445",
+    "cyrillic_name": "445",
+    "year_from": 1957,
+    "year_to": 1959,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "CITIGO",
+    "name": "Citigo",
+    "cyrillic_name": "Ситиго",
+    "year_from": 2011,
+    "year_to": 2020,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "ELROQ",
+    "name": "Elroq",
+    "cyrillic_name": "Элрок",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "ELROQ_RS",
+    "name": "Elroq RS",
+    "cyrillic_name": "Элрок РС",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "ENYAQ",
+    "name": "Enyaq",
+    "cyrillic_name": "Эниак",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "ENYAQ_COUPE",
+    "name": "Enyaq Coupe",
+    "cyrillic_name": "Эниак Купе",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "ENYAQ_COUPE_RS",
+    "name": "Enyaq Coupe RS",
+    "cyrillic_name": "Эниак Купе РС",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "ENYAQ_RS",
+    "name": "Enyaq RS",
+    "cyrillic_name": "Эниак РС",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "EPIQ",
+    "name": "Epiq",
+    "cyrillic_name": "Эпик",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "FABIA",
+    "name": "Fabia",
+    "cyrillic_name": "Фабия",
+    "year_from": 1999,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": [
+      "Fabia",
+      "Edition R5",
+      "Scout"
+    ]
+  },
+  {
+    "id": "FABIA_RS",
+    "name": "Fabia RS",
+    "cyrillic_name": "Фабия РС",
+    "year_from": 2003,
+    "year_to": 2014,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "FAVORIT",
+    "name": "Favorit",
+    "cyrillic_name": "Фаворит",
+    "year_from": 1989,
+    "year_to": 2000,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "FELICIA",
+    "name": "Felicia",
+    "cyrillic_name": "Фелиция",
+    "year_from": 1959,
+    "year_to": 2001,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "FORMAN",
+    "name": "Forman",
+    "cyrillic_name": "форман",
+    "year_from": 1990,
+    "year_to": 1995,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "KAMIQ",
+    "name": "Kamiq",
+    "cyrillic_name": "Камик",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": [
+      "Kamiq",
+      "GT"
+    ]
+  },
+  {
+    "id": "KAROQ",
+    "name": "Karoq",
+    "cyrillic_name": "Карок",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "KODIAQ",
+    "name": "Kodiaq",
+    "cyrillic_name": "Кодиак",
+    "year_from": 2016,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "KODIAQ_GT",
+    "name": "Kodiaq GT",
+    "cyrillic_name": "Кодиак ГТ",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "KODIAQ_RS",
+    "name": "Kodiaq RS",
+    "cyrillic_name": "Кодиак РС",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "KUSHAQ",
+    "name": "Kushaq",
+    "cyrillic_name": "Кушак",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "KYLAQ",
+    "name": "Kylaq",
+    "cyrillic_name": "Кайлак",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "OCTAVIA",
+    "name": "Octavia",
+    "cyrillic_name": "Октавия",
+    "year_from": 1959,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": [
+      "Octavia",
+      "Scout"
+    ]
+  },
+  {
+    "id": "OCTAVIA_RS",
+    "name": "Octavia RS",
+    "cyrillic_name": "Октавия РС",
+    "year_from": 2001,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "PEAQ",
+    "name": "Peaq",
+    "cyrillic_name": "Пик",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "POPULAR",
+    "name": "Popular",
+    "cyrillic_name": "популяр",
+    "year_from": 1934,
+    "year_to": 1946,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "RAPID",
+    "name": "Rapid",
+    "cyrillic_name": "Рапид",
+    "year_from": 2012,
+    "year_to": 2023,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "ROOMSTER",
+    "name": "Roomster",
+    "cyrillic_name": "Румстер",
+    "year_from": 2006,
+    "year_to": 2015,
+    "brand_id": "SKODA",
+    "nameplates": [
+      "Roomster",
+      "Scout"
+    ]
+  },
+  {
+    "id": "SCALA",
+    "name": "Scala",
+    "cyrillic_name": "Скала",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "SLAVIA",
+    "name": "Slavia",
+    "cyrillic_name": "Славия",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": []
+  },
+  {
+    "id": "SUPERB",
+    "name": "Superb",
+    "cyrillic_name": "Суперб",
+    "year_from": 2001,
+    "year_to": 2026,
+    "brand_id": "SKODA",
+    "nameplates": [
+      "Superb",
+      "Scout"
+    ]
+  },
+  {
+    "id": "YETI",
+    "name": "Yeti",
+    "cyrillic_name": "Йети",
+    "year_from": 2009,
+    "year_to": 2018,
+    "brand_id": "SKODA",
+    "nameplates": []
+  }
+]

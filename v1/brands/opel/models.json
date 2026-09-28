@@ -1,0 +1,483 @@
+[
+  {
+    "id": "4_8_PS",
+    "name": "4/8 PS",
+    "cyrillic_name": "4/8 ПС",
+    "year_from": 1909,
+    "year_to": 1910,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "ADAM",
+    "name": "Adam",
+    "cyrillic_name": "адам",
+    "year_from": 2013,
+    "year_to": 2019,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "ADMIRAL",
+    "name": "Admiral",
+    "cyrillic_name": "Адмирал",
+    "year_from": 1937,
+    "year_to": 1978,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "AGILA",
+    "name": "Agila",
+    "cyrillic_name": "Агила",
+    "year_from": 2000,
+    "year_to": 2014,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "AMPERA",
+    "name": "Ampera",
+    "cyrillic_name": "Ампера",
+    "year_from": 2011,
+    "year_to": 2021,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "ANTARA",
+    "name": "Antara",
+    "cyrillic_name": "Антара",
+    "year_from": 2006,
+    "year_to": 2017,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "ASCONA",
+    "name": "Ascona",
+    "cyrillic_name": "Аскона",
+    "year_from": 1970,
+    "year_to": 1988,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "ASTRA",
+    "name": "Astra",
+    "cyrillic_name": "Астра",
+    "year_from": 1991,
+    "year_to": 2026,
+    "brand_id": "OPEL",
+    "nameplates": [
+      "Astra",
+      "GSi",
+      "GTC"
+    ]
+  },
+  {
+    "id": "ASTRA_OPC",
+    "name": "Astra OPC",
+    "cyrillic_name": "астра опс",
+    "year_from": 1999,
+    "year_to": 2016,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "CALIBRA",
+    "name": "Calibra",
+    "cyrillic_name": "Калибра",
+    "year_from": 1990,
+    "year_to": 1997,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "CAMPO",
+    "name": "Campo",
+    "cyrillic_name": "Кэмпо",
+    "year_from": 1991,
+    "year_to": 2000,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "CASCADA",
+    "name": "Cascada",
+    "cyrillic_name": "Каскада",
+    "year_from": 2013,
+    "year_to": 2019,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "COMBO",
+    "name": "Combo",
+    "cyrillic_name": "Комбо",
+    "year_from": 1993,
+    "year_to": 2026,
+    "brand_id": "OPEL",
+    "nameplates": [
+      "Combo",
+      "Cargo",
+      "e Cargo",
+      "e Life",
+      "Life"
+    ]
+  },
+  {
+    "id": "COMMODORE",
+    "name": "Commodore",
+    "cyrillic_name": "Коммодор",
+    "year_from": 1967,
+    "year_to": 1982,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "CORSA",
+    "name": "Corsa",
+    "cyrillic_name": "Корса",
+    "year_from": 1982,
+    "year_to": 2026,
+    "brand_id": "OPEL",
+    "nameplates": [
+      "Corsa",
+      "GSi"
+    ]
+  },
+  {
+    "id": "CORSA_OPC",
+    "name": "Corsa OPC",
+    "cyrillic_name": "корса опс",
+    "year_from": 2007,
+    "year_to": 2018,
+    "brand_id": "OPEL",
+    "nameplates": [
+      "Corsa OPC",
+      "NE"
+    ]
+  },
+  {
+    "id": "CROSSLAND_X",
+    "name": "Crossland X",
+    "cyrillic_name": "Кросленд Х",
+    "year_from": 2017,
+    "year_to": 2024,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "DIPLOMAT",
+    "name": "Diplomat",
+    "cyrillic_name": "Дипломат",
+    "year_from": 1964,
+    "year_to": 1978,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "FRONTERA",
+    "name": "Frontera",
+    "cyrillic_name": "Фронтера",
+    "year_from": 1991,
+    "year_to": 2026,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "GRANDLAND_X",
+    "name": "Grandland",
+    "cyrillic_name": "Grandland X",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "GT",
+    "name": "GT",
+    "cyrillic_name": "GT",
+    "year_from": 1968,
+    "year_to": 2009,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "INSIGNIA",
+    "name": "Insignia",
+    "cyrillic_name": "Инсигния",
+    "year_from": 2008,
+    "year_to": 2022,
+    "brand_id": "OPEL",
+    "nameplates": [
+      "Insignia",
+      "Country Tourer"
+    ]
+  },
+  {
+    "id": "INSIGNIA_OPC",
+    "name": "Insignia OPC",
+    "cyrillic_name": "инсигния опс",
+    "year_from": 2009,
+    "year_to": 2017,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "KADETT",
+    "name": "Kadett",
+    "cyrillic_name": "Кадет",
+    "year_from": 1937,
+    "year_to": 1993,
+    "brand_id": "OPEL",
+    "nameplates": [
+      "Kadett",
+      "GSi"
+    ]
+  },
+  {
+    "id": "KAPITAN",
+    "name": "Kapitan",
+    "cyrillic_name": "Капитан",
+    "year_from": 1938,
+    "year_to": 1970,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "KARL",
+    "name": "Karl",
+    "cyrillic_name": "карл",
+    "year_from": 2015,
+    "year_to": 2019,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "LOTUS_OMEGA",
+    "name": "Lotus Omega",
+    "cyrillic_name": "Лотус Омега",
+    "year_from": 1990,
+    "year_to": 1992,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "MANTA",
+    "name": "Manta",
+    "cyrillic_name": "Манта",
+    "year_from": 1970,
+    "year_to": 1988,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "MERIVA",
+    "name": "Meriva",
+    "cyrillic_name": "Мерива",
+    "year_from": 2003,
+    "year_to": 2018,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "MERIVA_OPC",
+    "name": "Meriva OPC",
+    "cyrillic_name": "Мерива OPC",
+    "year_from": 2006,
+    "year_to": 2010,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "MOKKA",
+    "name": "Mokka",
+    "cyrillic_name": "Мокка",
+    "year_from": 2012,
+    "year_to": 2026,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "MONTEREY",
+    "name": "Monterey",
+    "cyrillic_name": "Монтерей",
+    "year_from": 1992,
+    "year_to": 1999,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "MONZA",
+    "name": "Monza",
+    "cyrillic_name": "монза",
+    "year_from": 1978,
+    "year_to": 1986,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "OLYMPIA",
+    "name": "Olympia",
+    "cyrillic_name": "олимпия",
+    "year_from": 1935,
+    "year_to": 1970,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "OMEGA",
+    "name": "Omega",
+    "cyrillic_name": "Омега",
+    "year_from": 1984,
+    "year_to": 2004,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "P4",
+    "name": "P4",
+    "cyrillic_name": "П4",
+    "year_from": 1935,
+    "year_to": 1937,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "REKORD",
+    "name": "Rekord",
+    "cyrillic_name": "Рекорд",
+    "year_from": 1963,
+    "year_to": 1986,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "ROCKS_ELECTRIC",
+    "name": "Rocks Electric",
+    "cyrillic_name": "Рокс Электрик",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "SENATOR",
+    "name": "Senator",
+    "cyrillic_name": "Сенатор",
+    "year_from": 1978,
+    "year_to": 1993,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "SIGNUM",
+    "name": "Signum",
+    "cyrillic_name": "Сигнум",
+    "year_from": 2003,
+    "year_to": 2008,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "SINTRA",
+    "name": "Sintra",
+    "cyrillic_name": "Синтра",
+    "year_from": 1996,
+    "year_to": 1999,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "SPEEDSTER",
+    "name": "Speedster",
+    "cyrillic_name": "Спидстер",
+    "year_from": 2000,
+    "year_to": 2005,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "SUPER_SIX",
+    "name": "Super Six",
+    "cyrillic_name": "Супер 6",
+    "year_from": 1936,
+    "year_to": 1938,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "TIGRA",
+    "name": "Tigra",
+    "cyrillic_name": "Тигра",
+    "year_from": 1994,
+    "year_to": 2009,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "VECTRA",
+    "name": "Vectra",
+    "cyrillic_name": "Вектра",
+    "year_from": 1988,
+    "year_to": 2008,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "VECTRA_OPC",
+    "name": "Vectra OPC",
+    "cyrillic_name": "вектра опс",
+    "year_from": 2005,
+    "year_to": 2008,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "VITA",
+    "name": "Vita",
+    "cyrillic_name": "Вита",
+    "year_from": 1995,
+    "year_to": 2004,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "VIVARO",
+    "name": "Vivaro",
+    "cyrillic_name": "Виваро",
+    "year_from": 2001,
+    "year_to": 2026,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "ZAFIRA",
+    "name": "Zafira",
+    "cyrillic_name": "Зафира",
+    "year_from": 1999,
+    "year_to": 2019,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "ZAFIRA_LIFE",
+    "name": "Zafira Life",
+    "cyrillic_name": "Зафира Лайф",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "OPEL",
+    "nameplates": []
+  },
+  {
+    "id": "ZAFIRA_OPC",
+    "name": "Zafira OPC",
+    "cyrillic_name": "зафира опс",
+    "year_from": 2001,
+    "year_to": 2011,
+    "brand_id": "OPEL",
+    "nameplates": []
+  }
+]

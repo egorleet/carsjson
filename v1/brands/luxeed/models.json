@@ -1,0 +1,38 @@
+[
+  {
+    "id": "R7",
+    "name": "R7",
+    "cyrillic_name": "Р7",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "LUXEED",
+    "nameplates": []
+  },
+  {
+    "id": "RX",
+    "name": "RX",
+    "cyrillic_name": "рх",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "LUXEED",
+    "nameplates": []
+  },
+  {
+    "id": "S7",
+    "name": "S7",
+    "cyrillic_name": "С7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "LUXEED",
+    "nameplates": []
+  },
+  {
+    "id": "V9",
+    "name": "V9",
+    "cyrillic_name": "В9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "LUXEED",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "500",
+    "name": "500",
+    "cyrillic_name": "500",
+    "year_from": 2014,
+    "year_to": 2019,
+    "brand_id": "DENZA",
+    "nameplates": []
+  },
+  {
+    "id": "D9",
+    "name": "D9",
+    "cyrillic_name": "Д9",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "DENZA",
+    "nameplates": []
+  },
+  {
+    "id": "N7",
+    "name": "N7",
+    "cyrillic_name": "Н7",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "DENZA",
+    "nameplates": []
+  },
+  {
+    "id": "N8",
+    "name": "N8",
+    "cyrillic_name": "Н8",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "DENZA",
+    "nameplates": []
+  },
+  {
+    "id": "N8L",
+    "name": "N8L",
+    "cyrillic_name": "Н8Л",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "DENZA",
+    "nameplates": []
+  },
+  {
+    "id": "N9",
+    "name": "N9",
+    "cyrillic_name": "Н9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "DENZA",
+    "nameplates": []
+  },
+  {
+    "id": "X",
+    "name": "X",
+    "cyrillic_name": "Икс",
+    "year_from": 2019,
+    "year_to": 2022,
+    "brand_id": "DENZA",
+    "nameplates": []
+  },
+  {
+    "id": "Z",
+    "name": "Z",
+    "cyrillic_name": "Зет",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "DENZA",
+    "nameplates": []
+  },
+  {
+    "id": "Z9",
+    "name": "Z9",
+    "cyrillic_name": "З9",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "DENZA",
+    "nameplates": [
+      "Z9",
+      "GT"
+    ]
+  },
+  {
+    "id": "Z9S",
+    "name": "Z9S",
+    "cyrillic_name": "З9С",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "DENZA",
+    "nameplates": []
+  }
+]

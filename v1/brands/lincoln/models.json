@@ -1,0 +1,200 @@
+[
+  {
+    "id": "AVIATOR",
+    "name": "Aviator",
+    "cyrillic_name": "авиатор",
+    "year_from": 2002,
+    "year_to": 2026,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "BLACKWOOD",
+    "name": "Blackwood",
+    "cyrillic_name": "блэквуд",
+    "year_from": 2001,
+    "year_to": 2002,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "CAPRI",
+    "name": "Capri",
+    "cyrillic_name": "капри",
+    "year_from": 1952,
+    "year_to": 1959,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "CONTINENTAL",
+    "name": "Continental",
+    "cyrillic_name": "континенталь",
+    "year_from": 1939,
+    "year_to": 2020,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "CONTINENTAL_MARK",
+    "name": "Continental Mark",
+    "cyrillic_name": "Континентал Марк",
+    "year_from": 1968,
+    "year_to": 1983,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "CORSAIR",
+    "name": "Corsair",
+    "cyrillic_name": "Корсэйр",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "LS",
+    "name": "LS",
+    "cyrillic_name": "лс",
+    "year_from": 1999,
+    "year_to": 2006,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "MARK_LT",
+    "name": "Mark LT",
+    "cyrillic_name": "марк лт",
+    "year_from": 2005,
+    "year_to": 2014,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "MARK_VII",
+    "name": "Mark VII",
+    "cyrillic_name": "Марк VII",
+    "year_from": 1984,
+    "year_to": 1992,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "MARK_VIII",
+    "name": "Mark VIII",
+    "cyrillic_name": "Марк VIII",
+    "year_from": 1992,
+    "year_to": 1998,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "MKC",
+    "name": "MKC",
+    "cyrillic_name": "мкц",
+    "year_from": 2014,
+    "year_to": 2019,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "MKS",
+    "name": "MKS",
+    "cyrillic_name": "мкс",
+    "year_from": 2008,
+    "year_to": 2016,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "MKT",
+    "name": "MKT",
+    "cyrillic_name": "мкт",
+    "year_from": 2009,
+    "year_to": 2019,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "MKX",
+    "name": "MKX",
+    "cyrillic_name": "мкх",
+    "year_from": 2006,
+    "year_to": 2018,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "MKZ",
+    "name": "MKZ",
+    "cyrillic_name": "мкз",
+    "year_from": 2006,
+    "year_to": 2020,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "NAUTILUS",
+    "name": "Nautilus",
+    "cyrillic_name": "Наутилус",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "NAVIGATOR",
+    "name": "Navigator",
+    "cyrillic_name": "навигатор",
+    "year_from": 1997,
+    "year_to": 2026,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "PREMIERE",
+    "name": "Premiere",
+    "cyrillic_name": "премьер",
+    "year_from": 1955,
+    "year_to": 1960,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "TOWN_CAR",
+    "name": "Town Car",
+    "cyrillic_name": "таун кар",
+    "year_from": 1980,
+    "year_to": 2011,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "VERSAILLES",
+    "name": "Versailles",
+    "cyrillic_name": "Версайлс",
+    "year_from": 1977,
+    "year_to": 1980,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "Z",
+    "name": "Z",
+    "cyrillic_name": "Зет",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  },
+  {
+    "id": "ZEPHYR",
+    "name": "Zephyr",
+    "cyrillic_name": "Зефир",
+    "year_from": 1936,
+    "year_to": 1942,
+    "brand_id": "LINCOLN",
+    "nameplates": []
+  }
+]

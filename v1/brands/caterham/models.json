@@ -1,0 +1,29 @@
+[
+  {
+    "id": "C21",
+    "name": "21",
+    "cyrillic_name": "21",
+    "year_from": 1994,
+    "year_to": 2000,
+    "brand_id": "CATERHAM",
+    "nameplates": []
+  },
+  {
+    "id": "CSR",
+    "name": "CSR",
+    "cyrillic_name": "цср",
+    "year_from": 2005,
+    "year_to": 2026,
+    "brand_id": "CATERHAM",
+    "nameplates": []
+  },
+  {
+    "id": "SEVEN",
+    "name": "Seven",
+    "cyrillic_name": "Севен",
+    "year_from": 1992,
+    "year_to": 2026,
+    "brand_id": "CATERHAM",
+    "nameplates": []
+  }
+]

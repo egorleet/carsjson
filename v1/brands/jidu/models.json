@@ -1,0 +1,20 @@
+[
+  {
+    "id": "01",
+    "name": "01",
+    "cyrillic_name": "01",
+    "year_from": 2024,
+    "year_to": 2025,
+    "brand_id": "JIDU",
+    "nameplates": []
+  },
+  {
+    "id": "07",
+    "name": "07",
+    "cyrillic_name": "07",
+    "year_from": 2024,
+    "year_to": 2025,
+    "brand_id": "JIDU",
+    "nameplates": []
+  }
+]

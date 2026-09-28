@@ -1,0 +1,47 @@
+[
+  {
+    "id": "D60",
+    "name": "D60",
+    "cyrillic_name": "Д60",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "VENUCIA",
+    "nameplates": []
+  },
+  {
+    "id": "D60_PLUS",
+    "name": "D60 Plus",
+    "cyrillic_name": "Д60 Плюс",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "VENUCIA",
+    "nameplates": []
+  },
+  {
+    "id": "T60",
+    "name": "Т60",
+    "cyrillic_name": "Т60",
+    "year_from": 2018,
+    "year_to": 2026,
+    "brand_id": "VENUCIA",
+    "nameplates": []
+  },
+  {
+    "id": "VX6",
+    "name": "VX6",
+    "cyrillic_name": "ВХ6",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "VENUCIA",
+    "nameplates": []
+  },
+  {
+    "id": "V_ONLINE",
+    "name": "V-Online",
+    "cyrillic_name": "Ви-Онлайн",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "VENUCIA",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "D8",
+    "name": "D8",
+    "cyrillic_name": "д8",
+    "year_from": 2001,
+    "year_to": 2007,
+    "brand_id": "DONKERVOORT",
+    "nameplates": []
+  },
+  {
+    "id": "D8_COSWORTH",
+    "name": "D8 Cosworth",
+    "cyrillic_name": "д8 косворт",
+    "year_from": 1994,
+    "year_to": 1998,
+    "brand_id": "DONKERVOORT",
+    "nameplates": []
+  },
+  {
+    "id": "D8_GT",
+    "name": "D8 GT",
+    "cyrillic_name": "Д8 ГТ",
+    "year_from": 2007,
+    "year_to": 2012,
+    "brand_id": "DONKERVOORT",
+    "nameplates": []
+  },
+  {
+    "id": "D8_GTO",
+    "name": "D8 GTO",
+    "cyrillic_name": "д8 гто",
+    "year_from": 2013,
+    "year_to": 2022,
+    "brand_id": "DONKERVOORT",
+    "nameplates": []
+  },
+  {
+    "id": "D8_ZETEC",
+    "name": "D8 Zetec",
+    "cyrillic_name": "д8 зетек",
+    "year_from": 1993,
+    "year_to": 1998,
+    "brand_id": "DONKERVOORT",
+    "nameplates": []
+  },
+  {
+    "id": "F22",
+    "name": "F22",
+    "cyrillic_name": "Ф22",
+    "year_from": 2022,
+    "year_to": 2025,
+    "brand_id": "DONKERVOORT",
+    "nameplates": []
+  },
+  {
+    "id": "P24_RS",
+    "name": "P24 RS",
+    "cyrillic_name": "П24 РС",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "DONKERVOORT",
+    "nameplates": []
+  }
+]

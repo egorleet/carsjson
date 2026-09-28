@@ -1,0 +1,11 @@
+[
+  {
+    "id": "ROADSTER",
+    "name": "Roadster",
+    "cyrillic_name": "Родстер",
+    "year_from": 1997,
+    "year_to": 2026,
+    "brand_id": "GORDON",
+    "nameplates": []
+  }
+]

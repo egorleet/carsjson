@@ -1,0 +1,3410 @@
+[
+  {
+    "id": "212",
+    "name": "212",
+    "cyrillic_name": "212",
+    "year_from": 2024,
+    "year_to": 2026,
+    "logo": "/logos/212.webp"
+  },
+  {
+    "id": "ABARTH",
+    "name": "Abarth",
+    "cyrillic_name": "Абарт",
+    "year_from": 2008,
+    "year_to": 2026,
+    "logo": "/logos/abarth.webp"
+  },
+  {
+    "id": "AC",
+    "name": "AC",
+    "cyrillic_name": "АС",
+    "year_from": 1965,
+    "year_to": 2026,
+    "logo": "/logos/ac.webp"
+  },
+  {
+    "id": "ACURA",
+    "name": "Acura",
+    "cyrillic_name": "Акура",
+    "year_from": 1986,
+    "year_to": 2026,
+    "logo": "/logos/acura.webp"
+  },
+  {
+    "id": "ADAM",
+    "name": "Adam",
+    "cyrillic_name": "Адам",
+    "year_from": 2005,
+    "year_to": 2006,
+    "logo": "/logos/adam.webp"
+  },
+  {
+    "id": "ADLER",
+    "name": "Adler",
+    "cyrillic_name": "Адлер",
+    "year_from": 1934,
+    "year_to": 1941,
+    "logo": "/logos/adler.webp"
+  },
+  {
+    "id": "AION",
+    "name": "Aion",
+    "cyrillic_name": "Аион",
+    "year_from": 2019,
+    "year_to": 2026,
+    "logo": "/logos/aion.webp"
+  },
+  {
+    "id": "AISTALAND",
+    "name": "Aistaland",
+    "cyrillic_name": "Аисталэнд",
+    "year_from": 2026,
+    "year_to": 2026,
+    "logo": "/logos/aistaland.webp"
+  },
+  {
+    "id": "AITO",
+    "name": "Aito",
+    "cyrillic_name": "Аито",
+    "year_from": 2022,
+    "year_to": 2026,
+    "logo": "/logos/aito.webp"
+  },
+  {
+    "id": "AIWAYS",
+    "name": "Aiways",
+    "cyrillic_name": "Айвэйс",
+    "year_from": 2019,
+    "year_to": 2023,
+    "logo": "/logos/aiways.webp"
+  },
+  {
+    "id": "AIXAM",
+    "name": "Aixam",
+    "cyrillic_name": "Аиксам",
+    "year_from": 2000,
+    "year_to": 2026,
+    "logo": "/logos/aixam.webp"
+  },
+  {
+    "id": "ALFA_ROMEO",
+    "name": "Alfa Romeo",
+    "cyrillic_name": "Альфа Ромео",
+    "year_from": 1927,
+    "year_to": 2026,
+    "logo": "/logos/alfa_romeo.webp"
+  },
+  {
+    "id": "ALPINA",
+    "name": "Alpina",
+    "cyrillic_name": "Альпина",
+    "year_from": 1978,
+    "year_to": 2026,
+    "logo": "/logos/alpina.webp"
+  },
+  {
+    "id": "ALPINE",
+    "name": "Alpine",
+    "cyrillic_name": "Альпин",
+    "year_from": 1961,
+    "year_to": 2026,
+    "logo": "/logos/alpine.webp"
+  },
+  {
+    "id": "AMBERAUTO",
+    "name": "Амберавто",
+    "cyrillic_name": "Амберавто",
+    "year_from": 2023,
+    "year_to": 2026,
+    "logo": "/logos/amberauto.webp"
+  },
+  {
+    "id": "AMBERTRUCK",
+    "name": "Ambertruck",
+    "cyrillic_name": "Амбертрак",
+    "year_from": 2024,
+    "year_to": 2026,
+    "logo": "/logos/ambertruck.webp"
+  },
+  {
+    "id": "AMC",
+    "name": "AMC",
+    "cyrillic_name": "АМС",
+    "year_from": 1961,
+    "year_to": 1987,
+    "logo": "/logos/amc.webp"
+  },
+  {
+    "id": "AM_GENERAL",
+    "name": "AM General",
+    "cyrillic_name": "АМ Дженерал",
+    "year_from": 1984,
+    "year_to": 2006,
+    "logo": "/logos/am_general.webp"
+  },
+  {
+    "id": "APAL",
+    "name": "Apal",
+    "cyrillic_name": "Апал",
+    "year_from": 2018,
+    "year_to": 2020,
+    "logo": "/logos/apal.webp"
+  },
+  {
+    "id": "ARCFOX",
+    "name": "Arcfox",
+    "cyrillic_name": "Аркфокс",
+    "year_from": 2017,
+    "year_to": 2026,
+    "logo": "/logos/arcfox.webp"
+  },
+  {
+    "id": "ARIEL",
+    "name": "Ariel",
+    "cyrillic_name": "Ариэль",
+    "year_from": 2000,
+    "year_to": 2026,
+    "logo": "/logos/ariel.webp"
+  },
+  {
+    "id": "ARO",
+    "name": "Aro",
+    "cyrillic_name": "Аро",
+    "year_from": 1972,
+    "year_to": 2006,
+    "logo": "/logos/aro.webp"
+  },
+  {
+    "id": "ASIA",
+    "name": "Asia",
+    "cyrillic_name": "Эйша",
+    "year_from": 1987,
+    "year_to": 2003,
+    "logo": "/logos/asia.webp"
+  },
+  {
+    "id": "ASTON_MARTIN",
+    "name": "Aston Martin",
+    "cyrillic_name": "Астон Мартин",
+    "year_from": 1963,
+    "year_to": 2026,
+    "logo": "/logos/aston_martin.webp"
+  },
+  {
+    "id": "ATOM",
+    "name": "Атом",
+    "cyrillic_name": "Атом",
+    "year_from": 2025,
+    "year_to": 2026,
+    "logo": "/logos/atom.webp"
+  },
+  {
+    "id": "AUBURN",
+    "name": "Auburn",
+    "cyrillic_name": "Оберн",
+    "year_from": 1935,
+    "year_to": 1937,
+    "logo": "/logos/auburn.webp"
+  },
+  {
+    "id": "AUDI",
+    "name": "Audi",
+    "cyrillic_name": "Ауди",
+    "year_from": 1927,
+    "year_to": 2026,
+    "logo": "/logos/audi.webp"
+  },
+  {
+    "id": "AURUS",
+    "name": "Aurus",
+    "cyrillic_name": "Аурус",
+    "year_from": 2018,
+    "year_to": 2026,
+    "logo": "/logos/aurus.webp"
+  },
+  {
+    "id": "AUSTIN",
+    "name": "Austin",
+    "cyrillic_name": "Остин",
+    "year_from": 1958,
+    "year_to": 1997,
+    "logo": "/logos/austin.webp"
+  },
+  {
+    "id": "AUSTIN_HEALEY",
+    "name": "Austin Healey",
+    "cyrillic_name": "Остин Хэйли",
+    "year_from": 1956,
+    "year_to": 1967,
+    "logo": "/logos/austin_healey.webp"
+  },
+  {
+    "id": "AUTOBIANCHI",
+    "name": "Autobianchi",
+    "cyrillic_name": "Аутобьянки",
+    "year_from": 1969,
+    "year_to": 1986,
+    "logo": "/logos/autobianchi.webp"
+  },
+  {
+    "id": "AUTO_UNION",
+    "name": "Auto Union",
+    "cyrillic_name": "Авто Юнион",
+    "year_from": 1958,
+    "year_to": 1965,
+    "logo": "/logos/auto_union.webp"
+  },
+  {
+    "id": "AVATR",
+    "name": "Avatr",
+    "cyrillic_name": "Аватр",
+    "year_from": 2022,
+    "year_to": 2026,
+    "logo": "/logos/avatr.webp"
+  },
+  {
+    "id": "AVTOKAM",
+    "name": "Автокам",
+    "cyrillic_name": "Автокам",
+    "year_from": 1990,
+    "year_to": 1999,
+    "logo": "/logos/avtokam.webp"
+  },
+  {
+    "id": "BAIC",
+    "name": "BAIC",
+    "cyrillic_name": "БАИК",
+    "year_from": 1964,
+    "year_to": 2026,
+    "logo": "/logos/baic.webp"
+  },
+  {
+    "id": "BAJAJ",
+    "name": "Bajaj",
+    "cyrillic_name": "Баджадж",
+    "year_from": 2016,
+    "year_to": 2026,
+    "logo": "/logos/bajaj.webp"
+  },
+  {
+    "id": "BALTIJAS_DZIPS",
+    "name": "Baltijas Dzips",
+    "cyrillic_name": "Балтиас Джипс",
+    "year_from": 1998,
+    "year_to": 2001,
+    "logo": "/logos/baltijas_dzips.webp"
+  },
+  {
+    "id": "BAOJUN",
+    "name": "Baojun",
+    "cyrillic_name": "Баоджун",
+    "year_from": 2014,
+    "year_to": 2026,
+    "logo": "/logos/baojun.webp"
+  },
+  {
+    "id": "BATMOBILE",
+    "name": "Batmobile",
+    "cyrillic_name": "Бэтмобиль",
+    "year_from": 1989,
+    "year_to": 2018,
+    "logo": "/logos/batmobile.webp"
+  },
+  {
+    "id": "BAW",
+    "name": "BAW",
+    "cyrillic_name": "БАВ",
+    "year_from": 2020,
+    "year_to": 2026,
+    "logo": "/logos/baw.webp"
+  },
+  {
+    "id": "BELGEE",
+    "name": "Belgee",
+    "cyrillic_name": "Белджи",
+    "year_from": 2023,
+    "year_to": 2026,
+    "logo": "/logos/belgee.webp"
+  },
+  {
+    "id": "BENTLEY",
+    "name": "Bentley",
+    "cyrillic_name": "Бентли",
+    "year_from": 1946,
+    "year_to": 2026,
+    "logo": "/logos/bentley.webp"
+  },
+  {
+    "id": "BERTONE",
+    "name": "Bertone",
+    "cyrillic_name": "Бертоне",
+    "year_from": 1989,
+    "year_to": 1995,
+    "logo": "/logos/bertone.webp"
+  },
+  {
+    "id": "BESTUNE",
+    "name": "Bestune",
+    "cyrillic_name": "Бестюн",
+    "year_from": 2020,
+    "year_to": 2026,
+    "logo": "/logos/bestune.webp"
+  },
+  {
+    "id": "BILENKIN",
+    "name": "Bilenkin",
+    "cyrillic_name": "Биленкин",
+    "year_from": 2015,
+    "year_to": 2016,
+    "logo": "/logos/bilenkin.webp"
+  },
+  {
+    "id": "BIO_AUTO",
+    "name": "Bio Auto",
+    "cyrillic_name": "Био Авто",
+    "year_from": 2009,
+    "year_to": 2020,
+    "logo": "/logos/bio_auto.webp"
+  },
+  {
+    "id": "BITTER",
+    "name": "Bitter",
+    "cyrillic_name": "Биттер",
+    "year_from": 1973,
+    "year_to": 1988,
+    "logo": "/logos/bitter.webp"
+  },
+  {
+    "id": "BIZZARRINI",
+    "name": "Bizzarrini",
+    "cyrillic_name": "Биззарини",
+    "year_from": 1964,
+    "year_to": 1968,
+    "logo": "/logos/bizzarrini.webp"
+  },
+  {
+    "id": "BLAVAL",
+    "name": "Blaval",
+    "cyrillic_name": "Блавал",
+    "year_from": 2021,
+    "year_to": 2023,
+    "logo": "/logos/blaval.webp"
+  },
+  {
+    "id": "BMW",
+    "name": "BMW",
+    "cyrillic_name": "БМВ",
+    "year_from": 1927,
+    "year_to": 2026,
+    "logo": "/logos/bmw.webp"
+  },
+  {
+    "id": "BORGWARD",
+    "name": "Borgward",
+    "cyrillic_name": "Боргвард",
+    "year_from": 1934,
+    "year_to": 2021,
+    "logo": "/logos/borgward.webp"
+  },
+  {
+    "id": "BRABUS",
+    "name": "Brabus",
+    "cyrillic_name": "Брабус",
+    "year_from": 1991,
+    "year_to": 2026,
+    "logo": "/logos/brabus.webp"
+  },
+  {
+    "id": "BRILLIANCE",
+    "name": "Brilliance",
+    "cyrillic_name": "Бриллианс",
+    "year_from": 2004,
+    "year_to": 2020,
+    "logo": "/logos/brilliance.webp"
+  },
+  {
+    "id": "BRISTOL",
+    "name": "Bristol",
+    "cyrillic_name": "Бристоль",
+    "year_from": 1993,
+    "year_to": 2011,
+    "logo": "/logos/bristol.webp"
+  },
+  {
+    "id": "BUFORI",
+    "name": "Bufori",
+    "cyrillic_name": "Буфори",
+    "year_from": 2004,
+    "year_to": 2026,
+    "logo": "/logos/bufori.webp"
+  },
+  {
+    "id": "BUGATTI",
+    "name": "Bugatti",
+    "cyrillic_name": "Бугатти",
+    "year_from": 1932,
+    "year_to": 2026,
+    "logo": "/logos/bugatti.webp"
+  },
+  {
+    "id": "BUICK",
+    "name": "Buick",
+    "cyrillic_name": "Бьюик",
+    "year_from": 1936,
+    "year_to": 2026,
+    "logo": "/logos/buick.webp"
+  },
+  {
+    "id": "BYD",
+    "name": "BYD",
+    "cyrillic_name": "БИД",
+    "year_from": 2005,
+    "year_to": 2026,
+    "logo": "/logos/byd.webp"
+  },
+  {
+    "id": "BYVIN",
+    "name": "Byvin",
+    "cyrillic_name": "Бивин",
+    "year_from": 2011,
+    "year_to": 2016,
+    "logo": "/logos/byvin.webp"
+  },
+  {
+    "id": "CADILLAC",
+    "name": "Cadillac",
+    "cyrillic_name": "Кадиллак",
+    "year_from": 1909,
+    "year_to": 2026,
+    "logo": "/logos/cadillac.webp"
+  },
+  {
+    "id": "CALLAWAY",
+    "name": "Callaway",
+    "cyrillic_name": "Каллавей",
+    "year_from": 1998,
+    "year_to": 2003,
+    "logo": "/logos/callaway.webp"
+  },
+  {
+    "id": "CARBODIES",
+    "name": "Carbodies",
+    "cyrillic_name": "Карбодис",
+    "year_from": 1982,
+    "year_to": 1995,
+    "logo": "/logos/carbodies.webp"
+  },
+  {
+    "id": "CATERHAM",
+    "name": "Caterham",
+    "cyrillic_name": "Катерхем",
+    "year_from": 1992,
+    "year_to": 2026,
+    "logo": "/logos/caterham.webp"
+  },
+  {
+    "id": "CHANA",
+    "name": "Chana",
+    "cyrillic_name": "Чана",
+    "year_from": 2006,
+    "year_to": 2015,
+    "logo": "/logos/chana.webp"
+  },
+  {
+    "id": "CHANGAN",
+    "name": "Changan",
+    "cyrillic_name": "Чанган",
+    "year_from": 2006,
+    "year_to": 2026,
+    "logo": "/logos/changan.webp"
+  },
+  {
+    "id": "CHANGFENG",
+    "name": "Changfeng",
+    "cyrillic_name": "Чанфэн",
+    "year_from": 1999,
+    "year_to": 2014,
+    "logo": "/logos/changfeng.webp"
+  },
+  {
+    "id": "CHANGHE",
+    "name": "Changhe",
+    "cyrillic_name": "Чанхэ",
+    "year_from": 2003,
+    "year_to": 2016,
+    "logo": "/logos/changhe.webp"
+  },
+  {
+    "id": "CHERY",
+    "name": "Chery",
+    "cyrillic_name": "Чери",
+    "year_from": 1999,
+    "year_to": 2026,
+    "logo": "/logos/chery.webp"
+  },
+  {
+    "id": "CHERYEXEED",
+    "name": "Exeed",
+    "cyrillic_name": "Эксид",
+    "year_from": 2019,
+    "year_to": 2026,
+    "logo": "/logos/cheryexeed.webp"
+  },
+  {
+    "id": "CHEVROLET",
+    "name": "Chevrolet",
+    "cyrillic_name": "Шевроле",
+    "year_from": 1933,
+    "year_to": 2026,
+    "logo": "/logos/chevrolet.webp"
+  },
+  {
+    "id": "CHRYSLER",
+    "name": "Chrysler",
+    "cyrillic_name": "Крайслер",
+    "year_from": 1924,
+    "year_to": 2026,
+    "logo": "/logos/chrysler.webp"
+  },
+  {
+    "id": "CIIMO",
+    "name": "Ciimo (Dongfeng-Honda)",
+    "cyrillic_name": "Циимо",
+    "year_from": 2019,
+    "year_to": 2023,
+    "logo": "/logos/ciimo.webp"
+  },
+  {
+    "id": "CITROEN",
+    "name": "Citroen",
+    "cyrillic_name": "Ситроен",
+    "year_from": 1934,
+    "year_to": 2026,
+    "logo": "/logos/citroen.webp"
+  },
+  {
+    "id": "CIZETA",
+    "name": "Cizeta",
+    "cyrillic_name": "Чизета",
+    "year_from": 1991,
+    "year_to": 1995,
+    "logo": "/logos/cizeta.webp"
+  },
+  {
+    "id": "CODA",
+    "name": "Coda",
+    "cyrillic_name": "Кода",
+    "year_from": 2012,
+    "year_to": 2013,
+    "logo": "/logos/coda.webp"
+  },
+  {
+    "id": "COGGIOLA",
+    "name": "Coggiola",
+    "cyrillic_name": "Коджиола",
+    "year_from": 2000,
+    "year_to": 2016,
+    "logo": "/logos/coggiola.webp"
+  },
+  {
+    "id": "CORD",
+    "name": "Cord",
+    "cyrillic_name": "Корд",
+    "year_from": 1929,
+    "year_to": 1932,
+    "logo": "/logos/cord.webp"
+  },
+  {
+    "id": "COWIN",
+    "name": "Cowin",
+    "cyrillic_name": "Ковин",
+    "year_from": 2020,
+    "year_to": 2022,
+    "logo": "/logos/cowin.webp"
+  },
+  {
+    "id": "CUPRA",
+    "name": "Cupra",
+    "cyrillic_name": "Купра",
+    "year_from": 2018,
+    "year_to": 2026,
+    "logo": "/logos/cupra.webp"
+  },
+  {
+    "id": "CZINGER",
+    "name": "Czinger",
+    "cyrillic_name": "Зингер",
+    "year_from": 2020,
+    "year_to": 2026,
+    "logo": "/logos/czinger.webp"
+  },
+  {
+    "id": "DACIA",
+    "name": "Dacia",
+    "cyrillic_name": "Дачия",
+    "year_from": 1969,
+    "year_to": 2026,
+    "logo": "/logos/dacia.webp"
+  },
+  {
+    "id": "DADI",
+    "name": "Dadi",
+    "cyrillic_name": "Дади",
+    "year_from": 2004,
+    "year_to": 2007,
+    "logo": "/logos/dadi.webp"
+  },
+  {
+    "id": "DAEWOO",
+    "name": "Daewoo",
+    "cyrillic_name": "Дэу",
+    "year_from": 1981,
+    "year_to": 2016,
+    "logo": "/logos/daewoo.webp"
+  },
+  {
+    "id": "DAIHATSU",
+    "name": "Daihatsu",
+    "cyrillic_name": "Дайхатсу",
+    "year_from": 1951,
+    "year_to": 2026,
+    "logo": "/logos/daihatsu.webp"
+  },
+  {
+    "id": "DAIMLER",
+    "name": "Daimler",
+    "cyrillic_name": "Даймлер",
+    "year_from": 1951,
+    "year_to": 2009,
+    "logo": "/logos/daimler.webp"
+  },
+  {
+    "id": "DALLARA",
+    "name": "Dallara",
+    "cyrillic_name": "Даллара",
+    "year_from": 2017,
+    "year_to": 2026,
+    "logo": "/logos/dallara.webp"
+  },
+  {
+    "id": "DATSUN",
+    "name": "Datsun",
+    "cyrillic_name": "Датсун",
+    "year_from": 1970,
+    "year_to": 2022,
+    "logo": "/logos/datsun.webp"
+  },
+  {
+    "id": "DAYUN",
+    "name": "Dayun",
+    "cyrillic_name": "Даюн",
+    "year_from": 2018,
+    "year_to": 2026,
+    "logo": "/logos/dayun.webp"
+  },
+  {
+    "id": "DECO_RIDES",
+    "name": "Deco Rides",
+    "cyrillic_name": "Деко Райдс",
+    "year_from": 1999,
+    "year_to": 2026,
+    "logo": "/logos/deco_rides.webp"
+  },
+  {
+    "id": "DELAGE",
+    "name": "Delage",
+    "cyrillic_name": "Делаж",
+    "year_from": 1923,
+    "year_to": 2026,
+    "logo": "/logos/delage.webp"
+  },
+  {
+    "id": "DELOREAN",
+    "name": "DeLorean",
+    "cyrillic_name": "ДеЛориан",
+    "year_from": 1981,
+    "year_to": 1982,
+    "logo": "/logos/delorean.webp"
+  },
+  {
+    "id": "DENZA",
+    "name": "Denza",
+    "cyrillic_name": "Денза",
+    "year_from": 2014,
+    "year_to": 2026,
+    "logo": "/logos/denza.webp"
+  },
+  {
+    "id": "DERWAYS",
+    "name": "Derways",
+    "cyrillic_name": "Дервейс",
+    "year_from": 2004,
+    "year_to": 2008,
+    "logo": "/logos/derways.webp"
+  },
+  {
+    "id": "DESOTO",
+    "name": "DeSoto",
+    "cyrillic_name": "Десото",
+    "year_from": 1946,
+    "year_to": 1960,
+    "logo": "/logos/desoto.webp"
+  },
+  {
+    "id": "DE_TOMASO",
+    "name": "De Tomaso",
+    "cyrillic_name": "Де Томазо",
+    "year_from": 1964,
+    "year_to": 2002,
+    "logo": "/logos/de_tomaso.webp"
+  },
+  {
+    "id": "DKW",
+    "name": "DKW",
+    "cyrillic_name": "ДКВ",
+    "year_from": 1936,
+    "year_to": 1955,
+    "logo": "/logos/dkw.webp"
+  },
+  {
+    "id": "DODGE",
+    "name": "Dodge",
+    "cyrillic_name": "Додж",
+    "year_from": 1937,
+    "year_to": 2026,
+    "logo": "/logos/dodge.webp"
+  },
+  {
+    "id": "DONGFENG",
+    "name": "Dongfeng",
+    "cyrillic_name": "ДонгФенг",
+    "year_from": 2006,
+    "year_to": 2026,
+    "logo": "/logos/dongfeng.webp"
+  },
+  {
+    "id": "DONINVEST",
+    "name": "Doninvest",
+    "cyrillic_name": "Донинвест",
+    "year_from": 1998,
+    "year_to": 2002,
+    "logo": "/logos/doninvest.webp"
+  },
+  {
+    "id": "DONKERVOORT",
+    "name": "Donkervoort",
+    "cyrillic_name": "Донкервурт",
+    "year_from": 1993,
+    "year_to": 2026,
+    "logo": "/logos/donkervoort.webp"
+  },
+  {
+    "id": "DR",
+    "name": "DR",
+    "cyrillic_name": "Дэ Эр",
+    "year_from": 2022,
+    "year_to": 2026,
+    "logo": "/logos/dr.webp"
+  },
+  {
+    "id": "DS",
+    "name": "DS",
+    "cyrillic_name": "ДС",
+    "year_from": 2015,
+    "year_to": 2026,
+    "logo": "/logos/ds.webp"
+  },
+  {
+    "id": "DW_HOWER",
+    "name": "DW Hower",
+    "cyrillic_name": "ДВ Ховер",
+    "year_from": 2017,
+    "year_to": 2019,
+    "logo": "/logos/dw_hower.webp"
+  },
+  {
+    "id": "EAGLE",
+    "name": "Eagle",
+    "cyrillic_name": "Игл",
+    "year_from": 1987,
+    "year_to": 1999,
+    "logo": "/logos/eagle.webp"
+  },
+  {
+    "id": "EAGLE_CARS",
+    "name": "Eagle Cars",
+    "cyrillic_name": "Игл Карс",
+    "year_from": 1982,
+    "year_to": 1998,
+    "logo": "/logos/eagle_cars.webp"
+  },
+  {
+    "id": "EDSEL",
+    "name": "Edsel",
+    "cyrillic_name": "Эдсел",
+    "year_from": 1958,
+    "year_to": 1960,
+    "logo": "/logos/edsel.webp"
+  },
+  {
+    "id": "ENOVATE",
+    "name": "Enovate (Enoreve)",
+    "cyrillic_name": "Эновате",
+    "year_from": 2020,
+    "year_to": 2023,
+    "logo": "/logos/enovate.webp"
+  },
+  {
+    "id": "EONYX",
+    "name": "Eonyx",
+    "cyrillic_name": "Еоникс",
+    "year_from": 2025,
+    "year_to": 2026,
+    "logo": "/logos/eonyx.webp"
+  },
+  {
+    "id": "EPICLAND",
+    "name": "Epicland",
+    "cyrillic_name": "Эпикленд",
+    "year_from": 2026,
+    "year_to": 2026,
+    "logo": "/logos/epicland.webp"
+  },
+  {
+    "id": "ESTEO",
+    "name": "Esteo",
+    "cyrillic_name": "Эстео",
+    "year_from": 2025,
+    "year_to": 2026,
+    "logo": "/logos/esteo.webp"
+  },
+  {
+    "id": "EVERUS",
+    "name": "Everus",
+    "cyrillic_name": "Эверус",
+    "year_from": 2018,
+    "year_to": 2023,
+    "logo": "/logos/everus.webp"
+  },
+  {
+    "id": "EVOLUTE",
+    "name": "Evolute",
+    "cyrillic_name": "Эволют",
+    "year_from": 2022,
+    "year_to": 2026,
+    "logo": "/logos/evolute.webp"
+  },
+  {
+    "id": "EXCALIBUR",
+    "name": "Excalibur",
+    "cyrillic_name": "Экскалибур",
+    "year_from": 1980,
+    "year_to": 1997,
+    "logo": "/logos/excalibur.webp"
+  },
+  {
+    "id": "E_CAR",
+    "name": "E-Car",
+    "cyrillic_name": "Е-Кар",
+    "year_from": 2012,
+    "year_to": 2014,
+    "logo": "/logos/e_car.webp"
+  },
+  {
+    "id": "E_MOBIL",
+    "name": "Ё-мобиль",
+    "cyrillic_name": "Ё-мобиль",
+    "year_from": 2013,
+    "year_to": 2013,
+    "logo": "/logos/e_mobil.webp"
+  },
+  {
+    "id": "FACEL_VEGA",
+    "name": "Facel Vega",
+    "cyrillic_name": "Фэйсл Вега",
+    "year_from": 1954,
+    "year_to": 1958,
+    "logo": "/logos/facel_vega.webp"
+  },
+  {
+    "id": "FAW",
+    "name": "FAW",
+    "cyrillic_name": "ФАВ",
+    "year_from": 2005,
+    "year_to": 2026,
+    "logo": "/logos/faw.webp"
+  },
+  {
+    "id": "FERRARI",
+    "name": "Ferrari",
+    "cyrillic_name": "Феррари",
+    "year_from": 1955,
+    "year_to": 2026,
+    "logo": "/logos/ferrari.webp"
+  },
+  {
+    "id": "FIAT",
+    "name": "Fiat",
+    "cyrillic_name": "Фиат",
+    "year_from": 1932,
+    "year_to": 2026,
+    "logo": "/logos/fiat.webp"
+  },
+  {
+    "id": "FISKER",
+    "name": "Fisker",
+    "cyrillic_name": "Фискер",
+    "year_from": 2009,
+    "year_to": 2024,
+    "logo": "/logos/fisker.webp"
+  },
+  {
+    "id": "FLANKER",
+    "name": "Flanker",
+    "cyrillic_name": "Фланкер",
+    "year_from": 2018,
+    "year_to": 2018,
+    "logo": "/logos/flanker.webp"
+  },
+  {
+    "id": "FORD",
+    "name": "Ford",
+    "cyrillic_name": "Форд",
+    "year_from": 1908,
+    "year_to": 2026,
+    "logo": "/logos/ford.webp"
+  },
+  {
+    "id": "FORTHING",
+    "name": "Forthing",
+    "cyrillic_name": "Форфинг",
+    "year_from": 2013,
+    "year_to": 2026,
+    "logo": "/logos/forthing.webp"
+  },
+  {
+    "id": "FOTON",
+    "name": "Foton",
+    "cyrillic_name": "Фотон",
+    "year_from": 2007,
+    "year_to": 2026,
+    "logo": "/logos/foton.webp"
+  },
+  {
+    "id": "FRANKLIN",
+    "name": "Franklin",
+    "cyrillic_name": "Франклин",
+    "year_from": 1930,
+    "year_to": 1934,
+    "logo": "/logos/franklin.webp"
+  },
+  {
+    "id": "FREELANDER",
+    "name": "Freelander",
+    "cyrillic_name": "Фриландер",
+    "year_from": 2026,
+    "year_to": 2026,
+    "logo": "/logos/freelander.webp"
+  },
+  {
+    "id": "FSO",
+    "name": "FSO",
+    "cyrillic_name": "ФСО",
+    "year_from": 1964,
+    "year_to": 2008,
+    "logo": "/logos/fso.webp"
+  },
+  {
+    "id": "FSR",
+    "name": "FSR",
+    "cyrillic_name": "ФСР",
+    "year_from": 1973,
+    "year_to": 1995,
+    "logo": "/logos/fsr.webp"
+  },
+  {
+    "id": "FUQI",
+    "name": "Fuqi",
+    "cyrillic_name": "Фучи",
+    "year_from": 2005,
+    "year_to": 2007,
+    "logo": "/logos/fuqi.webp"
+  },
+  {
+    "id": "GAC",
+    "name": "GAC",
+    "cyrillic_name": "ГАК",
+    "year_from": 2016,
+    "year_to": 2026,
+    "logo": "/logos/gac.webp"
+  },
+  {
+    "id": "GAZ",
+    "name": "ГАЗ",
+    "cyrillic_name": "ГАЗ",
+    "year_from": 1932,
+    "year_to": 2026,
+    "logo": "/logos/gaz.webp"
+  },
+  {
+    "id": "GEELY",
+    "name": "Geely",
+    "cyrillic_name": "Джили",
+    "year_from": 1998,
+    "year_to": 2026,
+    "logo": "/logos/geely.webp"
+  },
+  {
+    "id": "GENESIS",
+    "name": "Genesis",
+    "cyrillic_name": "Генезис",
+    "year_from": 2016,
+    "year_to": 2026,
+    "logo": "/logos/genesis.webp"
+  },
+  {
+    "id": "GEO",
+    "name": "Geo",
+    "cyrillic_name": "Гео",
+    "year_from": 1988,
+    "year_to": 2002,
+    "logo": "/logos/geo.webp"
+  },
+  {
+    "id": "GMA",
+    "name": "GMA",
+    "cyrillic_name": "Джи-Эм-Эй",
+    "year_from": 2022,
+    "year_to": 2026,
+    "logo": "/logos/gma.webp"
+  },
+  {
+    "id": "GMC",
+    "name": "GMC",
+    "cyrillic_name": "Джи-Эм-Си",
+    "year_from": 1957,
+    "year_to": 2026,
+    "logo": "/logos/gmc.webp"
+  },
+  {
+    "id": "GOGGOMOBIL",
+    "name": "Goggomobil",
+    "cyrillic_name": "Гоггомобил",
+    "year_from": 1955,
+    "year_to": 1969,
+    "logo": "/logos/goggomobil.webp"
+  },
+  {
+    "id": "GONOW",
+    "name": "Gonow",
+    "cyrillic_name": "Гонов",
+    "year_from": 2008,
+    "year_to": 2016,
+    "logo": "/logos/gonow.webp"
+  },
+  {
+    "id": "GORDON",
+    "name": "Gordon",
+    "cyrillic_name": "Гордон",
+    "year_from": 1997,
+    "year_to": 2026,
+    "logo": "/logos/gordon.webp"
+  },
+  {
+    "id": "GP",
+    "name": "GP",
+    "cyrillic_name": "ГП",
+    "year_from": 1980,
+    "year_to": 1999,
+    "logo": "/logos/gp.webp"
+  },
+  {
+    "id": "GREAT_WALL",
+    "name": "Great Wall",
+    "cyrillic_name": "Грейт Вол",
+    "year_from": 1996,
+    "year_to": 2026,
+    "logo": "/logos/great_wall.webp"
+  },
+  {
+    "id": "GUMPERT",
+    "name": "Gumpert",
+    "cyrillic_name": "Гумперт",
+    "year_from": 2005,
+    "year_to": 2012,
+    "logo": "/logos/gumpert.webp"
+  },
+  {
+    "id": "HAFEI",
+    "name": "Hafei",
+    "cyrillic_name": "Хафэй",
+    "year_from": 2002,
+    "year_to": 2018,
+    "logo": "/logos/hafei.webp"
+  },
+  {
+    "id": "HAIMA",
+    "name": "Haima",
+    "cyrillic_name": "Хайма",
+    "year_from": 2003,
+    "year_to": 2026,
+    "logo": "/logos/haima.webp"
+  },
+  {
+    "id": "HANOMAG",
+    "name": "Hanomag",
+    "cyrillic_name": "Ханомаг",
+    "year_from": 1934,
+    "year_to": 1941,
+    "logo": "/logos/hanomag.webp"
+  },
+  {
+    "id": "HANTENG",
+    "name": "Hanteng",
+    "cyrillic_name": "Хантенг",
+    "year_from": 2016,
+    "year_to": 2021,
+    "logo": "/logos/hanteng.webp"
+  },
+  {
+    "id": "HAVAL",
+    "name": "Haval",
+    "cyrillic_name": "Хавэйл",
+    "year_from": 2014,
+    "year_to": 2026,
+    "logo": "/logos/haval.webp"
+  },
+  {
+    "id": "HAWTAI",
+    "name": "Hawtai",
+    "cyrillic_name": "Хаутай",
+    "year_from": 2011,
+    "year_to": 2020,
+    "logo": "/logos/hawtai.webp"
+  },
+  {
+    "id": "HEDMOS",
+    "name": "Hedmos",
+    "cyrillic_name": "Хэдмос",
+    "year_from": 2025,
+    "year_to": 2026,
+    "logo": "/logos/hedmos.webp"
+  },
+  {
+    "id": "HEINKEL",
+    "name": "Heinkel",
+    "cyrillic_name": "Хейнкель",
+    "year_from": 1956,
+    "year_to": 1958,
+    "logo": "/logos/heinkel.webp"
+  },
+  {
+    "id": "HENGTIAN",
+    "name": "Hengtian",
+    "cyrillic_name": "Хэнтянь",
+    "year_from": 2023,
+    "year_to": 2026,
+    "logo": "/logos/hengtian.webp"
+  },
+  {
+    "id": "HENNESSEY",
+    "name": "Hennessey",
+    "cyrillic_name": "Хеннесси",
+    "year_from": 2011,
+    "year_to": 2026,
+    "logo": "/logos/hennessey.webp"
+  },
+  {
+    "id": "HINDUSTAN",
+    "name": "Hindustan",
+    "cyrillic_name": "Хиндустан",
+    "year_from": 1979,
+    "year_to": 2014,
+    "logo": "/logos/hindustan.webp"
+  },
+  {
+    "id": "HIPHI",
+    "name": "HiPhi",
+    "cyrillic_name": "Хипхи",
+    "year_from": 2020,
+    "year_to": 2024,
+    "logo": "/logos/hiphi.webp"
+  },
+  {
+    "id": "HISPANO_SUIZA",
+    "name": "Hispano-Suiza",
+    "cyrillic_name": "Испано-Сюиза",
+    "year_from": 1934,
+    "year_to": 1937,
+    "logo": "/logos/hispano_suiza.webp"
+  },
+  {
+    "id": "HOLDEN",
+    "name": "Holden",
+    "cyrillic_name": "Холден",
+    "year_from": 1988,
+    "year_to": 2013,
+    "logo": "/logos/holden.webp"
+  },
+  {
+    "id": "HONDA",
+    "name": "Honda",
+    "cyrillic_name": "Хонда",
+    "year_from": 1963,
+    "year_to": 2026,
+    "logo": "/logos/honda.webp"
+  },
+  {
+    "id": "HONGQI",
+    "name": "Hongqi",
+    "cyrillic_name": "Хончи",
+    "year_from": 2013,
+    "year_to": 2026,
+    "logo": "/logos/hongqi.webp"
+  },
+  {
+    "id": "HORCH",
+    "name": "Horch",
+    "cyrillic_name": "Хорьх",
+    "year_from": 1933,
+    "year_to": 1943,
+    "logo": "/logos/horch.webp"
+  },
+  {
+    "id": "HOZON",
+    "name": "Hozon",
+    "cyrillic_name": "Хозон",
+    "year_from": 2020,
+    "year_to": 2025,
+    "logo": "/logos/hozon.webp"
+  },
+  {
+    "id": "HSV",
+    "name": "HSV",
+    "cyrillic_name": "ХСВ",
+    "year_from": 2013,
+    "year_to": 2017,
+    "logo": "/logos/hsv.webp"
+  },
+  {
+    "id": "HUAIHAI_HOANN",
+    "name": "Huaihai (Hoann)",
+    "cyrillic_name": "Хуайхай (Хоанн)",
+    "year_from": 2020,
+    "year_to": 2023,
+    "logo": "/logos/huaihai_hoann.webp"
+  },
+  {
+    "id": "HUANGHAI",
+    "name": "HuangHai",
+    "cyrillic_name": "ХуангХай",
+    "year_from": 2006,
+    "year_to": 2026,
+    "logo": "/logos/huanghai.webp"
+  },
+  {
+    "id": "HUAZI",
+    "name": "Huazi",
+    "cyrillic_name": "Хуацзы",
+    "year_from": 2023,
+    "year_to": 2024,
+    "logo": "/logos/huazi.webp"
+  },
+  {
+    "id": "HUDSON",
+    "name": "Hudson",
+    "cyrillic_name": "Хадсон",
+    "year_from": 1916,
+    "year_to": 1957,
+    "logo": "/logos/hudson.webp"
+  },
+  {
+    "id": "HUMBER",
+    "name": "Humber",
+    "cyrillic_name": "Хамбер",
+    "year_from": 1962,
+    "year_to": 1964,
+    "logo": "/logos/humber.webp"
+  },
+  {
+    "id": "HUMMER",
+    "name": "Hummer",
+    "cyrillic_name": "Хаммер",
+    "year_from": 1992,
+    "year_to": 2010,
+    "logo": "/logos/hummer.webp"
+  },
+  {
+    "id": "HYCAN",
+    "name": "Hycan",
+    "cyrillic_name": "Хикан",
+    "year_from": 2020,
+    "year_to": 2025,
+    "logo": "/logos/hycan.webp"
+  },
+  {
+    "id": "HYPERION",
+    "name": "Hyperion",
+    "cyrillic_name": "Гиперион",
+    "year_from": 2022,
+    "year_to": 2024,
+    "logo": "/logos/hyperion.webp"
+  },
+  {
+    "id": "HYUNDAI",
+    "name": "Hyundai",
+    "cyrillic_name": "Хендэ",
+    "year_from": 1975,
+    "year_to": 2026,
+    "logo": "/logos/hyundai.webp"
+  },
+  {
+    "id": "ICAR",
+    "name": "iCar",
+    "cyrillic_name": "ИКар",
+    "year_from": 2023,
+    "year_to": 2026,
+    "logo": "/logos/icar.webp"
+  },
+  {
+    "id": "ICAUR",
+    "name": "iCaur",
+    "cyrillic_name": "айКаур",
+    "year_from": 2025,
+    "year_to": 2026,
+    "logo": "/logos/icaur.webp"
+  },
+  {
+    "id": "IG",
+    "name": "Иж",
+    "cyrillic_name": "ИЖ",
+    "year_from": 1967,
+    "year_to": 2012,
+    "logo": "/logos/ig.webp"
+  },
+  {
+    "id": "IM_MOTORS",
+    "name": "IM Motors (Zhiji)",
+    "cyrillic_name": "Им Моторс",
+    "year_from": 2022,
+    "year_to": 2026,
+    "logo": "/logos/im_motors.webp"
+  },
+  {
+    "id": "INEOS",
+    "name": "Ineos",
+    "cyrillic_name": "Инеос",
+    "year_from": 2022,
+    "year_to": 2026,
+    "logo": "/logos/ineos.webp"
+  },
+  {
+    "id": "INFINITI",
+    "name": "Infiniti",
+    "cyrillic_name": "Инфинити",
+    "year_from": 1989,
+    "year_to": 2026,
+    "logo": "/logos/infiniti.webp"
+  },
+  {
+    "id": "INNOCENTI",
+    "name": "Innocenti",
+    "cyrillic_name": "Инноченти",
+    "year_from": 1965,
+    "year_to": 1997,
+    "logo": "/logos/innocenti.webp"
+  },
+  {
+    "id": "INTERNATIONAL",
+    "name": "International Harvester",
+    "cyrillic_name": "Интернейшионал Харвестер",
+    "year_from": 1969,
+    "year_to": 1980,
+    "logo": "/logos/international.webp"
+  },
+  {
+    "id": "INVICTA",
+    "name": "Invicta",
+    "cyrillic_name": "Инвикта",
+    "year_from": 2004,
+    "year_to": 2012,
+    "logo": "/logos/invicta.webp"
+  },
+  {
+    "id": "IRAN_KHODRO",
+    "name": "Iran Khodro",
+    "cyrillic_name": "Иран Ходро",
+    "year_from": 1985,
+    "year_to": 2026,
+    "logo": "/logos/iran_khodro.webp"
+  },
+  {
+    "id": "ISDERA",
+    "name": "Isdera",
+    "cyrillic_name": "Исдера",
+    "year_from": 1983,
+    "year_to": 1993,
+    "logo": "/logos/isdera.webp"
+  },
+  {
+    "id": "ISUZU",
+    "name": "Isuzu",
+    "cyrillic_name": "Исузу",
+    "year_from": 1963,
+    "year_to": 2026,
+    "logo": "/logos/isuzu.webp"
+  },
+  {
+    "id": "IVECO",
+    "name": "Iveco",
+    "cyrillic_name": "Ивеко",
+    "year_from": 2007,
+    "year_to": 2011,
+    "logo": "/logos/iveco.webp"
+  },
+  {
+    "id": "JAC",
+    "name": "JAC",
+    "cyrillic_name": "Джак",
+    "year_from": 2006,
+    "year_to": 2026,
+    "logo": "/logos/jac.webp"
+  },
+  {
+    "id": "JAECOO",
+    "name": "Jaecoo",
+    "cyrillic_name": "Джейку",
+    "year_from": 2023,
+    "year_to": 2026,
+    "logo": "/logos/jaecoo.webp"
+  },
+  {
+    "id": "JAGUAR",
+    "name": "Jaguar",
+    "cyrillic_name": "Ягуар",
+    "year_from": 1948,
+    "year_to": 2025,
+    "logo": "/logos/jaguar.webp"
+  },
+  {
+    "id": "JEEP",
+    "name": "Jeep",
+    "cyrillic_name": "Джип",
+    "year_from": 1966,
+    "year_to": 2026,
+    "logo": "/logos/jeep.webp"
+  },
+  {
+    "id": "JELAND",
+    "name": "Jeland",
+    "cyrillic_name": "Джейланд",
+    "year_from": 2026,
+    "year_to": 2026,
+    "logo": "/logos/jeland.webp"
+  },
+  {
+    "id": "JENSEN",
+    "name": "Jensen",
+    "cyrillic_name": "Дженсен",
+    "year_from": 1966,
+    "year_to": 2003,
+    "logo": "/logos/jensen.webp"
+  },
+  {
+    "id": "JETOUR",
+    "name": "Jetour",
+    "cyrillic_name": "Джетур",
+    "year_from": 2018,
+    "year_to": 2026,
+    "logo": "/logos/jetour.webp"
+  },
+  {
+    "id": "JETTA",
+    "name": "Jetta",
+    "cyrillic_name": "Джетта",
+    "year_from": 2019,
+    "year_to": 2026,
+    "logo": "/logos/jetta.webp"
+  },
+  {
+    "id": "JIANGNAN",
+    "name": "Jiangnan",
+    "cyrillic_name": "Цзяннань",
+    "year_from": 2005,
+    "year_to": 2006,
+    "logo": "/logos/jiangnan.webp"
+  },
+  {
+    "id": "JIDU",
+    "name": "Jidu",
+    "cyrillic_name": "Джиду",
+    "year_from": 2024,
+    "year_to": 2025,
+    "logo": "/logos/jidu.webp"
+  },
+  {
+    "id": "JINBEI",
+    "name": "Jinbei",
+    "cyrillic_name": "Джинбей",
+    "year_from": 2002,
+    "year_to": 2026,
+    "logo": "/logos/jinbei.webp"
+  },
+  {
+    "id": "JMC",
+    "name": "JMC",
+    "cyrillic_name": "Джей Эм Си",
+    "year_from": 2006,
+    "year_to": 2026,
+    "logo": "/logos/jmc.webp"
+  },
+  {
+    "id": "JMEV",
+    "name": "JMEV",
+    "cyrillic_name": "Джмев",
+    "year_from": 2022,
+    "year_to": 2026,
+    "logo": "/logos/jmev.webp"
+  },
+  {
+    "id": "JONWAY",
+    "name": "Jonway",
+    "cyrillic_name": "Джонвэй",
+    "year_from": 2005,
+    "year_to": 2015,
+    "logo": "/logos/jonway.webp"
+  },
+  {
+    "id": "KAIYI",
+    "name": "Kaiyi",
+    "cyrillic_name": "Каи",
+    "year_from": 2020,
+    "year_to": 2026,
+    "logo": "/logos/kaiyi.webp"
+  },
+  {
+    "id": "KANONIR",
+    "name": "Канонир",
+    "cyrillic_name": "Канонир",
+    "year_from": 1999,
+    "year_to": 2001,
+    "logo": "/logos/kanonir.webp"
+  },
+  {
+    "id": "KARMA",
+    "name": "Karma",
+    "cyrillic_name": "Карма",
+    "year_from": 2016,
+    "year_to": 2026,
+    "logo": "/logos/karma.webp"
+  },
+  {
+    "id": "KAWEI",
+    "name": "Kawei",
+    "cyrillic_name": "Кавэй",
+    "year_from": 2014,
+    "year_to": 2023,
+    "logo": "/logos/kawei.webp"
+  },
+  {
+    "id": "KGM",
+    "name": "KGM",
+    "cyrillic_name": "Кей-Джи-Эм",
+    "year_from": 2023,
+    "year_to": 2026,
+    "logo": "/logos/kgm.webp"
+  },
+  {
+    "id": "KIA",
+    "name": "Kia",
+    "cyrillic_name": "Киа",
+    "year_from": 1987,
+    "year_to": 2026,
+    "logo": "/logos/kia.webp"
+  },
+  {
+    "id": "KNEWSTAR",
+    "name": "Knewstar",
+    "cyrillic_name": "Ньюстар",
+    "year_from": 2024,
+    "year_to": 2026,
+    "logo": "/logos/knewstar.webp"
+  },
+  {
+    "id": "KOENIGSEGG",
+    "name": "Koenigsegg",
+    "cyrillic_name": "Кёнигсегг",
+    "year_from": 2002,
+    "year_to": 2026,
+    "logo": "/logos/koenigsegg.webp"
+  },
+  {
+    "id": "KOMBAT",
+    "name": "Комбат",
+    "cyrillic_name": "Комбат",
+    "year_from": 2000,
+    "year_to": 2026,
+    "logo": "/logos/kombat.webp"
+  },
+  {
+    "id": "KTM",
+    "name": "KTM AG",
+    "cyrillic_name": "КТМ АГ",
+    "year_from": 2008,
+    "year_to": 2026,
+    "logo": "/logos/ktm.webp"
+  },
+  {
+    "id": "KYC",
+    "name": "KYC",
+    "cyrillic_name": "КУС",
+    "year_from": 2021,
+    "year_to": 2026,
+    "logo": "/logos/kyc.webp"
+  },
+  {
+    "id": "LAMBORGHINI",
+    "name": "Lamborghini",
+    "cyrillic_name": "Ламборгини",
+    "year_from": 1964,
+    "year_to": 2026,
+    "logo": "/logos/lamborghini.webp"
+  },
+  {
+    "id": "LANCIA",
+    "name": "Lancia",
+    "cyrillic_name": "Лянча",
+    "year_from": 1922,
+    "year_to": 2026,
+    "logo": "/logos/lancia.webp"
+  },
+  {
+    "id": "LANDWIND",
+    "name": "Landwind",
+    "cyrillic_name": "Лендвинд",
+    "year_from": 2005,
+    "year_to": 2020,
+    "logo": "/logos/landwind.webp"
+  },
+  {
+    "id": "LAND_ROVER",
+    "name": "Land Rover",
+    "cyrillic_name": "Ленд Ровер",
+    "year_from": 1948,
+    "year_to": 2026,
+    "logo": "/logos/land_rover.webp"
+  },
+  {
+    "id": "LEAPMOTOR",
+    "name": "Leapmotor",
+    "cyrillic_name": "Липмотор",
+    "year_from": 2019,
+    "year_to": 2026,
+    "logo": "/logos/leapmotor.webp"
+  },
+  {
+    "id": "LETIN",
+    "name": "Letin",
+    "cyrillic_name": "Летин",
+    "year_from": 2020,
+    "year_to": 2026,
+    "logo": "/logos/letin.webp"
+  },
+  {
+    "id": "LEVC",
+    "name": "LEVC",
+    "cyrillic_name": "ЛЕВК",
+    "year_from": 2018,
+    "year_to": 2026,
+    "logo": "/logos/levc.webp"
+  },
+  {
+    "id": "LEXUS",
+    "name": "Lexus",
+    "cyrillic_name": "Лексус",
+    "year_from": 1989,
+    "year_to": 2026,
+    "logo": "/logos/lexus.webp"
+  },
+  {
+    "id": "LIEBAO",
+    "name": "Liebao Motor",
+    "cyrillic_name": "Лиебао Мотор",
+    "year_from": 1999,
+    "year_to": 2014,
+    "logo": "/logos/liebao.webp"
+  },
+  {
+    "id": "LIFAN",
+    "name": "Lifan",
+    "cyrillic_name": "Лифан",
+    "year_from": 2007,
+    "year_to": 2020,
+    "logo": "/logos/lifan.webp"
+  },
+  {
+    "id": "LIGIER",
+    "name": "Ligier",
+    "cyrillic_name": "Лижье",
+    "year_from": 2009,
+    "year_to": 2016,
+    "logo": "/logos/ligier.webp"
+  },
+  {
+    "id": "LINCOLN",
+    "name": "Lincoln",
+    "cyrillic_name": "Линкольн",
+    "year_from": 1936,
+    "year_to": 2026,
+    "logo": "/logos/lincoln.webp"
+  },
+  {
+    "id": "LINGXI",
+    "name": "Lingxi",
+    "cyrillic_name": "Лингкси",
+    "year_from": 2024,
+    "year_to": 2026,
+    "logo": "/logos/lingxi.webp"
+  },
+  {
+    "id": "LIVAN",
+    "name": "Livan",
+    "cyrillic_name": "Ливан",
+    "year_from": 2022,
+    "year_to": 2026,
+    "logo": "/logos/livan.webp"
+  },
+  {
+    "id": "LIXIANG",
+    "name": "Li Auto (Lixiang)",
+    "cyrillic_name": "Ли Авто",
+    "year_from": 2019,
+    "year_to": 2026,
+    "logo": "/logos/lixiang.webp"
+  },
+  {
+    "id": "LOGEM",
+    "name": "Logem",
+    "cyrillic_name": "Логем",
+    "year_from": 2018,
+    "year_to": 2020,
+    "logo": "/logos/logem.webp"
+  },
+  {
+    "id": "LOTUS",
+    "name": "Lotus",
+    "cyrillic_name": "Лотус",
+    "year_from": 1970,
+    "year_to": 2026,
+    "logo": "/logos/lotus.webp"
+  },
+  {
+    "id": "LTI",
+    "name": "LTI",
+    "cyrillic_name": "ЛТИ",
+    "year_from": 1984,
+    "year_to": 2010,
+    "logo": "/logos/lti.webp"
+  },
+  {
+    "id": "LUAZ",
+    "name": "ЛуАЗ",
+    "cyrillic_name": "ЛУАЗ",
+    "year_from": 1965,
+    "year_to": 2001,
+    "logo": "/logos/luaz.webp"
+  },
+  {
+    "id": "LUCID",
+    "name": "Lucid",
+    "cyrillic_name": "Люсид",
+    "year_from": 2021,
+    "year_to": 2026,
+    "logo": "/logos/lucid.webp"
+  },
+  {
+    "id": "LUXEED",
+    "name": "Luxeed",
+    "cyrillic_name": "Люксид",
+    "year_from": 2023,
+    "year_to": 2026,
+    "logo": "/logos/luxeed.webp"
+  },
+  {
+    "id": "LUXGEN",
+    "name": "Luxgen",
+    "cyrillic_name": "Люксген",
+    "year_from": 2009,
+    "year_to": 2023,
+    "logo": "/logos/luxgen.webp"
+  },
+  {
+    "id": "LYNK_CO",
+    "name": "Lynk & Co",
+    "cyrillic_name": "Линк и ко",
+    "year_from": 2017,
+    "year_to": 2026,
+    "logo": "/logos/lynk_co.webp"
+  },
+  {
+    "id": "MAEXTRO",
+    "name": "Maextro",
+    "cyrillic_name": "Маэкстро",
+    "year_from": 2024,
+    "year_to": 2026,
+    "logo": "/logos/maextro.webp"
+  },
+  {
+    "id": "MAHINDRA",
+    "name": "Mahindra",
+    "cyrillic_name": "Махиндра",
+    "year_from": 1985,
+    "year_to": 2026,
+    "logo": "/logos/mahindra.webp"
+  },
+  {
+    "id": "MAPLE",
+    "name": "Maple",
+    "cyrillic_name": "Мэйпл",
+    "year_from": 2020,
+    "year_to": 2022,
+    "logo": "/logos/maple.webp"
+  },
+  {
+    "id": "MARCOS",
+    "name": "Marcos",
+    "cyrillic_name": "Маркос",
+    "year_from": 1994,
+    "year_to": 2007,
+    "logo": "/logos/marcos.webp"
+  },
+  {
+    "id": "MARLIN",
+    "name": "Marlin",
+    "cyrillic_name": "Марлин",
+    "year_from": 2003,
+    "year_to": 2019,
+    "logo": "/logos/marlin.webp"
+  },
+  {
+    "id": "MARUSSIA",
+    "name": "Marussia",
+    "cyrillic_name": "Маруся",
+    "year_from": 2010,
+    "year_to": 2014,
+    "logo": "/logos/marussia.webp"
+  },
+  {
+    "id": "MARUTI",
+    "name": "Maruti",
+    "cyrillic_name": "Марути",
+    "year_from": 1983,
+    "year_to": 2019,
+    "logo": "/logos/maruti.webp"
+  },
+  {
+    "id": "MASERATI",
+    "name": "Maserati",
+    "cyrillic_name": "Мазерати",
+    "year_from": 1957,
+    "year_to": 2026,
+    "logo": "/logos/maserati.webp"
+  },
+  {
+    "id": "MATRA",
+    "name": "Matra",
+    "cyrillic_name": "Матра",
+    "year_from": 1980,
+    "year_to": 1983,
+    "logo": "/logos/matra.webp"
+  },
+  {
+    "id": "MAXUS",
+    "name": "Maxus",
+    "cyrillic_name": "Максус",
+    "year_from": 2013,
+    "year_to": 2026,
+    "logo": "/logos/maxus.webp"
+  },
+  {
+    "id": "MAYBACH",
+    "name": "Maybach",
+    "cyrillic_name": "Майбах",
+    "year_from": 1936,
+    "year_to": 2013,
+    "logo": "/logos/maybach.webp"
+  },
+  {
+    "id": "MAZDA",
+    "name": "Mazda",
+    "cyrillic_name": "Мазда",
+    "year_from": 1960,
+    "year_to": 2026,
+    "logo": "/logos/mazda.webp"
+  },
+  {
+    "id": "MCLAREN",
+    "name": "McLaren",
+    "cyrillic_name": "МакЛарен",
+    "year_from": 1992,
+    "year_to": 2026,
+    "logo": "/logos/mclaren.webp"
+  },
+  {
+    "id": "MEGA",
+    "name": "Mega",
+    "cyrillic_name": "Мега",
+    "year_from": 1992,
+    "year_to": 2000,
+    "logo": "/logos/mega.webp"
+  },
+  {
+    "id": "MERCEDES",
+    "name": "Mercedes-Benz",
+    "cyrillic_name": "Мерседес-Бенц",
+    "year_from": 1904,
+    "year_to": 2026,
+    "logo": "/logos/mercedes.webp"
+  },
+  {
+    "id": "MERCURY",
+    "name": "Mercury",
+    "cyrillic_name": "Меркури",
+    "year_from": 1949,
+    "year_to": 2011,
+    "logo": "/logos/mercury.webp"
+  },
+  {
+    "id": "MERKUR",
+    "name": "Merkur",
+    "cyrillic_name": "Меркур",
+    "year_from": 1985,
+    "year_to": 1989,
+    "logo": "/logos/merkur.webp"
+  },
+  {
+    "id": "MESSERSCHMITT",
+    "name": "Messerschmitt",
+    "cyrillic_name": "Мессершмитт",
+    "year_from": 1952,
+    "year_to": 1964,
+    "logo": "/logos/messerschmitt.webp"
+  },
+  {
+    "id": "METROCAB",
+    "name": "Metrocab",
+    "cyrillic_name": "Метрокэб",
+    "year_from": 1987,
+    "year_to": 2006,
+    "logo": "/logos/metrocab.webp"
+  },
+  {
+    "id": "MG",
+    "name": "MG",
+    "cyrillic_name": "Эм-Джи",
+    "year_from": 1950,
+    "year_to": 2026,
+    "logo": "/logos/mg.webp"
+  },
+  {
+    "id": "MIA",
+    "name": "Mia",
+    "cyrillic_name": "Миа",
+    "year_from": 2011,
+    "year_to": 2013,
+    "logo": "/logos/mia.webp"
+  },
+  {
+    "id": "MICRO",
+    "name": "Micro",
+    "cyrillic_name": "Микро",
+    "year_from": 2022,
+    "year_to": 2026,
+    "logo": "/logos/micro.webp"
+  },
+  {
+    "id": "MICROCAR",
+    "name": "Microcar",
+    "cyrillic_name": "Микрокар",
+    "year_from": 1999,
+    "year_to": 2015,
+    "logo": "/logos/microcar.webp"
+  },
+  {
+    "id": "MINELLI",
+    "name": "Minelli",
+    "cyrillic_name": "Минелли",
+    "year_from": 1998,
+    "year_to": 2001,
+    "logo": "/logos/minelli.webp"
+  },
+  {
+    "id": "MINI",
+    "name": "Mini",
+    "cyrillic_name": "Мини",
+    "year_from": 2000,
+    "year_to": 2026,
+    "logo": "/logos/mini.webp"
+  },
+  {
+    "id": "MITSUBISHI",
+    "name": "Mitsubishi",
+    "cyrillic_name": "Митсубиси",
+    "year_from": 1953,
+    "year_to": 2026,
+    "logo": "/logos/mitsubishi.webp"
+  },
+  {
+    "id": "MITSUOKA",
+    "name": "Mitsuoka",
+    "cyrillic_name": "Мицуока",
+    "year_from": 1987,
+    "year_to": 2026,
+    "logo": "/logos/mitsuoka.webp"
+  },
+  {
+    "id": "MOBILIZE",
+    "name": "Mobilize",
+    "cyrillic_name": "Мобилайз",
+    "year_from": 2022,
+    "year_to": 2023,
+    "logo": "/logos/mobilize.webp"
+  },
+  {
+    "id": "MORGAN",
+    "name": "Morgan",
+    "cyrillic_name": "Морган",
+    "year_from": 1950,
+    "year_to": 2026,
+    "logo": "/logos/morgan.webp"
+  },
+  {
+    "id": "MORRIS",
+    "name": "Morris",
+    "cyrillic_name": "Моррис",
+    "year_from": 1935,
+    "year_to": 1980,
+    "logo": "/logos/morris.webp"
+  },
+  {
+    "id": "MOSCVICH",
+    "name": "Москвич",
+    "cyrillic_name": "Москвич",
+    "year_from": 1946,
+    "year_to": 2026,
+    "logo": "/logos/moscvich.webp"
+  },
+  {
+    "id": "M_HERO",
+    "name": "M-Hero",
+    "cyrillic_name": "М-Хиро",
+    "year_from": 2023,
+    "year_to": 2026,
+    "logo": "/logos/m_hero.webp"
+  },
+  {
+    "id": "NASH",
+    "name": "Nash",
+    "cyrillic_name": "Нэш",
+    "year_from": 1932,
+    "year_to": 1942,
+    "logo": "/logos/nash.webp"
+  },
+  {
+    "id": "NIO",
+    "name": "Nio",
+    "cyrillic_name": "Нио",
+    "year_from": 2018,
+    "year_to": 2026,
+    "logo": "/logos/nio.webp"
+  },
+  {
+    "id": "NISSAN",
+    "name": "Nissan",
+    "cyrillic_name": "Ниссан",
+    "year_from": 1959,
+    "year_to": 2026,
+    "logo": "/logos/nissan.webp"
+  },
+  {
+    "id": "NOBLE",
+    "name": "Noble",
+    "cyrillic_name": "Нобл",
+    "year_from": 2000,
+    "year_to": 2018,
+    "logo": "/logos/noble.webp"
+  },
+  {
+    "id": "NORDCROSS",
+    "name": "Nordcross",
+    "cyrillic_name": "Нордкросс",
+    "year_from": 2025,
+    "year_to": 2026,
+    "logo": "/logos/nordcross.webp"
+  },
+  {
+    "id": "OLDSMOBILE",
+    "name": "Oldsmobile",
+    "cyrillic_name": "Олдсмобиль",
+    "year_from": 1939,
+    "year_to": 2004,
+    "logo": "/logos/oldsmobile.webp"
+  },
+  {
+    "id": "OLTCIT",
+    "name": "Oltcit",
+    "cyrillic_name": "Олтцит",
+    "year_from": 1981,
+    "year_to": 1993,
+    "logo": "/logos/oltcit.webp"
+  },
+  {
+    "id": "OMODA",
+    "name": "Omoda",
+    "cyrillic_name": "Омода",
+    "year_from": 2022,
+    "year_to": 2026,
+    "logo": "/logos/omoda.webp"
+  },
+  {
+    "id": "OPEL",
+    "name": "Opel",
+    "cyrillic_name": "Опель",
+    "year_from": 1909,
+    "year_to": 2026,
+    "logo": "/logos/opel.webp"
+  },
+  {
+    "id": "ORA",
+    "name": "Ora",
+    "cyrillic_name": "Ора",
+    "year_from": 2018,
+    "year_to": 2026,
+    "logo": "/logos/ora.webp"
+  },
+  {
+    "id": "ORANGE",
+    "name": "Orange",
+    "cyrillic_name": "Оранж",
+    "year_from": 2021,
+    "year_to": 2026,
+    "logo": "/logos/orange.webp"
+  },
+  {
+    "id": "OSCA",
+    "name": "Osca",
+    "cyrillic_name": "Оска",
+    "year_from": 1999,
+    "year_to": 2001,
+    "logo": "/logos/osca.webp"
+  },
+  {
+    "id": "OSHAN",
+    "name": "Oshan",
+    "cyrillic_name": "Ошан",
+    "year_from": 2018,
+    "year_to": 2024,
+    "logo": "/logos/oshan.webp"
+  },
+  {
+    "id": "OTING",
+    "name": "Oting",
+    "cyrillic_name": "Отинг",
+    "year_from": 2023,
+    "year_to": 2026,
+    "logo": "/logos/oting.webp"
+  },
+  {
+    "id": "OVERLAND",
+    "name": "Overland",
+    "cyrillic_name": "Оверлэнд",
+    "year_from": 1914,
+    "year_to": 1915,
+    "logo": "/logos/overland.webp"
+  },
+  {
+    "id": "PACKARD",
+    "name": "Packard",
+    "cyrillic_name": "Паккард",
+    "year_from": 1912,
+    "year_to": 1956,
+    "logo": "/logos/packard.webp"
+  },
+  {
+    "id": "PAGANI",
+    "name": "Pagani",
+    "cyrillic_name": "Пагани",
+    "year_from": 1999,
+    "year_to": 2026,
+    "logo": "/logos/pagani.webp"
+  },
+  {
+    "id": "PANOZ",
+    "name": "Panoz",
+    "cyrillic_name": "Паноз",
+    "year_from": 1992,
+    "year_to": 2007,
+    "logo": "/logos/panoz.webp"
+  },
+  {
+    "id": "PERODUA",
+    "name": "Perodua",
+    "cyrillic_name": "Перодуа",
+    "year_from": 1994,
+    "year_to": 2026,
+    "logo": "/logos/perodua.webp"
+  },
+  {
+    "id": "PEUGEOT",
+    "name": "Peugeot",
+    "cyrillic_name": "Пежо",
+    "year_from": 1929,
+    "year_to": 2026,
+    "logo": "/logos/peugeot.webp"
+  },
+  {
+    "id": "PGO",
+    "name": "PGO",
+    "cyrillic_name": "ПГО",
+    "year_from": 2005,
+    "year_to": 2026,
+    "logo": "/logos/pgo.webp"
+  },
+  {
+    "id": "PIAGGIO",
+    "name": "Piaggio",
+    "cyrillic_name": "Пьяджо",
+    "year_from": 1992,
+    "year_to": 2021,
+    "logo": "/logos/piaggio.webp"
+  },
+  {
+    "id": "PIERCE_ARROW",
+    "name": "Pierce-Arrow",
+    "cyrillic_name": "Пирс-Арроу",
+    "year_from": 1932,
+    "year_to": 1938,
+    "logo": "/logos/pierce_arrow.webp"
+  },
+  {
+    "id": "PLYMOUTH",
+    "name": "Plymouth",
+    "cyrillic_name": "Плимут",
+    "year_from": 1933,
+    "year_to": 2002,
+    "logo": "/logos/plymouth.webp"
+  },
+  {
+    "id": "POLAR_STONE_JISHI",
+    "name": "Polar Stone (Jishi)",
+    "cyrillic_name": "Полар Стоун",
+    "year_from": 2023,
+    "year_to": 2026,
+    "logo": "/logos/polar_stone_jishi.webp"
+  },
+  {
+    "id": "POLESTAR",
+    "name": "Polestar",
+    "cyrillic_name": "Полестар",
+    "year_from": 2019,
+    "year_to": 2026,
+    "logo": "/logos/polestar.webp"
+  },
+  {
+    "id": "PONTIAC",
+    "name": "Pontiac",
+    "cyrillic_name": "Понтиак",
+    "year_from": 1939,
+    "year_to": 2010,
+    "logo": "/logos/pontiac.webp"
+  },
+  {
+    "id": "PORSCHE",
+    "name": "Porsche",
+    "cyrillic_name": "Порше",
+    "year_from": 1948,
+    "year_to": 2026,
+    "logo": "/logos/porsche.webp"
+  },
+  {
+    "id": "PREMIER",
+    "name": "Premier",
+    "cyrillic_name": "Премьер",
+    "year_from": 1964,
+    "year_to": 2001,
+    "logo": "/logos/premier.webp"
+  },
+  {
+    "id": "PROMO_AUTO",
+    "name": "Спортивные авто и реплики",
+    "cyrillic_name": "Спортивные авто и Реплики",
+    "year_from": 1943,
+    "year_to": 2026,
+    "logo": "/logos/promo_auto.webp"
+  },
+  {
+    "id": "PROTON",
+    "name": "Proton",
+    "cyrillic_name": "Протон",
+    "year_from": 1985,
+    "year_to": 2026,
+    "logo": "/logos/proton.webp"
+  },
+  {
+    "id": "PUCH",
+    "name": "Puch",
+    "cyrillic_name": "Пух",
+    "year_from": 1971,
+    "year_to": 2000,
+    "logo": "/logos/puch.webp"
+  },
+  {
+    "id": "PUMA",
+    "name": "Puma",
+    "cyrillic_name": "Пума",
+    "year_from": 1967,
+    "year_to": 1995,
+    "logo": "/logos/puma.webp"
+  },
+  {
+    "id": "PUNK",
+    "name": "Punk",
+    "cyrillic_name": "Панк",
+    "year_from": 2021,
+    "year_to": 2026,
+    "logo": "/logos/punk.webp"
+  },
+  {
+    "id": "QIANTU",
+    "name": "Qiantu",
+    "cyrillic_name": "Кианту",
+    "year_from": 2018,
+    "year_to": 2020,
+    "logo": "/logos/qiantu.webp"
+  },
+  {
+    "id": "QINGLING",
+    "name": "Qingling",
+    "cyrillic_name": "Цинлин",
+    "year_from": 2021,
+    "year_to": 2026,
+    "logo": "/logos/qingling.webp"
+  },
+  {
+    "id": "QOROS",
+    "name": "Qoros",
+    "cyrillic_name": "Куорос",
+    "year_from": 2014,
+    "year_to": 2022,
+    "logo": "/logos/qoros.webp"
+  },
+  {
+    "id": "QVALE",
+    "name": "Qvale",
+    "cyrillic_name": "Куали",
+    "year_from": 1999,
+    "year_to": 2002,
+    "logo": "/logos/qvale.webp"
+  },
+  {
+    "id": "RADAR",
+    "name": "Radar",
+    "cyrillic_name": "Радар",
+    "year_from": 2022,
+    "year_to": 2026,
+    "logo": "/logos/radar.webp"
+  },
+  {
+    "id": "RADFORD",
+    "name": "Radford",
+    "cyrillic_name": "Радфорд",
+    "year_from": 2022,
+    "year_to": 2026,
+    "logo": "/logos/radford.webp"
+  },
+  {
+    "id": "RAM",
+    "name": "Ram",
+    "cyrillic_name": "Рам",
+    "year_from": 2011,
+    "year_to": 2026,
+    "logo": "/logos/ram.webp"
+  },
+  {
+    "id": "RAVON",
+    "name": "Ravon",
+    "cyrillic_name": "Равон",
+    "year_from": 2015,
+    "year_to": 2020,
+    "logo": "/logos/ravon.webp"
+  },
+  {
+    "id": "RAYTON_FISSORE",
+    "name": "Rayton Fissore",
+    "cyrillic_name": "Рэйтон Физзоре",
+    "year_from": 1985,
+    "year_to": 1993,
+    "logo": "/logos/rayton_fissore.webp"
+  },
+  {
+    "id": "RELIANT",
+    "name": "Reliant",
+    "cyrillic_name": "Релайент",
+    "year_from": 1984,
+    "year_to": 1992,
+    "logo": "/logos/reliant.webp"
+  },
+  {
+    "id": "RENAISSANCE_CARS",
+    "name": "Renaissance",
+    "cyrillic_name": "Ренессанс",
+    "year_from": 1995,
+    "year_to": 1995,
+    "logo": "/logos/renaissance_cars.webp"
+  },
+  {
+    "id": "RENAULT",
+    "name": "Renault",
+    "cyrillic_name": "Рено",
+    "year_from": 1924,
+    "year_to": 2026,
+    "logo": "/logos/renault.webp"
+  },
+  {
+    "id": "REZVANI",
+    "name": "Rezvani",
+    "cyrillic_name": "резвани",
+    "year_from": 2015,
+    "year_to": 2026,
+    "logo": "/logos/rezvani.webp"
+  },
+  {
+    "id": "RIMAC",
+    "name": "Rimac",
+    "cyrillic_name": "Римак",
+    "year_from": 2013,
+    "year_to": 2026,
+    "logo": "/logos/rimac.webp"
+  },
+  {
+    "id": "RINSPEED",
+    "name": "Rinspeed",
+    "cyrillic_name": "Ринспид",
+    "year_from": 2004,
+    "year_to": 2005,
+    "logo": "/logos/rinspeed.webp"
+  },
+  {
+    "id": "RISING_AUTO",
+    "name": "Rising Auto",
+    "cyrillic_name": "Райзинг Авто",
+    "year_from": 2020,
+    "year_to": 2026,
+    "logo": "/logos/rising_auto.webp"
+  },
+  {
+    "id": "RIVIAN",
+    "name": "Rivian",
+    "cyrillic_name": "Ривиан",
+    "year_from": 2021,
+    "year_to": 2026,
+    "logo": "/logos/rivian.webp"
+  },
+  {
+    "id": "ROEWE",
+    "name": "Roewe",
+    "cyrillic_name": "Роев",
+    "year_from": 2006,
+    "year_to": 2026,
+    "logo": "/logos/roewe.webp"
+  },
+  {
+    "id": "ROLLS_ROYCE",
+    "name": "Rolls-Royce",
+    "cyrillic_name": "Роллс-Ройс",
+    "year_from": 1905,
+    "year_to": 2026,
+    "logo": "/logos/rolls_royce.webp"
+  },
+  {
+    "id": "RONART",
+    "name": "Ronart",
+    "cyrillic_name": "Ронарт",
+    "year_from": 2000,
+    "year_to": 2013,
+    "logo": "/logos/ronart.webp"
+  },
+  {
+    "id": "ROSSA",
+    "name": "Rossa",
+    "cyrillic_name": "Росса",
+    "year_from": 2023,
+    "year_to": 2026,
+    "logo": "/logos/rossa.webp"
+  },
+  {
+    "id": "ROVER",
+    "name": "Rover",
+    "cyrillic_name": "Ровер",
+    "year_from": 1933,
+    "year_to": 2005,
+    "logo": "/logos/rover.webp"
+  },
+  {
+    "id": "ROX",
+    "name": "Rox",
+    "cyrillic_name": "Рокс",
+    "year_from": 2023,
+    "year_to": 2026,
+    "logo": "/logos/rox.webp"
+  },
+  {
+    "id": "RUSSO_BALTIQUE",
+    "name": "Руссо-Балт",
+    "cyrillic_name": "Руссо-Балт",
+    "year_from": 1909,
+    "year_to": 1918,
+    "logo": "/logos/russo_baltique.webp"
+  },
+  {
+    "id": "SAAB",
+    "name": "Saab",
+    "cyrillic_name": "Сааб",
+    "year_from": 1956,
+    "year_to": 2014,
+    "logo": "/logos/saab.webp"
+  },
+  {
+    "id": "SAIC",
+    "name": "SAIC",
+    "cyrillic_name": "САИК",
+    "year_from": 2025,
+    "year_to": 2026,
+    "logo": "/logos/saic.webp"
+  },
+  {
+    "id": "SAIPA",
+    "name": "Saipa",
+    "cyrillic_name": "Сайпа",
+    "year_from": 2009,
+    "year_to": 2026,
+    "logo": "/logos/saipa.webp"
+  },
+  {
+    "id": "SALEEN",
+    "name": "Saleen",
+    "cyrillic_name": "Салин",
+    "year_from": 2000,
+    "year_to": 2009,
+    "logo": "/logos/saleen.webp"
+  },
+  {
+    "id": "SAMSUNG",
+    "name": "Renault Samsung",
+    "cyrillic_name": "Рено Самсунг",
+    "year_from": 1998,
+    "year_to": 2026,
+    "logo": "/logos/samsung.webp"
+  },
+  {
+    "id": "SANDSTORM",
+    "name": "Sandstorm",
+    "cyrillic_name": "Сандсторм",
+    "year_from": 2019,
+    "year_to": 2026,
+    "logo": "/logos/sandstorm.webp"
+  },
+  {
+    "id": "SANTANA",
+    "name": "Santana",
+    "cyrillic_name": "Сантана",
+    "year_from": 2003,
+    "year_to": 2011,
+    "logo": "/logos/santana.webp"
+  },
+  {
+    "id": "SATURN",
+    "name": "Saturn",
+    "cyrillic_name": "Сатурн",
+    "year_from": 1990,
+    "year_to": 2010,
+    "logo": "/logos/saturn.webp"
+  },
+  {
+    "id": "SCION",
+    "name": "Scion",
+    "cyrillic_name": "Сайон",
+    "year_from": 2003,
+    "year_to": 2016,
+    "logo": "/logos/scion.webp"
+  },
+  {
+    "id": "SCOUT",
+    "name": "Scout",
+    "cyrillic_name": "Скаут",
+    "year_from": 2027,
+    "year_to": 2027,
+    "logo": "/logos/scout.webp"
+  },
+  {
+    "id": "SEARS",
+    "name": "Sears",
+    "cyrillic_name": "Сирс",
+    "year_from": 1908,
+    "year_to": 1912,
+    "logo": "/logos/sears.webp"
+  },
+  {
+    "id": "SEAT",
+    "name": "SEAT",
+    "cyrillic_name": "Сеат",
+    "year_from": 1973,
+    "year_to": 2026,
+    "logo": "/logos/seat.webp"
+  },
+  {
+    "id": "SENAT",
+    "name": "Senat",
+    "cyrillic_name": "Сенат",
+    "year_from": 2026,
+    "year_to": 2026,
+    "logo": "/logos/senat.webp"
+  },
+  {
+    "id": "SERES",
+    "name": "Seres",
+    "cyrillic_name": "Серес",
+    "year_from": 2019,
+    "year_to": 2026,
+    "logo": "/logos/seres.webp"
+  },
+  {
+    "id": "SHANGHAI_MAPLE",
+    "name": "Shanghai Maple",
+    "cyrillic_name": "Шанхай Мапл",
+    "year_from": 2004,
+    "year_to": 2010,
+    "logo": "/logos/shanghai_maple.webp"
+  },
+  {
+    "id": "SHAY_MOTORS",
+    "name": "Shay Motors",
+    "cyrillic_name": "Шэй Mоторс",
+    "year_from": 1979,
+    "year_to": 1982,
+    "logo": "/logos/shay_motors.webp"
+  },
+  {
+    "id": "SHUANGHUAN",
+    "name": "ShuangHuan",
+    "cyrillic_name": "Шунган",
+    "year_from": 2006,
+    "year_to": 2016,
+    "logo": "/logos/shuanghuan.webp"
+  },
+  {
+    "id": "SIMCA",
+    "name": "Simca",
+    "cyrillic_name": "Симка",
+    "year_from": 1963,
+    "year_to": 1979,
+    "logo": "/logos/simca.webp"
+  },
+  {
+    "id": "SKM",
+    "name": "SKM",
+    "cyrillic_name": "СКМ",
+    "year_from": 2026,
+    "year_to": 2026,
+    "logo": "/logos/skm.webp"
+  },
+  {
+    "id": "SKODA",
+    "name": "Skoda",
+    "cyrillic_name": "Шкода",
+    "year_from": 1934,
+    "year_to": 2026,
+    "logo": "/logos/skoda.webp"
+  },
+  {
+    "id": "SKYWELL",
+    "name": "Skywell",
+    "cyrillic_name": "Скайвэлл",
+    "year_from": 2021,
+    "year_to": 2026,
+    "logo": "/logos/skywell.webp"
+  },
+  {
+    "id": "SKYWORTH",
+    "name": "Skyworth",
+    "cyrillic_name": "Скайворт",
+    "year_from": 2021,
+    "year_to": 2026,
+    "logo": "/logos/skyworth.webp"
+  },
+  {
+    "id": "SMART",
+    "name": "Smart",
+    "cyrillic_name": "Смарт",
+    "year_from": 1998,
+    "year_to": 2026,
+    "logo": "/logos/smart.webp"
+  },
+  {
+    "id": "SMZ",
+    "name": "СМЗ",
+    "cyrillic_name": "СМЗ",
+    "year_from": 1952,
+    "year_to": 1997,
+    "logo": "/logos/smz.webp"
+  },
+  {
+    "id": "SOLARIS",
+    "name": "Solaris",
+    "cyrillic_name": "Солярис",
+    "year_from": 2022,
+    "year_to": 2025,
+    "logo": "/logos/solaris.webp"
+  },
+  {
+    "id": "SOLLERS",
+    "name": "Sollers",
+    "cyrillic_name": "Соллерс",
+    "year_from": 2023,
+    "year_to": 2026,
+    "logo": "/logos/sollers.webp"
+  },
+  {
+    "id": "SONGSAN",
+    "name": "Songsan",
+    "cyrillic_name": "Сонгсан",
+    "year_from": 2020,
+    "year_to": 2026,
+    "logo": "/logos/songsan.webp"
+  },
+  {
+    "id": "SOUEAST",
+    "name": "Soueast",
+    "cyrillic_name": "Соуист",
+    "year_from": 2004,
+    "year_to": 2026,
+    "logo": "/logos/soueast.webp"
+  },
+  {
+    "id": "SPECTRE",
+    "name": "Spectre",
+    "cyrillic_name": "Спектр",
+    "year_from": 1996,
+    "year_to": 1997,
+    "logo": "/logos/spectre.webp"
+  },
+  {
+    "id": "SPYKER",
+    "name": "Spyker",
+    "cyrillic_name": "Спайкер",
+    "year_from": 2000,
+    "year_to": 2026,
+    "logo": "/logos/spyker.webp"
+  },
+  {
+    "id": "SSANG_YONG",
+    "name": "SsangYong",
+    "cyrillic_name": "Ссанъён",
+    "year_from": 1987,
+    "year_to": 2023,
+    "logo": "/logos/ssang_yong.webp"
+  },
+  {
+    "id": "START",
+    "name": "Старт",
+    "cyrillic_name": "Старт",
+    "year_from": 1963,
+    "year_to": 1968,
+    "logo": "/logos/start.webp"
+  },
+  {
+    "id": "STELATO",
+    "name": "Stelato",
+    "cyrillic_name": "стелато",
+    "year_from": 2024,
+    "year_to": 2026,
+    "logo": "/logos/stelato.webp"
+  },
+  {
+    "id": "STEYR",
+    "name": "Steyr",
+    "cyrillic_name": "Штайр",
+    "year_from": 1941,
+    "year_to": 1974,
+    "logo": "/logos/steyr.webp"
+  },
+  {
+    "id": "STUDEBAKER",
+    "name": "Studebaker",
+    "cyrillic_name": "Студебейкер",
+    "year_from": 1956,
+    "year_to": 1958,
+    "logo": "/logos/studebaker.webp"
+  },
+  {
+    "id": "SUBARU",
+    "name": "Subaru",
+    "cyrillic_name": "Субару",
+    "year_from": 1958,
+    "year_to": 2026,
+    "logo": "/logos/subaru.webp"
+  },
+  {
+    "id": "SUZUKI",
+    "name": "Suzuki",
+    "cyrillic_name": "Сузуки",
+    "year_from": 1970,
+    "year_to": 2026,
+    "logo": "/logos/suzuki.webp"
+  },
+  {
+    "id": "SWM",
+    "name": "SWM",
+    "cyrillic_name": "СВМ",
+    "year_from": 2016,
+    "year_to": 2026,
+    "logo": "/logos/swm.webp"
+  },
+  {
+    "id": "TAGAZ",
+    "name": "ТагАЗ",
+    "cyrillic_name": "ТагАЗ",
+    "year_from": 2008,
+    "year_to": 2014,
+    "logo": "/logos/tagaz.webp"
+  },
+  {
+    "id": "TALBOT",
+    "name": "Talbot",
+    "cyrillic_name": "Толбет",
+    "year_from": 1970,
+    "year_to": 1987,
+    "logo": "/logos/talbot.webp"
+  },
+  {
+    "id": "TANK",
+    "name": "Tank",
+    "cyrillic_name": "Танк",
+    "year_from": 2020,
+    "year_to": 2026,
+    "logo": "/logos/tank.webp"
+  },
+  {
+    "id": "TATA",
+    "name": "Tata",
+    "cyrillic_name": "ТАТА",
+    "year_from": 1993,
+    "year_to": 2026,
+    "logo": "/logos/tata.webp"
+  },
+  {
+    "id": "TATRA",
+    "name": "Tatra",
+    "cyrillic_name": "Татра",
+    "year_from": 1931,
+    "year_to": 1999,
+    "logo": "/logos/tatra.webp"
+  },
+  {
+    "id": "TAZZARI",
+    "name": "Tazzari",
+    "cyrillic_name": "Таззари",
+    "year_from": 2009,
+    "year_to": 2016,
+    "logo": "/logos/tazzari.webp"
+  },
+  {
+    "id": "TENET",
+    "name": "Tenet",
+    "cyrillic_name": "Тенет",
+    "year_from": 2025,
+    "year_to": 2026,
+    "logo": "/logos/tenet.webp"
+  },
+  {
+    "id": "TENET_PLUS",
+    "name": "Tenet Plus",
+    "cyrillic_name": "Тенет Плюс",
+    "year_from": 2026,
+    "year_to": 2026,
+    "logo": "/logos/tenet_plus.webp"
+  },
+  {
+    "id": "TESLA",
+    "name": "Tesla",
+    "cyrillic_name": "Тесла",
+    "year_from": 2008,
+    "year_to": 2026,
+    "logo": "/logos/tesla.webp"
+  },
+  {
+    "id": "THAIRUNG",
+    "name": "Thairung",
+    "cyrillic_name": "Тайрунг",
+    "year_from": 2019,
+    "year_to": 2026,
+    "logo": "/logos/thairung.webp"
+  },
+  {
+    "id": "THINK",
+    "name": "Think",
+    "cyrillic_name": "Синк",
+    "year_from": 2008,
+    "year_to": 2012,
+    "logo": "/logos/think.webp"
+  },
+  {
+    "id": "TIANMA",
+    "name": "Tianma",
+    "cyrillic_name": "Тианма",
+    "year_from": 2005,
+    "year_to": 2015,
+    "logo": "/logos/tianma.webp"
+  },
+  {
+    "id": "TIANYE",
+    "name": "Tianye",
+    "cyrillic_name": "Тианье",
+    "year_from": 2001,
+    "year_to": 2007,
+    "logo": "/logos/tianye.webp"
+  },
+  {
+    "id": "TOFAS",
+    "name": "Tofas",
+    "cyrillic_name": "Тофаш",
+    "year_from": 1971,
+    "year_to": 2003,
+    "logo": "/logos/tofas.webp"
+  },
+  {
+    "id": "TOYOTA",
+    "name": "Toyota",
+    "cyrillic_name": "Тойота",
+    "year_from": 1960,
+    "year_to": 2027,
+    "logo": "/logos/toyota.webp"
+  },
+  {
+    "id": "TRABANT",
+    "name": "Trabant",
+    "cyrillic_name": "Трабант",
+    "year_from": 1958,
+    "year_to": 1991,
+    "logo": "/logos/trabant.webp"
+  },
+  {
+    "id": "TRAMONTANA",
+    "name": "Tramontana",
+    "cyrillic_name": "Трамонтана",
+    "year_from": 2007,
+    "year_to": 2026,
+    "logo": "/logos/tramontana.webp"
+  },
+  {
+    "id": "TRIUMPH",
+    "name": "Triumph",
+    "cyrillic_name": "Триумф",
+    "year_from": 1957,
+    "year_to": 1984,
+    "logo": "/logos/triumph.webp"
+  },
+  {
+    "id": "TRUMPCHI",
+    "name": "GAC Trumpchi",
+    "cyrillic_name": "Трампчи",
+    "year_from": 2011,
+    "year_to": 2026,
+    "logo": "/logos/trumpchi.webp"
+  },
+  {
+    "id": "TVR",
+    "name": "TVR",
+    "cyrillic_name": "ТВР",
+    "year_from": 1976,
+    "year_to": 2006,
+    "logo": "/logos/tvr.webp"
+  },
+  {
+    "id": "UAZ",
+    "name": "УАЗ",
+    "cyrillic_name": "УАЗ",
+    "year_from": 1972,
+    "year_to": 2026,
+    "logo": "/logos/uaz.webp"
+  },
+  {
+    "id": "ULTIMA",
+    "name": "Ultima",
+    "cyrillic_name": "Ультима",
+    "year_from": 1999,
+    "year_to": 2026,
+    "logo": "/logos/ultima.webp"
+  },
+  {
+    "id": "UMO",
+    "name": "UMO",
+    "cyrillic_name": "УМО",
+    "year_from": 2026,
+    "year_to": 2026,
+    "logo": "/logos/umo.webp"
+  },
+  {
+    "id": "VAUXHALL",
+    "name": "Vauxhall",
+    "cyrillic_name": "Воксхолл",
+    "year_from": 1948,
+    "year_to": 2026,
+    "logo": "/logos/vauxhall.webp"
+  },
+  {
+    "id": "VAZ",
+    "name": "Lada (ВАЗ)",
+    "cyrillic_name": "Лада",
+    "year_from": 1970,
+    "year_to": 2026,
+    "logo": "/logos/vaz.webp"
+  },
+  {
+    "id": "VECTOR",
+    "name": "Vector",
+    "cyrillic_name": "Вектор",
+    "year_from": 1989,
+    "year_to": 2000,
+    "logo": "/logos/vector.webp"
+  },
+  {
+    "id": "VENTURI",
+    "name": "Venturi",
+    "cyrillic_name": "Вентури",
+    "year_from": 1984,
+    "year_to": 2000,
+    "logo": "/logos/venturi.webp"
+  },
+  {
+    "id": "VENUCIA",
+    "name": "Venucia",
+    "cyrillic_name": "Венуция",
+    "year_from": 2017,
+    "year_to": 2026,
+    "logo": "/logos/venucia.webp"
+  },
+  {
+    "id": "VGV",
+    "name": "VGV",
+    "cyrillic_name": "ВГВ",
+    "year_from": 2019,
+    "year_to": 2026,
+    "logo": "/logos/vgv.webp"
+  },
+  {
+    "id": "VINFAST",
+    "name": "VinFast",
+    "cyrillic_name": "Винфаст",
+    "year_from": 2019,
+    "year_to": 2026,
+    "logo": "/logos/vinfast.webp"
+  },
+  {
+    "id": "VOLGA",
+    "name": "VOLGA",
+    "cyrillic_name": "Волга",
+    "year_from": 2026,
+    "year_to": 2026,
+    "logo": "/logos/volga.webp"
+  },
+  {
+    "id": "VOLKSWAGEN",
+    "name": "Volkswagen",
+    "cyrillic_name": "Фольксваген",
+    "year_from": 1938,
+    "year_to": 2026,
+    "logo": "/logos/volkswagen.webp"
+  },
+  {
+    "id": "VOLVO",
+    "name": "Volvo",
+    "cyrillic_name": "Вольво",
+    "year_from": 1947,
+    "year_to": 2026,
+    "logo": "/logos/volvo.webp"
+  },
+  {
+    "id": "VORTEX",
+    "name": "Vortex",
+    "cyrillic_name": "Вортекс",
+    "year_from": 2008,
+    "year_to": 2014,
+    "logo": "/logos/vortex.webp"
+  },
+  {
+    "id": "VOYAH",
+    "name": "Voyah",
+    "cyrillic_name": "Воя",
+    "year_from": 2021,
+    "year_to": 2026,
+    "logo": "/logos/voyah.webp"
+  },
+  {
+    "id": "VUHL",
+    "name": "VUHL",
+    "cyrillic_name": "Вухл",
+    "year_from": 2013,
+    "year_to": 2020,
+    "logo": "/logos/vuhl.webp"
+  },
+  {
+    "id": "WANDERER",
+    "name": "Wanderer",
+    "cyrillic_name": "Вандерер",
+    "year_from": 1933,
+    "year_to": 1941,
+    "logo": "/logos/wanderer.webp"
+  },
+  {
+    "id": "WARTBURG",
+    "name": "Wartburg",
+    "cyrillic_name": "Вартбург",
+    "year_from": 1966,
+    "year_to": 1991,
+    "logo": "/logos/wartburg.webp"
+  },
+  {
+    "id": "WELTMEISTER",
+    "name": "Weltmeister",
+    "cyrillic_name": "Велтмейстер",
+    "year_from": 2018,
+    "year_to": 2022,
+    "logo": "/logos/weltmeister.webp"
+  },
+  {
+    "id": "WESTFIELD",
+    "name": "Westfield",
+    "cyrillic_name": "Вестфилд",
+    "year_from": 1982,
+    "year_to": 2025,
+    "logo": "/logos/westfield.webp"
+  },
+  {
+    "id": "WEY",
+    "name": "Wey",
+    "cyrillic_name": "Вей",
+    "year_from": 2017,
+    "year_to": 2026,
+    "logo": "/logos/wey.webp"
+  },
+  {
+    "id": "WIESMANN",
+    "name": "Wiesmann",
+    "cyrillic_name": "Вайсман",
+    "year_from": 1993,
+    "year_to": 2014,
+    "logo": "/logos/wiesmann.webp"
+  },
+  {
+    "id": "WILLIS",
+    "name": "Willys",
+    "cyrillic_name": "Виллис",
+    "year_from": 1920,
+    "year_to": 1968,
+    "logo": "/logos/willis.webp"
+  },
+  {
+    "id": "WULING",
+    "name": "Wuling",
+    "cyrillic_name": "Вулинг",
+    "year_from": 2012,
+    "year_to": 2026,
+    "logo": "/logos/wuling.webp"
+  },
+  {
+    "id": "W_MOTORS",
+    "name": "W Motors",
+    "cyrillic_name": "дабл-ю моторс",
+    "year_from": 2013,
+    "year_to": 2026,
+    "logo": "/logos/w_motors.webp"
+  },
+  {
+    "id": "XCITE",
+    "name": "Xcite",
+    "cyrillic_name": "Иксайт",
+    "year_from": 2024,
+    "year_to": 2026,
+    "logo": "/logos/xcite.webp"
+  },
+  {
+    "id": "XEV",
+    "name": "XEV",
+    "cyrillic_name": "Ксев",
+    "year_from": 2021,
+    "year_to": 2026,
+    "logo": "/logos/xev.webp"
+  },
+  {
+    "id": "XIAOMI",
+    "name": "Xiaomi",
+    "cyrillic_name": "Ксиоми",
+    "year_from": 2023,
+    "year_to": 2026,
+    "logo": "/logos/xiaomi.webp"
+  },
+  {
+    "id": "XINKAI",
+    "name": "Xin Kai",
+    "cyrillic_name": "Ксин Кай",
+    "year_from": 2003,
+    "year_to": 2006,
+    "logo": "/logos/xinkai.webp"
+  },
+  {
+    "id": "XPENG",
+    "name": "Xpeng",
+    "cyrillic_name": "Икспенг",
+    "year_from": 2018,
+    "year_to": 2026,
+    "logo": "/logos/xpeng.webp"
+  },
+  {
+    "id": "YANDEX_ROVER",
+    "name": "Яндекс Ровер",
+    "cyrillic_name": "Яндекс Ровер",
+    "year_from": 2021,
+    "year_to": 2026,
+    "logo": "/logos/yandex_rover.webp"
+  },
+  {
+    "id": "YEMA",
+    "name": "Yema",
+    "cyrillic_name": "Йема",
+    "year_from": 2015,
+    "year_to": 2023,
+    "logo": "/logos/yema.webp"
+  },
+  {
+    "id": "YIPAI",
+    "name": "Yipai",
+    "cyrillic_name": "Ипай",
+    "year_from": 2024,
+    "year_to": 2026,
+    "logo": "/logos/yipai.webp"
+  },
+  {
+    "id": "YUDO",
+    "name": "Yudo",
+    "cyrillic_name": "Юдо",
+    "year_from": 2023,
+    "year_to": 2026,
+    "logo": "/logos/yudo.webp"
+  },
+  {
+    "id": "YULON",
+    "name": "Yulon",
+    "cyrillic_name": "Юлон",
+    "year_from": 1986,
+    "year_to": 1995,
+    "logo": "/logos/yulon.webp"
+  },
+  {
+    "id": "ZASTAVA",
+    "name": "Zastava",
+    "cyrillic_name": "Застава",
+    "year_from": 1973,
+    "year_to": 2008,
+    "logo": "/logos/zastava.webp"
+  },
+  {
+    "id": "ZAZ",
+    "name": "ЗАЗ",
+    "cyrillic_name": "ЗАЗ",
+    "year_from": 1960,
+    "year_to": 2017,
+    "logo": "/logos/zaz.webp"
+  },
+  {
+    "id": "ZEEKR",
+    "name": "Zeekr",
+    "cyrillic_name": "Зикр",
+    "year_from": 2021,
+    "year_to": 2026,
+    "logo": "/logos/zeekr.webp"
+  },
+  {
+    "id": "ZENOS",
+    "name": "Zenos",
+    "cyrillic_name": "Зенос",
+    "year_from": 2015,
+    "year_to": 2016,
+    "logo": "/logos/zenos.webp"
+  },
+  {
+    "id": "ZENVO",
+    "name": "Zenvo",
+    "cyrillic_name": "Зенво",
+    "year_from": 2009,
+    "year_to": 2026,
+    "logo": "/logos/zenvo.webp"
+  },
+  {
+    "id": "ZHIDO",
+    "name": "Zhido",
+    "cyrillic_name": "Циду",
+    "year_from": 2024,
+    "year_to": 2026,
+    "logo": "/logos/zhido.webp"
+  },
+  {
+    "id": "ZIBAR",
+    "name": "Zibar",
+    "cyrillic_name": "Зибар",
+    "year_from": 2010,
+    "year_to": 2026,
+    "logo": "/logos/zibar.webp"
+  },
+  {
+    "id": "ZIL",
+    "name": "ЗИЛ",
+    "cyrillic_name": "ЗИЛ",
+    "year_from": 1959,
+    "year_to": 2002,
+    "logo": "/logos/zil.webp"
+  },
+  {
+    "id": "ZIS",
+    "name": "ЗиС",
+    "cyrillic_name": "ЗиС",
+    "year_from": 1936,
+    "year_to": 1958,
+    "logo": "/logos/zis.webp"
+  },
+  {
+    "id": "ZOTYE",
+    "name": "Zotye",
+    "cyrillic_name": "Зоти",
+    "year_from": 2005,
+    "year_to": 2023,
+    "logo": "/logos/zotye.webp"
+  },
+  {
+    "id": "ZUBR",
+    "name": "Zubr",
+    "cyrillic_name": "Зубр",
+    "year_from": 2025,
+    "year_to": 2026,
+    "logo": "/logos/zubr.webp"
+  },
+  {
+    "id": "ZX",
+    "name": "ZX",
+    "cyrillic_name": "ЗХ",
+    "year_from": 2005,
+    "year_to": 2026,
+    "logo": "/logos/zx.webp"
+  }
+]

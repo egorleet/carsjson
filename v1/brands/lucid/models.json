@@ -1,0 +1,20 @@
+[
+  {
+    "id": "AIR",
+    "name": "Air",
+    "cyrillic_name": "Эир",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "LUCID",
+    "nameplates": []
+  },
+  {
+    "id": "GRAVITY",
+    "name": "Gravity",
+    "cyrillic_name": "Гравити",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "LUCID",
+    "nameplates": []
+  }
+]

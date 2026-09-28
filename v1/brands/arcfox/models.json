@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ALPHA_S",
+    "name": "Alpha S",
+    "cyrillic_name": "Альфа С",
+    "year_from": 2021,
+    "year_to": 2025,
+    "brand_id": "ARCFOX",
+    "nameplates": []
+  },
+  {
+    "id": "ALPHA_S5",
+    "name": "Alpha S5",
+    "cyrillic_name": "Альфа С5",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "ARCFOX",
+    "nameplates": []
+  },
+  {
+    "id": "ALPHA_S6",
+    "name": "Alpha S6",
+    "cyrillic_name": "Альфа С6",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "ARCFOX",
+    "nameplates": []
+  },
+  {
+    "id": "ALPHA_T",
+    "name": "Alpha T",
+    "cyrillic_name": "Альфа Т",
+    "year_from": 2020,
+    "year_to": 2025,
+    "brand_id": "ARCFOX",
+    "nameplates": []
+  },
+  {
+    "id": "ALPHA_T5",
+    "name": "Alpha T5",
+    "cyrillic_name": "Альфа Т5",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "ARCFOX",
+    "nameplates": []
+  },
+  {
+    "id": "ALPHA_T6",
+    "name": "Alpha T6",
+    "cyrillic_name": "Альфа Т6",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "ARCFOX",
+    "nameplates": []
+  },
+  {
+    "id": "ALPHA_T7",
+    "name": "Alpha T7",
+    "cyrillic_name": "Альфа Т7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "ARCFOX",
+    "nameplates": []
+  },
+  {
+    "id": "BETA_T1",
+    "name": "Beta T1",
+    "cyrillic_name": "Бета Т1",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "ARCFOX",
+    "nameplates": []
+  },
+  {
+    "id": "KAOLA",
+    "name": "Kaola",
+    "cyrillic_name": "Каола",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "ARCFOX",
+    "nameplates": []
+  },
+  {
+    "id": "LITE",
+    "name": "Lite",
+    "cyrillic_name": "Лайт",
+    "year_from": 2017,
+    "year_to": 2020,
+    "brand_id": "ARCFOX",
+    "nameplates": []
+  },
+  {
+    "id": "S3",
+    "name": "S3",
+    "cyrillic_name": "С3",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "ARCFOX",
+    "nameplates": []
+  },
+  {
+    "id": "T1",
+    "name": "T1",
+    "cyrillic_name": "Т1",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "ARCFOX",
+    "nameplates": []
+  },
+  {
+    "id": "WENDAO_V9",
+    "name": "Wendao V9",
+    "cyrillic_name": "Вендао В9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "ARCFOX",
+    "nameplates": []
+  }
+]

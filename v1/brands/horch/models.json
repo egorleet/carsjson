@@ -1,0 +1,29 @@
+[
+  {
+    "id": "830",
+    "name": "830",
+    "cyrillic_name": "830",
+    "year_from": 1933,
+    "year_to": 1940,
+    "brand_id": "HORCH",
+    "nameplates": []
+  },
+  {
+    "id": "853",
+    "name": "853",
+    "cyrillic_name": "853",
+    "year_from": 1935,
+    "year_to": 1939,
+    "brand_id": "HORCH",
+    "nameplates": []
+  },
+  {
+    "id": "901",
+    "name": "901",
+    "cyrillic_name": "901",
+    "year_from": 1937,
+    "year_to": 1943,
+    "brand_id": "HORCH",
+    "nameplates": []
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "id": "ACEMAN",
+    "name": "Aceman",
+    "cyrillic_name": "Эйсмэн",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "MINI",
+    "nameplates": []
+  },
+  {
+    "id": "CABRIO",
+    "name": "Cabrio",
+    "cyrillic_name": "Cabrio",
+    "year_from": 2004,
+    "year_to": 2026,
+    "brand_id": "MINI",
+    "nameplates": [
+      "Cabrio",
+      "Cooper",
+      "Cooper C",
+      "Cooper D",
+      "Cooper S",
+      "Cooper SD",
+      "John Cooper Works",
+      "One"
+    ]
+  },
+  {
+    "id": "CLUBMAN",
+    "name": "Clubman",
+    "cyrillic_name": "Клубмэн",
+    "year_from": 2007,
+    "year_to": 2026,
+    "brand_id": "MINI",
+    "nameplates": [
+      "Cooper",
+      "Cooper D",
+      "Cooper S",
+      "Cooper SD",
+      "Cooper Steptronic",
+      "John Cooper Works",
+      "One",
+      "One D"
+    ]
+  },
+  {
+    "id": "COUNTRYMAN",
+    "name": "Countryman",
+    "cyrillic_name": "Кантримэн",
+    "year_from": 2010,
+    "year_to": 2026,
+    "brand_id": "MINI",
+    "nameplates": [
+      "C",
+      "Cooper",
+      "Cooper Automatic",
+      "Cooper D",
+      "Cooper S",
+      "Cooper S E",
+      "Cooper SD",
+      "D",
+      "E",
+      "John Cooper Works",
+      "One",
+      "One Automatic",
+      "One D",
+      "S",
+      "SE"
+    ]
+  },
+  {
+    "id": "COUPE",
+    "name": "Coupe",
+    "cyrillic_name": "Купе",
+    "year_from": 2011,
+    "year_to": 2015,
+    "brand_id": "MINI",
+    "nameplates": [
+      "Cooper",
+      "Cooper S",
+      "Cooper SD",
+      "John Cooper Works"
+    ]
+  },
+  {
+    "id": "HATCH",
+    "name": "Hatch",
+    "cyrillic_name": "Хэтч",
+    "year_from": 2000,
+    "year_to": 2026,
+    "brand_id": "MINI",
+    "nameplates": [
+      "Hatch",
+      "Cooper",
+      "Cooper D",
+      "Cooper S",
+      "Cooper SD",
+      "Cooper SE",
+      "JCW",
+      "JCW Electric",
+      "John Cooper Works GP",
+      "One",
+      "One D"
+    ]
+  },
+  {
+    "id": "PACEMAN",
+    "name": "Paceman",
+    "cyrillic_name": "Пейсмэн",
+    "year_from": 2012,
+    "year_to": 2016,
+    "brand_id": "MINI",
+    "nameplates": [
+      "Cooper",
+      "Cooper D",
+      "Cooper S",
+      "Cooper SD",
+      "John Cooper Works"
+    ]
+  },
+  {
+    "id": "ROADSTER",
+    "name": "Roadster",
+    "cyrillic_name": "Родстер",
+    "year_from": 2012,
+    "year_to": 2015,
+    "brand_id": "MINI",
+    "nameplates": [
+      "Cooper",
+      "Cooper S",
+      "Cooper SD",
+      "John Cooper Works"
+    ]
+  }
+]

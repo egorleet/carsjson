@@ -1,0 +1,191 @@
+[
+  {
+    "id": "EH7",
+    "name": "EH7",
+    "cyrillic_name": "ЕХ7",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "E_HS3",
+    "name": "E-HS3",
+    "cyrillic_name": "Е-ХС3",
+    "year_from": 2018,
+    "year_to": 2023,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "E_HS7",
+    "name": "E-HS7",
+    "cyrillic_name": "Е-ХС7",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "E_HS9",
+    "name": "E-HS9",
+    "cyrillic_name": "Е-ХС9",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "E_QM5",
+    "name": "E-QM5",
+    "cyrillic_name": "Е-КьюМ5",
+    "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "GUOYA",
+    "name": "Guoya",
+    "cyrillic_name": "Гуоя",
+    "year_from": 2024,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "H5",
+    "name": "H5",
+    "cyrillic_name": "Х5",
+    "year_from": 2017,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "H6",
+    "name": "H6",
+    "cyrillic_name": "Эйч6",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "H7",
+    "name": "H7",
+    "cyrillic_name": "Х7",
+    "year_from": 2013,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "H9",
+    "name": "H9",
+    "cyrillic_name": "Х9",
+    "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "HQ9",
+    "name": "HQ9",
+    "cyrillic_name": "ЭйчКью 9",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "HS3",
+    "name": "HS3",
+    "cyrillic_name": "ХС3",
+    "year_from": 2023,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "HS5",
+    "name": "HS5",
+    "cyrillic_name": "ХС5",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "HS6",
+    "name": "HS6",
+    "cyrillic_name": "ХС6",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "HS7",
+    "name": "HS7",
+    "cyrillic_name": "хс7",
+    "year_from": 2019,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "L5",
+    "name": "L5",
+    "cyrillic_name": "Л5",
+    "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "LS7",
+    "name": "LS7",
+    "cyrillic_name": "ЛС7",
+    "year_from": 2022,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "TIANGONG_05",
+    "name": "Tiangong 05",
+    "cyrillic_name": "Тиангонг 05",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "TIANGONG_06",
+    "name": "Tiangong 06",
+    "cyrillic_name": "Тиангонг 06",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "TIANGONG_07",
+    "name": "Tiangong 07",
+    "cyrillic_name": "Тиангонг 07",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  },
+  {
+    "id": "TIANGONG_08",
+    "name": "Tiangong 08",
+    "cyrillic_name": "Тиангонг 08",
+    "year_from": 2025,
+    "year_to": 2026,
+    "brand_id": "HONGQI",
+    "nameplates": []
+  }
+]
