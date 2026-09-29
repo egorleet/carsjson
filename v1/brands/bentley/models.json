@@ -151,6 +151,15 @@
     "nameplates": []
   },
   {
+    "id": "TORCAL",
+    "name": "Torcal",
+    "cyrillic_name": "Торкал",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BENTLEY",
+    "nameplates": []
+  },
+  {
     "id": "TURBO_R",
     "name": "Turbo R",
     "cyrillic_name": "турбо р",

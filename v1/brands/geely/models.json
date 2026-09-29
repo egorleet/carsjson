@@ -649,6 +649,15 @@
     "nameplates": []
   },
   {
+    "id": "MONJARO_PLUS",
+    "name": "Monjaro Plus",
+    "cyrillic_name": "Монжаро Плюс",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
     "id": "MR",
     "name": "MR",
     "cyrillic_name": "MR",
@@ -684,6 +693,15 @@
     "name": "Preface",
     "cyrillic_name": "Префейс",
     "year_from": 2020,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "PREFACE_PLUS",
+    "name": "Preface Plus",
+    "cyrillic_name": "Префейс Плюс",
+    "year_from": 2026,
     "year_to": 2026,
     "brand_id": "GEELY",
     "nameplates": []
@@ -795,6 +813,15 @@
     "name": "Xingyue L",
     "cyrillic_name": "Синьюэ Л",
     "year_from": 2021,
+    "year_to": 2026,
+    "brand_id": "GEELY",
+    "nameplates": []
+  },
+  {
+    "id": "XINGYUE_L_PLUS",
+    "name": "Xingyue L Plus",
+    "cyrillic_name": "Синьюэ Л Плюс",
+    "year_from": 2026,
     "year_to": 2026,
     "brand_id": "GEELY",
     "nameplates": []

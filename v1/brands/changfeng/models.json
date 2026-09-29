@@ -18,6 +18,15 @@
     "nameplates": []
   },
   {
+    "id": "LEOPAARD_CS9",
+    "name": "Leopaard CS9",
+    "cyrillic_name": "Леопаард ЦС9",
+    "year_from": null,
+    "year_to": null,
+    "brand_id": "CHANGFENG",
+    "nameplates": []
+  },
+  {
     "id": "LIEBAO_LEOPARD",
     "name": "Liebao Leopard",
     "cyrillic_name": "Лиебао Леопард",

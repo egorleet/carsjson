@@ -384,6 +384,15 @@
     "nameplates": []
   },
   {
+    "id": "OTTIMO",
+    "name": "Ottimo",
+    "cyrillic_name": "Оттимо",
+    "year_from": 2013,
+    "year_to": 2017,
+    "brand_id": "FIAT",
+    "nameplates": []
+  },
+  {
     "id": "PALIO",
     "name": "Palio",
     "cyrillic_name": "Палио",

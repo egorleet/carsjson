@@ -99,6 +99,15 @@
     "nameplates": []
   },
   {
+    "id": "JOURNEY_CLASSIC",
+    "name": "Journey Classic",
+    "cyrillic_name": "Джорней Классик",
+    "year_from": 2014,
+    "year_to": 2018,
+    "brand_id": "WULING",
+    "nameplates": []
+  },
+  {
     "id": "MINI_EV",
     "name": "Mini EV",
     "cyrillic_name": "Мини ЕВ",

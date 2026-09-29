@@ -1,8 +1,26 @@
 [
   {
+    "id": "C4",
+    "name": "C4",
+    "cyrillic_name": "Це4",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "JELAND",
+    "nameplates": []
+  },
+  {
     "id": "C5",
     "name": "C5",
     "cyrillic_name": "Це5",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "JELAND",
+    "nameplates": []
+  },
+  {
+    "id": "C7",
+    "name": "C7",
+    "cyrillic_name": "Це7",
     "year_from": 2026,
     "year_to": 2026,
     "brand_id": "JELAND",

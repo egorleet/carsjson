@@ -7151,6 +7151,15 @@
       "nameplates": []
     },
     {
+      "id": "TORCAL",
+      "name": "Torcal",
+      "cyrillic_name": "Торкал",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "BENTLEY",
+      "nameplates": []
+    },
+    {
       "id": "TURBO_R",
       "name": "Turbo R",
       "cyrillic_name": "турбо р",
@@ -7598,6 +7607,7 @@
         "728L",
         "730",
         "730L",
+        "732",
         "733",
         "735",
         "735L",
@@ -10608,6 +10618,15 @@
       "cyrillic_name": "Флаинг",
       "year_from": 2005,
       "year_to": 2014,
+      "brand_id": "CHANGFENG",
+      "nameplates": []
+    },
+    {
+      "id": "LEOPAARD_CS9",
+      "name": "Leopaard CS9",
+      "cyrillic_name": "Леопаард ЦС9",
+      "year_from": null,
+      "year_to": null,
       "brand_id": "CHANGFENG",
       "nameplates": []
     },
@@ -17402,6 +17421,15 @@
       "nameplates": []
     },
     {
+      "id": "OTTIMO",
+      "name": "Ottimo",
+      "cyrillic_name": "Оттимо",
+      "year_from": 2013,
+      "year_to": 2017,
+      "brand_id": "FIAT",
+      "nameplates": []
+    },
+    {
       "id": "PALIO",
       "name": "Palio",
       "cyrillic_name": "Палио",
@@ -19947,6 +19975,15 @@
       "nameplates": []
     },
     {
+      "id": "MONJARO_PLUS",
+      "name": "Monjaro Plus",
+      "cyrillic_name": "Монжаро Плюс",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "GEELY",
+      "nameplates": []
+    },
+    {
       "id": "MR",
       "name": "MR",
       "cyrillic_name": "MR",
@@ -19982,6 +20019,15 @@
       "name": "Preface",
       "cyrillic_name": "Префейс",
       "year_from": 2020,
+      "year_to": 2026,
+      "brand_id": "GEELY",
+      "nameplates": []
+    },
+    {
+      "id": "PREFACE_PLUS",
+      "name": "Preface Plus",
+      "cyrillic_name": "Префейс Плюс",
+      "year_from": 2026,
       "year_to": 2026,
       "brand_id": "GEELY",
       "nameplates": []
@@ -20093,6 +20139,15 @@
       "name": "Xingyue L",
       "cyrillic_name": "Синьюэ Л",
       "year_from": 2021,
+      "year_to": 2026,
+      "brand_id": "GEELY",
+      "nameplates": []
+    },
+    {
+      "id": "XINGYUE_L_PLUS",
+      "name": "Xingyue L Plus",
+      "cyrillic_name": "Синьюэ Л Плюс",
+      "year_from": 2026,
       "year_to": 2026,
       "brand_id": "GEELY",
       "nameplates": []
@@ -22439,6 +22494,15 @@
       "name": "E-QM5",
       "cyrillic_name": "Е-КьюМ5",
       "year_from": 2021,
+      "year_to": 2026,
+      "brand_id": "HONGQI",
+      "nameplates": []
+    },
+    {
+      "id": "G919",
+      "name": "G919",
+      "cyrillic_name": "Г919",
+      "year_from": 2026,
       "year_to": 2026,
       "brand_id": "HONGQI",
       "nameplates": []
@@ -25447,9 +25511,27 @@
       ]
     },
     {
+      "id": "C4",
+      "name": "C4",
+      "cyrillic_name": "Це4",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "JELAND",
+      "nameplates": []
+    },
+    {
       "id": "C5",
       "name": "C5",
       "cyrillic_name": "Це5",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "JELAND",
+      "nameplates": []
+    },
+    {
+      "id": "C7",
+      "name": "C7",
+      "cyrillic_name": "Це7",
       "year_from": 2026,
       "year_to": 2026,
       "brand_id": "JELAND",
@@ -35688,7 +35770,7 @@
       "name": "Pixo",
       "cyrillic_name": "пиксо",
       "year_from": 2008,
-      "year_to": 2013,
+      "year_to": 2026,
       "brand_id": "NISSAN",
       "nameplates": []
     },
@@ -40262,6 +40344,15 @@
       "nameplates": []
     },
     {
+      "id": "JIAYUE_07",
+      "name": "Jiayue 07",
+      "cyrillic_name": "Джиае 07",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "ROEWE",
+      "nameplates": []
+    },
+    {
       "id": "M7",
       "name": "M7",
       "cyrillic_name": "М7",
@@ -40736,6 +40827,15 @@
       "cyrillic_name": "С24",
       "year_from": 1909,
       "year_to": 1918,
+      "brand_id": "RUSSO_BALTIQUE",
+      "nameplates": []
+    },
+    {
+      "id": "C24_55",
+      "name": "С24/55 Ралли Монте-Карло",
+      "cyrillic_name": "С24/55 Ралли Монте-Карло",
+      "year_from": 1911,
+      "year_to": 1911,
       "brand_id": "RUSSO_BALTIQUE",
       "nameplates": []
     },
@@ -49751,6 +49851,15 @@
       "cyrillic_name": "Джорней",
       "year_from": 2021,
       "year_to": 2026,
+      "brand_id": "WULING",
+      "nameplates": []
+    },
+    {
+      "id": "JOURNEY_CLASSIC",
+      "name": "Journey Classic",
+      "cyrillic_name": "Джорней Классик",
+      "year_from": 2014,
+      "year_to": 2018,
       "brand_id": "WULING",
       "nameplates": []
     },
