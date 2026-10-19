@@ -67,5 +67,14 @@
     "year_to": 2026,
     "brand_id": "BAW",
     "nameplates": []
+  },
+  {
+    "id": "YUSHENG_007",
+    "name": "Yusheng 007",
+    "cyrillic_name": "Юшенг 007",
+    "year_from": 2011,
+    "year_to": 2017,
+    "brand_id": "BAW",
+    "nameplates": []
   }
 ]

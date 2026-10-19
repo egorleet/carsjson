@@ -19,5 +19,14 @@
       "S9",
       "S9T"
     ]
+  },
+  {
+    "id": "V8",
+    "name": "V8",
+    "cyrillic_name": "в8",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "STELATO",
+    "nameplates": []
   }
 ]

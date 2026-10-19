@@ -315,6 +315,15 @@
     "nameplates": []
   },
   {
+    "id": "MENGSHI_X700",
+    "name": "Mengshi M-Hero X700",
+    "cyrillic_name": "Менгши М-Хиро Икс700",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "DONGFENG",
+    "nameplates": []
+  },
+  {
     "id": "MPV",
     "name": "MPV",
     "cyrillic_name": "мпв",

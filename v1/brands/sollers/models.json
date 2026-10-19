@@ -1,5 +1,14 @@
 [
   {
+    "id": "S9",
+    "name": "S9",
+    "cyrillic_name": "C9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "SOLLERS",
+    "nameplates": []
+  },
+  {
     "id": "SF1",
     "name": "SF1",
     "cyrillic_name": "СФ1",

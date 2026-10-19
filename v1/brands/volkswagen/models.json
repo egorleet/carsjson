@@ -427,15 +427,24 @@
   },
   {
     "id": "ID_POLO",
-    "name": "ID.Polo",
+    "name": "ID. Polo",
     "cyrillic_name": "АйДи.Поло",
     "year_from": 2026,
     "year_to": 2026,
     "brand_id": "VOLKSWAGEN",
     "nameplates": [
-      "ID.Polo",
+      "ID. Polo",
       "GTI"
     ]
+  },
+  {
+    "id": "ID_TIGUAN",
+    "name": "ID. Tiguan",
+    "cyrillic_name": "АйДи. Тигуан",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
   },
   {
     "id": "ILTIS",

@@ -94,13 +94,13 @@
   },
   {
     "id": "GRAND_WAGONEER",
-    "name": "Wagoneer",
-    "cyrillic_name": "Вагонер",
-    "year_from": 1984,
+    "name": "Grand Wagoneer",
+    "cyrillic_name": "Гранд Вагонер",
+    "year_from": 2021,
     "year_to": 2026,
     "brand_id": "JEEP",
     "nameplates": [
-      "Wagoneer",
+      "Grand Wagoneer",
       "Grand"
     ]
   },
@@ -136,6 +136,15 @@
     "name": "Renegade",
     "cyrillic_name": "Ренегейд",
     "year_from": 2014,
+    "year_to": 2026,
+    "brand_id": "JEEP",
+    "nameplates": []
+  },
+  {
+    "id": "WAGONEER",
+    "name": "Wagoneer",
+    "cyrillic_name": "Вагонер",
+    "year_from": 1984,
     "year_to": 2026,
     "brand_id": "JEEP",
     "nameplates": []

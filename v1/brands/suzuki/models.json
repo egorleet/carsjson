@@ -206,6 +206,15 @@
     ]
   },
   {
+    "id": "E_SKY",
+    "name": "e Sky",
+    "cyrillic_name": "е скай",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "SUZUKI",
+    "nameplates": []
+  },
+  {
     "id": "E_VITARA",
     "name": "e Vitara",
     "cyrillic_name": "е Витара",

@@ -182,7 +182,8 @@
       "Compact",
       "Gran Turismo",
       "M340d",
-      "M340i"
+      "M340i",
+      "M350"
     ]
   },
   {
@@ -493,6 +494,15 @@
       "iX3",
       "Long"
     ]
+  },
+  {
+    "id": "IX4",
+    "name": "iX4",
+    "cyrillic_name": "ИХ4",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BMW",
+    "nameplates": []
   },
   {
     "id": "IX5",

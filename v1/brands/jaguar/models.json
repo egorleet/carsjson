@@ -10,7 +10,7 @@
   },
   {
     "id": "E_TYPE",
-    "name": "E-type",
+    "name": "E-Type",
     "cyrillic_name": "Е-Тайп",
     "year_from": 1961,
     "year_to": 1975,
@@ -85,6 +85,15 @@
     ]
   },
   {
+    "id": "TYPE_01",
+    "name": "Type 01",
+    "cyrillic_name": "Тайп 01",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "JAGUAR",
+    "nameplates": []
+  },
+  {
     "id": "XE",
     "name": "XE",
     "cyrillic_name": "XE",
@@ -101,7 +110,7 @@
     "name": "XF",
     "cyrillic_name": "XF",
     "year_from": 2007,
-    "year_to": 2024,
+    "year_to": 2025,
     "brand_id": "JAGUAR",
     "nameplates": []
   },

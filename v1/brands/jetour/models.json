@@ -141,6 +141,15 @@
     "nameplates": []
   },
   {
+    "id": "TRAVELER_7",
+    "name": "Traveler 7",
+    "cyrillic_name": "Трэвелер 7",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "JETOUR",
+    "nameplates": []
+  },
+  {
     "id": "TRAVELLER",
     "name": "Traveller",
     "cyrillic_name": "Трэвэллер",

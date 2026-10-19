@@ -6955,6 +6955,15 @@
       "nameplates": []
     },
     {
+      "id": "YUSHENG_007",
+      "name": "Yusheng 007",
+      "cyrillic_name": "Юшенг 007",
+      "year_from": 2011,
+      "year_to": 2017,
+      "brand_id": "BAW",
+      "nameplates": []
+    },
+    {
       "id": "S50",
       "name": "S50",
       "cyrillic_name": "С50",
@@ -7066,12 +7075,12 @@
       "brand_id": "BENTLEY",
       "nameplates": [
         "Continental GT",
+        "Continental Supersports",
+        "Continental Supersports ISR",
         "GT3-R",
         "Mulliner",
         "S",
-        "Speed",
-        "Supersports",
-        "Supersports ISR"
+        "Speed"
       ]
     },
     {
@@ -7459,7 +7468,8 @@
         "Compact",
         "Gran Turismo",
         "M340d",
-        "M340i"
+        "M340i",
+        "M350"
       ]
     },
     {
@@ -7770,6 +7780,15 @@
         "iX3",
         "Long"
       ]
+    },
+    {
+      "id": "IX4",
+      "name": "iX4",
+      "cyrillic_name": "ИХ4",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "BMW",
+      "nameplates": []
     },
     {
       "id": "IX5",
@@ -10625,8 +10644,8 @@
       "id": "LEOPAARD_CS9",
       "name": "Leopaard CS9",
       "cyrillic_name": "Леопаард ЦС9",
-      "year_from": null,
-      "year_to": null,
+      "year_from": 2017,
+      "year_to": 2020,
       "brand_id": "CHANGFENG",
       "nameplates": []
     },
@@ -13092,7 +13111,7 @@
       "id": "GS",
       "name": "GS",
       "cyrillic_name": "GS",
-      "year_from": 1971,
+      "year_from": 1970,
       "year_to": 1986,
       "brand_id": "CITROEN",
       "nameplates": []
@@ -15612,6 +15631,15 @@
       "nameplates": []
     },
     {
+      "id": "MENGSHI_X700",
+      "name": "Mengshi M-Hero X700",
+      "cyrillic_name": "Менгши М-Хиро Икс700",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "DONGFENG",
+      "nameplates": []
+    },
+    {
       "id": "MPV",
       "name": "MPV",
       "cyrillic_name": "мпв",
@@ -17442,7 +17470,7 @@
       "id": "PANDA",
       "name": "Panda",
       "cyrillic_name": "Панда",
-      "year_from": 1981,
+      "year_from": 1980,
       "year_to": 2026,
       "brand_id": "FIAT",
       "nameplates": []
@@ -25175,7 +25203,7 @@
     },
     {
       "id": "E_TYPE",
-      "name": "E-type",
+      "name": "E-Type",
       "cyrillic_name": "Е-Тайп",
       "year_from": 1961,
       "year_to": 1975,
@@ -25250,6 +25278,15 @@
       ]
     },
     {
+      "id": "TYPE_01",
+      "name": "Type 01",
+      "cyrillic_name": "Тайп 01",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "JAGUAR",
+      "nameplates": []
+    },
+    {
       "id": "XE",
       "name": "XE",
       "cyrillic_name": "XE",
@@ -25266,7 +25303,7 @@
       "name": "XF",
       "cyrillic_name": "XF",
       "year_from": 2007,
-      "year_to": 2024,
+      "year_to": 2025,
       "brand_id": "JAGUAR",
       "nameplates": []
     },
@@ -25443,13 +25480,13 @@
     },
     {
       "id": "GRAND_WAGONEER",
-      "name": "Wagoneer",
-      "cyrillic_name": "Вагонер",
-      "year_from": 1984,
+      "name": "Grand Wagoneer",
+      "cyrillic_name": "Гранд Вагонер",
+      "year_from": 2021,
       "year_to": 2026,
       "brand_id": "JEEP",
       "nameplates": [
-        "Wagoneer",
+        "Grand Wagoneer",
         "Grand"
       ]
     },
@@ -25485,6 +25522,15 @@
       "name": "Renegade",
       "cyrillic_name": "Ренегейд",
       "year_from": 2014,
+      "year_to": 2026,
+      "brand_id": "JEEP",
+      "nameplates": []
+    },
+    {
+      "id": "WAGONEER",
+      "name": "Wagoneer",
+      "cyrillic_name": "Вагонер",
+      "year_from": 1984,
       "year_to": 2026,
       "brand_id": "JEEP",
       "nameplates": []
@@ -25718,6 +25764,15 @@
       "id": "TOURER",
       "name": "Tourer",
       "cyrillic_name": "Турер",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "JETOUR",
+      "nameplates": []
+    },
+    {
+      "id": "TRAVELER_7",
+      "name": "Traveler 7",
+      "cyrillic_name": "Трэвелер 7",
       "year_from": 2026,
       "year_to": 2026,
       "brand_id": "JETOUR",
@@ -30061,7 +30116,7 @@
       "name": "Atenza",
       "cyrillic_name": "Атенза",
       "year_from": 2002,
-      "year_to": 2022,
+      "year_to": 2023,
       "brand_id": "MAZDA",
       "nameplates": []
     },
@@ -40835,7 +40890,7 @@
       "name": "С24/55 Ралли Монте-Карло",
       "cyrillic_name": "С24/55 Ралли Монте-Карло",
       "year_from": 1911,
-      "year_to": 1911,
+      "year_to": 2025,
       "brand_id": "RUSSO_BALTIQUE",
       "nameplates": []
     },
@@ -42221,6 +42276,15 @@
       "nameplates": []
     },
     {
+      "id": "S9",
+      "name": "S9",
+      "cyrillic_name": "C9",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "SOLLERS",
+      "nameplates": []
+    },
+    {
       "id": "SF1",
       "name": "SF1",
       "cyrillic_name": "СФ1",
@@ -42627,6 +42691,15 @@
         "S9",
         "S9T"
       ]
+    },
+    {
+      "id": "V8",
+      "name": "V8",
+      "cyrillic_name": "в8",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "STELATO",
+      "nameplates": []
     },
     {
       "id": "1500",
@@ -43315,6 +43388,15 @@
         "Every",
         "Landy"
       ]
+    },
+    {
+      "id": "E_SKY",
+      "name": "e Sky",
+      "cyrillic_name": "е скай",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "SUZUKI",
+      "nameplates": []
     },
     {
       "id": "E_VITARA",
@@ -48227,15 +48309,24 @@
     },
     {
       "id": "ID_POLO",
-      "name": "ID.Polo",
+      "name": "ID. Polo",
       "cyrillic_name": "АйДи.Поло",
       "year_from": 2026,
       "year_to": 2026,
       "brand_id": "VOLKSWAGEN",
       "nameplates": [
-        "ID.Polo",
+        "ID. Polo",
         "GTI"
       ]
+    },
+    {
+      "id": "ID_TIGUAN",
+      "name": "ID. Tiguan",
+      "cyrillic_name": "АйДи. Тигуан",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "VOLKSWAGEN",
+      "nameplates": []
     },
     {
       "id": "ILTIS",
