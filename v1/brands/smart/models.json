@@ -36,6 +36,15 @@
     ]
   },
   {
+    "id": "NUMBER_2",
+    "name": "#2",
+    "cyrillic_name": "Номер 2",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "SMART",
+    "nameplates": []
+  },
+  {
     "id": "NUMBER_3",
     "name": "#3",
     "cyrillic_name": "Номер 3",

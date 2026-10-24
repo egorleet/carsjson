@@ -63,6 +63,15 @@
     "nameplates": []
   },
   {
+    "id": "AMG_GT_SUV",
+    "name": "AMG GT SUV",
+    "cyrillic_name": "АМГ ГТ 4 СУВ",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "MERCEDES",
+    "nameplates": []
+  },
+  {
     "id": "AMG_ONE",
     "name": "AMG ONE",
     "cyrillic_name": "АМГ УАН",

@@ -108,6 +108,15 @@
     "nameplates": []
   },
   {
+    "id": "XINGHAI_V6",
+    "name": "Xinghai V6",
+    "cyrillic_name": "Синхай в6",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "FORTHING",
+    "nameplates": []
+  },
+  {
     "id": "YACHT",
     "name": "Yacht",
     "cyrillic_name": "Яхт",

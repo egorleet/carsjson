@@ -16,5 +16,14 @@
     "year_to": 2026,
     "brand_id": "SAIC",
     "nameplates": []
+  },
+  {
+    "id": "Z9",
+    "name": "Z9",
+    "cyrillic_name": "з9",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "SAIC",
+    "nameplates": []
   }
 ]

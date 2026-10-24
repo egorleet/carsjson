@@ -3411,6 +3411,15 @@
   ],
   "models": [
     {
+      "id": "212_P01",
+      "name": "P01",
+      "cyrillic_name": "212 П01",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "212",
+      "nameplates": []
+    },
+    {
       "id": "212_T01",
       "name": "T01",
       "cyrillic_name": "212 Т01",
@@ -18762,6 +18771,15 @@
       "nameplates": []
     },
     {
+      "id": "XINGHAI_V6",
+      "name": "Xinghai V6",
+      "cyrillic_name": "Синхай в6",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "FORTHING",
+      "nameplates": []
+    },
+    {
       "id": "YACHT",
       "name": "Yacht",
       "cyrillic_name": "Яхт",
@@ -31109,6 +31127,15 @@
       "nameplates": []
     },
     {
+      "id": "AMG_GT_SUV",
+      "name": "AMG GT SUV",
+      "cyrillic_name": "АМГ ГТ 4 СУВ",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "MERCEDES",
+      "nameplates": []
+    },
+    {
       "id": "AMG_ONE",
       "name": "AMG ONE",
       "cyrillic_name": "АМГ УАН",
@@ -37558,7 +37585,7 @@
       "name": "205",
       "cyrillic_name": "205",
       "year_from": 1983,
-      "year_to": 1998,
+      "year_to": 1987,
       "brand_id": "PEUGEOT",
       "nameplates": []
     },
@@ -41039,6 +41066,15 @@
       "nameplates": []
     },
     {
+      "id": "Z9",
+      "name": "Z9",
+      "cyrillic_name": "з9",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "SAIC",
+      "nameplates": []
+    },
+    {
       "id": "QUICK",
       "name": "Quick",
       "cyrillic_name": "Квик",
@@ -42160,6 +42196,15 @@
         "#1",
         "Brabus"
       ]
+    },
+    {
+      "id": "NUMBER_2",
+      "name": "#2",
+      "cyrillic_name": "Номер 2",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "SMART",
+      "nameplates": []
     },
     {
       "id": "NUMBER_3",
