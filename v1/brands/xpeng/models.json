@@ -66,6 +66,15 @@
     "nameplates": []
   },
   {
+    "id": "MONA_L05",
+    "name": "Mona L05",
+    "cyrillic_name": "Мона Л05",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "XPENG",
+    "nameplates": []
+  },
+  {
     "id": "MONA_M03",
     "name": "Mona M03",
     "cyrillic_name": "Мона М03",

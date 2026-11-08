@@ -313,6 +313,15 @@
     ]
   },
   {
+    "id": "IDAURA_L5",
+    "name": "ID.Aura L5",
+    "cyrillic_name": "Айди Аура Л5",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "VOLKSWAGEN",
+    "nameplates": []
+  },
+  {
     "id": "IDAURA_T6",
     "name": "ID.Aura T6",
     "cyrillic_name": "АйДи Аура Т6",

@@ -288,15 +288,6 @@
     "nameplates": []
   },
   {
-    "id": "G318",
-    "name": "Deepal G318",
-    "cyrillic_name": "Дипал Джи318",
-    "year_from": 2024,
-    "year_to": 2026,
-    "brand_id": "CHANGAN",
-    "nameplates": []
-  },
-  {
     "id": "HUNTER",
     "name": "Hunter",
     "cyrillic_name": "Хантер",
@@ -328,24 +319,6 @@
     "name": "Kaicene F70",
     "cyrillic_name": "Кайсен Ф70",
     "year_from": 2019,
-    "year_to": 2026,
-    "brand_id": "CHANGAN",
-    "nameplates": []
-  },
-  {
-    "id": "L06",
-    "name": "Deepal L06",
-    "cyrillic_name": "Дипал Л06",
-    "year_from": 2025,
-    "year_to": 2026,
-    "brand_id": "CHANGAN",
-    "nameplates": []
-  },
-  {
-    "id": "L07",
-    "name": "Deepal L07",
-    "cyrillic_name": "Дипал Л07",
-    "year_from": 2024,
     "year_to": 2026,
     "brand_id": "CHANGAN",
     "nameplates": []
@@ -453,42 +426,6 @@
     "id": "RAETON_PLUS",
     "name": "Raeton Plus",
     "cyrillic_name": "Раетон Плюс",
-    "year_from": 2022,
-    "year_to": 2026,
-    "brand_id": "CHANGAN",
-    "nameplates": []
-  },
-  {
-    "id": "S05",
-    "name": "Deepal S05",
-    "cyrillic_name": "Дипал С05",
-    "year_from": 2024,
-    "year_to": 2026,
-    "brand_id": "CHANGAN",
-    "nameplates": []
-  },
-  {
-    "id": "S07",
-    "name": "Deepal S07",
-    "cyrillic_name": "Дипал С07",
-    "year_from": 2023,
-    "year_to": 2026,
-    "brand_id": "CHANGAN",
-    "nameplates": []
-  },
-  {
-    "id": "S09",
-    "name": "Deepal S09",
-    "cyrillic_name": "Дипал С09",
-    "year_from": 2024,
-    "year_to": 2026,
-    "brand_id": "CHANGAN",
-    "nameplates": []
-  },
-  {
-    "id": "SL03",
-    "name": "Deepal SL03",
-    "cyrillic_name": "Дипал СЛ03",
     "year_from": 2022,
     "year_to": 2026,
     "brand_id": "CHANGAN",

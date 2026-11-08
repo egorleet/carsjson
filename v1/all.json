@@ -3429,18 +3429,18 @@
       "nameplates": []
     },
     {
-      "id": "212_T10",
-      "name": "T10",
-      "cyrillic_name": "212 Т10",
+      "id": "EXPLORER_01",
+      "name": "Explorer 01",
+      "cyrillic_name": "Эксплорер 01",
       "year_from": 2026,
       "year_to": 2026,
       "brand_id": "212",
       "nameplates": []
     },
     {
-      "id": "EXPLORER_01",
-      "name": "Explorer 01",
-      "cyrillic_name": "Эксплорер 01",
+      "id": "MAVERO",
+      "name": "Mavero",
+      "cyrillic_name": "Маверо",
       "year_from": 2026,
       "year_to": 2026,
       "brand_id": "212",
@@ -4301,7 +4301,7 @@
       "name": "GTV",
       "cyrillic_name": "GTV",
       "year_from": 1995,
-      "year_to": 2006,
+      "year_to": 2005,
       "brand_id": "ALFA_ROMEO",
       "nameplates": []
     },
@@ -6670,6 +6670,15 @@
       "nameplates": []
     },
     {
+      "id": "XINGTAN_5X",
+      "name": "Xingtan 5X",
+      "cyrillic_name": "Ксингтан 5Икс",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "BAIC",
+      "nameplates": []
+    },
+    {
       "id": "QUTE",
       "name": "Qute",
       "cyrillic_name": "Кьют",
@@ -7920,6 +7929,7 @@
         "16d",
         "18d",
         "18i",
+        "18Li",
         "20d",
         "20i",
         "20Li",
@@ -10326,15 +10336,6 @@
       "nameplates": []
     },
     {
-      "id": "G318",
-      "name": "Deepal G318",
-      "cyrillic_name": "Дипал Джи318",
-      "year_from": 2024,
-      "year_to": 2026,
-      "brand_id": "CHANGAN",
-      "nameplates": []
-    },
-    {
       "id": "HUNTER",
       "name": "Hunter",
       "cyrillic_name": "Хантер",
@@ -10366,24 +10367,6 @@
       "name": "Kaicene F70",
       "cyrillic_name": "Кайсен Ф70",
       "year_from": 2019,
-      "year_to": 2026,
-      "brand_id": "CHANGAN",
-      "nameplates": []
-    },
-    {
-      "id": "L06",
-      "name": "Deepal L06",
-      "cyrillic_name": "Дипал Л06",
-      "year_from": 2025,
-      "year_to": 2026,
-      "brand_id": "CHANGAN",
-      "nameplates": []
-    },
-    {
-      "id": "L07",
-      "name": "Deepal L07",
-      "cyrillic_name": "Дипал Л07",
-      "year_from": 2024,
       "year_to": 2026,
       "brand_id": "CHANGAN",
       "nameplates": []
@@ -10491,42 +10474,6 @@
       "id": "RAETON_PLUS",
       "name": "Raeton Plus",
       "cyrillic_name": "Раетон Плюс",
-      "year_from": 2022,
-      "year_to": 2026,
-      "brand_id": "CHANGAN",
-      "nameplates": []
-    },
-    {
-      "id": "S05",
-      "name": "Deepal S05",
-      "cyrillic_name": "Дипал С05",
-      "year_from": 2024,
-      "year_to": 2026,
-      "brand_id": "CHANGAN",
-      "nameplates": []
-    },
-    {
-      "id": "S07",
-      "name": "Deepal S07",
-      "cyrillic_name": "Дипал С07",
-      "year_from": 2023,
-      "year_to": 2026,
-      "brand_id": "CHANGAN",
-      "nameplates": []
-    },
-    {
-      "id": "S09",
-      "name": "Deepal S09",
-      "cyrillic_name": "Дипал С09",
-      "year_from": 2024,
-      "year_to": 2026,
-      "brand_id": "CHANGAN",
-      "nameplates": []
-    },
-    {
-      "id": "SL03",
-      "name": "Deepal SL03",
-      "cyrillic_name": "Дипал СЛ03",
       "year_from": 2022,
       "year_to": 2026,
       "brand_id": "CHANGAN",
@@ -23863,6 +23810,15 @@
       "nameplates": []
     },
     {
+      "id": "V25",
+      "name": "V25",
+      "cyrillic_name": "В25",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "ICAR",
+      "nameplates": []
+    },
+    {
       "id": "V27",
       "name": "V27",
       "cyrillic_name": "В27",
@@ -29151,6 +29107,15 @@
       "nameplates": []
     },
     {
+      "id": "900L",
+      "name": "900L",
+      "cyrillic_name": "900Л",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "LYNK_CO",
+      "nameplates": []
+    },
+    {
       "id": "Z10",
       "name": "Z10",
       "cyrillic_name": "З10",
@@ -33674,6 +33639,15 @@
       "nameplates": []
     },
     {
+      "id": "ECLIPSE_SPORTBACK",
+      "name": "Eclipse Sportback",
+      "cyrillic_name": "Эклипс Спортбэк",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "MITSUBISHI",
+      "nameplates": []
+    },
+    {
       "id": "EK_ACTIVE",
       "name": "eK Active",
       "cyrillic_name": "еК Актив",
@@ -37585,7 +37559,7 @@
       "name": "205",
       "cyrillic_name": "205",
       "year_from": 1983,
-      "year_to": 1987,
+      "year_to": 1998,
       "brand_id": "PEUGEOT",
       "nameplates": []
     },
@@ -37795,7 +37769,7 @@
       "name": "405",
       "cyrillic_name": "405",
       "year_from": 1987,
-      "year_to": 2014,
+      "year_to": 2020,
       "brand_id": "PEUGEOT",
       "nameplates": []
     },
@@ -38617,6 +38591,7 @@
         "911",
         "Brabus 900 Rocket R",
         "Carrera",
+        "Carrera 2",
         "Carrera 4",
         "Carrera 4 GTS",
         "Carrera 4S",
@@ -40002,6 +39977,15 @@
         "Modus",
         "Grand"
       ]
+    },
+    {
+      "id": "NIAGARA",
+      "name": "Niagara",
+      "cyrillic_name": "Ниагара",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "RENAULT",
+      "nameplates": []
     },
     {
       "id": "QM6",
@@ -42003,7 +41987,7 @@
       "id": "KODIAQ_GT",
       "name": "Kodiaq GT",
       "cyrillic_name": "Кодиак ГТ",
-      "year_from": 2019,
+      "year_from": 2018,
       "year_to": 2026,
       "brand_id": "SKODA",
       "nameplates": []
@@ -48240,6 +48224,15 @@
       ]
     },
     {
+      "id": "IDAURA_L5",
+      "name": "ID.Aura L5",
+      "cyrillic_name": "Айди Аура Л5",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "VOLKSWAGEN",
+      "nameplates": []
+    },
+    {
       "id": "IDAURA_T6",
       "name": "ID.Aura T6",
       "cyrillic_name": "АйДи Аура Т6",
@@ -50288,6 +50281,15 @@
       "id": "MONA_L03",
       "name": "Mona L03",
       "cyrillic_name": "Мона Л03",
+      "year_from": 2026,
+      "year_to": 2026,
+      "brand_id": "XPENG",
+      "nameplates": []
+    },
+    {
+      "id": "MONA_L05",
+      "name": "Mona L05",
+      "cyrillic_name": "Мона Л05",
       "year_from": 2026,
       "year_to": 2026,
       "brand_id": "XPENG",

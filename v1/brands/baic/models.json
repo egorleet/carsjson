@@ -328,5 +328,14 @@
     "year_to": 2026,
     "brand_id": "BAIC",
     "nameplates": []
+  },
+  {
+    "id": "XINGTAN_5X",
+    "name": "Xingtan 5X",
+    "cyrillic_name": "Ксингтан 5Икс",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "BAIC",
+    "nameplates": []
   }
 ]

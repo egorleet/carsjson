@@ -241,6 +241,15 @@
     "nameplates": []
   },
   {
+    "id": "ECLIPSE_SPORTBACK",
+    "name": "Eclipse Sportback",
+    "cyrillic_name": "Эклипс Спортбэк",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "MITSUBISHI",
+    "nameplates": []
+  },
+  {
     "id": "EK_ACTIVE",
     "name": "eK Active",
     "cyrillic_name": "еК Актив",

@@ -105,6 +105,15 @@
     "nameplates": []
   },
   {
+    "id": "900L",
+    "name": "900L",
+    "cyrillic_name": "900Л",
+    "year_from": 2026,
+    "year_to": 2026,
+    "brand_id": "LYNK_CO",
+    "nameplates": []
+  },
+  {
     "id": "Z10",
     "name": "Z10",
     "cyrillic_name": "З10",
